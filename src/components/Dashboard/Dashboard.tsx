@@ -2,6 +2,7 @@ import { BitcoinChart } from '../charts/BitcoinChart';
 import { GoldChart } from '../charts/GoldChart';
 import { EtfChart } from '../charts/EtfChart';
 import { PropertyChart } from '../charts/PropertyChart';
+import { DanangChart } from '../charts/DanangChart';
 import { PriceCard } from '../common/PriceCard';
 import { Header } from '../common/Header';
 import { lineColors } from '../../utils/chartConfig';
@@ -41,6 +42,11 @@ export function Dashboard() {
         }}>
           <GoldChart />
           <PropertyChart />
+        </div>
+
+        {/* Da Nang districts - full width */}
+        <div style={{ marginBottom: 16 }}>
+          <DanangChart />
         </div>
 
         {/* ETFs - separate charts */}

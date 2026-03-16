@@ -22,8 +22,17 @@ const footerContent = (
   <>
     <strong style={{ color: '#9ca3af' }}>Phương pháp:</strong> Giá trung bình/m² căn hộ chung cư, tổng hợp từ báo cáo quý
     của Batdongsan.com.vn, Savills Vietnam, CBRE Vietnam. "Cả nước (TB)" là trung bình cộng của 5 thành phố trên biểu đồ.
-    Đà Nẵng: giá trung bình khu vực Hải Châu, Sơn Trà, Ngũ Hành Sơn — phản ánh phân khúc trung cấp đến cao cấp ven biển.
+    <br /><br />
+    <strong style={{ color: '#9ca3af' }}>Các đợt giảm giá đáng chú ý:</strong>
     <br />
+    • <strong>2018 → 2020 (Đà Nẵng, Nha Trang, Phú Quốc):</strong> Giảm 20-35%. Sau cơn sốt đất 2017-2018 (APEC Đà Nẵng, đầu cơ lướt sóng), giá bị đẩy quá cao so với giá trị thực. Chính quyền siết quản lý, COVID-19 đóng cửa du lịch, nhà đầu tư vay nợ phải bán tháo.
+    <br />
+    • <strong>2022 → 2023 (cả nước):</strong> Giảm 15-30%. Fed tăng lãi suất → NHNN tăng lãi suất cho vay lên 12-14%/năm, tín dụng BĐS bị siết chặt. Vụ Tân Hoàng Minh, Vạn Thịnh Phát gây mất niềm tin thị trường trái phiếu doanh nghiệp. Thanh khoản đóng băng.
+    <br />
+    • <strong>Phú Quốc 2022 → 2023:</strong> Giảm mạnh nhất (-45%), từ 80tr xuống 43tr/m². Bong bóng condotel vỡ, nhiều dự án bỏ hoang, pháp lý chưa rõ ràng cho sổ đỏ condotel.
+    <br />
+    • <strong>2024 → nay:</strong> Hồi phục 20-40% từ đáy, đặc biệt HCM và Hà Nội. Đà Nẵng phục hồi chậm hơn do phụ thuộc du lịch và thiếu dân cư thực.
+    <br /><br />
     <strong style={{ color: '#9ca3af' }}>Lưu ý:</strong> Dữ liệu mang tính tham khảo xu hướng dài hạn, không phải giá giao dịch thực tế tại từng thời điểm.
   </>
 );
@@ -92,7 +101,13 @@ export function PropertyChart() {
     <ChartContainer
       title="Bất Động Sản"
       subtitle="Giá trung bình / m² (VND) · Dữ liệu tĩnh"
-      source={{ label: 'Batdongsan.com.vn · Savills · CBRE', url: 'https://batdongsan.com.vn/bao-cao-thi-truong' }}
+      proofs={[
+        { step: 'Quarterly market reports', url: 'https://batdongsan.com.vn/bao-cao-thi-truong', detail: 'Primary source: Batdongsan.com.vn quarterly reports with avg price/m² per city for apartments.' },
+        { step: 'Savills Vietnam research', url: 'https://www.savills.com.vn/research-and-news/vietnam-research.aspx', detail: 'Cross-referenced with Savills quarterly market updates for HCM, Hanoi, Da Nang apartment segments.' },
+        { step: 'CBRE Vietnam reports', url: 'https://www.cbre.com.vn/en/research', detail: 'CBRE quarterly insights used for Hanoi and HCM high-end segment pricing verification.' },
+        { step: 'Phú Quốc condotel crash', url: 'https://cafef.vn/bong-bong-bat-dong-san.html', detail: 'CafeF report on Phú Quốc property bubble burst 2022-2023, condotel price collapse from 80tr to 43tr/m².' },
+        { step: 'VnExpress BĐS analysis', url: 'https://vnexpress.net/bat-dong-san', detail: 'VnExpress real estate section for current market trends, price per m² data, and recovery signals 2024-2025.' },
+      ]}
       footer={footerContent}
       timeRange={timeRange}
       onTimeRangeChange={setTimeRange}

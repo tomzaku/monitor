@@ -1,17 +1,18 @@
-import type { ReactNode } from 'react';
+import { type ReactNode, useState } from 'react';
 import type { TimeRange } from '../../types/market';
 import { TimeRangeSelector } from '../common/TimeRangeSelector';
 import { Spinner } from '../common/Spinner';
 
-export interface SourceLink {
-  label: string;
+export interface ProofStep {
+  step: string;
   url: string;
+  detail: string;
 }
 
 interface Props {
   title: string;
   subtitle?: string;
-  source?: SourceLink;
+  proofs?: ProofStep[];
   footer?: ReactNode;
   timeRange: TimeRange;
   onTimeRangeChange: (range: TimeRange) => void;
@@ -23,7 +24,7 @@ interface Props {
 export function ChartContainer({
   title,
   subtitle,
-  source,
+  proofs,
   footer,
   timeRange,
   onTimeRangeChange,
@@ -31,6 +32,8 @@ export function ChartContainer({
   error,
   children,
 }: Props) {
+  const [showProofs, setShowProofs] = useState(false);
+
   return (
     <div style={{
       background: '#1a1a2e',
@@ -49,22 +52,72 @@ export function ChartContainer({
         flexWrap: 'wrap',
         gap: 8,
       }}>
-        <div>
-          <h3 style={{ fontSize: 14, fontWeight: 600, margin: 0, color: '#e0e0e0' }}>{title}</h3>
-          {subtitle && <span style={{ fontSize: 11, color: '#6b7280' }}>{subtitle}</span>}
-          {source && (
-            <a
-              href={source.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ fontSize: 11, color: '#4fc3f7', textDecoration: 'none', display: 'inline-block', marginTop: subtitle ? 0 : 2 }}
+        <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+          <div>
+            <h3 style={{ fontSize: 14, fontWeight: 600, margin: 0, color: '#e0e0e0' }}>{title}</h3>
+            {subtitle && <span style={{ fontSize: 11, color: '#6b7280' }}>{subtitle}</span>}
+          </div>
+          {proofs && proofs.length > 0 && (
+            <button
+              onClick={() => setShowProofs((v) => !v)}
+              style={{
+                padding: '3px 10px',
+                fontSize: 11,
+                fontWeight: 600,
+                border: `1px solid ${showProofs ? '#4fc3f7' : '#2a2a4a'}`,
+                borderRadius: 4,
+                cursor: 'pointer',
+                background: showProofs ? 'rgba(79,195,247,0.12)' : 'transparent',
+                color: showProofs ? '#4fc3f7' : '#6b7280',
+                transition: 'all 0.15s',
+                whiteSpace: 'nowrap',
+              }}
             >
-              {source.label} ↗
-            </a>
+              {showProofs ? '✕ Close' : `Proof (${proofs.length})`}
+            </button>
           )}
         </div>
         <TimeRangeSelector value={timeRange} onChange={onTimeRangeChange} />
       </div>
+
+      {showProofs && proofs && (
+        <div style={{
+          padding: '12px 16px',
+          borderBottom: '1px solid #2a2a4a',
+          background: 'rgba(79,195,247,0.04)',
+          maxHeight: 300,
+          overflowY: 'auto',
+        }}>
+          <div style={{ fontSize: 11, fontWeight: 700, color: '#9ca3af', marginBottom: 8, textTransform: 'uppercase', letterSpacing: 0.5 }}>
+            Data collection steps
+          </div>
+          {proofs.map((p, i) => (
+            <div key={i} style={{
+              padding: '8px 10px',
+              marginBottom: 6,
+              background: 'rgba(255,255,255,0.03)',
+              borderRadius: 6,
+              border: '1px solid #2a2a4a',
+            }}>
+              <div style={{ fontSize: 11, fontWeight: 700, color: '#e0e0e0', marginBottom: 2 }}>
+                {i + 1}. {p.step}
+              </div>
+              <div style={{ fontSize: 11, color: '#6b7280', marginBottom: 4 }}>
+                {p.detail}
+              </div>
+              <a
+                href={p.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ fontSize: 11, color: '#4fc3f7', textDecoration: 'none', wordBreak: 'break-all' }}
+              >
+                {p.url} ↗
+              </a>
+            </div>
+          ))}
+        </div>
+      )}
+
       <div style={{ flex: 1, position: 'relative', minHeight: 300 }}>
         {isLoading && (
           <div style={{ position: 'absolute', inset: 0, zIndex: 10, background: 'rgba(15,15,26,0.7)' }}>

@@ -42,7 +42,10 @@ export function BitcoinChart() {
   return (
     <ChartContainer
       title="Bitcoin / USD"
-      source={{ label: 'Yahoo Finance', url: 'https://finance.yahoo.com/quote/BTC-USD/' }}
+      proofs={[
+        { step: 'API call', url: 'https://query2.finance.yahoo.com/v8/finance/chart/BTC-USD?range=max&interval=1wk', detail: 'Fetch OHLCV data from Yahoo Finance v8 API via Vite dev proxy. Returns daily/weekly candlestick data.' },
+        { step: 'Verify on Yahoo Finance', url: 'https://finance.yahoo.com/quote/BTC-USD/', detail: 'Cross-check prices on the official Yahoo Finance BTC-USD page.' },
+      ]}
       timeRange={timeRange}
       onTimeRangeChange={setTimeRange}
       isLoading={isLoading}
