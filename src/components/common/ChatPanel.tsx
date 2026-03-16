@@ -2,6 +2,7 @@ import { useState, useRef, useEffect, useCallback } from 'react';
 import { sendMessage, getApiKey, type ChatMessage } from '../../services/claude';
 import { ApiKeyInput } from './ApiKeyInput';
 import { createPortal } from 'react-dom';
+import Markdown from 'react-markdown';
 
 interface Props {
   /** Unique key for localStorage persistence (e.g. "gold", "btc", "danang") */
@@ -148,12 +149,17 @@ export function ChatPanel({ chatId, systemPrompt, initialQuestion }: Props) {
                 borderRadius: 12,
                 fontSize: isMax ? 14 : 12,
                 lineHeight: 1.6,
-                whiteSpace: 'pre-wrap',
                 background: m.role === 'user' ? '#1a3a5c' : '#1a1a2e',
                 color: m.role === 'user' ? '#e0e0e0' : '#c0c0c0',
                 border: `1px solid ${m.role === 'user' ? '#2a4a6c' : '#2a2a4a'}`,
               }}>
-                {m.content}
+                {m.role === 'user' ? (
+                  <span style={{ whiteSpace: 'pre-wrap' }}>{m.content}</span>
+                ) : (
+                  <div className="chat-markdown">
+                    <Markdown>{m.content}</Markdown>
+                  </div>
+                )}
               </div>
             ))}
             {loading && (
