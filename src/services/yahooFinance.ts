@@ -51,12 +51,22 @@ async function processQueue() {
   running = false;
 }
 
+function getYahooUrl(symbol: string, range: string, interval: string): string {
+  const path = `/v8/finance/chart/${encodeURIComponent(symbol)}?range=${range}&interval=${interval}`;
+  if (import.meta.env.DEV) {
+    // In dev, use Vite proxy
+    return `/api/yahoo${path}`;
+  }
+  // In production, use allorigins proxy to bypass CORS
+  return `https://api.allorigins.win/raw?url=${encodeURIComponent(`https://query2.finance.yahoo.com${path}`)}`;
+}
+
 async function rawFetchOHLC(
   symbol: string,
   range: string,
   interval: string,
 ): Promise<OHLCData[]> {
-  const url = `/api/yahoo/v8/finance/chart/${encodeURIComponent(symbol)}?range=${range}&interval=${interval}`;
+  const url = getYahooUrl(symbol, range, interval);
   const res = await fetch(url);
 
   if (res.status === 429) {
