@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.coingecko.com)",
+      "WebFetch(domain:query1.finance.yahoo.com)",
+      "WebFetch(domain:www.sjc.com.vn)",
+      "WebFetch(domain:giavang.net)",
+      "WebFetch(domain:www.npmjs.com)",
+      "WebFetch(domain:registry.npmjs.org)",
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(node:*)",
+      "Bash(npx vite:*)",
+      "Bash(curl:*)",
+      "WebSearch",
+      "WebFetch(domain:www.vnsc.vn)",
+      "WebFetch(domain:topi.vn)",
+      "WebFetch(domain:fhsc.com.vn)",
+      "WebFetch(domain:tikop.vn)",
+      "WebFetch(domain:www.finhay.com.vn)",
+      "WebFetch(domain:giavang.com.vn)",
+      "WebFetch(domain:webgia.com)",
+      "WebFetch(domain:vapi.vnappmob.com)",
+      "Bash(npx tsx:*)",
+      "WebFetch(domain:canhocaocap.danang.vn)",
+      "WebFetch(domain:diaocmientrung.vn)",
+      "WebFetch(domain:onehousing.vn)",
+      "WebFetch(domain:vietstock.vn)"
+    ]
+  }
+}

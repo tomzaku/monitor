@@ -18,20 +18,37 @@ const LINES: { key: PropertyKey; label: string; color: string; width: LineWidth 
 
 const ALL_KEYS = new Set(LINES.map((l) => l.key));
 
+const ref = (text: string, url: string) => (
+  <a href={url} target="_blank" rel="noopener noreferrer" style={{ color: '#4fc3f7', textDecoration: 'none' }}>[{text}]</a>
+);
+
 const footerContent = (
   <>
     <strong style={{ color: '#9ca3af' }}>Phương pháp:</strong> Giá trung bình/m² căn hộ chung cư, tổng hợp từ báo cáo quý
     của Batdongsan.com.vn, Savills Vietnam, CBRE Vietnam. "Cả nước (TB)" là trung bình cộng của 5 thành phố trên biểu đồ.
     <br /><br />
     <strong style={{ color: '#9ca3af' }}>Các đợt giảm giá đáng chú ý:</strong>
-    <br />
-    • <strong>2018 → 2020 (Đà Nẵng, Nha Trang, Phú Quốc):</strong> Giảm 20-35%. Sau cơn sốt đất 2017-2018 (APEC Đà Nẵng, đầu cơ lướt sóng), giá bị đẩy quá cao so với giá trị thực. Chính quyền siết quản lý, COVID-19 đóng cửa du lịch, nhà đầu tư vay nợ phải bán tháo.
-    <br />
-    • <strong>2022 → 2023 (cả nước):</strong> Giảm 15-30%. Fed tăng lãi suất → NHNN tăng lãi suất cho vay lên 12-14%/năm, tín dụng BĐS bị siết chặt. Vụ Tân Hoàng Minh, Vạn Thịnh Phát gây mất niềm tin thị trường trái phiếu doanh nghiệp. Thanh khoản đóng băng.
-    <br />
-    • <strong>Phú Quốc 2022 → 2023:</strong> Giảm mạnh nhất (-45%), từ 80tr xuống 43tr/m². Bong bóng condotel vỡ, nhiều dự án bỏ hoang, pháp lý chưa rõ ràng cho sổ đỏ condotel.
-    <br />
-    • <strong>2024 → nay:</strong> Hồi phục 20-40% từ đáy, đặc biệt HCM và Hà Nội. Đà Nẵng phục hồi chậm hơn do phụ thuộc du lịch và thiếu dân cư thực.
+    <br /><br />
+    • <strong>2018 → 2020 (Đà Nẵng, Nha Trang, Phú Quốc): -20% đến -35%.</strong>{' '}
+    Cơn sốt đất 2017-2018 bắt nguồn từ APEC Đà Nẵng (11/2017) và cầu Rồng/Trần Thị Lý hoàn thành, đẩy giá đất Sơn Trà lên gấp 3 lần trong 2 năm.
+    Giá bị đẩy vượt xa giá trị thực bởi đầu cơ lướt sóng, nhiều khu vực mật độ dân cư còn thưa thớt {ref('Nguoi Quan Sat', 'https://nguoiquansat.vn/con-sot-bat-dong-san-da-nang-loi-nhuan-cao-hay-bong-bong-ao-208901.html')}.
+    Năm 2019 chính quyền siết quản lý phân lô bán nền, thị trường "hạ nhiệt" ngay lập tức.
+    COVID-19 (2020) đóng cửa du lịch — ngành xương sống của Đà Nẵng/Nha Trang/Phú Quốc — khiến giá giảm thêm 15-20% {ref('Tuổi Trẻ', 'https://tuoitre.vn/dat-da-nang-rot-gia-the-tham-nhieu-nguoi-vo-no-20200914075900388.htm')}.
+    <br /><br />
+    • <strong>2022 → 2023 (cả nước): -15% đến -30%.</strong>{' '}
+    Fed tăng lãi suất 7 lần trong 2022 (0% → 4.25%). NHNN buộc phải tăng lãi suất cho vay BĐS lên 12-14%/năm.
+    Cùng lúc: vụ án Tân Hoàng Minh (bắt T4/2022, trái phiếu 10,000 tỷ), Vạn Thịnh Phát/SCB (T10/2022) gây sụp đổ niềm tin thị trường trái phiếu doanh nghiệp — kênh huy động vốn chính của BĐS {ref('Intracom', 'https://intracom.com.vn/bds-dong-bang/')}.
+    Thanh khoản đóng băng: Đà Nẵng ghi nhận "nhiều người bán, ít người mua, giao dịch chuyển nhượng gần như chững lại" {ref('Dân Trí', 'https://dantri.com.vn/bat-dong-san/qua-thoi-sot-nong-bat-dong-san-da-nang-giam-25-30-van-e-am-20230222150718951.htm')}.
+    Nhà đầu tư dùng đòn bẩy cao buộc phải bán tháo cắt lỗ để trả lãi ngân hàng {ref('Kinh tế Đô thị', 'https://kinhtedothi.vn/dat-nen-tai-da-nang-giam-gia-sau-van-hiem-giao-dich.html')}.
+    <br /><br />
+    • <strong>Phú Quốc 2022 → 2023: -45%</strong> (80tr → 43tr/m²).{' '}
+    Bong bóng condotel vỡ: nhiều dự án bỏ hoang, pháp lý sổ đỏ condotel chưa rõ ràng, cam kết lợi nhuận 8-12%/năm không thực hiện được.
+    Khách mua condotel qua Zoom thời COVID nay bán lỗ cả tỷ vẫn ế {ref('CafeF', 'https://cafef.vn/bong-bong-bat-dong-san.html')}.
+    <br /><br />
+    • <strong>2024 → nay: Hồi phục 20-40% từ đáy.</strong>{' '}
+    HCM và Hà Nội phục hồi nhanh nhờ nhu cầu ở thực, tín dụng nới lỏng (lãi suất giảm về 8-9%/năm).
+    Đà Nẵng phục hồi chậm hơn do phụ thuộc du lịch và thiếu dân cư thực — nhưng Hòa Xuân đã tăng 20-30% YoY (2025) {ref('Dân Trí', 'https://dantri.com.vn/bat-dong-san/sau-thoi-gian-im-lim-gia-dat-nen-da-nang-tang-tro-lai-20250812001516641.htm')}.
+    Sơn Trà +41%, Ngũ Hành Sơn +33% từ đáy 2023 {ref('Tạp chí Đô thị', 'https://tapchidothi.com/gia-bat-dong-san-da-nang-t5-2025-bao-cao-phan-tich-moi-nhat/')}.
     <br /><br />
     <strong style={{ color: '#9ca3af' }}>Lưu ý:</strong> Dữ liệu mang tính tham khảo xu hướng dài hạn, không phải giá giao dịch thực tế tại từng thời điểm.
   </>

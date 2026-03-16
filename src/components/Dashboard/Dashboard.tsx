@@ -3,6 +3,7 @@ import { GoldChart } from '../charts/GoldChart';
 import { EtfChart } from '../charts/EtfChart';
 import { PropertyChart } from '../charts/PropertyChart';
 import { DanangChart } from '../charts/DanangChart';
+import { HueChart } from '../charts/HueChart';
 import { PriceCard } from '../common/PriceCard';
 import { Header } from '../common/Header';
 import { lineColors } from '../../utils/chartConfig';
@@ -44,9 +45,15 @@ export function Dashboard() {
           <PropertyChart />
         </div>
 
-        {/* Da Nang districts - full width */}
-        <div style={{ marginBottom: 16 }}>
+        {/* Da Nang & Hue districts */}
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 500px), 1fr))',
+          gap: 16,
+          marginBottom: 16,
+        }}>
           <DanangChart />
+          <HueChart />
         </div>
 
         {/* ETFs - separate charts */}

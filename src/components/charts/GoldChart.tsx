@@ -6,19 +6,40 @@ import { useLightweightChart } from '../../hooks/useLightweightChart';
 import { lineColors, defaultLineStyle } from '../../utils/chartConfig';
 import { ChartContainer } from './ChartContainer';
 
+const ref = (text: string, url: string) => (
+  <a href={url} target="_blank" rel="noopener noreferrer" style={{ color: '#4fc3f7', textDecoration: 'none' }}>[{text}]</a>
+);
+
 const goldFooter = (
   <>
     <strong style={{ color: '#9ca3af' }}>Các đợt giảm giá đáng chú ý:</strong>
-    <br />
-    • <strong>T8/2020 → T12/2020:</strong> SJC giảm từ 60.3tr xuống 55.5tr/lượng (-8%). Sau khi đạt đỉnh kỷ lục do COVID-19, chốt lời ồ ạt khi vaccine được công bố, USD mạnh lên.
-    <br />
-    • <strong>T4/2022 → T10/2022:</strong> SJC giảm từ 74.4tr xuống 66tr/lượng (-11%). Fed tăng lãi suất mạnh nhất 40 năm (từ 0% lên 4%), USD index tăng vọt, vàng mất sức hấp dẫn.
-    <br />
-    • <strong>T5/2024 → T7/2024:</strong> SJC giảm từ 92tr xuống 77tr/lượng (-16%). NHNN bình ổn giá, bán vàng trực tiếp qua 4 ngân hàng quốc doanh, nguồn cung tăng đột biến.
-    <br />
-    • <strong>T10/2025 → T12/2025:</strong> SJC giảm từ 155tr xuống 152tr/lượng. Kỳ vọng thay đổi chính sách tiền tệ tại Mỹ, chốt lời cuối năm.
-    <br />
-    • <strong>T1/2026:</strong> Giảm mạnh 12.5% trong 2 phiên cuối tháng 1 (từ 190tr xuống 169tr) — mức giảm chưa từng có. Nguyên nhân: thay đổi chính sách thuế vàng, kỳ vọng Fed giữ lãi suất cao.
+    <br /><br />
+    • <strong>T8/2020 → T12/2020: -8%</strong> (60.3tr → 55.5tr/lượng).
+    Ngày 7-8/8/2020, SJC đạt đỉnh lịch sử 62.4tr do COVID-19 gây hoảng loạn, các NHTW bơm tiền, lãi suất gần 0%.
+    Sau đó giảm mạnh vì: (1) Pfizer/BioNTech công bố vaccine hiệu quả 90% vào 9/11/2020, giảm nhu cầu trú ẩn {ref('VOV', 'https://vov.vn/kinh-te/thi-truong/gia-vang-the-gioi-giam-nhe-khi-co-nhung-thong-tin-tich-cuc-ve-vaccine-covid-19-822438.vov')};
+    (2) Chốt lời ồ ạt, nhà đầu tư chuyển sang chứng khoán {ref('VietnamBiz', 'https://vietnambiz.vn/nhin-lai-nam-2020-cua-gia-vang-nam-thang-hoa-nhat-lich-su-20201231113248773.htm')};
+    (3) USD index tăng từ 92 lên 96, vàng thế giới giảm từ $2,075 xuống $1,680/oz {ref('Tierra', 'https://www.tierra.vn/tin-tuc/gia-vang-nam-2020')}.
+    <br /><br />
+    • <strong>T4/2022 → T10/2022: -11%</strong> (74.4tr → 66tr/lượng).
+    Fed tăng lãi suất 7 lần liên tiếp trong năm 2022, từ 0% lên 4.25% — mức tăng nhanh nhất 40 năm.
+    Lợi suất trái phiếu Mỹ 10Y tăng từ 1.5% lên 4.2%, USD index tăng từ 95 lên 114 — kỷ lục 20 năm.
+    Vàng mất sức hấp dẫn vì không trả lãi, chi phí cơ hội tăng cao {ref('VietnamPlus', 'https://www.vietnamplus.vn/gia-vang-the-gioi-giam-sau-quyet-dinh-tang-lai-suat-cua-fed-post788314.vnp')}.
+    Trong nước: xung đột Nga-Ukraine đẩy SJC lên 74.4tr vào T3, nhưng Fed siết tiền tệ kéo giá xuống {ref('Finhay', 'https://www.finhay.com.vn/en/gia-vang-qua-cac-nam')}.
+    <br /><br />
+    • <strong>T5/2024 → T7/2024: -16%</strong> (92tr → 77tr/lượng).
+    SJC chênh lệch với giá thế giới lên tới 18tr/lượng — mức bất thường.
+    NHNN can thiệp mạnh: dừng đấu thầu, chuyển sang bán trực tiếp qua 4 NHTM nhà nước (Vietcombank, BIDV, Agribank, VietinBank) và SJC từ 3/6/2024 với giá gần 79tr {ref('VietnamNet', 'https://vietnamnet.vn/4-ngan-hang-va-sjc-ban-vang-mieng-tu-3-6-gia-vang-mua-tu-nhnn-gan-79-trieu-2287013.html')}.
+    Chênh lệch thu hẹp từ 18tr xuống còn 6tr/lượng {ref('DIV', 'https://www.div.gov.vn/chenh-lech-gia-ban-vang-mieng-sjc-trong-nuoc-va-quoc-te-duoc-thu-hep')}.
+    Kết quả: SJC giảm từ 92tr xuống 77tr chỉ trong 2 tháng {ref('VTC News', 'https://vtcnews.vn/gia-vang-nam-2024-da-dien-bien-the-nao-ar916858.html')}.
+    <br /><br />
+    • <strong>T10/2025 → T12/2025:</strong> SJC dao động 152-155tr. Chốt lời cuối năm, kỳ vọng Fed giữ lãi suất cao hơn lâu hơn.
+    <br /><br />
+    • <strong>T1/2026: -12.5% trong 2 phiên</strong> (190tr → 169tr) — mức giảm chưa từng có.
+    Ngày 29-30/1, vàng thế giới giảm tổng cộng 700 USD/oz (-12.5%) xuống $4,891.
+    Nguyên nhân: (1) Trump đề cử Kevin Warsh làm Chủ tịch Fed mới, giảm lo ngại về độc lập NHTW → USD tăng vọt {ref('Thanh Niên', 'https://thanhnien.vn/gia-vang-hom-nay-122026-cu-nhao-lon-khien-nha-dau-tu-lo-23-trieu-dong-185260201072834614.htm')};
+    (2) Thanh lý vị thế mua (long liquidation) ồ ạt trên sàn COMEX {ref('VietnamNet', 'https://vietnamnet.vn/vang-giam-sau-chua-tung-co-trong-lich-su-tin-hieu-cho-su-thay-doi-lon-2486772.html')};
+    (3) Chuyên gia nhận định: vàng đã chuyển từ tài sản phòng thủ sang tài sản đầu cơ {ref('TNCKVN', 'https://www.tinnhanhchungkhoan.vn/con-dia-chan-vang-nam-2026-vang-da-chuyen-tu-tai-san-phong-thu-sang-tai-san-dau-co-post384869.html')}.
+    Trong nước: SJC sáng 31/1 giảm còn 169tr mua / 172tr bán, mất gần 20tr từ đỉnh 29/1 {ref('CafeF', 'https://cafef.vn/gia-vang-giam-manh-dau-nam-moi-binh-ngo-2026-188260218083747856.chn')}.
   </>
 );
 
