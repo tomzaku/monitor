@@ -4,8 +4,9 @@ import type { TimeRange } from '../../types/market';
 import { usePropertyPrice } from '../../hooks/usePropertyPrice';
 import { useLightweightChart } from '../../hooks/useLightweightChart';
 import { lineColors, defaultLineStyle } from '../../utils/chartConfig';
-import { ChartContainer } from './ChartContainer';
+import { ChartContainer, type RelatedEvent } from './ChartContainer';
 import type { PropertyKey } from '../../services/propertyData';
+import propertyEvents from '../../data/events/property.json';
 
 const LINES: { key: PropertyKey; label: string; color: string; width: LineWidth }[] = [
   { key: 'canuoc', label: 'Cả nước (TB)', color: '#ffffff', width: 3 },
@@ -126,6 +127,7 @@ export function PropertyChart() {
         { step: 'VnExpress BĐS analysis', url: 'https://vnexpress.net/bat-dong-san', detail: 'VnExpress real estate section for current market trends, price per m² data, and recovery signals 2024-2025.' },
       ]}
       footer={footerContent}
+      relatedEvents={propertyEvents as RelatedEvent[]}
       chatId="property"
       aiContext={`Giá BĐS trung bình/m² căn hộ (triệu VND):
 HCM: 2016: 28tr → 2022 đỉnh: 68tr → 2023: 58tr (giảm 15%) → 2026: 85tr

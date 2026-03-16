@@ -4,8 +4,9 @@ import type { TimeRange } from '../../types/market';
 import { useHuePrice } from '../../hooks/useHuePrice';
 import { useLightweightChart } from '../../hooks/useLightweightChart';
 import { lineColors, defaultLineStyle } from '../../utils/chartConfig';
-import { ChartContainer } from './ChartContainer';
+import { ChartContainer, type RelatedEvent } from './ChartContainer';
 import type { HueDistrictKey } from '../../services/hueData';
+import hueEvents from '../../data/events/hue.json';
 
 const ref = (text: string, url: string) => (
   <a href={url} target="_blank" rel="noopener noreferrer" style={{ color: '#4fc3f7', textDecoration: 'none' }}>[{text}]</a>
@@ -113,6 +114,7 @@ export function HueChart() {
         { step: 'Triển vọng hạ tầng', url: 'https://kinhtedothi.vn/bat-dong-san-hue-truoc-chu-ky-tang-truong-nho-ha-tang-va-kinh-te-dich-vu.801799.html', detail: 'Kinh tế Đô thị: AEON Mall, FDI mới, lên TPTTTW sẽ thúc đẩy nhu cầu thực.' },
       ]}
       footer={footerContent}
+      relatedEvents={hueEvents as RelatedEvent[]}
       chatId="hue"
       aiContext={`Giá đất Huế theo khu vực (triệu VND/m²):
 Trung tâm (Phú Xuân): 2016: 15tr → 2023 đỉnh: 104tr (tin Huế lên TPTTTW) → crash -76% về 24.5tr (T3/2025) → phục hồi 30tr (2026)

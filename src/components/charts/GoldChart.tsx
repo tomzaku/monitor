@@ -4,7 +4,8 @@ import type { TimeRange } from '../../types/market';
 import { useGoldPrice } from '../../hooks/useGoldPrice';
 import { useLightweightChart } from '../../hooks/useLightweightChart';
 import { lineColors, defaultLineStyle } from '../../utils/chartConfig';
-import { ChartContainer } from './ChartContainer';
+import { ChartContainer, type RelatedEvent } from './ChartContainer';
+import goldEvents from '../../data/events/gold.json';
 
 const ref = (text: string, url: string) => (
   <a href={url} target="_blank" rel="noopener noreferrer" style={{ color: '#4fc3f7', textDecoration: 'none' }}>[{text}]</a>
@@ -100,6 +101,7 @@ export function GoldChart() {
         { step: 'Verify 2025 peak', url: 'https://vietnamnet.vn/vang-giam-sau-chua-tung-co-trong-lich-su-tin-hieu-cho-su-thay-doi-lon-2486772.html', detail: 'Confirmed T10/2025 peak at 155tr and Jan 2026 crash of -12.5% in 2 sessions from VietnamNet.' },
       ]}
       footer={goldFooter}
+      relatedEvents={goldEvents as RelatedEvent[]}
       chatId="gold"
       aiContext={`Lịch sử giá vàng SJC (triệu VND/lượng):
 - 2016-2018: đi ngang 35-37tr

@@ -4,8 +4,9 @@ import type { TimeRange } from '../../types/market';
 import { useDanangPrice } from '../../hooks/useDanangPrice';
 import { useLightweightChart } from '../../hooks/useLightweightChart';
 import { lineColors, defaultLineStyle } from '../../utils/chartConfig';
-import { ChartContainer } from './ChartContainer';
+import { ChartContainer, type RelatedEvent } from './ChartContainer';
 import type { DistrictKey } from '../../services/danangData';
+import danangEvents from '../../data/events/danang.json';
 
 const DISTRICTS: { key: DistrictKey; label: string; color: string; width: LineWidth }[] = [
   { key: 'haichau', label: 'Hải Châu', color: lineColors.red, width: 2 },
@@ -103,6 +104,7 @@ export function DanangChart() {
         { step: 'Market trend report T5/2025', url: 'https://tapchidothi.com/gia-bat-dong-san-da-nang-t5-2025-bao-cao-phan-tich-moi-nhat/', detail: 'Tạp chí Đô thị May 2025 report: Ngũ Hành Sơn +33%, Sơn Trà +41% price increase from trough.' },
       ]}
       footer={footerContent}
+      relatedEvents={danangEvents as RelatedEvent[]}
       chatId="danang"
       aiContext={`Giá đất nền Đà Nẵng theo khu vực (triệu VND/m²):
 Hải Châu (trung tâm): 2016: 25tr → 2018: 50tr → 2020: 38tr → 2022: 55tr → 2023: 45tr → 2026: 70tr
