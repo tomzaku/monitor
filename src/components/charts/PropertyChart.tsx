@@ -126,6 +126,16 @@ export function PropertyChart() {
         { step: 'VnExpress BĐS analysis', url: 'https://vnexpress.net/bat-dong-san', detail: 'VnExpress real estate section for current market trends, price per m² data, and recovery signals 2024-2025.' },
       ]}
       footer={footerContent}
+      aiContext={`Giá BĐS trung bình/m² căn hộ (triệu VND):
+HCM: 2016: 28tr → 2022 đỉnh: 68tr → 2023: 58tr (giảm 15%) → 2026: 85tr
+Hà Nội: 2016: 25tr → 2022 đỉnh: 55tr → 2023: 47tr → 2026: 80tr (tăng mạnh nhất)
+Đà Nẵng: 2016: 15tr → 2018 đỉnh: 27tr → 2020: 20tr → 2022 đỉnh 2: 35tr → 2023: 27tr → 2026: 42tr
+Nha Trang: tương tự Đà Nẵng, phụ thuộc du lịch
+Phú Quốc: bong bóng 2022 (80tr) → vỡ 2023 (43tr, -45%) → phục hồi chậm 62tr
+Cả nước TB: ~54tr/m²
+Lãi suất cho vay BĐS hiện 8-9%/năm (giảm từ 12-14% năm 2022).
+Xu hướng: HCM & Hà Nội phục hồi mạnh, Đà Nẵng/Nha Trang chậm hơn.`}
+      aiQuestion="Nên mua BĐS ở thành phố nào bây giờ? So sánh HCM, Hà Nội, Đà Nẵng về tiềm năng tăng giá và rủi ro."
       timeRange={timeRange}
       onTimeRangeChange={setTimeRange}
     >

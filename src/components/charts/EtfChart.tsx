@@ -49,6 +49,14 @@ export function EtfChart({ ticker, title, color }: Props) {
         { step: 'API call', url: `https://query2.finance.yahoo.com/v8/finance/chart/${ticker}?range=max&interval=1wk`, detail: `Fetch line data for ${ticker} from Yahoo Finance v8 API. ETF listed on HOSE since July 2023.` },
         { step: 'Verify on Yahoo Finance', url: `https://finance.yahoo.com/quote/${ticker}/`, detail: `Cross-check prices on the official Yahoo Finance ${ticker} page.` },
       ]}
+      aiContext={`ETF ${title} (${ticker}) trên sàn HOSE:
+- Niêm yết từ tháng 7/2023
+- Theo dõi chỉ số VN30/VNFIN LEAD/VN Diamond tùy loại
+- Dữ liệu realtime từ Yahoo Finance
+- ETF là cách đầu tư chứng khoán đa dạng hóa, rủi ro thấp hơn cổ phiếu đơn lẻ
+- Phí quản lý thấp (~0.5-1%/năm)
+- VN-Index hiện dao động quanh 1,200-1,300 điểm`}
+      aiQuestion={`ETF ${title} có đáng đầu tư dài hạn không? So sánh với gửi tiết kiệm và vàng.`}
       timeRange={timeRange}
       onTimeRangeChange={setTimeRange}
       isLoading={isLoading}

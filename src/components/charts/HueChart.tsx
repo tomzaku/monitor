@@ -113,6 +113,15 @@ export function HueChart() {
         { step: 'Triển vọng hạ tầng', url: 'https://kinhtedothi.vn/bat-dong-san-hue-truoc-chu-ky-tang-truong-nho-ha-tang-va-kinh-te-dich-vu.801799.html', detail: 'Kinh tế Đô thị: AEON Mall, FDI mới, lên TPTTTW sẽ thúc đẩy nhu cầu thực.' },
       ]}
       footer={footerContent}
+      aiContext={`Giá đất Huế theo khu vực (triệu VND/m²):
+Trung tâm (Phú Xuân): 2016: 15tr → 2023 đỉnh: 104tr (tin Huế lên TPTTTW) → crash -76% về 24.5tr (T3/2025) → phục hồi 30tr (2026)
+An Cựu: khu đô thị mới, ổn định hơn, 35-58tr. Dự án An Cựu City đạt giải quốc gia.
+Kim Long: rẻ nhất (~11-13tr), yên tĩnh, ít đầu cơ
+Thủy Xuân: gần lăng tẩm, 20-24tr, tiềm năng du lịch
+Phú Vang: ven biển, sốt đất 2021-2022, giảm -40% (mạnh nhất tỉnh). Hạ tầng chưa theo kịp.
+T1/2025: Huế chính thức lên TPTTTW. AEON Mall sắp xây. Thị trường vẫn ảm đạm nhưng bắt đầu có tín hiệu phục hồi.
+Giá Huế thấp hơn Đà Nẵng nhiều lần — đây là điểm thu hút nhưng cũng là rủi ro (thanh khoản thấp).`}
+      aiQuestion="Huế vừa lên thành phố trực thuộc TW, giá đất đã giảm mạnh từ đỉnh. Có nên mua đất Huế bây giờ không? Khu vực nào tốt nhất?"
       timeRange={timeRange}
       onTimeRangeChange={setTimeRange}
     >

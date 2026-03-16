@@ -100,6 +100,19 @@ export function GoldChart() {
         { step: 'Verify 2025 peak', url: 'https://vietnamnet.vn/vang-giam-sau-chua-tung-co-trong-lich-su-tin-hieu-cho-su-thay-doi-lon-2486772.html', detail: 'Confirmed T10/2025 peak at 155tr and Jan 2026 crash of -12.5% in 2 sessions from VietnamNet.' },
       ]}
       footer={goldFooter}
+      aiContext={`Lịch sử giá vàng SJC (triệu VND/lượng):
+- 2016-2018: đi ngang 35-37tr
+- 2019: tăng 16%, cuối năm 42.75tr
+- 2020: đỉnh COVID 60.3tr (T8), cuối năm 55.5tr
+- 2021: 56tr → 61tr
+- 2022: đỉnh 74.4tr (T4, do Nga-Ukraine), giảm về 66tr (Fed tăng lãi suất)
+- 2023: tăng lên 80.3tr cuối năm
+- 2024: đỉnh 92tr (T5), NHNN bình ổn → giảm về 77tr, phục hồi 86tr cuối năm
+- 2025: bùng nổ 124tr (T4) → 155tr (T10) → giảm 152tr cuối năm
+- T1/2026: crash -12.5% (190tr → 169tr), T3/2026 hiện tại: ~180tr
+Vàng 9999 (nhẫn) theo sát SJC, hiện ~180tr.
+Lãi suất tiết kiệm VN hiện ~5-6%/năm.`}
+      aiQuestion="Giá vàng SJC hiện tại ~180 triệu, có nên mua vàng bây giờ hay chờ? So sánh với gửi tiết kiệm và BĐS."
       timeRange={timeRange}
       onTimeRangeChange={setTimeRange}
     >
