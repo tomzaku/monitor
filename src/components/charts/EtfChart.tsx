@@ -49,6 +49,7 @@ export function EtfChart({ ticker, title, color }: Props) {
         { step: 'API call', url: `https://query2.finance.yahoo.com/v8/finance/chart/${ticker}?range=max&interval=1wk`, detail: `Fetch line data for ${ticker} from Yahoo Finance v8 API. ETF listed on HOSE since July 2023.` },
         { step: 'Verify on Yahoo Finance', url: `https://finance.yahoo.com/quote/${ticker}/`, detail: `Cross-check prices on the official Yahoo Finance ${ticker} page.` },
       ]}
+      chatId={`etf-${ticker}`}
       aiContext={`ETF ${title} (${ticker}) trên sàn HOSE:
 - Niêm yết từ tháng 7/2023
 - Theo dõi chỉ số VN30/VNFIN LEAD/VN Diamond tùy loại

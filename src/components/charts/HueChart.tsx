@@ -113,6 +113,7 @@ export function HueChart() {
         { step: 'Triển vọng hạ tầng', url: 'https://kinhtedothi.vn/bat-dong-san-hue-truoc-chu-ky-tang-truong-nho-ha-tang-va-kinh-te-dich-vu.801799.html', detail: 'Kinh tế Đô thị: AEON Mall, FDI mới, lên TPTTTW sẽ thúc đẩy nhu cầu thực.' },
       ]}
       footer={footerContent}
+      chatId="hue"
       aiContext={`Giá đất Huế theo khu vực (triệu VND/m²):
 Trung tâm (Phú Xuân): 2016: 15tr → 2023 đỉnh: 104tr (tin Huế lên TPTTTW) → crash -76% về 24.5tr (T3/2025) → phục hồi 30tr (2026)
 An Cựu: khu đô thị mới, ổn định hơn, 35-58tr. Dự án An Cựu City đạt giải quốc gia.

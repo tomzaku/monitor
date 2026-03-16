@@ -126,6 +126,7 @@ export function PropertyChart() {
         { step: 'VnExpress BĐS analysis', url: 'https://vnexpress.net/bat-dong-san', detail: 'VnExpress real estate section for current market trends, price per m² data, and recovery signals 2024-2025.' },
       ]}
       footer={footerContent}
+      chatId="property"
       aiContext={`Giá BĐS trung bình/m² căn hộ (triệu VND):
 HCM: 2016: 28tr → 2022 đỉnh: 68tr → 2023: 58tr (giảm 15%) → 2026: 85tr
 Hà Nội: 2016: 25tr → 2022 đỉnh: 55tr → 2023: 47tr → 2026: 80tr (tăng mạnh nhất)

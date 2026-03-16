@@ -100,6 +100,7 @@ export function GoldChart() {
         { step: 'Verify 2025 peak', url: 'https://vietnamnet.vn/vang-giam-sau-chua-tung-co-trong-lich-su-tin-hieu-cho-su-thay-doi-lon-2486772.html', detail: 'Confirmed T10/2025 peak at 155tr and Jan 2026 crash of -12.5% in 2 sessions from VietnamNet.' },
       ]}
       footer={goldFooter}
+      chatId="gold"
       aiContext={`Lịch sử giá vàng SJC (triệu VND/lượng):
 - 2016-2018: đi ngang 35-37tr
 - 2019: tăng 16%, cuối năm 42.75tr

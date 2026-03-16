@@ -15,6 +15,8 @@ interface Props {
   subtitle?: string;
   proofs?: ProofStep[];
   footer?: ReactNode;
+  /** Unique ID for persisting chat history */
+  chatId?: string;
   /** System prompt context for AI adviser */
   aiContext?: string;
   /** Default question for AI adviser */
@@ -31,6 +33,7 @@ export function ChartContainer({
   subtitle,
   proofs,
   footer,
+  chatId,
   aiContext,
   aiQuestion,
   timeRange,
@@ -140,7 +143,7 @@ ${aiContext}`
       )}
 
       {showChat && aiContext && (
-        <ChatPanel systemPrompt={systemPrompt} initialQuestion={aiQuestion} />
+        <ChatPanel chatId={chatId || title} systemPrompt={systemPrompt} initialQuestion={aiQuestion} />
       )}
 
       <div style={{ flex: 1, position: 'relative', minHeight: 300 }}>

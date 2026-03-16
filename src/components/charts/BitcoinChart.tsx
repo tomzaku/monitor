@@ -46,6 +46,7 @@ export function BitcoinChart() {
         { step: 'API call', url: 'https://query2.finance.yahoo.com/v8/finance/chart/BTC-USD?range=max&interval=1wk', detail: 'Fetch OHLCV data from Yahoo Finance v8 API via Vite dev proxy. Returns daily/weekly candlestick data.' },
         { step: 'Verify on Yahoo Finance', url: 'https://finance.yahoo.com/quote/BTC-USD/', detail: 'Cross-check prices on the official Yahoo Finance BTC-USD page.' },
       ]}
+      chatId="bitcoin"
       aiContext={`Lịch sử giá Bitcoin (USD):
 - 2016: ~$400-900
 - 2017: bull run lên $19,000 (T12)
