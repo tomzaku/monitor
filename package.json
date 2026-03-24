@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "crawl:gold": "tsx scripts/crawl-gold.ts",
+    "crawl:chotot": "tsx scripts/crawl-chotot.ts",
     "dev": "tsx scripts/crawl-gold.ts && vite",
     "build": "tsx scripts/crawl-gold.ts && tsc -b && vite build",
     "lint": "eslint .",

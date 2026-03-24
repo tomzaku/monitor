@@ -3,6 +3,7 @@ import { GoldChart } from '../charts/GoldChart';
 import { EtfChart } from '../charts/EtfChart';
 import { PropertyChart } from '../charts/PropertyChart';
 import { DanangChart } from '../charts/DanangChart';
+import { DanangListings } from '../charts/DanangListings';
 import { HueChart } from '../charts/HueChart';
 import { PriceCard } from '../common/PriceCard';
 import { Header } from '../common/Header';
@@ -54,6 +55,11 @@ export function Dashboard() {
         }}>
           <DanangChart />
           <HueChart />
+        </div>
+
+        {/* Da Nang listings from Cho Tot */}
+        <div style={{ marginBottom: 16 }}>
+          <DanangListings />
         </div>
 
         {/* ETFs - separate charts */}

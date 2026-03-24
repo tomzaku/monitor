@@ -1,217 +1,832 @@
 {
   "hcm": [
-    {"date": "2016-01-01", "pricePerSqm": 28000000},
-    {"date": "2016-04-01", "pricePerSqm": 29000000},
-    {"date": "2016-07-01", "pricePerSqm": 30000000},
-    {"date": "2016-10-01", "pricePerSqm": 31000000},
-    {"date": "2017-01-01", "pricePerSqm": 32000000},
-    {"date": "2017-04-01", "pricePerSqm": 34000000},
-    {"date": "2017-07-01", "pricePerSqm": 36000000},
-    {"date": "2017-10-01", "pricePerSqm": 38000000},
-    {"date": "2018-01-01", "pricePerSqm": 40000000},
-    {"date": "2018-04-01", "pricePerSqm": 42000000},
-    {"date": "2018-07-01", "pricePerSqm": 44000000},
-    {"date": "2018-10-01", "pricePerSqm": 43000000},
-    {"date": "2019-01-01", "pricePerSqm": 44000000},
-    {"date": "2019-04-01", "pricePerSqm": 46000000},
-    {"date": "2019-07-01", "pricePerSqm": 48000000},
-    {"date": "2019-10-01", "pricePerSqm": 50000000},
-    {"date": "2020-01-01", "pricePerSqm": 50000000},
-    {"date": "2020-04-01", "pricePerSqm": 48000000},
-    {"date": "2020-07-01", "pricePerSqm": 49000000},
-    {"date": "2020-10-01", "pricePerSqm": 51000000},
-    {"date": "2021-01-01", "pricePerSqm": 53000000},
-    {"date": "2021-04-01", "pricePerSqm": 55000000},
-    {"date": "2021-07-01", "pricePerSqm": 54000000},
-    {"date": "2021-10-01", "pricePerSqm": 56000000},
-    {"date": "2022-01-01", "pricePerSqm": 60000000},
-    {"date": "2022-04-01", "pricePerSqm": 65000000},
-    {"date": "2022-07-01", "pricePerSqm": 68000000},
-    {"date": "2022-10-01", "pricePerSqm": 65000000},
-    {"date": "2023-01-01", "pricePerSqm": 62000000},
-    {"date": "2023-04-01", "pricePerSqm": 60000000},
-    {"date": "2023-07-01", "pricePerSqm": 58000000},
-    {"date": "2023-10-01", "pricePerSqm": 59000000},
-    {"date": "2024-01-01", "pricePerSqm": 62000000},
-    {"date": "2024-04-01", "pricePerSqm": 65000000},
-    {"date": "2024-07-01", "pricePerSqm": 68000000},
-    {"date": "2024-10-01", "pricePerSqm": 72000000},
-    {"date": "2025-01-01", "pricePerSqm": 75000000},
-    {"date": "2025-04-01", "pricePerSqm": 78000000},
-    {"date": "2025-07-01", "pricePerSqm": 80000000},
-    {"date": "2025-10-01", "pricePerSqm": 82000000},
-    {"date": "2026-01-01", "pricePerSqm": 85000000}
+    {
+      "date": "2016-01-01",
+      "pricePerSqm": 28000000
+    },
+    {
+      "date": "2016-04-01",
+      "pricePerSqm": 29000000
+    },
+    {
+      "date": "2016-07-01",
+      "pricePerSqm": 30000000
+    },
+    {
+      "date": "2016-10-01",
+      "pricePerSqm": 31000000
+    },
+    {
+      "date": "2017-01-01",
+      "pricePerSqm": 32000000
+    },
+    {
+      "date": "2017-04-01",
+      "pricePerSqm": 34000000
+    },
+    {
+      "date": "2017-07-01",
+      "pricePerSqm": 36000000
+    },
+    {
+      "date": "2017-10-01",
+      "pricePerSqm": 38000000
+    },
+    {
+      "date": "2018-01-01",
+      "pricePerSqm": 40000000
+    },
+    {
+      "date": "2018-04-01",
+      "pricePerSqm": 42000000
+    },
+    {
+      "date": "2018-07-01",
+      "pricePerSqm": 44000000
+    },
+    {
+      "date": "2018-10-01",
+      "pricePerSqm": 43000000
+    },
+    {
+      "date": "2019-01-01",
+      "pricePerSqm": 44000000
+    },
+    {
+      "date": "2019-04-01",
+      "pricePerSqm": 46000000
+    },
+    {
+      "date": "2019-07-01",
+      "pricePerSqm": 48000000
+    },
+    {
+      "date": "2019-10-01",
+      "pricePerSqm": 50000000
+    },
+    {
+      "date": "2020-01-01",
+      "pricePerSqm": 50000000
+    },
+    {
+      "date": "2020-04-01",
+      "pricePerSqm": 48000000
+    },
+    {
+      "date": "2020-07-01",
+      "pricePerSqm": 49000000
+    },
+    {
+      "date": "2020-10-01",
+      "pricePerSqm": 51000000
+    },
+    {
+      "date": "2021-01-01",
+      "pricePerSqm": 53000000
+    },
+    {
+      "date": "2021-04-01",
+      "pricePerSqm": 55000000
+    },
+    {
+      "date": "2021-07-01",
+      "pricePerSqm": 54000000
+    },
+    {
+      "date": "2021-10-01",
+      "pricePerSqm": 56000000
+    },
+    {
+      "date": "2022-01-01",
+      "pricePerSqm": 60000000
+    },
+    {
+      "date": "2022-04-01",
+      "pricePerSqm": 65000000
+    },
+    {
+      "date": "2022-07-01",
+      "pricePerSqm": 68000000
+    },
+    {
+      "date": "2022-10-01",
+      "pricePerSqm": 65000000
+    },
+    {
+      "date": "2023-01-01",
+      "pricePerSqm": 62000000
+    },
+    {
+      "date": "2023-04-01",
+      "pricePerSqm": 60000000
+    },
+    {
+      "date": "2023-07-01",
+      "pricePerSqm": 58000000
+    },
+    {
+      "date": "2023-10-01",
+      "pricePerSqm": 59000000
+    },
+    {
+      "date": "2024-01-01",
+      "pricePerSqm": 62000000
+    },
+    {
+      "date": "2024-04-01",
+      "pricePerSqm": 65000000
+    },
+    {
+      "date": "2024-07-01",
+      "pricePerSqm": 68000000
+    },
+    {
+      "date": "2024-10-01",
+      "pricePerSqm": 72000000
+    },
+    {
+      "date": "2025-01-01",
+      "pricePerSqm": 75000000
+    },
+    {
+      "date": "2025-04-01",
+      "pricePerSqm": 78000000
+    },
+    {
+      "date": "2025-07-01",
+      "pricePerSqm": 80000000
+    },
+    {
+      "date": "2025-10-01",
+      "pricePerSqm": 82000000
+    },
+    {
+      "date": "2026-01-01",
+      "pricePerSqm": 85000000
+    }
   ],
   "hanoi": [
-    {"date": "2016-01-01", "pricePerSqm": 25000000},
-    {"date": "2016-04-01", "pricePerSqm": 26000000},
-    {"date": "2016-07-01", "pricePerSqm": 27000000},
-    {"date": "2016-10-01", "pricePerSqm": 27500000},
-    {"date": "2017-01-01", "pricePerSqm": 28000000},
-    {"date": "2017-04-01", "pricePerSqm": 29000000},
-    {"date": "2017-07-01", "pricePerSqm": 30000000},
-    {"date": "2017-10-01", "pricePerSqm": 31000000},
-    {"date": "2018-01-01", "pricePerSqm": 32000000},
-    {"date": "2018-04-01", "pricePerSqm": 33000000},
-    {"date": "2018-07-01", "pricePerSqm": 34000000},
-    {"date": "2018-10-01", "pricePerSqm": 34500000},
-    {"date": "2019-01-01", "pricePerSqm": 35000000},
-    {"date": "2019-04-01", "pricePerSqm": 36000000},
-    {"date": "2019-07-01", "pricePerSqm": 37000000},
-    {"date": "2019-10-01", "pricePerSqm": 38000000},
-    {"date": "2020-01-01", "pricePerSqm": 38000000},
-    {"date": "2020-04-01", "pricePerSqm": 37000000},
-    {"date": "2020-07-01", "pricePerSqm": 38000000},
-    {"date": "2020-10-01", "pricePerSqm": 39000000},
-    {"date": "2021-01-01", "pricePerSqm": 40000000},
-    {"date": "2021-04-01", "pricePerSqm": 42000000},
-    {"date": "2021-07-01", "pricePerSqm": 43000000},
-    {"date": "2021-10-01", "pricePerSqm": 45000000},
-    {"date": "2022-01-01", "pricePerSqm": 48000000},
-    {"date": "2022-04-01", "pricePerSqm": 52000000},
-    {"date": "2022-07-01", "pricePerSqm": 55000000},
-    {"date": "2022-10-01", "pricePerSqm": 53000000},
-    {"date": "2023-01-01", "pricePerSqm": 50000000},
-    {"date": "2023-04-01", "pricePerSqm": 48000000},
-    {"date": "2023-07-01", "pricePerSqm": 47000000},
-    {"date": "2023-10-01", "pricePerSqm": 48000000},
-    {"date": "2024-01-01", "pricePerSqm": 52000000},
-    {"date": "2024-04-01", "pricePerSqm": 56000000},
-    {"date": "2024-07-01", "pricePerSqm": 60000000},
-    {"date": "2024-10-01", "pricePerSqm": 65000000},
-    {"date": "2025-01-01", "pricePerSqm": 70000000},
-    {"date": "2025-04-01", "pricePerSqm": 73000000},
-    {"date": "2025-07-01", "pricePerSqm": 75000000},
-    {"date": "2025-10-01", "pricePerSqm": 78000000},
-    {"date": "2026-01-01", "pricePerSqm": 80000000}
+    {
+      "date": "2016-01-01",
+      "pricePerSqm": 25000000
+    },
+    {
+      "date": "2016-04-01",
+      "pricePerSqm": 26000000
+    },
+    {
+      "date": "2016-07-01",
+      "pricePerSqm": 27000000
+    },
+    {
+      "date": "2016-10-01",
+      "pricePerSqm": 27500000
+    },
+    {
+      "date": "2017-01-01",
+      "pricePerSqm": 28000000
+    },
+    {
+      "date": "2017-04-01",
+      "pricePerSqm": 29000000
+    },
+    {
+      "date": "2017-07-01",
+      "pricePerSqm": 30000000
+    },
+    {
+      "date": "2017-10-01",
+      "pricePerSqm": 31000000
+    },
+    {
+      "date": "2018-01-01",
+      "pricePerSqm": 32000000
+    },
+    {
+      "date": "2018-04-01",
+      "pricePerSqm": 33000000
+    },
+    {
+      "date": "2018-07-01",
+      "pricePerSqm": 34000000
+    },
+    {
+      "date": "2018-10-01",
+      "pricePerSqm": 34500000
+    },
+    {
+      "date": "2019-01-01",
+      "pricePerSqm": 35000000
+    },
+    {
+      "date": "2019-04-01",
+      "pricePerSqm": 36000000
+    },
+    {
+      "date": "2019-07-01",
+      "pricePerSqm": 37000000
+    },
+    {
+      "date": "2019-10-01",
+      "pricePerSqm": 38000000
+    },
+    {
+      "date": "2020-01-01",
+      "pricePerSqm": 38000000
+    },
+    {
+      "date": "2020-04-01",
+      "pricePerSqm": 37000000
+    },
+    {
+      "date": "2020-07-01",
+      "pricePerSqm": 38000000
+    },
+    {
+      "date": "2020-10-01",
+      "pricePerSqm": 39000000
+    },
+    {
+      "date": "2021-01-01",
+      "pricePerSqm": 40000000
+    },
+    {
+      "date": "2021-04-01",
+      "pricePerSqm": 42000000
+    },
+    {
+      "date": "2021-07-01",
+      "pricePerSqm": 43000000
+    },
+    {
+      "date": "2021-10-01",
+      "pricePerSqm": 45000000
+    },
+    {
+      "date": "2022-01-01",
+      "pricePerSqm": 48000000
+    },
+    {
+      "date": "2022-04-01",
+      "pricePerSqm": 52000000
+    },
+    {
+      "date": "2022-07-01",
+      "pricePerSqm": 55000000
+    },
+    {
+      "date": "2022-10-01",
+      "pricePerSqm": 53000000
+    },
+    {
+      "date": "2023-01-01",
+      "pricePerSqm": 50000000
+    },
+    {
+      "date": "2023-04-01",
+      "pricePerSqm": 48000000
+    },
+    {
+      "date": "2023-07-01",
+      "pricePerSqm": 47000000
+    },
+    {
+      "date": "2023-10-01",
+      "pricePerSqm": 48000000
+    },
+    {
+      "date": "2024-01-01",
+      "pricePerSqm": 52000000
+    },
+    {
+      "date": "2024-04-01",
+      "pricePerSqm": 56000000
+    },
+    {
+      "date": "2024-07-01",
+      "pricePerSqm": 60000000
+    },
+    {
+      "date": "2024-10-01",
+      "pricePerSqm": 65000000
+    },
+    {
+      "date": "2025-01-01",
+      "pricePerSqm": 70000000
+    },
+    {
+      "date": "2025-04-01",
+      "pricePerSqm": 73000000
+    },
+    {
+      "date": "2025-07-01",
+      "pricePerSqm": 75000000
+    },
+    {
+      "date": "2025-10-01",
+      "pricePerSqm": 78000000
+    },
+    {
+      "date": "2026-01-01",
+      "pricePerSqm": 80000000
+    }
   ],
   "danang": [
-    {"date": "2016-01-01", "pricePerSqm": 15000000},
-    {"date": "2016-04-01", "pricePerSqm": 15500000},
-    {"date": "2016-07-01", "pricePerSqm": 16000000},
-    {"date": "2016-10-01", "pricePerSqm": 16500000},
-    {"date": "2017-01-01", "pricePerSqm": 17000000},
-    {"date": "2017-04-01", "pricePerSqm": 18000000},
-    {"date": "2017-07-01", "pricePerSqm": 19500000},
-    {"date": "2017-10-01", "pricePerSqm": 21000000},
-    {"date": "2018-01-01", "pricePerSqm": 23000000},
-    {"date": "2018-04-01", "pricePerSqm": 25000000},
-    {"date": "2018-07-01", "pricePerSqm": 27000000},
-    {"date": "2018-10-01", "pricePerSqm": 26000000},
-    {"date": "2019-01-01", "pricePerSqm": 25000000},
-    {"date": "2019-04-01", "pricePerSqm": 24000000},
-    {"date": "2019-07-01", "pricePerSqm": 23000000},
-    {"date": "2019-10-01", "pricePerSqm": 22000000},
-    {"date": "2020-01-01", "pricePerSqm": 21000000},
-    {"date": "2020-04-01", "pricePerSqm": 20000000},
-    {"date": "2020-07-01", "pricePerSqm": 20500000},
-    {"date": "2020-10-01", "pricePerSqm": 21000000},
-    {"date": "2021-01-01", "pricePerSqm": 22000000},
-    {"date": "2021-04-01", "pricePerSqm": 23000000},
-    {"date": "2021-07-01", "pricePerSqm": 23500000},
-    {"date": "2021-10-01", "pricePerSqm": 25000000},
-    {"date": "2022-01-01", "pricePerSqm": 28000000},
-    {"date": "2022-04-01", "pricePerSqm": 32000000},
-    {"date": "2022-07-01", "pricePerSqm": 35000000},
-    {"date": "2022-10-01", "pricePerSqm": 33000000},
-    {"date": "2023-01-01", "pricePerSqm": 30000000},
-    {"date": "2023-04-01", "pricePerSqm": 28000000},
-    {"date": "2023-07-01", "pricePerSqm": 27000000},
-    {"date": "2023-10-01", "pricePerSqm": 27500000},
-    {"date": "2024-01-01", "pricePerSqm": 29000000},
-    {"date": "2024-04-01", "pricePerSqm": 31000000},
-    {"date": "2024-07-01", "pricePerSqm": 33000000},
-    {"date": "2024-10-01", "pricePerSqm": 35000000},
-    {"date": "2025-01-01", "pricePerSqm": 37000000},
-    {"date": "2025-04-01", "pricePerSqm": 38000000},
-    {"date": "2025-07-01", "pricePerSqm": 39000000},
-    {"date": "2025-10-01", "pricePerSqm": 40000000},
-    {"date": "2026-01-01", "pricePerSqm": 42000000}
+    {
+      "date": "2016-01-01",
+      "pricePerSqm": 15000000
+    },
+    {
+      "date": "2016-04-01",
+      "pricePerSqm": 15500000
+    },
+    {
+      "date": "2016-07-01",
+      "pricePerSqm": 16000000
+    },
+    {
+      "date": "2016-10-01",
+      "pricePerSqm": 16500000
+    },
+    {
+      "date": "2017-01-01",
+      "pricePerSqm": 17000000
+    },
+    {
+      "date": "2017-04-01",
+      "pricePerSqm": 18000000
+    },
+    {
+      "date": "2017-07-01",
+      "pricePerSqm": 19500000
+    },
+    {
+      "date": "2017-10-01",
+      "pricePerSqm": 21000000
+    },
+    {
+      "date": "2018-01-01",
+      "pricePerSqm": 23000000
+    },
+    {
+      "date": "2018-04-01",
+      "pricePerSqm": 25000000
+    },
+    {
+      "date": "2018-07-01",
+      "pricePerSqm": 27000000
+    },
+    {
+      "date": "2018-10-01",
+      "pricePerSqm": 26000000
+    },
+    {
+      "date": "2019-01-01",
+      "pricePerSqm": 25000000
+    },
+    {
+      "date": "2019-04-01",
+      "pricePerSqm": 24000000
+    },
+    {
+      "date": "2019-07-01",
+      "pricePerSqm": 23000000
+    },
+    {
+      "date": "2019-10-01",
+      "pricePerSqm": 22000000
+    },
+    {
+      "date": "2020-01-01",
+      "pricePerSqm": 21000000
+    },
+    {
+      "date": "2020-04-01",
+      "pricePerSqm": 20000000
+    },
+    {
+      "date": "2020-07-01",
+      "pricePerSqm": 20500000
+    },
+    {
+      "date": "2020-10-01",
+      "pricePerSqm": 21000000
+    },
+    {
+      "date": "2021-01-01",
+      "pricePerSqm": 22000000
+    },
+    {
+      "date": "2021-04-01",
+      "pricePerSqm": 23000000
+    },
+    {
+      "date": "2021-07-01",
+      "pricePerSqm": 23500000
+    },
+    {
+      "date": "2021-10-01",
+      "pricePerSqm": 25000000
+    },
+    {
+      "date": "2022-01-01",
+      "pricePerSqm": 28000000
+    },
+    {
+      "date": "2022-04-01",
+      "pricePerSqm": 32000000
+    },
+    {
+      "date": "2022-07-01",
+      "pricePerSqm": 35000000
+    },
+    {
+      "date": "2022-10-01",
+      "pricePerSqm": 33000000
+    },
+    {
+      "date": "2023-01-01",
+      "pricePerSqm": 30000000
+    },
+    {
+      "date": "2023-04-01",
+      "pricePerSqm": 28000000
+    },
+    {
+      "date": "2023-07-01",
+      "pricePerSqm": 27000000
+    },
+    {
+      "date": "2023-10-01",
+      "pricePerSqm": 27500000
+    },
+    {
+      "date": "2024-01-01",
+      "pricePerSqm": 29000000
+    },
+    {
+      "date": "2024-04-01",
+      "pricePerSqm": 31000000
+    },
+    {
+      "date": "2024-07-01",
+      "pricePerSqm": 33000000
+    },
+    {
+      "date": "2024-10-01",
+      "pricePerSqm": 35000000
+    },
+    {
+      "date": "2025-01-01",
+      "pricePerSqm": 37000000
+    },
+    {
+      "date": "2025-04-01",
+      "pricePerSqm": 38000000
+    },
+    {
+      "date": "2025-07-01",
+      "pricePerSqm": 39000000
+    },
+    {
+      "date": "2025-10-01",
+      "pricePerSqm": 40000000
+    },
+    {
+      "date": "2026-01-01",
+      "pricePerSqm": 42000000
+    }
   ],
   "nhatrang": [
-    {"date": "2016-01-01", "pricePerSqm": 12000000},
-    {"date": "2016-04-01", "pricePerSqm": 12500000},
-    {"date": "2016-07-01", "pricePerSqm": 13000000},
-    {"date": "2016-10-01", "pricePerSqm": 13500000},
-    {"date": "2017-01-01", "pricePerSqm": 14000000},
-    {"date": "2017-04-01", "pricePerSqm": 15000000},
-    {"date": "2017-07-01", "pricePerSqm": 17000000},
-    {"date": "2017-10-01", "pricePerSqm": 19000000},
-    {"date": "2018-01-01", "pricePerSqm": 21000000},
-    {"date": "2018-04-01", "pricePerSqm": 24000000},
-    {"date": "2018-07-01", "pricePerSqm": 26000000},
-    {"date": "2018-10-01", "pricePerSqm": 25000000},
-    {"date": "2019-01-01", "pricePerSqm": 24000000},
-    {"date": "2019-04-01", "pricePerSqm": 23000000},
-    {"date": "2019-07-01", "pricePerSqm": 22000000},
-    {"date": "2019-10-01", "pricePerSqm": 21000000},
-    {"date": "2020-01-01", "pricePerSqm": 20000000},
-    {"date": "2020-04-01", "pricePerSqm": 18000000},
-    {"date": "2020-07-01", "pricePerSqm": 18500000},
-    {"date": "2020-10-01", "pricePerSqm": 19000000},
-    {"date": "2021-01-01", "pricePerSqm": 20000000},
-    {"date": "2021-04-01", "pricePerSqm": 21000000},
-    {"date": "2021-07-01", "pricePerSqm": 22000000},
-    {"date": "2021-10-01", "pricePerSqm": 24000000},
-    {"date": "2022-01-01", "pricePerSqm": 27000000},
-    {"date": "2022-04-01", "pricePerSqm": 30000000},
-    {"date": "2022-07-01", "pricePerSqm": 32000000},
-    {"date": "2022-10-01", "pricePerSqm": 29000000},
-    {"date": "2023-01-01", "pricePerSqm": 26000000},
-    {"date": "2023-04-01", "pricePerSqm": 24000000},
-    {"date": "2023-07-01", "pricePerSqm": 23000000},
-    {"date": "2023-10-01", "pricePerSqm": 23500000},
-    {"date": "2024-01-01", "pricePerSqm": 25000000},
-    {"date": "2024-04-01", "pricePerSqm": 27000000},
-    {"date": "2024-07-01", "pricePerSqm": 29000000},
-    {"date": "2024-10-01", "pricePerSqm": 31000000},
-    {"date": "2025-01-01", "pricePerSqm": 33000000},
-    {"date": "2025-04-01", "pricePerSqm": 34000000},
-    {"date": "2025-07-01", "pricePerSqm": 35000000},
-    {"date": "2025-10-01", "pricePerSqm": 36000000},
-    {"date": "2026-01-01", "pricePerSqm": 38000000}
+    {
+      "date": "2016-01-01",
+      "pricePerSqm": 12000000
+    },
+    {
+      "date": "2016-04-01",
+      "pricePerSqm": 12500000
+    },
+    {
+      "date": "2016-07-01",
+      "pricePerSqm": 13000000
+    },
+    {
+      "date": "2016-10-01",
+      "pricePerSqm": 13500000
+    },
+    {
+      "date": "2017-01-01",
+      "pricePerSqm": 14000000
+    },
+    {
+      "date": "2017-04-01",
+      "pricePerSqm": 15000000
+    },
+    {
+      "date": "2017-07-01",
+      "pricePerSqm": 17000000
+    },
+    {
+      "date": "2017-10-01",
+      "pricePerSqm": 19000000
+    },
+    {
+      "date": "2018-01-01",
+      "pricePerSqm": 21000000
+    },
+    {
+      "date": "2018-04-01",
+      "pricePerSqm": 24000000
+    },
+    {
+      "date": "2018-07-01",
+      "pricePerSqm": 26000000
+    },
+    {
+      "date": "2018-10-01",
+      "pricePerSqm": 25000000
+    },
+    {
+      "date": "2019-01-01",
+      "pricePerSqm": 24000000
+    },
+    {
+      "date": "2019-04-01",
+      "pricePerSqm": 23000000
+    },
+    {
+      "date": "2019-07-01",
+      "pricePerSqm": 22000000
+    },
+    {
+      "date": "2019-10-01",
+      "pricePerSqm": 21000000
+    },
+    {
+      "date": "2020-01-01",
+      "pricePerSqm": 20000000
+    },
+    {
+      "date": "2020-04-01",
+      "pricePerSqm": 18000000
+    },
+    {
+      "date": "2020-07-01",
+      "pricePerSqm": 18500000
+    },
+    {
+      "date": "2020-10-01",
+      "pricePerSqm": 19000000
+    },
+    {
+      "date": "2021-01-01",
+      "pricePerSqm": 20000000
+    },
+    {
+      "date": "2021-04-01",
+      "pricePerSqm": 21000000
+    },
+    {
+      "date": "2021-07-01",
+      "pricePerSqm": 22000000
+    },
+    {
+      "date": "2021-10-01",
+      "pricePerSqm": 24000000
+    },
+    {
+      "date": "2022-01-01",
+      "pricePerSqm": 27000000
+    },
+    {
+      "date": "2022-04-01",
+      "pricePerSqm": 30000000
+    },
+    {
+      "date": "2022-07-01",
+      "pricePerSqm": 32000000
+    },
+    {
+      "date": "2022-10-01",
+      "pricePerSqm": 29000000
+    },
+    {
+      "date": "2023-01-01",
+      "pricePerSqm": 26000000
+    },
+    {
+      "date": "2023-04-01",
+      "pricePerSqm": 24000000
+    },
+    {
+      "date": "2023-07-01",
+      "pricePerSqm": 23000000
+    },
+    {
+      "date": "2023-10-01",
+      "pricePerSqm": 23500000
+    },
+    {
+      "date": "2024-01-01",
+      "pricePerSqm": 25000000
+    },
+    {
+      "date": "2024-04-01",
+      "pricePerSqm": 27000000
+    },
+    {
+      "date": "2024-07-01",
+      "pricePerSqm": 29000000
+    },
+    {
+      "date": "2024-10-01",
+      "pricePerSqm": 31000000
+    },
+    {
+      "date": "2025-01-01",
+      "pricePerSqm": 33000000
+    },
+    {
+      "date": "2025-04-01",
+      "pricePerSqm": 34000000
+    },
+    {
+      "date": "2025-07-01",
+      "pricePerSqm": 35000000
+    },
+    {
+      "date": "2025-10-01",
+      "pricePerSqm": 36000000
+    },
+    {
+      "date": "2026-01-01",
+      "pricePerSqm": 38000000
+    }
   ],
   "phuquoc": [
-    {"date": "2016-01-01", "pricePerSqm": 8000000},
-    {"date": "2016-04-01", "pricePerSqm": 8500000},
-    {"date": "2016-07-01", "pricePerSqm": 9000000},
-    {"date": "2016-10-01", "pricePerSqm": 10000000},
-    {"date": "2017-01-01", "pricePerSqm": 11000000},
-    {"date": "2017-04-01", "pricePerSqm": 13000000},
-    {"date": "2017-07-01", "pricePerSqm": 16000000},
-    {"date": "2017-10-01", "pricePerSqm": 19000000},
-    {"date": "2018-01-01", "pricePerSqm": 22000000},
-    {"date": "2018-04-01", "pricePerSqm": 28000000},
-    {"date": "2018-07-01", "pricePerSqm": 35000000},
-    {"date": "2018-10-01", "pricePerSqm": 32000000},
-    {"date": "2019-01-01", "pricePerSqm": 30000000},
-    {"date": "2019-04-01", "pricePerSqm": 35000000},
-    {"date": "2019-07-01", "pricePerSqm": 40000000},
-    {"date": "2019-10-01", "pricePerSqm": 45000000},
-    {"date": "2020-01-01", "pricePerSqm": 42000000},
-    {"date": "2020-04-01", "pricePerSqm": 35000000},
-    {"date": "2020-07-01", "pricePerSqm": 33000000},
-    {"date": "2020-10-01", "pricePerSqm": 35000000},
-    {"date": "2021-01-01", "pricePerSqm": 40000000},
-    {"date": "2021-04-01", "pricePerSqm": 50000000},
-    {"date": "2021-07-01", "pricePerSqm": 55000000},
-    {"date": "2021-10-01", "pricePerSqm": 60000000},
-    {"date": "2022-01-01", "pricePerSqm": 70000000},
-    {"date": "2022-04-01", "pricePerSqm": 80000000},
-    {"date": "2022-07-01", "pricePerSqm": 75000000},
-    {"date": "2022-10-01", "pricePerSqm": 65000000},
-    {"date": "2023-01-01", "pricePerSqm": 55000000},
-    {"date": "2023-04-01", "pricePerSqm": 48000000},
-    {"date": "2023-07-01", "pricePerSqm": 45000000},
-    {"date": "2023-10-01", "pricePerSqm": 43000000},
-    {"date": "2024-01-01", "pricePerSqm": 45000000},
-    {"date": "2024-04-01", "pricePerSqm": 48000000},
-    {"date": "2024-07-01", "pricePerSqm": 50000000},
-    {"date": "2024-10-01", "pricePerSqm": 52000000},
-    {"date": "2025-01-01", "pricePerSqm": 55000000},
-    {"date": "2025-04-01", "pricePerSqm": 57000000},
-    {"date": "2025-07-01", "pricePerSqm": 58000000},
-    {"date": "2025-10-01", "pricePerSqm": 60000000},
-    {"date": "2026-01-01", "pricePerSqm": 62000000}
+    {
+      "date": "2016-01-01",
+      "pricePerSqm": 8000000
+    },
+    {
+      "date": "2016-04-01",
+      "pricePerSqm": 8500000
+    },
+    {
+      "date": "2016-07-01",
+      "pricePerSqm": 9000000
+    },
+    {
+      "date": "2016-10-01",
+      "pricePerSqm": 10000000
+    },
+    {
+      "date": "2017-01-01",
+      "pricePerSqm": 11000000
+    },
+    {
+      "date": "2017-04-01",
+      "pricePerSqm": 13000000
+    },
+    {
+      "date": "2017-07-01",
+      "pricePerSqm": 16000000
+    },
+    {
+      "date": "2017-10-01",
+      "pricePerSqm": 19000000
+    },
+    {
+      "date": "2018-01-01",
+      "pricePerSqm": 22000000
+    },
+    {
+      "date": "2018-04-01",
+      "pricePerSqm": 28000000
+    },
+    {
+      "date": "2018-07-01",
+      "pricePerSqm": 35000000
+    },
+    {
+      "date": "2018-10-01",
+      "pricePerSqm": 32000000
+    },
+    {
+      "date": "2019-01-01",
+      "pricePerSqm": 30000000
+    },
+    {
+      "date": "2019-04-01",
+      "pricePerSqm": 35000000
+    },
+    {
+      "date": "2019-07-01",
+      "pricePerSqm": 40000000
+    },
+    {
+      "date": "2019-10-01",
+      "pricePerSqm": 45000000
+    },
+    {
+      "date": "2020-01-01",
+      "pricePerSqm": 42000000
+    },
+    {
+      "date": "2020-04-01",
+      "pricePerSqm": 35000000
+    },
+    {
+      "date": "2020-07-01",
+      "pricePerSqm": 33000000
+    },
+    {
+      "date": "2020-10-01",
+      "pricePerSqm": 35000000
+    },
+    {
+      "date": "2021-01-01",
+      "pricePerSqm": 40000000
+    },
+    {
+      "date": "2021-04-01",
+      "pricePerSqm": 50000000
+    },
+    {
+      "date": "2021-07-01",
+      "pricePerSqm": 55000000
+    },
+    {
+      "date": "2021-10-01",
+      "pricePerSqm": 60000000
+    },
+    {
+      "date": "2022-01-01",
+      "pricePerSqm": 70000000
+    },
+    {
+      "date": "2022-04-01",
+      "pricePerSqm": 80000000
+    },
+    {
+      "date": "2022-07-01",
+      "pricePerSqm": 75000000
+    },
+    {
+      "date": "2022-10-01",
+      "pricePerSqm": 65000000
+    },
+    {
+      "date": "2023-01-01",
+      "pricePerSqm": 55000000
+    },
+    {
+      "date": "2023-04-01",
+      "pricePerSqm": 48000000
+    },
+    {
+      "date": "2023-07-01",
+      "pricePerSqm": 45000000
+    },
+    {
+      "date": "2023-10-01",
+      "pricePerSqm": 43000000
+    },
+    {
+      "date": "2024-01-01",
+      "pricePerSqm": 45000000
+    },
+    {
+      "date": "2024-04-01",
+      "pricePerSqm": 48000000
+    },
+    {
+      "date": "2024-07-01",
+      "pricePerSqm": 50000000
+    },
+    {
+      "date": "2024-10-01",
+      "pricePerSqm": 52000000
+    },
+    {
+      "date": "2025-01-01",
+      "pricePerSqm": 55000000
+    },
+    {
+      "date": "2025-04-01",
+      "pricePerSqm": 57000000
+    },
+    {
+      "date": "2025-07-01",
+      "pricePerSqm": 58000000
+    },
+    {
+      "date": "2025-10-01",
+      "pricePerSqm": 60000000
+    },
+    {
+      "date": "2026-01-01",
+      "pricePerSqm": 62000000
+    }
   ]
 }
