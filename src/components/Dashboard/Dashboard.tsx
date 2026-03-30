@@ -4,6 +4,7 @@ import { EtfChart } from '../charts/EtfChart';
 import { PropertyChart } from '../charts/PropertyChart';
 import { DanangChart } from '../charts/DanangChart';
 import { DanangListings } from '../charts/DanangListings';
+import { DamSenListings } from '../charts/DamSenListings';
 import { HueChart } from '../charts/HueChart';
 import { PriceCard } from '../common/PriceCard';
 import { Header } from '../common/Header';
@@ -60,6 +61,11 @@ export function Dashboard() {
         {/* Da Nang listings from Cho Tot */}
         <div style={{ marginBottom: 16 }}>
           <DanangListings />
+        </div>
+
+        {/* Dam Sen — Nam Hoa Xuan listings */}
+        <div style={{ marginBottom: 16 }}>
+          <DamSenListings />
         </div>
 
         {/* ETFs - separate charts */}

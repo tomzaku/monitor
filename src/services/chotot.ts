@@ -21,6 +21,7 @@ export interface ChototListing {
   postedAt: number; // unix ms
   lat?: number;
   lng?: number;
+  block?: string; // parsed block code, e.g. "B2-114"
 }
 
 interface ChototAd {
@@ -100,24 +101,68 @@ export async function fetchDanangListings(category: 'all' | 'house' | 'land' = '
 
   return allAds
     .filter(ad => ad.price > 0 && ad.size > 0 && ad.price_million_per_m2 && ad.price_million_per_m2 > 0)
-    .map(ad => ({
-      id: ad.ad_id,
-      title: ad.subject.replace(/[✨📍🏡☎️📲🌟💵🔥🏠✅]/g, '').trim(),
-      price: ad.price,
-      priceString: ad.price_string,
-      pricePerSqm: Math.round(ad.price_million_per_m2! * 10) / 10,
-      size: ad.size,
-      district: ad.area_name,
-      ward: ad.ward_name,
-      street: ad.street_name || '',
-      category: ad.category_name,
-      floors: ad.floors,
-      rooms: ad.rooms,
-      image: ad.image,
-      url: `https://www.nhatot.com/${ad.list_id}.htm`,
-      date: ad.date,
-      postedAt: ad.list_time,
-      lat: ad.latitude,
-      lng: ad.longitude,
-    }));
+    .map(mapAd);
+}
+
+function parseBlock(title: string): string | undefined {
+  const m = title.match(/\bB[23]-\d+\b/i);
+  return m ? m[0].toUpperCase() : undefined;
+}
+
+function mapAd(ad: ChototAd): ChototListing {
+  const title = ad.subject.replace(/[✨📍🏡☎️📲🌟💵🔥🏠✅]/g, '').trim();
+  return {
+    id: ad.ad_id,
+    title,
+    price: ad.price,
+    priceString: ad.price_string,
+    pricePerSqm: Math.round(ad.price_million_per_m2! * 10) / 10,
+    size: ad.size,
+    district: ad.area_name,
+    ward: ad.ward_name,
+    street: ad.street_name || '',
+    category: ad.category_name,
+    floors: ad.floors,
+    rooms: ad.rooms,
+    image: ad.image,
+    url: `https://www.nhatot.com/${ad.list_id}.htm`,
+    date: ad.date,
+    postedAt: ad.list_time,
+    lat: ad.latitude,
+    lng: ad.longitude,
+    block: parseBlock(ad.subject),
+  };
+}
+
+export async function fetchDamSenListings(): Promise<ChototListing[]> {
+  const allAds: ChototAd[] = [];
+  const limit = 50;
+  const maxPages = 4;
+
+  for (let page = 0; page < maxPages; page++) {
+    const url = buildUrl({
+      cg: '1000',
+      st: 's,k',
+      region: 3,
+      q: 'đầm sen',
+      limit,
+      o: page * limit,
+    });
+
+    try {
+      const res = await fetch(url);
+      if (!res.ok) break;
+      const data = await res.json();
+      const ads: ChototAd[] = data.ads || [];
+      if (ads.length === 0) break;
+      allAds.push(...ads);
+      if (ads.length < limit) break;
+    } catch {
+      break;
+    }
+  }
+
+  return allAds
+    .filter(ad => ad.price > 0 && ad.size > 0 && ad.price_million_per_m2 && ad.price_million_per_m2 > 0)
+    .map(ad => mapAd(ad));
 }

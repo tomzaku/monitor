@@ -47,8 +47,9 @@ export function DanangListings() {
   const { data: listings, isLoading, error } = useDanangListings(category);
 
   // Ward-level areas shown alongside districts in the dropdown
-  const WARD_AREAS: { label: string; wardName: string }[] = [
-    { label: 'Hòa Xuân', wardName: 'Phường Hòa Xuân' },
+  const WARD_AREAS: { label: string; wardNames: string[] }[] = [
+    { label: 'Hòa Xuân', wardNames: ['Phường Hòa Xuân'] },
+    { label: 'Hòa Cường', wardNames: ['Phường Hòa Cường Bắc', 'Phường Hòa Cường Nam'] },
   ];
 
   const districts = useMemo(() => {
@@ -63,7 +64,7 @@ export function DanangListings() {
     if (locationFilter !== 'all') {
       const wardArea = WARD_AREAS.find(a => a.label === locationFilter);
       if (wardArea) {
-        filtered = filtered.filter(l => l.ward === wardArea.wardName);
+        filtered = filtered.filter(l => wardArea.wardNames.includes(l.ward));
       } else {
         filtered = filtered.filter(l => l.district === locationFilter);
       }

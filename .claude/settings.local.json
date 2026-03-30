@@ -27,7 +27,11 @@
       "WebFetch(domain:onehousing.vn)",
       "WebFetch(domain:vietstock.vn)",
       "Skill(claude-api)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "WebFetch(domain:kenhnhadatdanang.com)",
+      "WebFetch(domain:datnenhoaxuan.com)",
+      "WebFetch(domain:landmap.vn)",
+      "WebFetch(domain:*)"
     ]
   }
 }
