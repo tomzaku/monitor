@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ZPJUq_A6eguaklF7fGdYFAmlbR1JJJVOkmvMxNXSzS4/preset:listing/plain/00e16f88be8cc6350ffd8294e79f60fc-2977689534754715514.jpg",
     "url": "https://www.nhatot.com/131512001.htm",
-    "date": "14 giờ trước",
+    "date": "15 giờ trước",
     "postedAt": 1774841410000,
     "lat": 15.939363,
     "lng": 108.16065
@@ -66,7 +66,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/Wf3ye1he62X5_tVRzf4qRbARr-gGBACe-bZ8mswwjTA/preset:listing/plain/3d916b7d43db184a470e0ae1e593cba2-2977682693741525874.jpg",
     "url": "https://www.nhatot.com/131510038.htm",
-    "date": "15 giờ trước",
+    "date": "16 giờ trước",
     "postedAt": 1774837265000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -84,7 +84,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/qWjcIN9G7TxngLD1xDy3k3nLV6Nd76y2XjndQVKKzng/preset:listing/plain/5a0282e64bd6752767ae5ff3f3a01cf1-2977683654598195066.jpg",
     "url": "https://www.nhatot.com/131510285.htm",
-    "date": "15 giờ trước",
+    "date": "16 giờ trước",
     "postedAt": 1774837831000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -410,7 +410,7 @@
     "category": "Văn phòng, Mặt bằng kinh doanh",
     "image": "https://cdn.chotot.com/Cv8zyjUsZRmoTmozkYTGI7CNpcgWtf7bfsLcjote6Mc/preset:listing/plain/a7879822b100dd30a3f333ee5e5be7ad-2977722564274404210.jpg",
     "url": "https://www.nhatot.com/131520150.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1774861096000,
     "lat": 16.053411,
     "lng": 108.148796
@@ -454,6 +454,25 @@
     "lng": 108.14428
   },
   {
+    "id": 174594515,
+    "title": "bán dãy trọ 12 phòng kiệt 120 nguyễn lương bằng.",
+    "price": 6550000000,
+    "priceString": "6,55 tỷ",
+    "pricePerSqm": 32.8,
+    "size": 200,
+    "district": "Quận Liên Chiểu",
+    "ward": "Phường Hòa Khánh Bắc",
+    "street": "Đường Nguyễn Lương Bằng",
+    "category": "Nhà ở",
+    "rooms": 11,
+    "image": "https://cdn.chotot.com/19YWAcpD1qOwge_WqgwvQpMuj8_no80zI87EXRK1HN0/preset:listing/plain/43f88a8206fe8eee8e203d39ac298588-2974918639895643979.jpg",
+    "url": "https://www.nhatot.com/131118772.htm",
+    "date": "5 ngày trước",
+    "postedAt": 1774482259000,
+    "lat": 16.08689,
+    "lng": 108.14428
+  },
+  {
     "id": 174953375,
     "title": "BÁN DÃY TRỌ 5 PHÒNG – MT ĐƯỜNG NGUYỄN MINH KHÔNG - GẦN BẾN XE_DT 128M2",
     "price": 5200000000,
@@ -472,25 +491,6 @@
     "postedAt": 1774432691000,
     "lat": 16.0532,
     "lng": 108.16589
-  },
-  {
-    "id": 174594515,
-    "title": "bán dãy trọ 12 phòng kiệt 120 nguyễn lương bằng.",
-    "price": 6550000000,
-    "priceString": "6,55 tỷ",
-    "pricePerSqm": 32.8,
-    "size": 200,
-    "district": "Quận Liên Chiểu",
-    "ward": "Phường Hòa Khánh Bắc",
-    "street": "Đường Nguyễn Lương Bằng",
-    "category": "Nhà ở",
-    "rooms": 11,
-    "image": "https://cdn.chotot.com/19YWAcpD1qOwge_WqgwvQpMuj8_no80zI87EXRK1HN0/preset:listing/plain/43f88a8206fe8eee8e203d39ac298588-2974918639895643979.jpg",
-    "url": "https://www.nhatot.com/131118772.htm",
-    "date": "5 ngày trước",
-    "postedAt": 1774482259000,
-    "lat": 16.08689,
-    "lng": 108.14428
   },
   {
     "id": 174715453,
@@ -568,24 +568,6 @@
     "postedAt": 1774063215000,
     "lat": 16.022854,
     "lng": 108.21119
-  },
-  {
-    "id": 171821886,
-    "title": "Đất đường Phong Bắc 4, Lên số nhà 19, Gần trường học Nguyễn Văn Linh",
-    "price": 5100000000,
-    "priceString": "5,1 tỷ",
-    "pricePerSqm": 41.1,
-    "size": 124,
-    "district": "Quận Cẩm Lệ",
-    "ward": "Phường Hòa Thọ Đông",
-    "street": "Đường Lê Cao Lãng",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/E5O6iaoop9o835MeS0RJksDaFnidXQvfYDdZU7ACWrs/preset:listing/plain/ee2dfb13580cb56cac40c890406aae73-2962905594774011859.jpg",
-    "url": "https://www.nhatot.com/128733074.htm",
-    "date": "2 tuần trước",
-    "postedAt": 1773534626282,
-    "lat": 16.009235,
-    "lng": 108.20146
   },
   {
     "id": 174563797,
