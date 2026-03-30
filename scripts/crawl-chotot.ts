@@ -10,6 +10,8 @@ import { join } from 'path';
 const PROPERTY_PATH = join(import.meta.dirname, '..', 'src', 'data', 'property-historical.json');
 const DANANG_PATH = join(import.meta.dirname, '..', 'src', 'data', 'danang-districts.json');
 const HUE_PATH = join(import.meta.dirname, '..', 'src', 'data', 'hue-districts.json');
+const DANANG_LISTINGS_PATH = join(import.meta.dirname, '..', 'src', 'data', 'danang-listings.json');
+const DAMSEN_LISTINGS_PATH = join(import.meta.dirname, '..', 'src', 'data', 'damsen-listings.json');
 
 const API_BASE = 'https://gateway.chotot.com/v1/public/ad-listing';
 
@@ -35,10 +37,24 @@ const DANANG_DISTRICTS = {
 const HUE_CITY_AREA = 604001;
 
 interface ChototAd {
+  ad_id: number;
+  list_id: number;
+  subject: string;
   price: number;
-  size: number;
+  price_string: string;
   price_million_per_m2?: number;
-  category: number;
+  size: number;
+  area_name: string;
+  ward_name: string;
+  street_name?: string;
+  category_name: string;
+  floors?: number;
+  rooms?: number;
+  image: string;
+  date: string;
+  list_time: number;
+  latitude?: number;
+  longitude?: number;
   area_v2: number;
   region: number;
 }
@@ -199,6 +215,90 @@ async function crawlHueCity(): Promise<number | null> {
   return result;
 }
 
+// --- Listing snapshots ---
+
+function parseBlock(title: string): string | undefined {
+  const m = title.match(/\bB[23]-\d+\b/i);
+  return m ? m[0].toUpperCase() : undefined;
+}
+
+function mapAdToListing(ad: ChototAd) {
+  const title = ad.subject.replace(/[✨📍🏡☎️📲🌟💵🔥🏠✅]/g, '').trim();
+  return {
+    id: ad.ad_id,
+    title,
+    price: ad.price,
+    priceString: ad.price_string,
+    pricePerSqm: Math.round((ad.price_million_per_m2 ?? 0) * 10) / 10,
+    size: ad.size,
+    district: ad.area_name,
+    ward: ad.ward_name,
+    street: ad.street_name || '',
+    category: ad.category_name,
+    floors: ad.floors,
+    rooms: ad.rooms,
+    image: ad.image,
+    url: `https://www.nhatot.com/${ad.list_id}.htm`,
+    date: ad.date,
+    postedAt: ad.list_time,
+    lat: ad.latitude,
+    lng: ad.longitude,
+    block: parseBlock(ad.subject),
+  };
+}
+
+const DANANG_AREA_PREFIX = '3017';
+
+async function snapshotDanangListings() {
+  console.log('  Snapshotting Da Nang listings...');
+  const allAds: ChototAd[] = [];
+  const limit = 50;
+
+  for (let page = 0; page < 6; page++) {
+    const params = new URLSearchParams({ cg: '1000', st: 's,k', region: '3', limit: String(limit), o: String(page * limit) });
+    try {
+      const res = await fetch(`${API_BASE}?${params}`, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+      if (!res.ok) break;
+      const data = await res.json();
+      const ads: ChototAd[] = data.ads || [];
+      if (ads.length === 0) break;
+      for (const ad of ads) {
+        if (String(ad.area_v2).startsWith(DANANG_AREA_PREFIX) && ad.price > 0 && ad.size > 0 && ad.price_million_per_m2) {
+          allAds.push(ad);
+        }
+      }
+      if (ads.length < limit) break;
+    } catch { break; }
+  }
+
+  const listings = allAds.map(mapAdToListing);
+  writeFileSync(DANANG_LISTINGS_PATH, JSON.stringify(listings, null, 2) + '\n');
+  console.log(`    ${listings.length} Da Nang listings → danang-listings.json`);
+}
+
+async function snapshotDamSenListings() {
+  console.log('  Snapshotting Đầm Sen listings...');
+  const allAds: ChototAd[] = [];
+  const limit = 50;
+
+  for (let page = 0; page < 4; page++) {
+    const params = new URLSearchParams({ cg: '1000', st: 's,k', region: '3', q: 'đầm sen', limit: String(limit), o: String(page * limit) });
+    try {
+      const res = await fetch(`${API_BASE}?${params}`, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+      if (!res.ok) break;
+      const data = await res.json();
+      const ads: ChototAd[] = data.ads || [];
+      if (ads.length === 0) break;
+      allAds.push(...ads.filter((a: ChototAd) => a.price > 0 && a.size > 0 && a.price_million_per_m2));
+      if (ads.length < limit) break;
+    } catch { break; }
+  }
+
+  const listings = allAds.map(mapAdToListing);
+  writeFileSync(DAMSEN_LISTINGS_PATH, JSON.stringify(listings, null, 2) + '\n');
+  console.log(`    ${listings.length} Đầm Sen listings → damsen-listings.json`);
+}
+
 async function main() {
   const date = today();
   console.log(`Crawling Cho Tot real estate data for ${date}...\n`);
@@ -258,6 +358,11 @@ async function main() {
   } else {
     console.log('No Hue data to update (insufficient listings)');
   }
+
+  // --- Listing snapshots ---
+  console.log('\n=== Listing Snapshots ===');
+  await snapshotDanangListings();
+  await snapshotDamSenListings();
 
   console.log('\nDone!');
 }

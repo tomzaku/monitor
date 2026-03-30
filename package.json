@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "crawl:gold": "tsx scripts/crawl-gold.ts",
+    "crawl:yahoo": "tsx scripts/crawl-yahoo.ts",
     "crawl:chotot": "tsx scripts/crawl-chotot.ts",
-    "dev": "tsx scripts/crawl-gold.ts && vite",
-    "build": "tsx scripts/crawl-gold.ts && tsc -b && vite build",
+    "dev": "tsx scripts/crawl-gold.ts && tsx scripts/crawl-yahoo.ts && vite",
+    "build": "tsx scripts/crawl-gold.ts && tsx scripts/crawl-yahoo.ts && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -33,5 +34,6 @@
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.56.1",
     "vite": "^8.0.0"
-  }
+  },
+  "packageManager": "yarn@4.12.0+sha512.f45ab632439a67f8bc759bf32ead036a1f413287b9042726b7cc4818b7b49e14e9423ba49b18f9e06ea4941c1ad062385b1d8760a8d5091a1a31e5f6219afca8"
 }

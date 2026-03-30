@@ -31,7 +31,8 @@
       "WebFetch(domain:kenhnhadatdanang.com)",
       "WebFetch(domain:datnenhoaxuan.com)",
       "WebFetch(domain:landmap.vn)",
-      "WebFetch(domain:*)"
+      "WebFetch(domain:*)",
+      "Bash(npm run:*)"
     ]
   }
 }
