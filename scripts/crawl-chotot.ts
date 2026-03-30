@@ -223,7 +223,10 @@ function parseBlock(title: string): string | undefined {
 }
 
 function mapAdToListing(ad: ChototAd) {
-  const title = ad.subject.replace(/[✨📍🏡☎️📲🌟💵🔥🏠✅]/g, '').trim();
+  const title = ad.subject
+    .replace(/[\uD800-\uDFFF]/g, '')  // remove surrogates (emoji + lone surrogates)
+    .replace(/\s+/g, ' ')
+    .trim();
   return {
     id: ad.ad_id,
     title,

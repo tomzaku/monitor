@@ -37,7 +37,7 @@
   },
   {
     "id": 174748518,
-    "title": "CẮT LỖ 300tr chỉ còn 4 tỷ 990tr lô ĐẦM SEN-NAM HÒA XUÂN-ĐÀ NẴNG \ude2d\ude2d\ude2d",
+    "title": "CẮT LỖ 300tr chỉ còn 4 tỷ 990tr lô ĐẦM SEN-NAM HÒA XUÂN-ĐÀ NẴNG",
     "price": 4990000000,
     "priceString": "4,99 tỷ",
     "pricePerSqm": 49.9,
@@ -66,7 +66,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/Wf3ye1he62X5_tVRzf4qRbARr-gGBACe-bZ8mswwjTA/preset:listing/plain/3d916b7d43db184a470e0ae1e593cba2-2977682693741525874.jpg",
     "url": "https://www.nhatot.com/131510038.htm",
-    "date": "13 giờ trước",
+    "date": "14 giờ trước",
     "postedAt": 1774837265000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -199,24 +199,6 @@
     "lng": 108.24368
   },
   {
-    "id": 174462262,
-    "title": "bán đất đầm sen nam hoà xuân tp đà nẵng",
-    "price": 5500000000,
-    "priceString": "5,5 tỷ",
-    "pricePerSqm": 55,
-    "size": 100,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/PYbl-a5aXaZOvcwwmD_J93QOlxe_CJpKFOcx6V1aQAY/preset:listing/plain/44531d4b5806559b4b6d4bf9bb9e44aa-2974057898761986145.jpg",
-    "url": "https://www.nhatot.com/131005008.htm",
-    "date": "1 tuần trước",
-    "postedAt": 1774056002000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 174941603,
     "title": "Bán đất đường Nguyễn Sỹ Huynh - khu Đầm Sen Nam Hoà Xuân",
     "price": 5450000000,
@@ -233,6 +215,24 @@
     "postedAt": 1774409083000,
     "lat": 15.982958,
     "lng": 108.23342
+  },
+  {
+    "id": 174462262,
+    "title": "bán đất đầm sen nam hoà xuân tp đà nẵng",
+    "price": 5500000000,
+    "priceString": "5,5 tỷ",
+    "pricePerSqm": 55,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/PYbl-a5aXaZOvcwwmD_J93QOlxe_CJpKFOcx6V1aQAY/preset:listing/plain/44531d4b5806559b4b6d4bf9bb9e44aa-2974057898761986145.jpg",
+    "url": "https://www.nhatot.com/131005008.htm",
+    "date": "1 tuần trước",
+    "postedAt": 1774056002000,
+    "lat": 15.99914,
+    "lng": 108.250885
   },
   {
     "id": 174892700,
@@ -271,24 +271,6 @@
     "lng": 108.23342
   },
   {
-    "id": 174616767,
-    "title": "Cặp Đầm Sen 5-13 tỷ 8xx. Nam Hoà Xuân",
-    "price": 13800000000,
-    "priceString": "13,8 tỷ",
-    "pricePerSqm": 55.6,
-    "size": 248,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/6adew-9h6ksmiYm5uAuLbxQwEMJD2mLmHFtbBkjl9rU/preset:listing/plain/e3cdc8e9c573c64f817a86fea4ed815a-2975004607783570781.jpg",
-    "url": "https://www.nhatot.com/131137941.htm",
-    "date": "3 tuần trước",
-    "postedAt": 1773296403000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 170029959,
     "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
     "price": 5700000000,
@@ -307,8 +289,26 @@
     "lng": 108.22902
   },
   {
+    "id": 174616767,
+    "title": "Cặp Đầm Sen 5-13 tỷ 8xx. Nam Hoà Xuân",
+    "price": 13800000000,
+    "priceString": "13,8 tỷ",
+    "pricePerSqm": 55.6,
+    "size": 248,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/6adew-9h6ksmiYm5uAuLbxQwEMJD2mLmHFtbBkjl9rU/preset:listing/plain/e3cdc8e9c573c64f817a86fea4ed815a-2975004607783570781.jpg",
+    "url": "https://www.nhatot.com/131137941.htm",
+    "date": "3 tuần trước",
+    "postedAt": 1773296403000,
+    "lat": 15.99914,
+    "lng": 108.250885
+  },
+  {
     "id": 174585791,
-    "title": "BÁN NHANH LÔ ĐẦM SEN 23  NAM HÒA XUÂN ĐÔNG NAM GẦN SÔNG LÔ SẠCH ĐẸP",
+    "title": "BÁN NHANH LÔ ĐẦM SEN 23 NAM HÒA XUÂN ĐÔNG NAM GẦN SÔNG LÔ SẠCH ĐẸP",
     "price": 6180000000,
     "priceString": "6,18 tỷ",
     "pricePerSqm": 61.8,
@@ -552,24 +552,6 @@
     "lng": 108.25596
   },
   {
-    "id": 171821886,
-    "title": "Đất đường Phong Bắc 4,\nLên số nhà 19,\nGần trường học Nguyễn Văn Linh",
-    "price": 5100000000,
-    "priceString": "5,1 tỷ",
-    "pricePerSqm": 41.1,
-    "size": 124,
-    "district": "Quận Cẩm Lệ",
-    "ward": "Phường Hòa Thọ Đông",
-    "street": "Đường Lê Cao Lãng",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/E5O6iaoop9o835MeS0RJksDaFnidXQvfYDdZU7ACWrs/preset:listing/plain/ee2dfb13580cb56cac40c890406aae73-2962905594774011859.jpg",
-    "url": "https://www.nhatot.com/128733074.htm",
-    "date": "2 tuần trước",
-    "postedAt": 1773534626282,
-    "lat": 16.009235,
-    "lng": 108.20146
-  },
-  {
     "id": 174384544,
     "title": "4.7 TỶ SỞ HỮU NGAY DÃY TRỌ 7 PHÒNG – THU 14 TRIỆU/THÁNG – GẦN 3 ĐẠI HỌ",
     "price": 4700000000,
@@ -586,6 +568,24 @@
     "postedAt": 1774063215000,
     "lat": 16.022854,
     "lng": 108.21119
+  },
+  {
+    "id": 171821886,
+    "title": "Đất đường Phong Bắc 4, Lên số nhà 19, Gần trường học Nguyễn Văn Linh",
+    "price": 5100000000,
+    "priceString": "5,1 tỷ",
+    "pricePerSqm": 41.1,
+    "size": 124,
+    "district": "Quận Cẩm Lệ",
+    "ward": "Phường Hòa Thọ Đông",
+    "street": "Đường Lê Cao Lãng",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/E5O6iaoop9o835MeS0RJksDaFnidXQvfYDdZU7ACWrs/preset:listing/plain/ee2dfb13580cb56cac40c890406aae73-2962905594774011859.jpg",
+    "url": "https://www.nhatot.com/128733074.htm",
+    "date": "2 tuần trước",
+    "postedAt": 1773534626282,
+    "lat": 16.009235,
+    "lng": 108.20146
   },
   {
     "id": 174563797,
