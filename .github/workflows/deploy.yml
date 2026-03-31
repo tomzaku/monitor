@@ -4,6 +4,10 @@ on:
   push:
     branches: [master]
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Crawl Market Data", "Crawl Chotot Listings"]
+    types: [completed]
+    branches: [master]
 
 permissions:
   contents: read
