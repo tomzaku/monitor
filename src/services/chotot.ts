@@ -26,6 +26,12 @@ export interface ChototListing {
 const danangListings = danangListingsData as ChototListing[];
 const damsenListings = damsenListingsData as ChototListing[];
 
+export type ListingSource = 'all' | 'chotot' | 'batdongsan';
+
+export function getListingSource(listing: ChototListing): 'chotot' | 'batdongsan' {
+  return listing.url.includes('batdongsan.com.vn') ? 'batdongsan' : 'chotot';
+}
+
 const CATEGORY_MAP: Record<string, string[]> = {
   house: ['Nhà ở', 'Nhà phố', 'Biệt thự', 'Nhà riêng'],
   land: ['Đất nền', 'Đất', 'Đất thổ cư'],

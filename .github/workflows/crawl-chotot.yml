@@ -23,6 +23,12 @@ jobs:
 
       - run: npm run crawl:chotot
 
+      - name: Install Chrome (for batdongsan crawl)
+        run: |
+          which google-chrome || (sudo apt-get update -q && sudo apt-get install -y -q google-chrome-stable)
+
+      - run: npm run crawl:batdongsan
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"

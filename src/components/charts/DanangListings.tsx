@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react';
 import { useDanangListings } from '../../hooks/useDanangListings';
 import type { ChototListing } from '../../services/chotot';
+import { getListingSource, type ListingSource } from '../../services/chotot';
 
 type SortKey = 'price' | 'pricePerSqm' | 'size' | 'district' | 'postedAt';
 type SortDir = 'asc' | 'desc';
@@ -38,8 +39,15 @@ function formatPostedDate(ts: number): string {
   return `${d.getDate()}/${d.getMonth() + 1}/${d.getFullYear()}`;
 }
 
+const SOURCES: { key: ListingSource; label: string }[] = [
+  { key: 'all', label: 'Tất cả' },
+  { key: 'chotot', label: 'Chợ Tốt' },
+  { key: 'batdongsan', label: 'BatDongSan' },
+];
+
 export function DanangListings() {
   const [category, setCategory] = useState<Category>('all');
+  const [source, setSource] = useState<ListingSource>('all');
   const [sortKey, setSortKey] = useState<SortKey>('price');
   const [sortDir, setSortDir] = useState<SortDir>('asc');
   const [locationFilter, setLocationFilter] = useState<string>('all');
@@ -61,6 +69,9 @@ export function DanangListings() {
   const sorted = useMemo(() => {
     if (!listings) return [];
     let filtered = listings;
+    if (source !== 'all') {
+      filtered = filtered.filter(l => getListingSource(l) === source);
+    }
     if (locationFilter !== 'all') {
       const wardArea = WARD_AREAS.find(a => a.label === locationFilter);
       if (wardArea) {
@@ -78,7 +89,7 @@ export function DanangListings() {
       }
       return sortDir === 'asc' ? cmp : -cmp;
     });
-  }, [listings, sortKey, sortDir, locationFilter]);
+  }, [listings, source, sortKey, sortDir, locationFilter]);
 
   function handleSort(key: SortKey) {
     if (sortKey === key) {
@@ -107,7 +118,7 @@ export function DanangListings() {
           BĐS Đà Nẵng — Đang bán
         </h3>
         <div style={{ fontSize: 12, color: 'var(--text-muted)', marginTop: 4 }}>
-          Nguồn: Chợ Tốt (nhatot.com) • {sorted.length} tin
+          Chợ Tốt + BatDongSan • {sorted.length} tin
         </div>
       </div>
 
@@ -120,6 +131,28 @@ export function DanangListings() {
         alignItems: 'center',
         borderBottom: '1px solid var(--border)',
       }}>
+        {/* Source filter */}
+        {SOURCES.map(s => (
+          <button
+            key={s.key}
+            onClick={() => setSource(s.key)}
+            style={{
+              padding: '4px 12px',
+              borderRadius: 6,
+              border: `1px solid ${source === s.key ? 'var(--accent)' : 'var(--border)'}`,
+              background: source === s.key ? 'rgba(79,195,247,0.12)' : 'transparent',
+              color: source === s.key ? 'var(--accent)' : 'var(--text-secondary)',
+              cursor: 'pointer',
+              fontSize: 13,
+              transition: 'all 0.15s',
+            }}
+          >
+            {s.label}
+          </button>
+        ))}
+
+        <span style={{ color: 'var(--border)' }}>|</span>
+
         {/* Category tabs */}
         {CATEGORIES.map(c => (
           <button

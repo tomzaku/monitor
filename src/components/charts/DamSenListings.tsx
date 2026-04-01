@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react';
 import { useDamSenListings } from '../../hooks/useDamSenListings';
 import type { ChototListing } from '../../services/chotot';
+import { getListingSource, type ListingSource } from '../../services/chotot';
 
 type SortKey = 'block' | 'price' | 'pricePerSqm' | 'size' | 'postedAt';
 type SortDir = 'asc' | 'desc';
@@ -39,15 +40,23 @@ function blockSortKey(block: string | undefined): string {
   return `B${m[1].padStart(2, '0')}-${m[2].padStart(4, '0')}`;
 }
 
+const SOURCES: { key: ListingSource; label: string }[] = [
+  { key: 'all', label: 'Tất cả' },
+  { key: 'chotot', label: 'Chợ Tốt' },
+  { key: 'batdongsan', label: 'BatDongSan' },
+];
+
 export function DamSenListings() {
   const [sortKey, setSortKey] = useState<SortKey>('block');
   const [sortDir, setSortDir] = useState<SortDir>('asc');
+  const [source, setSource] = useState<ListingSource>('all');
 
   const { data: listings, isLoading, error } = useDamSenListings();
 
   const sorted = useMemo(() => {
     if (!listings) return [];
-    return [...listings].sort((a, b) => {
+    const filtered = source === 'all' ? listings : listings.filter(l => getListingSource(l) === source);
+    return [...filtered].sort((a, b) => {
       let cmp = 0;
       if (sortKey === 'block') {
         cmp = blockSortKey(a.block).localeCompare(blockSortKey(b.block));
@@ -56,7 +65,7 @@ export function DamSenListings() {
       }
       return sortDir === 'asc' ? cmp : -cmp;
     });
-  }, [listings, sortKey, sortDir]);
+  }, [listings, source, sortKey, sortDir]);
 
   function handleSort(key: SortKey) {
     if (sortKey === key) {
@@ -96,7 +105,7 @@ export function DamSenListings() {
           Đầm Sen — Nam Hòa Xuân
         </h3>
         <div style={{ fontSize: 12, color: 'var(--text-muted)', marginTop: 4, display: 'flex', gap: 16, flexWrap: 'wrap' }}>
-          <span>Nguồn: Chợ Tốt • {sorted.length} tin</span>
+          <span>Chợ Tốt + BatDongSan • {sorted.length} tin</span>
           {stats && (
             <>
               <span>Giá/m²: <span style={{ color: 'var(--text-secondary)' }}>{stats.min}–{stats.max} triệu</span></span>
@@ -115,6 +124,28 @@ export function DamSenListings() {
         alignItems: 'center',
         borderBottom: '1px solid var(--border)',
       }}>
+        {/* Source filter */}
+        {SOURCES.map(s => (
+          <button
+            key={s.key}
+            onClick={() => setSource(s.key)}
+            style={{
+              padding: '4px 12px',
+              borderRadius: 6,
+              border: `1px solid ${source === s.key ? 'var(--accent)' : 'var(--border)'}`,
+              background: source === s.key ? 'rgba(79,195,247,0.12)' : 'transparent',
+              color: source === s.key ? 'var(--accent)' : 'var(--text-secondary)',
+              cursor: 'pointer',
+              fontSize: 13,
+              transition: 'all 0.15s',
+            }}
+          >
+            {s.label}
+          </button>
+        ))}
+
+        <span style={{ color: 'var(--border)' }}>|</span>
+
         <span style={{ fontSize: 12, color: 'var(--text-muted)' }}>Sắp xếp:</span>
         {SORT_OPTIONS.map(s => (
           <button
