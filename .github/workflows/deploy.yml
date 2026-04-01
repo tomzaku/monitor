@@ -7,7 +7,6 @@ on:
   workflow_run:
     workflows: ["Crawl Market Data", "Crawl Chotot Listings"]
     types: [completed]
-    branches: [master]
 
 permissions:
   contents: read
@@ -21,6 +20,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v4
 
