@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/kqJ00tA7rAFkAG5FDo8duPif2LsVndgC7WSRCUw-yvo/preset:listing/plain/9b1e8da126a42f8adc9058de0e143dd1-2973698125331048222.jpg",
     "url": "https://www.nhatot.com/130961502.htm",
-    "date": "21 giờ trước",
+    "date": "23 giờ trước",
     "postedAt": 1775054530000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/S_3sRx8uQAeLgG31OgFYurktYRDQZKvM2hQ0I24bfTs/preset:listing/plain/30238fe80730b4b03f4bfe8749a13cae-2978160928564058252.jpg",
     "url": "https://www.nhatot.com/131582883.htm",
-    "date": "2 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1775122546000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -512,6 +512,38 @@
     "postedAt": 1774396800000
   },
   {
+    "id": 45314741,
+    "title": "Villa 2 mặt tiền trung tâm hiếm hàng khu 400/7 Điện Biên Phủ",
+    "price": 12750000000,
+    "priceString": "12,75 tỷ",
+    "pricePerSqm": 182.1,
+    "size": 70,
+    "district": "Q. Thanh Khê",
+    "ward": "P. Thanh Khê mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
+    "date": "2/4/2026",
+    "postedAt": 1775088000000
+  },
+  {
+    "id": 45209257,
+    "title": "Chuyển nhượng khách sạn 4 sao, 23 tầng view biển Mỹ Khê vip MT đường Võ Văn Kiệt cách biển 50m",
+    "price": 350000000000,
+    "priceString": "350 tỷ",
+    "pricePerSqm": 1296.3,
+    "size": 270,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-van-kiet-phuong-phuoc-my-49/chuyen-nhuong-khach-san-4-sao-23-tang-view-bien-khe-vip-tien-uong-cach-bien-50m-pr45209257",
+    "date": "2/4/2026",
+    "postedAt": 1775088000000
+  },
+  {
     "id": 45448500,
     "title": "Đất kiệt Nguyễn Duy Trinh - Gần biển Non Nước, 83m2, hướng Đông Nam mát mẻ, 3.2 tỷ",
     "price": 3200000000,
@@ -576,22 +608,6 @@
     "postedAt": 1775088000000
   },
   {
-    "id": 45314741,
-    "title": "Villa 2 mặt tiền trung tâm hiếm hàng khu 400/7 Điện Biên Phủ",
-    "price": 12750000000,
-    "priceString": "12,75 tỷ",
-    "pricePerSqm": 182.1,
-    "size": 70,
-    "district": "Q. Thanh Khê",
-    "ward": "P. Thanh Khê mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
-    "date": "2/4/2026",
-    "postedAt": 1775088000000
-  },
-  {
     "id": 45441467,
     "title": "Bán lô đất siêu hot tại Phong Nam, 9 tỷ, 348.3m2, pháp lý đầy đủ",
     "price": 9000000000,
@@ -606,22 +622,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-phong-nam-xa-hoa-chau-51/ban-02-lo-at-sieu-hot-tai-9-ty-348-3m2-phap-ly-ay-u-pr45441467",
     "date": "2/4/2026",
     "postedAt": 1775088000000
-  },
-  {
-    "id": 43880460,
-    "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
-    "price": 28000000000,
-    "priceString": "28 tỷ",
-    "pricePerSqm": 98.8,
-    "size": 283.4,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
-    "date": "1/4/2026",
-    "postedAt": 1775001600000
   },
   {
     "id": 45402116,
@@ -1003,6 +1003,38 @@
     "postedAt": 1774396800000
   },
   {
+    "id": 45314741,
+    "title": "Villa 2 mặt tiền trung tâm hiếm hàng khu 400/7 Điện Biên Phủ",
+    "price": 12750000000,
+    "priceString": "12,75 tỷ",
+    "pricePerSqm": 182.1,
+    "size": 70,
+    "district": "Q. Thanh Khê",
+    "ward": "P. Thanh Khê mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/15/20260315153325-b471_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
+    "date": "2/4/2026",
+    "postedAt": 1775088000000
+  },
+  {
+    "id": 45209257,
+    "title": "Chuyển nhượng khách sạn 4 sao, 23 tầng view biển Mỹ Khê vip MT đường Võ Văn Kiệt cách biển 50m",
+    "price": 350000000000,
+    "priceString": "350 tỷ",
+    "pricePerSqm": 1296.3,
+    "size": 270,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/02/20260302094651-8319_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-van-kiet-phuong-phuoc-my-49/chuyen-nhuong-khach-san-4-sao-23-tang-view-bien-khe-vip-tien-uong-cach-bien-50m-pr45209257",
+    "date": "2/4/2026",
+    "postedAt": 1775088000000
+  },
+  {
     "id": 45448500,
     "title": "Đất kiệt Nguyễn Duy Trinh - Gần biển Non Nước, 83m2, hướng Đông Nam mát mẻ, 3.2 tỷ",
     "price": 3200000000,
@@ -1013,7 +1045,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/01/20260401100707-ed33_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duy-trinh-phuong-hoa-hai-48/kiet-gan-bien-non-nuoc-pr45448500",
     "date": "2/4/2026",
     "postedAt": 1775088000000
@@ -1029,7 +1061,7 @@
     "ward": "P. Hòa Cường mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/26/20260326145937-67d3_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-phuong-hoa-cuong-bac/ban-lo-at-biet-thu-khu-ao-xanh-5-khu-o-biet-lap-vip-nhat-thanh-pho-a-nang-pr45405895",
     "date": "2/4/2026",
     "postedAt": 1775088000000
@@ -1067,22 +1099,6 @@
     "postedAt": 1775088000000
   },
   {
-    "id": 45314741,
-    "title": "Villa 2 mặt tiền trung tâm hiếm hàng khu 400/7 Điện Biên Phủ",
-    "price": 12750000000,
-    "priceString": "12,75 tỷ",
-    "pricePerSqm": 182.1,
-    "size": 70,
-    "district": "Q. Thanh Khê",
-    "ward": "P. Thanh Khê mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
-    "date": "2/4/2026",
-    "postedAt": 1775088000000
-  },
-  {
     "id": 45441467,
     "title": "Bán lô đất siêu hot tại Phong Nam, 9 tỷ, 348.3m2, pháp lý đầy đủ",
     "price": 9000000000,
@@ -1097,22 +1113,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-phong-nam-xa-hoa-chau-51/ban-02-lo-at-sieu-hot-tai-9-ty-348-3m2-phap-ly-ay-u-pr45441467",
     "date": "2/4/2026",
     "postedAt": 1775088000000
-  },
-  {
-    "id": 43880460,
-    "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
-    "price": 28000000000,
-    "priceString": "28 tỷ",
-    "pricePerSqm": 98.8,
-    "size": 283.4,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
-    "date": "1/4/2026",
-    "postedAt": 1775001600000
   },
   {
     "id": 45399792,
@@ -1480,6 +1480,38 @@
     "postedAt": 1774396800000
   },
   {
+    "id": 45314741,
+    "title": "Villa 2 mặt tiền trung tâm hiếm hàng khu 400/7 Điện Biên Phủ",
+    "price": 12750000000,
+    "priceString": "12,75 tỷ",
+    "pricePerSqm": 182.1,
+    "size": 70,
+    "district": "Q. Thanh Khê",
+    "ward": "P. Thanh Khê mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/15/20260315153325-b471_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
+    "date": "2/4/2026",
+    "postedAt": 1775088000000
+  },
+  {
+    "id": 45209257,
+    "title": "Chuyển nhượng khách sạn 4 sao, 23 tầng view biển Mỹ Khê vip MT đường Võ Văn Kiệt cách biển 50m",
+    "price": 350000000000,
+    "priceString": "350 tỷ",
+    "pricePerSqm": 1296.3,
+    "size": 270,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/02/20260302094651-8319_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-van-kiet-phuong-phuoc-my-49/chuyen-nhuong-khach-san-4-sao-23-tang-view-bien-khe-vip-tien-uong-cach-bien-50m-pr45209257",
+    "date": "2/4/2026",
+    "postedAt": 1775088000000
+  },
+  {
     "id": 45448500,
     "title": "Đất kiệt Nguyễn Duy Trinh - Gần biển Non Nước, 83m2, hướng Đông Nam mát mẻ, 3.2 tỷ",
     "price": 3200000000,
@@ -1490,7 +1522,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/01/20260401100707-ed33_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duy-trinh-phuong-hoa-hai-48/kiet-gan-bien-non-nuoc-pr45448500",
     "date": "2/4/2026",
     "postedAt": 1775088000000
@@ -1506,7 +1538,7 @@
     "ward": "P. Hòa Cường mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/26/20260326145937-67d3_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-phuong-hoa-cuong-bac/ban-lo-at-biet-thu-khu-ao-xanh-5-khu-o-biet-lap-vip-nhat-thanh-pho-a-nang-pr45405895",
     "date": "2/4/2026",
     "postedAt": 1775088000000
@@ -1544,22 +1576,6 @@
     "postedAt": 1775088000000
   },
   {
-    "id": 45314741,
-    "title": "Villa 2 mặt tiền trung tâm hiếm hàng khu 400/7 Điện Biên Phủ",
-    "price": 12750000000,
-    "priceString": "12,75 tỷ",
-    "pricePerSqm": 182.1,
-    "size": 70,
-    "district": "Q. Thanh Khê",
-    "ward": "P. Thanh Khê mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
-    "date": "2/4/2026",
-    "postedAt": 1775088000000
-  },
-  {
     "id": 45441467,
     "title": "Bán lô đất siêu hot tại Phong Nam, 9 tỷ, 348.3m2, pháp lý đầy đủ",
     "price": 9000000000,
@@ -1574,22 +1590,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-phong-nam-xa-hoa-chau-51/ban-02-lo-at-sieu-hot-tai-9-ty-348-3m2-phap-ly-ay-u-pr45441467",
     "date": "2/4/2026",
     "postedAt": 1775088000000
-  },
-  {
-    "id": 43880460,
-    "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
-    "price": 28000000000,
-    "priceString": "28 tỷ",
-    "pricePerSqm": 98.8,
-    "size": 283.4,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
-    "date": "1/4/2026",
-    "postedAt": 1775001600000
   },
   {
     "id": 45446388,
