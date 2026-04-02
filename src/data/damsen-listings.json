@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/S_3sRx8uQAeLgG31OgFYurktYRDQZKvM2hQ0I24bfTs/preset:listing/plain/30238fe80730b4b03f4bfe8749a13cae-2978160928564058252.jpg",
     "url": "https://www.nhatot.com/131582883.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1775122546000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/58dAMZx8cIJ696sAQP2TTqN9w3C_1dEYPBz_5sBOVIk/preset:listing/plain/1c270181643791272dc2f39f47066570-2978184863526377175.jpg",
     "url": "https://www.nhatot.com/131586936.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1775136699000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -235,24 +235,6 @@
     "block": "B2-129"
   },
   {
-    "id": 174989576,
-    "title": "Rẻ Sập Hầm đầm sen - còn 1 lô đường thông sát giac sát công viên",
-    "price": 5480000000,
-    "priceString": "5,48 tỷ",
-    "pricePerSqm": 54.8,
-    "size": 100,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Trần Đại Nghĩa",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/erdPaJQWxuAMIO7A612WEtjg29R0yPj4BoHaSswV8O8/preset:listing/plain/19529d05b9d3751ba1977615336e46e3-2977249782031891314.jpg",
-    "url": "https://www.nhatot.com/131453676.htm",
-    "date": "7 ngày trước",
-    "postedAt": 1774579281000,
-    "lat": 15.98648,
-    "lng": 108.25671
-  },
-  {
     "id": 174965832,
     "title": "Lô đất bo góc đẹp",
     "price": 15000000000,
@@ -269,6 +251,24 @@
     "postedAt": 1774494190000,
     "lat": 15.99914,
     "lng": 108.250885
+  },
+  {
+    "id": 174989576,
+    "title": "Rẻ Sập Hầm đầm sen - còn 1 lô đường thông sát giac sát công viên",
+    "price": 5480000000,
+    "priceString": "5,48 tỷ",
+    "pricePerSqm": 54.8,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Trần Đại Nghĩa",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/erdPaJQWxuAMIO7A612WEtjg29R0yPj4BoHaSswV8O8/preset:listing/plain/19529d05b9d3751ba1977615336e46e3-2977249782031891314.jpg",
+    "url": "https://www.nhatot.com/131453676.htm",
+    "date": "7 ngày trước",
+    "postedAt": 1774579281000,
+    "lat": 15.98648,
+    "lng": 108.25671
   },
   {
     "id": 174215045,
