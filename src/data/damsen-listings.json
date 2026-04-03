@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/S_3sRx8uQAeLgG31OgFYurktYRDQZKvM2hQ0I24bfTs/preset:listing/plain/30238fe80730b4b03f4bfe8749a13cae-2978160928564058252.jpg",
     "url": "https://www.nhatot.com/131582883.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1775208600000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/58dAMZx8cIJ696sAQP2TTqN9w3C_1dEYPBz_5sBOVIk/preset:listing/plain/1c270181643791272dc2f39f47066570-2978184863526377175.jpg",
     "url": "https://www.nhatot.com/131586936.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1775208484000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -156,7 +156,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/o7wn82c0NCr5Hvq27n-bahIVshDzFZ_VZofKTQKAUb4/preset:listing/plain/b3e47d0e230ea73c6d78e8f5de6e4ff8-2975824709370708373.jpg",
     "url": "https://www.nhatot.com/131250891.htm",
-    "date": "5 ngày trước",
+    "date": "6 ngày trước",
     "postedAt": 1774740454000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -434,6 +434,23 @@
     "lng": 108.22902
   },
   {
+    "id": 42895181,
+    "title": "Quỹ căn của CĐT dự án The Legend Đà Nẵng, view sông và cầu Rồng",
+    "price": 6850000000,
+    "priceString": "6,85 tỷ",
+    "pricePerSqm": 113.6,
+    "size": 60.3,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/05/06/20250506135656-c188_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-van-kiet-phuong-an-hai-nam-the-legend-city/da-nang-khoi-dau-huyen-thoai-tren-truc-ty-do-pr42895181",
+    "date": "3/4/2026",
+    "postedAt": 1775174400000
+  },
+  {
     "id": 45379311,
     "title": "Hàng kín Vinhomes Hải Vân Bay quỹ thưởng quỹ ẩn bạch vân & đảo ngọc giá gốc f0 cơ chế cao cho khách",
     "price": 0,
@@ -463,22 +480,6 @@
     "rooms": 1,
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/02/20260402112905-9d9c_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower-21005/bien-a-nang-gia-re-2pn-f5-1515-chiet-khau-3-02ty-chi-tt-70-gia-vay-25-pr45416717",
-    "date": "3/4/2026",
-    "postedAt": 1775174400000
-  },
-  {
-    "id": 45271250,
-    "title": "Từ 6tỷ sở hữu liền kề+xây. Quỹ căn ngoại giao rẻ và đẹp nhất dự án. Gọi tư vấn Ms Đào 0982 974 ***",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 65,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/10/20260310104427-e349_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/chi-tu-6-ty-so-huu-quy-can-ngoai-giao-re-va-ep-nhat-du-an-goi-tu-ms-ao-0982974979-pr45271250",
     "date": "3/4/2026",
     "postedAt": 1775174400000
   },
@@ -641,6 +642,22 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
     "date": "2/4/2026",
     "postedAt": 1775088000000
+  },
+  {
+    "id": 45271250,
+    "title": "Từ 6tỷ sở hữu liền kề+xây. Quỹ căn ngoại giao rẻ và đẹp nhất dự án. Gọi tư vấn Ms Đào 0982 974 ***",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 65,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/10/20260310104427-e349_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/chi-tu-6-ty-so-huu-quy-can-ngoai-giao-re-va-ep-nhat-du-an-goi-tu-ms-ao-0982974979-pr45271250",
+    "date": "3/4/2026",
+    "postedAt": 1775174400000
   },
   {
     "id": 45236414,
@@ -959,22 +976,6 @@
     "postedAt": 1775174400000
   },
   {
-    "id": 45271266,
-    "title": "Đợt 1 khu Bạch Vân Vinhomes Hải Vân Bay - từ 5,2 tỷ - liền kề, biệt thự từ 63m2 - giá rẻ nhất",
-    "price": 5200000000,
-    "priceString": "5,2 tỷ",
-    "pricePerSqm": 82.5,
-    "size": 63,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/02/20260402140558-e6cd_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/chinh-thuc-nhan-booking-quy-hang-ot-1-tu-63m2-lau-dai-pr45271266",
-    "date": "2/4/2026",
-    "postedAt": 1775088000000
-  },
-  {
     "id": 45356964,
     "title": "Đất đẹp giá rẻ khu dân cư hiện đại sát sông, biển, núi Ngũ Hành Sơn - Đà Nẵng",
     "price": 5900000000,
@@ -985,7 +986,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/20/20260320124935-1c1b_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-vo-chi-cong-phuong-hoa-hai-fpt-city-da-nang/at-ep-gia-re-khu-dan-cu-hien-ai-sat-song-bien-nui-ngu-hanh-son-a-nang-pr45356964",
     "date": "1/4/2026",
     "postedAt": 1775001600000
@@ -1001,7 +1002,7 @@
     "ward": "P. Sơn Trà mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/28/20260328003856-fd68_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-man-quang-8-phuong-tho-quang-49/chinh-chu-so-o-cat-ket-can-ban-101-3m2-at-tt-son-tra-pr45418333",
     "date": "1/4/2026",
     "postedAt": 1775001600000
@@ -1017,7 +1018,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "25/3/2026",
     "postedAt": 1774396800000
@@ -1033,7 +1034,7 @@
     "ward": "P. Hải Vân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/27/20260327103654-5d88_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-tran-van-que-phuong-hoa-hiep-nam-lakeside-palace/ban-lo-uong-7-5m-k-t-re-nhat-thi-truong-pr45412068",
     "date": "3/4/2026",
     "postedAt": 1775174400000
@@ -1049,7 +1050,7 @@
     "ward": "P. Hải Vân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/01/20260401165802-0b0c_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-huynh-dang-phuong-hoa-hiep-nam-47/re-nhat-at-mt-uong-10m5-ong-cua-4-sat-ori-garden-cang-lien-chieu-gia-4ty5xx-pr45453385",
     "date": "3/4/2026",
     "postedAt": 1775174400000
@@ -1065,7 +1066,7 @@
     "ward": "P. Hòa Cường mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/26/20260326145937-67d3_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-phuong-hoa-cuong-bac/ban-lo-at-biet-thu-khu-ao-xanh-5-khu-o-biet-lap-vip-nhat-thanh-pho-a-nang-pr45405895",
     "date": "3/4/2026",
     "postedAt": 1775174400000
@@ -1131,6 +1132,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
+    "date": "2/4/2026",
+    "postedAt": 1775088000000
+  },
+  {
+    "id": 45271266,
+    "title": "Đợt 1 khu Bạch Vân Vinhomes Hải Vân Bay - từ 5,2 tỷ - liền kề, biệt thự từ 63m2 - giá rẻ nhất",
+    "price": 5200000000,
+    "priceString": "5,2 tỷ",
+    "pricePerSqm": 82.5,
+    "size": 63,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/02/20260402140558-e6cd_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/chinh-thuc-nhan-booking-quy-hang-ot-1-tu-63m2-lau-dai-pr45271266",
     "date": "2/4/2026",
     "postedAt": 1775088000000
   },
@@ -1538,7 +1555,7 @@
     "ward": "P. Hòa Cường mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/26/20260326145937-67d3_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-phuong-hoa-cuong-bac/ban-lo-at-biet-thu-khu-ao-xanh-5-khu-o-biet-lap-vip-nhat-thanh-pho-a-nang-pr45405895",
     "date": "3/4/2026",
     "postedAt": 1775174400000
@@ -1874,23 +1891,6 @@
     "rooms": 2,
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/29/20260329085949-600e_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower-21005/ban-fuors-ngu-hanh-son-vi-tri-ac-ia-gia-f0-thanh-toan-linh-hoat-pr45365601",
-    "date": "31/3/2026",
-    "postedAt": 1774915200000
-  },
-  {
-    "id": 45441503,
-    "title": "CHUYỂN NHƯỢNG 30 SUẤT NỘI BỘ VILLA - BIỆT THỰ VIN LÀNG VÂN. LH PKD CĐT 0941 356 ***",
-    "price": 5790000000,
-    "priceString": "5,79 tỷ",
-    "pricePerSqm": 80.4,
-    "size": 72,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 5,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/29/20260329131752-6c3d_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/chuyen-nhuong-30-suat-noi-bo-villa-vin-lang-lh-pkd-c-t-pr45441503",
     "date": "31/3/2026",
     "postedAt": 1774915200000
   }
