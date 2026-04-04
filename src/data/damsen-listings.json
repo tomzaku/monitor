@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/o7wn82c0NCr5Hvq27n-bahIVshDzFZ_VZofKTQKAUb4/preset:listing/plain/b3e47d0e230ea73c6d78e8f5de6e4ff8-2975824709370708373.jpg",
     "url": "https://www.nhatot.com/131250891.htm",
-    "date": "11 giờ trước",
+    "date": "12 giờ trước",
     "postedAt": 1775257046000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -138,7 +138,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
     "url": "https://www.nhatot.com/127169287.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1775290425000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -174,7 +174,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/erdPaJQWxuAMIO7A612WEtjg29R0yPj4BoHaSswV8O8/preset:listing/plain/19529d05b9d3751ba1977615336e46e3-2977249782031891314.jpg",
     "url": "https://www.nhatot.com/131453676.htm",
-    "date": "19 giờ trước",
+    "date": "20 giờ trước",
     "postedAt": 1775229244000,
     "lat": 15.98648,
     "lng": 108.25671
@@ -434,6 +434,22 @@
     "lng": 108.22902
   },
   {
+    "id": 45454809,
+    "title": "Vinhomes Hải Vân Bay - siêu phẩm đại đô thị nghỉ dưỡng 512ha - sở hữu lâu dài - CS ưu đãi nhất 2026",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 63,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/01/20260401212821-0d71_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/sieu-pham-ai-o-thi-nghi-duong-512ha-so-huu-lau-dai-cs-uu-ai-nhat-2026-pr45454809",
+    "date": "4/4/2026",
+    "postedAt": 1775260800000
+  },
+  {
     "id": 45342540,
     "title": "Trực tiếp CĐT Biệt thự biển chỉ từ 9,38 tỷ Vin Làng Vân Đà Nẵng sở hữu lâu dài vốn chỉ từ 3 tỷ HOT",
     "price": 9500000000,
@@ -468,23 +484,6 @@
     "postedAt": 1775260800000
   },
   {
-    "id": 39872224,
-    "title": "Căn hộ 1PN view Panaroma Sông Hàn tầng cao ngắm pháo hoa tuyệt đẹp - Cam kết giá tốt nhất T3/2026",
-    "price": 3310000000,
-    "priceString": "3,31 tỷ",
-    "pricePerSqm": 68,
-    "size": 48.7,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 3,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2024/05/16/20240516185425-19f6_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/nhan-dat-cho-dot-1-cao-cap-mat-song-han-gan-bien-my-khe-so-huu-lau-dai-vi-tri-kim-cuong-pr39872224",
-    "date": "4/4/2026",
-    "postedAt": 1775260800000
-  },
-  {
     "id": 45418333,
     "title": "Chính chủ - Sổ đỏ cất két cần bán 101,3m2 đất TT Sơn Trà",
     "price": 8600000000,
@@ -495,7 +494,7 @@
     "ward": "P. Sơn Trà mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/28/20260328003856-fd68_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-man-quang-8-phuong-tho-quang-49/chinh-chu-so-o-cat-ket-can-ban-101-3m2-at-tt-son-tra-pr45418333",
     "date": "1/4/2026",
     "postedAt": 1775001600000
@@ -511,10 +510,26 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "25/3/2026",
     "postedAt": 1774396800000
+  },
+  {
+    "id": 45458900,
+    "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
+    "price": 9000000000,
+    "priceString": "9 tỷ",
+    "pricePerSqm": 85.7,
+    "size": 105,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/02/20260402112400-5ff8_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
+    "date": "4/4/2026",
+    "postedAt": 1775260800000
   },
   {
     "id": 45412068,
@@ -527,7 +542,7 @@
     "ward": "P. Hải Vân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/27/20260327103654-5d88_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-tran-van-que-phuong-hoa-hiep-nam-lakeside-palace/ban-lo-uong-7-5m-k-t-re-nhat-thi-truong-pr45412068",
     "date": "4/4/2026",
     "postedAt": 1775260800000
@@ -543,24 +558,8 @@
     "ward": "P. An Hải mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/02/20260302094651-8319_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-van-kiet-phuong-phuoc-my-49/chuyen-nhuong-khach-san-4-sao-23-tang-view-bien-khe-vip-tien-uong-cach-bien-50m-pr45209257",
-    "date": "4/4/2026",
-    "postedAt": 1775260800000
-  },
-  {
-    "id": 45458900,
-    "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
-    "price": 9000000000,
-    "priceString": "9 tỷ",
-    "pricePerSqm": 85.7,
-    "size": 105,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
     "date": "4/4/2026",
     "postedAt": 1775260800000
   },
@@ -643,6 +642,23 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
     "date": "2/4/2026",
     "postedAt": 1775088000000
+  },
+  {
+    "id": 39872224,
+    "title": "Căn hộ 1PN view Panaroma Sông Hàn tầng cao ngắm pháo hoa tuyệt đẹp - Cam kết giá tốt nhất T3/2026",
+    "price": 3310000000,
+    "priceString": "3,31 tỷ",
+    "pricePerSqm": 68,
+    "size": 48.7,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 3,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2024/05/16/20240516185425-19f6_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/nhan-dat-cho-dot-1-cao-cap-mat-song-han-gan-bien-my-khe-so-huu-lau-dai-vi-tri-kim-cuong-pr39872224",
+    "date": "4/4/2026",
+    "postedAt": 1775260800000
   },
   {
     "id": 45364619,
@@ -959,23 +975,6 @@
     "postedAt": 1775174400000
   },
   {
-    "id": 45398214,
-    "title": "Hàng hiếm! Độc quyền căn 1 p ngủ view trực diện biển Đông Nam nội thất hoàn thiện, sở hữu lâu dài",
-    "price": 3300000000,
-    "priceString": "3,3 tỷ",
-    "pricePerSqm": 73.3,
-    "size": 45,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/25/20260325164218-282b_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-van-kiet-phuong-an-hai-nam-hiyori-garden-tower/hang-hiem-oc-quyen-1-ngu-view-truc-dien-bien-ong-noi-that-hoan-thien-so-huu-lau-dai-pr45398214",
-    "date": "3/4/2026",
-    "postedAt": 1775174400000
-  },
-  {
     "id": 45418333,
     "title": "Chính chủ - Sổ đỏ cất két cần bán 101,3m2 đất TT Sơn Trà",
     "price": 8600000000,
@@ -1008,6 +1007,22 @@
     "postedAt": 1774396800000
   },
   {
+    "id": 45458900,
+    "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
+    "price": 9000000000,
+    "priceString": "9 tỷ",
+    "pricePerSqm": 85.7,
+    "size": 105,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/02/20260402112400-5ff8_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
+    "date": "4/4/2026",
+    "postedAt": 1775260800000
+  },
+  {
     "id": 45412068,
     "title": "Cần tiền bán lô đường 7,5m Trần Văn Quế KĐT Lakeside rẻ nhất thị trường",
     "price": 4500000000,
@@ -1036,22 +1051,6 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/02/20260302094651-8319_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-van-kiet-phuong-phuoc-my-49/chuyen-nhuong-khach-san-4-sao-23-tang-view-bien-khe-vip-tien-uong-cach-bien-50m-pr45209257",
-    "date": "4/4/2026",
-    "postedAt": 1775260800000
-  },
-  {
-    "id": 45458900,
-    "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
-    "price": 9000000000,
-    "priceString": "9 tỷ",
-    "pricePerSqm": 85.7,
-    "size": 105,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/02/20260402112400-5ff8_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
     "date": "4/4/2026",
     "postedAt": 1775260800000
   },
@@ -1134,6 +1133,23 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
     "date": "2/4/2026",
     "postedAt": 1775088000000
+  },
+  {
+    "id": 45398214,
+    "title": "Hàng hiếm! Độc quyền căn 1 p ngủ view trực diện biển Đông Nam nội thất hoàn thiện, sở hữu lâu dài",
+    "price": 3300000000,
+    "priceString": "3,3 tỷ",
+    "pricePerSqm": 73.3,
+    "size": 45,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/25/20260325164218-282b_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-van-kiet-phuong-an-hai-nam-hiyori-garden-tower/hang-hiem-oc-quyen-1-ngu-view-truc-dien-bien-ong-noi-that-hoan-thien-so-huu-lau-dai-pr45398214",
+    "date": "3/4/2026",
+    "postedAt": 1775174400000
   },
   {
     "id": 43422070,
@@ -1350,22 +1366,6 @@
     "postedAt": 1775088000000
   },
   {
-    "id": 45454809,
-    "title": "Vinhomes Hải Vân Bay - siêu phẩm đại đô thị nghỉ dưỡng 512ha - sở hữu lâu dài - CS ưu đãi nhất 2026",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 63,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/01/20260401212821-0d71_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/sieu-pham-ai-o-thi-nghi-duong-512ha-so-huu-lau-dai-cs-uu-ai-nhat-2026-pr45454809",
-    "date": "2/4/2026",
-    "postedAt": 1775088000000
-  },
-  {
     "id": 45461981,
     "title": "Ngoại giao căn 1 phòng ngủ tầng trung view sông Hàn dự án Capital, ưu đãi đến 14% cho nhà đầu tư",
     "price": 3960000000,
@@ -1498,6 +1498,22 @@
     "postedAt": 1774396800000
   },
   {
+    "id": 45458900,
+    "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
+    "price": 9000000000,
+    "priceString": "9 tỷ",
+    "pricePerSqm": 85.7,
+    "size": 105,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/02/20260402112400-5ff8_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
+    "date": "4/4/2026",
+    "postedAt": 1775260800000
+  },
+  {
     "id": 45412068,
     "title": "Cần tiền bán lô đường 7,5m Trần Văn Quế KĐT Lakeside rẻ nhất thị trường",
     "price": 4500000000,
@@ -1526,22 +1542,6 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/02/20260302094651-8319_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-van-kiet-phuong-phuoc-my-49/chuyen-nhuong-khach-san-4-sao-23-tang-view-bien-khe-vip-tien-uong-cach-bien-50m-pr45209257",
-    "date": "4/4/2026",
-    "postedAt": 1775260800000
-  },
-  {
-    "id": 45458900,
-    "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
-    "price": 9000000000,
-    "priceString": "9 tỷ",
-    "pricePerSqm": 85.7,
-    "size": 105,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/02/20260402112400-5ff8_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
     "date": "4/4/2026",
     "postedAt": 1775260800000
   },
