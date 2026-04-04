@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/o7wn82c0NCr5Hvq27n-bahIVshDzFZ_VZofKTQKAUb4/preset:listing/plain/b3e47d0e230ea73c6d78e8f5de6e4ff8-2975824709370708373.jpg",
     "url": "https://www.nhatot.com/131250891.htm",
-    "date": "14 giờ trước",
+    "date": "15 giờ trước",
     "postedAt": 1775257046000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -138,7 +138,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
     "url": "https://www.nhatot.com/127169287.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1775290425000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -174,7 +174,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/erdPaJQWxuAMIO7A612WEtjg29R0yPj4BoHaSswV8O8/preset:listing/plain/19529d05b9d3751ba1977615336e46e3-2977249782031891314.jpg",
     "url": "https://www.nhatot.com/131453676.htm",
-    "date": "22 giờ trước",
+    "date": "23 giờ trước",
     "postedAt": 1775229244000,
     "lat": 15.98648,
     "lng": 108.25671
@@ -428,10 +428,27 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/h75_g4k1wrG0BwqKv1dNbhGV3caDcSVJKjK1I2YExK0/preset:listing/plain/ec522a060510e26380696001d1e3ce80-2952930784544170434.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "3 tuần trước",
+    "date": "4 tuần trước",
     "postedAt": 1773192625000,
     "lat": 16.01607,
     "lng": 108.22902
+  },
+  {
+    "id": 45449556,
+    "title": "Dự kiến 3.4 tỷ/căn 2 PN (full giá) của CDT Sun Group - Fours Tower view sông, biển",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 65,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/01/20260401111245-2425_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower-21005/3-4-ty-2-pn-9full-gia-cua-cdt-sun-goup-view-song-bien-pr45449556",
+    "date": "4/4/2026",
+    "postedAt": 1775260800000
   },
   {
     "id": 45454809,
@@ -463,23 +480,6 @@
     "rooms": 5,
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/18/20260318173332-5e2a_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/bang-gia-ot-1-bien-chi-tu-9-38-ty-vin-lang-a-nang-so-huu-lau-dai-von-chi-tu-3-ty-hot-pr45342540",
-    "date": "4/4/2026",
-    "postedAt": 1775260800000
-  },
-  {
-    "id": 45402116,
-    "title": "Căn hộ biển dự kiến chỉ từ 1.6 tỷ món quà đầu tư từ Sungroup trong năm 2026 - quà tặng CK 5%",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 33,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/26/20260326095023-a331_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/bien-1-6-ty-mon-qua-au-tu-tu-sungroup-trong-nam-2026-qua-tang-ck-5-pr45402116",
     "date": "4/4/2026",
     "postedAt": 1775260800000
   },
@@ -642,6 +642,23 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
     "date": "2/4/2026",
     "postedAt": 1775088000000
+  },
+  {
+    "id": 45402116,
+    "title": "Căn hộ biển dự kiến chỉ từ 1.6 tỷ món quà đầu tư từ Sungroup trong năm 2026 - quà tặng CK 5%",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 33,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/26/20260326095023-a331_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/bien-1-6-ty-mon-qua-au-tu-tu-sungroup-trong-nam-2026-qua-tang-ck-5-pr45402116",
+    "date": "4/4/2026",
+    "postedAt": 1775260800000
   },
   {
     "id": 39872224,
@@ -958,23 +975,6 @@
     "postedAt": 1775174400000
   },
   {
-    "id": 44218881,
-    "title": "Căn Dual Key view sông tầng 15 dự án Masterise Đà Nẵng, giá trực tiếp CĐT, CK 15%, LH 0905 277 ***",
-    "price": 7900000000,
-    "priceString": "7,9 tỷ",
-    "pricePerSqm": 78,
-    "size": 101.3,
-    "district": "Q. Hải Châu",
-    "ward": "P. Hòa Cường mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/10/21/20251021110849-9e00_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-masteri-rivera-danang/cuoi-cung-du-an-view-song-han-da-nang-gio-hang-dot-dau-chiet-khau-den-18-pr44218881",
-    "date": "3/4/2026",
-    "postedAt": 1775174400000
-  },
-  {
     "id": 45418333,
     "title": "Chính chủ - Sổ đỏ cất két cần bán 101,3m2 đất TT Sơn Trà",
     "price": 8600000000,
@@ -1133,6 +1133,23 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
     "date": "2/4/2026",
     "postedAt": 1775088000000
+  },
+  {
+    "id": 44218881,
+    "title": "Căn Dual Key view sông tầng 15 dự án Masterise Đà Nẵng, giá trực tiếp CĐT, CK 15%, LH 0905 277 ***",
+    "price": 7900000000,
+    "priceString": "7,9 tỷ",
+    "pricePerSqm": 78,
+    "size": 101.3,
+    "district": "Q. Hải Châu",
+    "ward": "P. Hòa Cường mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/10/21/20251021110849-9e00_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-masteri-rivera-danang/cuoi-cung-du-an-view-song-han-da-nang-gio-hang-dot-dau-chiet-khau-den-18-pr44218881",
+    "date": "3/4/2026",
+    "postedAt": 1775174400000
   },
   {
     "id": 45398214,
@@ -1450,22 +1467,6 @@
     "postedAt": 1775088000000
   },
   {
-    "id": 45456639,
-    "title": "Bán căn hộ cho thuê gần ngay cầu Rồng",
-    "price": 31000000000,
-    "priceString": "31 tỷ",
-    "pricePerSqm": 184.5,
-    "size": 168,
-    "district": "Q. Hải Châu",
-    "ward": "P. Hải Châu mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/02/20260402090935-6b80_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-phuong-phuoc-ninh/ban-can-ho-cho-thue-gan-ngay-cau-rong-pr45456639",
-    "date": "2/4/2026",
-    "postedAt": 1775088000000
-  },
-  {
     "id": 45418333,
     "title": "Chính chủ - Sổ đỏ cất két cần bán 101,3m2 đất TT Sơn Trà",
     "price": 8600000000,
@@ -1556,7 +1557,7 @@
     "ward": "P. Hòa Cường mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/26/20260326145937-67d3_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-phuong-hoa-cuong-bac/ban-lo-at-biet-thu-khu-ao-xanh-5-khu-o-biet-lap-vip-nhat-thanh-pho-a-nang-pr45405895",
     "date": "4/4/2026",
     "postedAt": 1775260800000
@@ -1626,6 +1627,22 @@
     "postedAt": 1775088000000
   },
   {
+    "id": 45456639,
+    "title": "Bán căn hộ cho thuê gần ngay cầu Rồng",
+    "price": 31000000000,
+    "priceString": "31 tỷ",
+    "pricePerSqm": 184.5,
+    "size": 168,
+    "district": "Q. Hải Châu",
+    "ward": "P. Hải Châu mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/02/20260402090935-6b80_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-phuong-phuoc-ninh/ban-can-ho-cho-thue-gan-ngay-cau-rong-pr45456639",
+    "date": "2/4/2026",
+    "postedAt": 1775088000000
+  },
+  {
     "id": 45399792,
     "title": "Duy nhất cơ hội sở hữu căn 3 phòng ngủ view biển rẻ nhất từng xuất hiện từ Sun Group!",
     "price": 0,
@@ -1688,23 +1705,6 @@
     "rooms": 2,
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/11/11/20251111084023-7cfb_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-29-3-1-phuong-hoa-xuan-cora-tower/sun-da-nang-phap-ly-minh-bach-so-huu-lau-dai-tiem-nang-tang-gia-pr45057302",
-    "date": "1/4/2026",
-    "postedAt": 1775001600000
-  },
-  {
-    "id": 45449556,
-    "title": "Dự kiến 3.4 tỷ/căn 2 PN (full giá) của CDT Sun Group - Fours Tower view sông, biển",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 65,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/01/20260401111245-2425_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower-21005/3-4-ty-2-pn-9full-gia-cua-cdt-sun-goup-view-song-bien-pr45449556",
     "date": "1/4/2026",
     "postedAt": 1775001600000
   },
