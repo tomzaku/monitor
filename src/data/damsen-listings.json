@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/o7wn82c0NCr5Hvq27n-bahIVshDzFZ_VZofKTQKAUb4/preset:listing/plain/b3e47d0e230ea73c6d78e8f5de6e4ff8-2975824709370708373.jpg",
     "url": "https://www.nhatot.com/131250891.htm",
-    "date": "23 giờ trước",
+    "date": "24 giờ trước",
     "postedAt": 1775257046000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -138,7 +138,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
     "url": "https://www.nhatot.com/127169287.htm",
-    "date": "13 giờ trước",
+    "date": "14 giờ trước",
     "postedAt": 1775290425000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -494,7 +494,7 @@
     "ward": "P. Sơn Trà mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/28/20260328003856-fd68_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-man-quang-8-phuong-tho-quang-49/chinh-chu-so-o-cat-ket-can-ban-101-3m2-at-tt-son-tra-pr45418333",
     "date": "1/4/2026",
     "postedAt": 1775001600000
@@ -510,26 +510,10 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "25/3/2026",
     "postedAt": 1774396800000
-  },
-  {
-    "id": 45412068,
-    "title": "Cần tiền bán lô đường 7,5m Trần Văn Quế KĐT Lakeside rẻ nhất thị trường",
-    "price": 4500000000,
-    "priceString": "4,5 tỷ",
-    "pricePerSqm": 45,
-    "size": 100,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/27/20260327103654-5d88_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-tran-van-que-phuong-hoa-hiep-nam-lakeside-palace/ban-lo-uong-7-5m-k-t-re-nhat-thi-truong-pr45412068",
-    "date": "5/4/2026",
-    "postedAt": 1775347200000
   },
   {
     "id": 45458900,
@@ -542,10 +526,26 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/02/20260402112400-5ff8_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
-    "date": "4/4/2026",
-    "postedAt": 1775260800000
+    "date": "5/4/2026",
+    "postedAt": 1775347200000
+  },
+  {
+    "id": 45412068,
+    "title": "Cần tiền bán lô đường 7,5m Trần Văn Quế KĐT Lakeside rẻ nhất thị trường",
+    "price": 4500000000,
+    "priceString": "4,5 tỷ",
+    "pricePerSqm": 45,
+    "size": 100,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-tran-van-que-phuong-hoa-hiep-nam-lakeside-palace/ban-lo-uong-7-5m-k-t-re-nhat-thi-truong-pr45412068",
+    "date": "5/4/2026",
+    "postedAt": 1775347200000
   },
   {
     "id": 45209257,
@@ -558,7 +558,7 @@
     "ward": "P. An Hải mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/02/20260302094651-8319_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-van-kiet-phuong-phuoc-my-49/chuyen-nhuong-khach-san-4-sao-23-tang-view-bien-khe-vip-tien-uong-cach-bien-50m-pr45209257",
     "date": "4/4/2026",
     "postedAt": 1775260800000
@@ -574,7 +574,7 @@
     "ward": "P. Hòa Cường mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/26/20260326145937-67d3_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-phuong-hoa-cuong-bac/ban-lo-at-biet-thu-khu-ao-xanh-5-khu-o-biet-lap-vip-nhat-thanh-pho-a-nang-pr45405895",
     "date": "4/4/2026",
     "postedAt": 1775260800000
@@ -1007,6 +1007,22 @@
     "postedAt": 1774396800000
   },
   {
+    "id": 45458900,
+    "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
+    "price": 9000000000,
+    "priceString": "9 tỷ",
+    "pricePerSqm": 85.7,
+    "size": 105,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
+    "date": "5/4/2026",
+    "postedAt": 1775347200000
+  },
+  {
     "id": 45412068,
     "title": "Cần tiền bán lô đường 7,5m Trần Văn Quế KĐT Lakeside rẻ nhất thị trường",
     "price": 4500000000,
@@ -1021,22 +1037,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-tran-van-que-phuong-hoa-hiep-nam-lakeside-palace/ban-lo-uong-7-5m-k-t-re-nhat-thi-truong-pr45412068",
     "date": "5/4/2026",
     "postedAt": 1775347200000
-  },
-  {
-    "id": 45458900,
-    "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
-    "price": 9000000000,
-    "priceString": "9 tỷ",
-    "pricePerSqm": 85.7,
-    "size": 105,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
-    "date": "4/4/2026",
-    "postedAt": 1775260800000
   },
   {
     "id": 45209257,
@@ -1499,6 +1499,22 @@
     "postedAt": 1774396800000
   },
   {
+    "id": 45458900,
+    "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
+    "price": 9000000000,
+    "priceString": "9 tỷ",
+    "pricePerSqm": 85.7,
+    "size": 105,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/02/20260402112400-5ff8_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
+    "date": "5/4/2026",
+    "postedAt": 1775347200000
+  },
+  {
     "id": 45412068,
     "title": "Cần tiền bán lô đường 7,5m Trần Văn Quế KĐT Lakeside rẻ nhất thị trường",
     "price": 4500000000,
@@ -1513,22 +1529,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-tran-van-que-phuong-hoa-hiep-nam-lakeside-palace/ban-lo-uong-7-5m-k-t-re-nhat-thi-truong-pr45412068",
     "date": "5/4/2026",
     "postedAt": 1775347200000
-  },
-  {
-    "id": 45458900,
-    "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
-    "price": 9000000000,
-    "priceString": "9 tỷ",
-    "pricePerSqm": 85.7,
-    "size": 105,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/02/20260402112400-5ff8_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
-    "date": "4/4/2026",
-    "postedAt": 1775260800000
   },
   {
     "id": 45209257,
