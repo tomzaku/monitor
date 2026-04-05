@@ -120,7 +120,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
     "url": "https://www.nhatot.com/127169287.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1775373545000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -517,22 +517,6 @@
     "postedAt": 1774396800000
   },
   {
-    "id": 45124380,
-    "title": "Bán nhà mặt tiền 3 tầng đường Bàu Làng 2 - Thanh Khê - gần Trần Cao Vân - Giá tốt",
-    "price": 9850000000,
-    "priceString": "9,85 tỷ",
-    "pricePerSqm": 144.9,
-    "size": 68,
-    "district": "Q. Thanh Khê",
-    "ward": "P. Thanh Khê mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-phuong-xuan-ha/ban-3-tang-tien-17-bau-lang-2-thanh-khe-da-nang-pr45124380",
-    "date": "5/4/2026",
-    "postedAt": 1775347200000
-  },
-  {
     "id": 45458900,
     "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
     "price": 9000000000,
@@ -545,6 +529,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
+    "date": "5/4/2026",
+    "postedAt": 1775347200000
+  },
+  {
+    "id": 45124380,
+    "title": "Bán nhà mặt tiền 3 tầng đường Bàu Làng 2 - Thanh Khê - gần Trần Cao Vân - Giá tốt",
+    "price": 9850000000,
+    "priceString": "9,85 tỷ",
+    "pricePerSqm": 144.9,
+    "size": 68,
+    "district": "Q. Thanh Khê",
+    "ward": "P. Thanh Khê mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-phuong-xuan-ha/ban-3-tang-tien-17-bau-lang-2-thanh-khe-da-nang-pr45124380",
     "date": "5/4/2026",
     "postedAt": 1775347200000
   },
@@ -1010,22 +1010,6 @@
     "postedAt": 1774396800000
   },
   {
-    "id": 45124380,
-    "title": "Bán nhà mặt tiền 3 tầng đường Bàu Làng 2 - Thanh Khê - gần Trần Cao Vân - Giá tốt",
-    "price": 9850000000,
-    "priceString": "9,85 tỷ",
-    "pricePerSqm": 144.9,
-    "size": 68,
-    "district": "Q. Thanh Khê",
-    "ward": "P. Thanh Khê mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/31/20260131115546-3601_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-phuong-xuan-ha/ban-3-tang-tien-17-bau-lang-2-thanh-khe-da-nang-pr45124380",
-    "date": "5/4/2026",
-    "postedAt": 1775347200000
-  },
-  {
     "id": 45458900,
     "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
     "price": 9000000000,
@@ -1038,6 +1022,22 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/02/20260402112400-5ff8_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
+    "date": "5/4/2026",
+    "postedAt": 1775347200000
+  },
+  {
+    "id": 45124380,
+    "title": "Bán nhà mặt tiền 3 tầng đường Bàu Làng 2 - Thanh Khê - gần Trần Cao Vân - Giá tốt",
+    "price": 9850000000,
+    "priceString": "9,85 tỷ",
+    "pricePerSqm": 144.9,
+    "size": 68,
+    "district": "Q. Thanh Khê",
+    "ward": "P. Thanh Khê mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/31/20260131115546-3601_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-phuong-xuan-ha/ban-3-tang-tien-17-bau-lang-2-thanh-khe-da-nang-pr45124380",
     "date": "5/4/2026",
     "postedAt": 1775347200000
   },
@@ -1500,22 +1500,6 @@
     "postedAt": 1774396800000
   },
   {
-    "id": 45124380,
-    "title": "Bán nhà mặt tiền 3 tầng đường Bàu Làng 2 - Thanh Khê - gần Trần Cao Vân - Giá tốt",
-    "price": 9850000000,
-    "priceString": "9,85 tỷ",
-    "pricePerSqm": 144.9,
-    "size": 68,
-    "district": "Q. Thanh Khê",
-    "ward": "P. Thanh Khê mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/31/20260131115546-3601_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-phuong-xuan-ha/ban-3-tang-tien-17-bau-lang-2-thanh-khe-da-nang-pr45124380",
-    "date": "5/4/2026",
-    "postedAt": 1775347200000
-  },
-  {
     "id": 45458900,
     "title": "Cần tiền bán nhanh lô đất tặng dãy trọ 6 phòng ngay Châu Thị Vĩnh Tế - Đỗ Bá",
     "price": 9000000000,
@@ -1528,6 +1512,22 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/02/20260402112400-5ff8_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
+    "date": "5/4/2026",
+    "postedAt": 1775347200000
+  },
+  {
+    "id": 45124380,
+    "title": "Bán nhà mặt tiền 3 tầng đường Bàu Làng 2 - Thanh Khê - gần Trần Cao Vân - Giá tốt",
+    "price": 9850000000,
+    "priceString": "9,85 tỷ",
+    "pricePerSqm": 144.9,
+    "size": 68,
+    "district": "Q. Thanh Khê",
+    "ward": "P. Thanh Khê mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/31/20260131115546-3601_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-phuong-xuan-ha/ban-3-tang-tien-17-bau-lang-2-thanh-khe-da-nang-pr45124380",
     "date": "5/4/2026",
     "postedAt": 1775347200000
   },
@@ -1558,7 +1558,7 @@
     "ward": "P. An Hải mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/02/20260302094651-8319_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-van-kiet-phuong-phuoc-my-49/chuyen-nhuong-khach-san-4-sao-23-tang-view-bien-khe-vip-tien-uong-cach-bien-50m-pr45209257",
     "date": "4/4/2026",
     "postedAt": 1775260800000
