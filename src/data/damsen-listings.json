@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/S_3sRx8uQAeLgG31OgFYurktYRDQZKvM2hQ0I24bfTs/preset:listing/plain/30238fe80730b4b03f4bfe8749a13cae-2978160928564058252.jpg",
     "url": "https://www.nhatot.com/131582883.htm",
-    "date": "hôm qua",
+    "date": "2 ngày trước",
     "postedAt": 1775208600000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/58dAMZx8cIJ696sAQP2TTqN9w3C_1dEYPBz_5sBOVIk/preset:listing/plain/1c270181643791272dc2f39f47066570-2978184863526377175.jpg",
     "url": "https://www.nhatot.com/131586936.htm",
-    "date": "hôm qua",
+    "date": "2 ngày trước",
     "postedAt": 1775208484000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -434,6 +434,23 @@
     "lng": 108.22902
   },
   {
+    "id": 45364619,
+    "title": "Sun mở bán căn hộ FourS Tower GĐ 1, CK 22%, nhận nhà chỉ TT 70% hỗ trợ vay 70% 0% lãi suất 30 tháng",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 60,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/28/20260328140026-f119_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower-21005/sun-mo-ban-a-nang-ck-5-at-cho-so-huu-chi-25-nhan-nha-tt-70-tro-vay-70-0-lai-pr45364619",
+    "date": "5/4/2026",
+    "postedAt": 1775347200000
+  },
+  {
     "id": 43801778,
     "title": "Căn cuối cùng 3 PN ngắm sông, biển Masteri Đà Nẵng, giá 6 tỷ full giá view sông Hàn",
     "price": 6000000000,
@@ -464,23 +481,6 @@
     "rooms": 1,
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/31/20260331141605-7e0d_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower-21005/ban-cc-cao-cap-4-toa-gia-tu-chu-au-tu-chi-tu-1ty650-ck-cao-tu-cdt-pr45442282",
-    "date": "5/4/2026",
-    "postedAt": 1775347200000
-  },
-  {
-    "id": 45298084,
-    "title": "Siêu phẩm căn 2PN Peninsula Đà Nẵng view trực diện sông hàn, pháo hoa",
-    "price": 4540000000,
-    "priceString": "4,54 tỷ",
-    "pricePerSqm": 62.3,
-    "size": 72.9,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/13/20260313085012-c5b2_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/sieu-pham-2pn-a-view-truc-dien-song-han-phao-hoa-pr45298084",
     "date": "5/4/2026",
     "postedAt": 1775347200000
   },
@@ -643,6 +643,23 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dt-602-xa-hoa-ninh-51/at-nen-a-nang-gia-re-t4-2026-so-o-chinh-chu-cong-chung-ngay-uong-11-5m-lien-he-pr45446189",
     "date": "3/4/2026",
     "postedAt": 1775174400000
+  },
+  {
+    "id": 45298084,
+    "title": "Siêu phẩm căn 2PN Peninsula Đà Nẵng view trực diện sông hàn, pháo hoa",
+    "price": 4540000000,
+    "priceString": "4,54 tỷ",
+    "pricePerSqm": 62.3,
+    "size": 72.9,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/13/20260313085012-c5b2_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/sieu-pham-2pn-a-view-truc-dien-song-han-phao-hoa-pr45298084",
+    "date": "5/4/2026",
+    "postedAt": 1775347200000
   },
   {
     "id": 45379311,
@@ -961,22 +978,6 @@
     "postedAt": 1775260800000
   },
   {
-    "id": 45473735,
-    "title": "CHÍNH THỨC CÓ GIÁ DỰ ÁN SUN FOURS TOWER HOÀ XUÂN ĐÀ NẴNG.GIỎ NGOẠI GIAO VIEW BIỂN",
-    "price": 2700000000,
-    "priceString": "2,7 tỷ",
-    "pricePerSqm": 50,
-    "size": 54,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/04/20260404064000-6aa4_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-48/chinh-thuc-co-gia-du-an-sun-fours-tower-xuan-a-nang-gio-ngoai-giao-view-bien-pr45473735",
-    "date": "4/4/2026",
-    "postedAt": 1775260800000
-  },
-  {
     "id": 45418333,
     "title": "Chính chủ - Sổ đỏ cất két cần bán 101,3m2 đất TT Sơn Trà",
     "price": 8600000000,
@@ -1135,6 +1136,22 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dt-602-xa-hoa-ninh-51/at-nen-a-nang-gia-re-t4-2026-so-o-chinh-chu-cong-chung-ngay-uong-11-5m-lien-he-pr45446189",
     "date": "3/4/2026",
     "postedAt": 1775174400000
+  },
+  {
+    "id": 45473735,
+    "title": "CHÍNH THỨC CÓ GIÁ DỰ ÁN SUN FOURS TOWER HOÀ XUÂN ĐÀ NẴNG.GIỎ NGOẠI GIAO VIEW BIỂN",
+    "price": 2700000000,
+    "priceString": "2,7 tỷ",
+    "pricePerSqm": 50,
+    "size": 54,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/04/20260404064000-6aa4_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-48/chinh-thuc-co-gia-du-an-sun-fours-tower-xuan-a-nang-gio-ngoai-giao-view-bien-pr45473735",
+    "date": "4/4/2026",
+    "postedAt": 1775260800000
   },
   {
     "id": 44697854,
@@ -1451,22 +1468,6 @@
     "postedAt": 1775088000000
   },
   {
-    "id": 45338852,
-    "title": "Thông tin dự án Vinhomes Hải Vân Bay Đà Nẵng",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 63,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/18/20260318114418-9537_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/bang-gia-re-qua-a-nang-co-49tr-m2-at-pr45338852",
-    "date": "2/4/2026",
-    "postedAt": 1775088000000
-  },
-  {
     "id": 45418333,
     "title": "Chính chủ - Sổ đỏ cất két cần bán 101,3m2 đất TT Sơn Trà",
     "price": 8600000000,
@@ -1557,7 +1558,7 @@
     "ward": "P. An Hải mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/02/20260302094651-8319_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-vo-van-kiet-phuong-phuoc-my-49/chuyen-nhuong-khach-san-4-sao-23-tang-view-bien-khe-vip-tien-uong-cach-bien-50m-pr45209257",
     "date": "4/4/2026",
     "postedAt": 1775260800000
@@ -1625,6 +1626,22 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dt-602-xa-hoa-ninh-51/at-nen-a-nang-gia-re-t4-2026-so-o-chinh-chu-cong-chung-ngay-uong-11-5m-lien-he-pr45446189",
     "date": "3/4/2026",
     "postedAt": 1775174400000
+  },
+  {
+    "id": 45338852,
+    "title": "Thông tin dự án Vinhomes Hải Vân Bay Đà Nẵng",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 63,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/18/20260318114418-9537_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/bang-gia-re-qua-a-nang-co-49tr-m2-at-pr45338852",
+    "date": "2/4/2026",
+    "postedAt": 1775088000000
   },
   {
     "id": 45461981,
@@ -1890,23 +1907,6 @@
     "rooms": 2,
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/02/20260402135542-9e96_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-phuoc-lan-phuong-hoa-quy-fours-tower-21005/sun-group-mo-ban-uong-minh-mang-ck-en-23-tt-70-nhan-ban-giao-ch-vay-ls-0-pr45446028",
-    "date": "31/3/2026",
-    "postedAt": 1774915200000
-  },
-  {
-    "id": 45444921,
-    "title": "BÁN BIỆT THỰ SONG LẬP TẠI VINHOMES HẢI VÂN BAY ĐÀ NẴNG - GIÁ RẺ CHỈ 8,9tỷ/ CĂN VILLA 4 TẦNG RẤT ĐẸP",
-    "price": 8900000000,
-    "priceString": "8,9 tỷ",
-    "pricePerSqm": 63.6,
-    "size": 140,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 5,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/31/20260331182144-8086_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/ban-song-lap-tai-a-nang-gia-re-chi-8-9ty-can-villa-4-tang-rat-ep-pr45444921",
     "date": "31/3/2026",
     "postedAt": 1774915200000
   }
