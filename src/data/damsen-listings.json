@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ByG0smKQAdTYG9nw1QOdgE72Cb1OIDuf0QefeAlXXOA/preset:listing/plain/2a26a228f99a936b56fb13a07ccb0dbe-2978618940874237837.jpg",
     "url": "https://www.nhatot.com/131644276.htm",
-    "date": "15 giờ trước",
+    "date": "16 giờ trước",
     "postedAt": 1775460124683,
     "lat": 15.982958,
     "lng": 108.23342
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/58dAMZx8cIJ696sAQP2TTqN9w3C_1dEYPBz_5sBOVIk/preset:listing/plain/1c270181643791272dc2f39f47066570-2978184863526377175.jpg",
     "url": "https://www.nhatot.com/131586936.htm",
-    "date": "20 giờ trước",
+    "date": "21 giờ trước",
     "postedAt": 1775440502186,
     "lat": 15.982958,
     "lng": 108.23342
@@ -102,7 +102,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "13 giờ trước",
+    "date": "14 giờ trước",
     "postedAt": 1775465495000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -126,24 +126,6 @@
     "lng": 108.23342
   },
   {
-    "id": 175118410,
-    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
-    "price": 4950000000,
-    "priceString": "4,95 tỷ",
-    "pricePerSqm": 47.1,
-    "size": 105,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
-    "url": "https://www.nhatot.com/131560978.htm",
-    "date": "6 ngày trước",
-    "postedAt": 1775033300000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 170029959,
     "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
     "price": 5700000000,
@@ -160,6 +142,24 @@
     "postedAt": 1775373545000,
     "lat": 16.01607,
     "lng": 108.22902
+  },
+  {
+    "id": 175118410,
+    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
+    "price": 4950000000,
+    "priceString": "4,95 tỷ",
+    "pricePerSqm": 47.1,
+    "size": 105,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
+    "url": "https://www.nhatot.com/131560978.htm",
+    "date": "6 ngày trước",
+    "postedAt": 1775033300000,
+    "lat": 15.99914,
+    "lng": 108.250885
   },
   {
     "id": 173963057,
@@ -452,6 +452,23 @@
     "lng": 108.250885
   },
   {
+    "id": 45449665,
+    "title": "Dự kiến chỉ 1,5 tỷ sở hữu studio Fours Tower 32m2 vị trí đẹp Hòa Quý",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 31,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/01/20260401111728-2f4e_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/du-kien-chi-1-5-ty-so-huu-studio-32m2-vi-tri-ep-quy-pr45449665",
+    "date": "7/4/2026",
+    "postedAt": 1775520000000
+  },
+  {
     "id": 45271266,
     "title": "Trực Tiếp CĐT Liền Kề Biển Khu Đảo Ngọc Vin Làng Vân - giá từ 8,1 tỷ đến 20 tỷ - Sở Hữu Lâu Dài",
     "price": 8100000000,
@@ -480,23 +497,6 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/06/20260406084534-fa8b_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/au-tu-am-tham-xuong-tien-2-ty-so-huu-bien-co-gi-ac-biet-pr45379311",
-    "date": "6/4/2026",
-    "postedAt": 1775433600000
-  },
-  {
-    "id": 45425792,
-    "title": "Giữ suất biệt thự, liền kề mặt biển khu Đảo Ngọc Vin Làng Vân - Vinhomes Hải Vân Bay",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 140,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 4,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/29/20260329103156-f0e8_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/truc-tiep-c-t-gia-min-max-mat-bien-khu-ao-ngoc-chon-vi-tri-pr45425792",
     "date": "6/4/2026",
     "postedAt": 1775433600000
   },
@@ -659,6 +659,23 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duy-trinh-phuong-hoa-hai-48/kiet-gan-bien-non-nuoc-pr45448500",
     "date": "3/4/2026",
     "postedAt": 1775174400000
+  },
+  {
+    "id": 45425792,
+    "title": "Giữ suất biệt thự, liền kề mặt biển khu Đảo Ngọc Vin Làng Vân - Vinhomes Hải Vân Bay",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 140,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 4,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/29/20260329103156-f0e8_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/truc-tiep-c-t-gia-min-max-mat-bien-khu-ao-ngoc-chon-vi-tri-pr45425792",
+    "date": "6/4/2026",
+    "postedAt": 1775433600000
   },
   {
     "id": 43422070,
@@ -924,23 +941,6 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/31/20260331135821-c77b_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/so-huu-vinh-bien-rieng-gia-tu-5-2ty-booking-som-chon-can-ep-lh-pr45442045",
-    "date": "6/4/2026",
-    "postedAt": 1775433600000
-  },
-  {
-    "id": 45469161,
-    "title": "Căn hộ 2PN cao cấp tầm view bao trọn biển miễn lãi 30 tháng",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 70,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/03/20260403134411-b87a_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/2pn-cao-cap-tam-view-bao-tron-bien-mien-lai-30-thang-pr45469161",
     "date": "6/4/2026",
     "postedAt": 1775433600000
   },
