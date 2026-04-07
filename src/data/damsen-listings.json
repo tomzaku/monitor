@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ByG0smKQAdTYG9nw1QOdgE72Cb1OIDuf0QefeAlXXOA/preset:listing/plain/2a26a228f99a936b56fb13a07ccb0dbe-2978618940874237837.jpg",
     "url": "https://www.nhatot.com/131644276.htm",
-    "date": "14 giờ trước",
+    "date": "15 giờ trước",
     "postedAt": 1775547723000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/jkxLDIhrTEU62P0nNrhPSUDoeRA_nx2dpx4OGzGGQ7A/preset:listing/plain/e410c6528ac0f13f1d12970d4168ad88-2978880634682103511.jpg",
     "url": "https://www.nhatot.com/131680923.htm",
-    "date": "13 giờ trước",
+    "date": "14 giờ trước",
     "postedAt": 1775551408000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -102,7 +102,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "19 giờ trước",
+    "date": "20 giờ trước",
     "postedAt": 1775529926000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -144,24 +144,6 @@
     "lng": 108.23342
   },
   {
-    "id": 175118410,
-    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
-    "price": 4950000000,
-    "priceString": "4,95 tỷ",
-    "pricePerSqm": 47.1,
-    "size": 105,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
-    "url": "https://www.nhatot.com/131560978.htm",
-    "date": "7 ngày trước",
-    "postedAt": 1775033300000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 170029959,
     "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
     "price": 5700000000,
@@ -178,6 +160,24 @@
     "postedAt": 1775373545000,
     "lat": 16.01607,
     "lng": 108.22902
+  },
+  {
+    "id": 175118410,
+    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
+    "price": 4950000000,
+    "priceString": "4,95 tỷ",
+    "pricePerSqm": 47.1,
+    "size": 105,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
+    "url": "https://www.nhatot.com/131560978.htm",
+    "date": "7 ngày trước",
+    "postedAt": 1775033300000,
+    "lat": 15.99914,
+    "lng": 108.250885
   },
   {
     "id": 173963057,
@@ -533,6 +533,22 @@
     "postedAt": 1775606400000
   },
   {
+    "id": 44966505,
+    "title": "Cần bán nhà cấp 4 Nguyễn Văn Linh, khu cán bộ dân trí cao, có thể kinh doanh cho thuê buôn bán",
+    "price": 6300000000,
+    "priceString": "6,3 tỷ",
+    "pricePerSqm": 114.5,
+    "size": 55,
+    "district": "Q. Thanh Khê",
+    "ward": "P. Thanh Khê mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-linh-phuong-thac-gian-50/can-ban-cap-4-khu-can-bo-dan-tri-cao-co-the-kinh-doanh-cho-thue-buon-ban-pr44966505",
+    "date": "8/4/2026",
+    "postedAt": 1775606400000
+  },
+  {
     "id": 45489412,
     "title": "Bán đất trục kinh doanh Võ Chí Công - chỉ 7,9 tỷ giá gốc CDT",
     "price": 7900000000,
@@ -611,22 +627,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-hoa-hai-48/mat-tien-180m2-ngang-6-5-chi-14-ty-pr45472142",
     "date": "8/4/2026",
     "postedAt": 1775606400000
-  },
-  {
-    "id": 44966505,
-    "title": "Cần bán nhà cấp 4 Nguyễn Văn Linh, khu cán bộ dân trí cao, có thể kinh doanh cho thuê buôn bán",
-    "price": 6300000000,
-    "priceString": "6,3 tỷ",
-    "pricePerSqm": 114.5,
-    "size": 55,
-    "district": "Q. Thanh Khê",
-    "ward": "P. Thanh Khê mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-linh-phuong-thac-gian-50/can-ban-cap-4-khu-can-bo-dan-tri-cao-co-the-kinh-doanh-cho-thue-buon-ban-pr44966505",
-    "date": "7/4/2026",
-    "postedAt": 1775520000000
   },
   {
     "id": 45458900,
@@ -1027,6 +1027,22 @@
     "postedAt": 1775606400000
   },
   {
+    "id": 44966505,
+    "title": "Cần bán nhà cấp 4 Nguyễn Văn Linh, khu cán bộ dân trí cao, có thể kinh doanh cho thuê buôn bán",
+    "price": 6300000000,
+    "priceString": "6,3 tỷ",
+    "pricePerSqm": 114.5,
+    "size": 55,
+    "district": "Q. Thanh Khê",
+    "ward": "P. Thanh Khê mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/06/20260106125257-7cf3_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-linh-phuong-thac-gian-50/can-ban-cap-4-khu-can-bo-dan-tri-cao-co-the-kinh-doanh-cho-thue-buon-ban-pr44966505",
+    "date": "8/4/2026",
+    "postedAt": 1775606400000
+  },
+  {
     "id": 45489412,
     "title": "Bán đất trục kinh doanh Võ Chí Công - chỉ 7,9 tỷ giá gốc CDT",
     "price": 7900000000,
@@ -1069,7 +1085,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407085003-0a26_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-khac-vien-phuong-khue-my-48/vip-sapphia-dt-157-5m2-x-ngang-7m-x-via-he-63m2-sat-bai-tam-sonthuy-xay-9tang-pr45493196",
     "date": "8/4/2026",
     "postedAt": 1775606400000
@@ -1105,22 +1121,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-hoa-hai-48/mat-tien-180m2-ngang-6-5-chi-14-ty-pr45472142",
     "date": "8/4/2026",
     "postedAt": 1775606400000
-  },
-  {
-    "id": 44966505,
-    "title": "Cần bán nhà cấp 4 Nguyễn Văn Linh, khu cán bộ dân trí cao, có thể kinh doanh cho thuê buôn bán",
-    "price": 6300000000,
-    "priceString": "6,3 tỷ",
-    "pricePerSqm": 114.5,
-    "size": 55,
-    "district": "Q. Thanh Khê",
-    "ward": "P. Thanh Khê mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-linh-phuong-thac-gian-50/can-ban-cap-4-khu-can-bo-dan-tri-cao-co-the-kinh-doanh-cho-thue-buon-ban-pr44966505",
-    "date": "7/4/2026",
-    "postedAt": 1775520000000
   },
   {
     "id": 45458900,
@@ -1523,6 +1523,22 @@
     "postedAt": 1775606400000
   },
   {
+    "id": 44966505,
+    "title": "Cần bán nhà cấp 4 Nguyễn Văn Linh, khu cán bộ dân trí cao, có thể kinh doanh cho thuê buôn bán",
+    "price": 6300000000,
+    "priceString": "6,3 tỷ",
+    "pricePerSqm": 114.5,
+    "size": 55,
+    "district": "Q. Thanh Khê",
+    "ward": "P. Thanh Khê mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/06/20260106125257-7cf3_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-linh-phuong-thac-gian-50/can-ban-cap-4-khu-can-bo-dan-tri-cao-co-the-kinh-doanh-cho-thue-buon-ban-pr44966505",
+    "date": "8/4/2026",
+    "postedAt": 1775606400000
+  },
+  {
     "id": 45489412,
     "title": "Bán đất trục kinh doanh Võ Chí Công - chỉ 7,9 tỷ giá gốc CDT",
     "price": 7900000000,
@@ -1565,7 +1581,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407085003-0a26_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-khac-vien-phuong-khue-my-48/vip-sapphia-dt-157-5m2-x-ngang-7m-x-via-he-63m2-sat-bai-tam-sonthuy-xay-9tang-pr45493196",
     "date": "8/4/2026",
     "postedAt": 1775606400000
@@ -1601,22 +1617,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-hoa-hai-48/mat-tien-180m2-ngang-6-5-chi-14-ty-pr45472142",
     "date": "8/4/2026",
     "postedAt": 1775606400000
-  },
-  {
-    "id": 44966505,
-    "title": "Cần bán nhà cấp 4 Nguyễn Văn Linh, khu cán bộ dân trí cao, có thể kinh doanh cho thuê buôn bán",
-    "price": 6300000000,
-    "priceString": "6,3 tỷ",
-    "pricePerSqm": 114.5,
-    "size": 55,
-    "district": "Q. Thanh Khê",
-    "ward": "P. Thanh Khê mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-linh-phuong-thac-gian-50/can-ban-cap-4-khu-can-bo-dan-tri-cao-co-the-kinh-doanh-cho-thue-buon-ban-pr44966505",
-    "date": "7/4/2026",
-    "postedAt": 1775520000000
   },
   {
     "id": 45458900,
