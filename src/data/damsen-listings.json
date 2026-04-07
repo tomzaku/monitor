@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ByG0smKQAdTYG9nw1QOdgE72Cb1OIDuf0QefeAlXXOA/preset:listing/plain/2a26a228f99a936b56fb13a07ccb0dbe-2978618940874237837.jpg",
     "url": "https://www.nhatot.com/131644276.htm",
-    "date": "16 giờ trước",
+    "date": "17 giờ trước",
     "postedAt": 1775460124683,
     "lat": 15.982958,
     "lng": 108.23342
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/58dAMZx8cIJ696sAQP2TTqN9w3C_1dEYPBz_5sBOVIk/preset:listing/plain/1c270181643791272dc2f39f47066570-2978184863526377175.jpg",
     "url": "https://www.nhatot.com/131586936.htm",
-    "date": "21 giờ trước",
+    "date": "22 giờ trước",
     "postedAt": 1775440502186,
     "lat": 15.982958,
     "lng": 108.23342
@@ -102,7 +102,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "14 giờ trước",
+    "date": "15 giờ trước",
     "postedAt": 1775465495000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -126,24 +126,6 @@
     "lng": 108.23342
   },
   {
-    "id": 170029959,
-    "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
-    "price": 5700000000,
-    "priceString": "5,7 tỷ",
-    "pricePerSqm": 57,
-    "size": 100,
-    "district": "Quận Cẩm Lệ",
-    "ward": "Phường Hòa Xuân",
-    "street": "Hòa Xuân",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
-    "url": "https://www.nhatot.com/127169287.htm",
-    "date": "hôm qua",
-    "postedAt": 1775373545000,
-    "lat": 16.01607,
-    "lng": 108.22902
-  },
-  {
     "id": 175118410,
     "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
     "price": 4950000000,
@@ -160,6 +142,24 @@
     "postedAt": 1775033300000,
     "lat": 15.99914,
     "lng": 108.250885
+  },
+  {
+    "id": 170029959,
+    "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
+    "price": 5700000000,
+    "priceString": "5,7 tỷ",
+    "pricePerSqm": 57,
+    "size": 100,
+    "district": "Quận Cẩm Lệ",
+    "ward": "Phường Hòa Xuân",
+    "street": "Hòa Xuân",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
+    "url": "https://www.nhatot.com/127169287.htm",
+    "date": "hôm qua",
+    "postedAt": 1775373545000,
+    "lat": 16.01607,
+    "lng": 108.22902
   },
   {
     "id": 173963057,
@@ -945,6 +945,23 @@
     "postedAt": 1775433600000
   },
   {
+    "id": 45469161,
+    "title": "Căn hộ 2PN cao cấp tầm view bao trọn biển miễn lãi 30 tháng",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 70,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/03/20260403134411-b87a_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/2pn-cao-cap-tam-view-bao-tron-bien-mien-lai-30-thang-pr45469161",
+    "date": "6/4/2026",
+    "postedAt": 1775433600000
+  },
+  {
     "id": 43106034,
     "title": "Tòa căn hộ 4T 21 PhanThànhTài view sông Hàn, gồm 7 căn hộ và 1 MB cho thuê, dòng tiền Net 65tr/th",
     "price": 19950000000,
@@ -978,23 +995,6 @@
     "postedAt": 1775433600000
   },
   {
-    "id": 45395399,
-    "title": "Chỉ từ 1,8 tỷ sở hữu ngay căn hộ Studio FourS của chủ đầu tư Sun Group - quỹ hàng ngoại giao",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 33,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/24/20260324123703-e668_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/gia-rumor-tang-15-cua-c-t-sun-group-chi-tu-1-8-ty-pr45395399",
-    "date": "6/4/2026",
-    "postedAt": 1775433600000
-  },
-  {
     "id": 45418333,
     "title": "Chính chủ - Sổ đỏ cất két cần bán 101,3m2 đất TT Sơn Trà",
     "price": 8600000000,
@@ -1005,7 +1005,7 @@
     "ward": "P. Sơn Trà mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/28/20260328003856-fd68_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-man-quang-8-phuong-tho-quang-49/chinh-chu-so-o-cat-ket-can-ban-101-3m2-at-tt-son-tra-pr45418333",
     "date": "1/4/2026",
     "postedAt": 1775001600000
@@ -1021,7 +1021,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "25/3/2026",
     "postedAt": 1774396800000
@@ -1037,7 +1037,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/25/20260325155317-2843_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-vo-chi-cong-phuong-hoa-quy-khu-do-thi-hoa-quy/ban-at-truc-kinh-doanh-7-9-ty-gia-goc-cdt-pr45489412",
     "date": "7/4/2026",
     "postedAt": 1775520000000
@@ -1053,7 +1053,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/03/20260403181145-4162_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-hoa-hai-48/mat-tien-180m2-ngang-6-5-chi-14-ty-pr45472142",
     "date": "7/4/2026",
     "postedAt": 1775520000000
@@ -1069,7 +1069,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/02/20260402112400-5ff8_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-do-ba-phuong-my-an-48/can-tien-ban-nhanh-lo-at-tang-day-tro-6-phong-ngay-chau-thi-vinh-te-o-ba-pr45458900",
     "date": "6/4/2026",
     "postedAt": 1775433600000
@@ -1155,6 +1155,23 @@
     "postedAt": 1775174400000
   },
   {
+    "id": 45395399,
+    "title": "Chỉ từ 1,8 tỷ sở hữu ngay căn hộ Studio FourS của chủ đầu tư Sun Group - quỹ hàng ngoại giao",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 33,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/24/20260324123703-e668_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/gia-rumor-tang-15-cua-c-t-sun-group-chi-tu-1-8-ty-pr45395399",
+    "date": "6/4/2026",
+    "postedAt": 1775433600000
+  },
+  {
     "id": 43801778,
     "title": "Căn cuối cùng 3 PN ngắm sông, biển Masteri Đà Nẵng, giá 6 tỷ full giá view sông Hàn",
     "price": 6000000000,
@@ -1236,23 +1253,6 @@
     "rooms": 6,
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/06/20260406144842-c7c4_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-do-ba-phuong-my-an-48/ban-day-tro-kiet-o-ngay-khu-pho-tay-thuong-a-nang-pr45446178",
-    "date": "5/4/2026",
-    "postedAt": 1775347200000
-  },
-  {
-    "id": 45449665,
-    "title": "Dự kiến chỉ 1,5 tỷ sở hữu studio Fours Tower 32m2 vị trí đẹp Hòa Quý",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 31,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/01/20260401111728-2f4e_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/du-kien-chi-1-5-ty-so-huu-studio-32m2-vi-tri-ep-quy-pr45449665",
     "date": "5/4/2026",
     "postedAt": 1775347200000
   },
