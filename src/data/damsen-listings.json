@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "15 giờ trước",
+    "date": "16 giờ trước",
     "postedAt": 1775717252000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/PYbl-a5aXaZOvcwwmD_J93QOlxe_CJpKFOcx6V1aQAY/preset:listing/plain/44531d4b5806559b4b6d4bf9bb9e44aa-2974057898761986145.jpg",
     "url": "https://www.nhatot.com/131005008.htm",
-    "date": "20 giờ trước",
+    "date": "21 giờ trước",
     "postedAt": 1775699501000,
     "lat": 15.99914,
     "lng": 108.250885
@@ -325,24 +325,6 @@
     "lng": 108.24368
   },
   {
-    "id": 174714672,
-    "title": "Tôi Cần Bán Nhanh Lô Đầm Sen Nam Hoà Xuân",
-    "price": 5500000000,
-    "priceString": "5,5 tỷ",
-    "pricePerSqm": 55,
-    "size": 100,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Nguyễn Sỹ Huynh",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/q5IA0DaLfy2yOPvWBV4teEQBTSZFks7ZAMGkeic0HGw/preset:listing/plain/d59a0c7742903d6cb185b036b5275037-2975652101175982731.jpg",
-    "url": "https://www.nhatot.com/131221798.htm",
-    "date": "3 tuần trước",
-    "postedAt": 1773728222000,
-    "lat": 15.982958,
-    "lng": 108.23342
-  },
-  {
     "id": 174892700,
     "title": "6 TỶ 020 BÁN NHANH LÔ NGỌC TỊNH ĐẦM SEN B2.136 NAM HOÀ XUÂN ĐÔNG NAM",
     "price": 6020000000,
@@ -357,6 +339,24 @@
     "url": "https://www.nhatot.com/131371274.htm",
     "date": "3 tuần trước",
     "postedAt": 1774239516000,
+    "lat": 15.982958,
+    "lng": 108.23342
+  },
+  {
+    "id": 174714672,
+    "title": "Tôi Cần Bán Nhanh Lô Đầm Sen Nam Hoà Xuân",
+    "price": 5500000000,
+    "priceString": "5,5 tỷ",
+    "pricePerSqm": 55,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Nguyễn Sỹ Huynh",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/q5IA0DaLfy2yOPvWBV4teEQBTSZFks7ZAMGkeic0HGw/preset:listing/plain/d59a0c7742903d6cb185b036b5275037-2975652101175982731.jpg",
+    "url": "https://www.nhatot.com/131221798.htm",
+    "date": "3 tuần trước",
+    "postedAt": 1773728222000,
     "lat": 15.982958,
     "lng": 108.23342
   },
