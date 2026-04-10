@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1775812828000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/PYbl-a5aXaZOvcwwmD_J93QOlxe_CJpKFOcx6V1aQAY/preset:listing/plain/44531d4b5806559b4b6d4bf9bb9e44aa-2974057898761986145.jpg",
     "url": "https://www.nhatot.com/131005008.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1775803324000,
     "lat": 15.99914,
     "lng": 108.250885
@@ -54,24 +54,6 @@
     "lng": 108.23342
   },
   {
-    "id": 170029959,
-    "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
-    "price": 5700000000,
-    "priceString": "5,7 tỷ",
-    "pricePerSqm": 57,
-    "size": 100,
-    "district": "Quận Cẩm Lệ",
-    "ward": "Phường Hòa Xuân",
-    "street": "Hòa Xuân",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
-    "url": "https://www.nhatot.com/127169287.htm",
-    "date": "5 ngày trước",
-    "postedAt": 1775373545000,
-    "lat": 16.01607,
-    "lng": 108.22902
-  },
-  {
     "id": 175107041,
     "title": "Bán đất 112,5m2 MT Đầm Sen 8, Nam Hoà Xuân",
     "price": 6550000000,
@@ -88,6 +70,24 @@
     "postedAt": 1775011129000,
     "lat": 15.982958,
     "lng": 108.23342
+  },
+  {
+    "id": 170029959,
+    "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
+    "price": 5700000000,
+    "priceString": "5,7 tỷ",
+    "pricePerSqm": 57,
+    "size": 100,
+    "district": "Quận Cẩm Lệ",
+    "ward": "Phường Hòa Xuân",
+    "street": "Hòa Xuân",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
+    "url": "https://www.nhatot.com/127169287.htm",
+    "date": "5 ngày trước",
+    "postedAt": 1775373545000,
+    "lat": 16.01607,
+    "lng": 108.22902
   },
   {
     "id": 175148745,
@@ -138,7 +138,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/erdPaJQWxuAMIO7A612WEtjg29R0yPj4BoHaSswV8O8/preset:listing/plain/19529d05b9d3751ba1977615336e46e3-2977249782031891314.jpg",
     "url": "https://www.nhatot.com/131453676.htm",
-    "date": "7 ngày trước",
+    "date": "1 tuần trước",
     "postedAt": 1775229244000,
     "lat": 15.98648,
     "lng": 108.25671
@@ -361,24 +361,6 @@
     "lng": 108.23342
   },
   {
-    "id": 174616767,
-    "title": "Cặp Đầm Sen 5-13 tỷ 8xx. Nam Hoà Xuân",
-    "price": 13800000000,
-    "priceString": "13,8 tỷ",
-    "pricePerSqm": 55.6,
-    "size": 248,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/6adew-9h6ksmiYm5uAuLbxQwEMJD2mLmHFtbBkjl9rU/preset:listing/plain/e3cdc8e9c573c64f817a86fea4ed815a-2975004607783570781.jpg",
-    "url": "https://www.nhatot.com/131137941.htm",
-    "date": "4 tuần trước",
-    "postedAt": 1773296403000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 174622139,
     "title": "NHẬN BOOKING CĂN HỘ NAM HÒA XUÂN GẦN CÔNG VIÊN ĐẦM SEN",
     "price": 4000000000,
@@ -566,6 +548,22 @@
     "postedAt": 1775692800000
   },
   {
+    "id": 45292862,
+    "title": "Bán toà căn hộ mới kiệt ô tô ngang 18m siêu hiếm, góc An Thượng, Nguyễn Văn Thoại",
+    "price": 25200000000,
+    "priceString": "25,2 tỷ",
+    "pricePerSqm": 358.5,
+    "size": 70.3,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/12/04/20251204204621-95a1_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-thoai-phuong-my-an-48/ban-kiet-o-to-ngang-18m-sieu-hiem-goc-thuong-thoai-pr45292862",
+    "date": "10/4/2026",
+    "postedAt": 1775779200000
+  },
+  {
     "id": 45513698,
     "title": "Chỉ 37,5triệu/m2 có ngay lô đất mặt tiền Khu TĐC Bình Kỳ. Gần Lê Trí Viễn - Võ Chí Công",
     "price": 4500000000,
@@ -642,22 +640,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-dinh-dat-phuong-phuoc-my-49/at-uong-inh-at-sat-bien-vi-tri-sach-ep-pr45515040",
-    "date": "10/4/2026",
-    "postedAt": 1775779200000
-  },
-  {
-    "id": 45292862,
-    "title": "Bán toà căn hộ mới kiệt ô tô ngang 18m siêu hiếm, góc An Thượng, Nguyễn Văn Thoại",
-    "price": 25200000000,
-    "priceString": "25,2 tỷ",
-    "pricePerSqm": 358.5,
-    "size": 70.3,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-thoai-phuong-my-an-48/ban-kiet-o-to-ngang-18m-sieu-hiem-goc-thuong-thoai-pr45292862",
     "date": "10/4/2026",
     "postedAt": 1775779200000
   },
@@ -1059,6 +1041,22 @@
     "postedAt": 1775692800000
   },
   {
+    "id": 45292862,
+    "title": "Bán toà căn hộ mới kiệt ô tô ngang 18m siêu hiếm, góc An Thượng, Nguyễn Văn Thoại",
+    "price": 25200000000,
+    "priceString": "25,2 tỷ",
+    "pricePerSqm": 358.5,
+    "size": 70.3,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-thoai-phuong-my-an-48/ban-kiet-o-to-ngang-18m-sieu-hiem-goc-thuong-thoai-pr45292862",
+    "date": "10/4/2026",
+    "postedAt": 1775779200000
+  },
+  {
     "id": 45513698,
     "title": "Chỉ 37,5triệu/m2 có ngay lô đất mặt tiền Khu TĐC Bình Kỳ. Gần Lê Trí Viễn - Võ Chí Công",
     "price": 4500000000,
@@ -1135,22 +1133,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-dinh-dat-phuong-phuoc-my-49/at-uong-inh-at-sat-bien-vi-tri-sach-ep-pr45515040",
-    "date": "10/4/2026",
-    "postedAt": 1775779200000
-  },
-  {
-    "id": 45292862,
-    "title": "Bán toà căn hộ mới kiệt ô tô ngang 18m siêu hiếm, góc An Thượng, Nguyễn Văn Thoại",
-    "price": 25200000000,
-    "priceString": "25,2 tỷ",
-    "pricePerSqm": 358.5,
-    "size": 70.3,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-thoai-phuong-my-an-48/ban-kiet-o-to-ngang-18m-sieu-hiem-goc-thuong-thoai-pr45292862",
     "date": "10/4/2026",
     "postedAt": 1775779200000
   },
@@ -1555,6 +1537,22 @@
     "postedAt": 1775692800000
   },
   {
+    "id": 45292862,
+    "title": "Bán toà căn hộ mới kiệt ô tô ngang 18m siêu hiếm, góc An Thượng, Nguyễn Văn Thoại",
+    "price": 25200000000,
+    "priceString": "25,2 tỷ",
+    "pricePerSqm": 358.5,
+    "size": 70.3,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/12/04/20251204204621-95a1_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-thoai-phuong-my-an-48/ban-kiet-o-to-ngang-18m-sieu-hiem-goc-thuong-thoai-pr45292862",
+    "date": "10/4/2026",
+    "postedAt": 1775779200000
+  },
+  {
     "id": 45513698,
     "title": "Chỉ 37,5triệu/m2 có ngay lô đất mặt tiền Khu TĐC Bình Kỳ. Gần Lê Trí Viễn - Võ Chí Công",
     "price": 4500000000,
@@ -1565,7 +1563,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/09/20260409122833-2615_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-phuong-hoa-quy/chi-37-5trieu-m2-co-ngay-lo-at-mat-tien-khu-t-c-binh-ky-gan-le-tri-vien-vo-chi-cong-pr45513698",
     "date": "10/4/2026",
     "postedAt": 1775779200000
@@ -1631,22 +1629,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-dinh-dat-phuong-phuoc-my-49/at-uong-inh-at-sat-bien-vi-tri-sach-ep-pr45515040",
-    "date": "10/4/2026",
-    "postedAt": 1775779200000
-  },
-  {
-    "id": 45292862,
-    "title": "Bán toà căn hộ mới kiệt ô tô ngang 18m siêu hiếm, góc An Thượng, Nguyễn Văn Thoại",
-    "price": 25200000000,
-    "priceString": "25,2 tỷ",
-    "pricePerSqm": 358.5,
-    "size": 70.3,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-thoai-phuong-my-an-48/ban-kiet-o-to-ngang-18m-sieu-hiem-goc-thuong-thoai-pr45292862",
     "date": "10/4/2026",
     "postedAt": 1775779200000
   },
