@@ -1,23 +1,5 @@
 [
   {
-    "id": 171329647,
-    "title": "RẺ NHẤT ĐẦM SEN NAM HOÀ XUÂN CHỈ 4,8T",
-    "price": 4800000000,
-    "priceString": "4,8 tỷ",
-    "pricePerSqm": 48,
-    "size": 100,
-    "district": "Quận Cẩm Lệ",
-    "ward": "Phường Hòa Xuân",
-    "street": "Hòa Xuân",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
-    "url": "https://www.nhatot.com/128303012.htm",
-    "date": "hôm qua",
-    "postedAt": 1775812828000,
-    "lat": 16.01607,
-    "lng": 108.22902
-  },
-  {
     "id": 174462262,
     "title": "bán đất đầm sen nam hoà xuân tp đà nẵng",
     "price": 5650000000,
@@ -415,6 +397,23 @@
     "lng": 108.250885
   },
   {
+    "id": 45298084,
+    "title": "Siêu phẩm căn 2PN Peninsula Đà Nẵng view trực diện sông hàn, pháo hoa",
+    "price": 4540000000,
+    "priceString": "4,54 tỷ",
+    "pricePerSqm": 62.3,
+    "size": 72.9,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/13/20260313085012-c5b2_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/sieu-pham-2pn-a-view-truc-dien-song-han-phao-hoa-pr45298084",
+    "date": "12/4/2026",
+    "postedAt": 1775952000000
+  },
+  {
     "id": 45364619,
     "title": "Chỉ từ 450 triệu sở hữu căn hộ GĐ 1, CK 22%, nhận nhà chỉ TT 70% hỗ trợ vay 70%, 0% lãi 30 tháng",
     "price": 0,
@@ -432,22 +431,6 @@
     "postedAt": 1775952000000
   },
   {
-    "id": 44697854,
-    "title": "Bán căn hộ cao cấp The Legend City, ngay Cầu Rồng, 72.5m2, giá đầu tư trung tâm Sơn Trà, Đà Nẵng",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 72.5,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/12/03/20251203093246-4c74_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-van-kiet-phuong-an-hai-nam-the-legend-city/ban-cao-cap-ngay-cau-rong-72-5m2-gia-dau-tu-trung-tam-son-tra-da-nang-pr44697854",
-    "date": "12/4/2026",
-    "postedAt": 1775952000000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -458,7 +441,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/08/26/20250826105315-fd76_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
     "date": "12/4/2026",
     "postedAt": 1775952000000
@@ -474,7 +457,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "10/4/2026",
     "postedAt": 1775779200000
@@ -490,7 +473,7 @@
     "ward": "P. An Hải mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/25/20260325215935-20bd_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phuoc-truong-8-phuong-an-hai-bac-49/ban-so-23-8-28-ty-92-5m2-xay-moi-dong-tien-200-trieu-thang-pr45399829",
     "date": "10/4/2026",
     "postedAt": 1775779200000
@@ -506,7 +489,7 @@
     "ward": "P. Hòa Xuân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407084212-51cc_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-trung-luong-6-phuong-hoa-xuan-45/at-ep-uong-7-5m-gan-chung-cu-van-tien-dung-xuan-pr45493091",
     "date": "9/4/2026",
     "postedAt": 1775692800000
@@ -522,7 +505,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407085409-058d_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoa-lien-3-xa-hoa-lien-51/chi-2-75-ty-at-3-149m-huong-ong-nam-mat-me-gia-tot-au-tu-co-so-chinh-chu-pr45493249",
     "date": "9/4/2026",
     "postedAt": 1775692800000
@@ -606,6 +589,22 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dinh-dat-phuong-phuoc-my-49/gan-bien-gia-tot-pr44882474",
     "date": "11/4/2026",
     "postedAt": 1775865600000
+  },
+  {
+    "id": 44697854,
+    "title": "Bán căn hộ cao cấp The Legend City, ngay Cầu Rồng, 72.5m2, giá đầu tư trung tâm Sơn Trà, Đà Nẵng",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 72.5,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/12/03/20251203093246-4c74_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-van-kiet-phuong-an-hai-nam-the-legend-city/ban-cao-cap-ngay-cau-rong-72-5m2-gia-dau-tu-trung-tam-son-tra-da-nang-pr44697854",
+    "date": "12/4/2026",
+    "postedAt": 1775952000000
   },
   {
     "id": 45342540,
@@ -922,22 +921,6 @@
     "postedAt": 1775865600000
   },
   {
-    "id": 45526633,
-    "title": "Bán CH đế trực diện sông Hàn căn góc 2 tầng 2 mặt tiền 192m2 vị trí đẹp nhất toà Peninsula Da Nang",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 192.6,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/11/20260411072441-103c_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/ban-cc-a-gia-thoa-thuan-192-6m2-view-ep-hang-hiem-tai-son-tra-pr45526633",
-    "date": "11/4/2026",
-    "postedAt": 1775865600000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -1094,6 +1077,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-dinh-dat-phuong-phuoc-my-49/gan-bien-gia-tot-pr44882474",
+    "date": "11/4/2026",
+    "postedAt": 1775865600000
+  },
+  {
+    "id": 45526633,
+    "title": "Bán CH đế trực diện sông Hàn căn góc 2 tầng 2 mặt tiền 192m2 vị trí đẹp nhất toà Peninsula Da Nang",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 192.6,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/11/20260411072441-103c_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/ban-cc-a-gia-thoa-thuan-192-6m2-view-ep-hang-hiem-tai-son-tra-pr45526633",
     "date": "11/4/2026",
     "postedAt": 1775865600000
   },
@@ -1417,23 +1416,6 @@
     "postedAt": 1775606400000
   },
   {
-    "id": 45506747,
-    "title": "Căn hộ view sông + biển Sun FourS Tower giá dự kiến 1.7 tỷ/căn. Chiết khấu giai đoạn 1 lên đến 23%",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 40,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/08/20260408151137-39df_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/view-song-bien-sun-gia-chi-tu-1-7-ti-chiet-khau-giai-oan-1-len-en-23-pr45506747",
-    "date": "8/4/2026",
-    "postedAt": 1775606400000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -1592,6 +1574,23 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dinh-dat-phuong-phuoc-my-49/gan-bien-gia-tot-pr44882474",
     "date": "11/4/2026",
     "postedAt": 1775865600000
+  },
+  {
+    "id": 45506747,
+    "title": "Căn hộ view sông + biển Sun FourS Tower giá dự kiến 1.7 tỷ/căn. Chiết khấu giai đoạn 1 lên đến 23%",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 40,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/08/20260408151137-39df_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/view-song-bien-sun-gia-chi-tu-1-7-ti-chiet-khau-giai-oan-1-len-en-23-pr45506747",
+    "date": "8/4/2026",
+    "postedAt": 1775606400000
   },
   {
     "id": 45446388,
@@ -1859,23 +1858,6 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/22/20260322200429-6233_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phan-thanh-tai-phuong-binh-thuan-46/ban-4-tang-view-song-han-sieu-vip-cach-di-bo-bach-dang-50m-gia-chi-14-5-ty-pr43106034",
-    "date": "6/4/2026",
-    "postedAt": 1775433600000
-  },
-  {
-    "id": 45395399,
-    "title": "Chỉ từ 1,8 tỷ sở hữu ngay căn hộ Studio FourS của chủ đầu tư Sun Group - quỹ hàng ngoại giao",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 33,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/24/20260324123703-e668_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/gia-rumor-tang-15-cua-c-t-sun-group-chi-tu-1-8-ty-pr45395399",
     "date": "6/4/2026",
     "postedAt": 1775433600000
   }
