@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "17 giờ trước",
+    "date": "18 giờ trước",
     "postedAt": 1776038277000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -343,24 +343,6 @@
     "lng": 108.24368
   },
   {
-    "id": 174714672,
-    "title": "Tôi Cần Bán Nhanh Lô Đầm Sen Nam Hoà Xuân",
-    "price": 5500000000,
-    "priceString": "5,5 tỷ",
-    "pricePerSqm": 55,
-    "size": 100,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Nguyễn Sỹ Huynh",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/q5IA0DaLfy2yOPvWBV4teEQBTSZFks7ZAMGkeic0HGw/preset:listing/plain/d59a0c7742903d6cb185b036b5275037-2975652101175982731.jpg",
-    "url": "https://www.nhatot.com/131221798.htm",
-    "date": "4 tuần trước",
-    "postedAt": 1773728222000,
-    "lat": 15.982958,
-    "lng": 108.23342
-  },
-  {
     "id": 174892700,
     "title": "6 TỶ 020 BÁN NHANH LÔ NGỌC TỊNH ĐẦM SEN B2.136 NAM HOÀ XUÂN ĐÔNG NAM",
     "price": 6020000000,
@@ -375,6 +357,24 @@
     "url": "https://www.nhatot.com/131371274.htm",
     "date": "3 tuần trước",
     "postedAt": 1774239516000,
+    "lat": 15.982958,
+    "lng": 108.23342
+  },
+  {
+    "id": 174714672,
+    "title": "Tôi Cần Bán Nhanh Lô Đầm Sen Nam Hoà Xuân",
+    "price": 5500000000,
+    "priceString": "5,5 tỷ",
+    "pricePerSqm": 55,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Nguyễn Sỹ Huynh",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/q5IA0DaLfy2yOPvWBV4teEQBTSZFks7ZAMGkeic0HGw/preset:listing/plain/d59a0c7742903d6cb185b036b5275037-2975652101175982731.jpg",
+    "url": "https://www.nhatot.com/131221798.htm",
+    "date": "4 tuần trước",
+    "postedAt": 1773728222000,
     "lat": 15.982958,
     "lng": 108.23342
   },
@@ -466,22 +466,6 @@
     "postedAt": 1776038400000
   },
   {
-    "id": 45271266,
-    "title": "Trực tiếp CĐT liền kề biển khu đảo Ngọc Vin Làng Vân - Giá từ 8,1 tỷ đến 20 tỷ - Sở hữu lâu dài",
-    "price": 8100000000,
-    "priceString": "8,1 tỷ",
-    "pricePerSqm": 135,
-    "size": 60,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/02/20260402140558-e6cd_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/chinh-thuc-nhan-booking-quy-hang-ot-1-tu-63m2-lau-dai-pr45271266",
-    "date": "13/4/2026",
-    "postedAt": 1776038400000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -494,8 +478,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
-    "date": "13/4/2026",
-    "postedAt": 1776038400000
+    "date": "14/4/2026",
+    "postedAt": 1776124800000
   },
   {
     "id": 42738250,
@@ -640,6 +624,22 @@
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-thoai-phuong-my-an-48/ban-kiet-o-to-ngang-18m-sieu-hiem-goc-thuong-thoai-pr45292862",
     "date": "12/4/2026",
     "postedAt": 1775952000000
+  },
+  {
+    "id": 45271266,
+    "title": "Trực tiếp CĐT liền kề biển khu đảo Ngọc Vin Làng Vân - Giá từ 8,1 tỷ đến 20 tỷ - Sở hữu lâu dài",
+    "price": 8100000000,
+    "priceString": "8,1 tỷ",
+    "pricePerSqm": 135,
+    "size": 60,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/02/20260402140558-e6cd_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/chinh-thuc-nhan-booking-quy-hang-ot-1-tu-63m2-lau-dai-pr45271266",
+    "date": "13/4/2026",
+    "postedAt": 1776038400000
   },
   {
     "id": 45543729,
@@ -972,8 +972,8 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/08/26/20250826105315-fd76_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
-    "date": "13/4/2026",
-    "postedAt": 1776038400000
+    "date": "14/4/2026",
+    "postedAt": 1776124800000
   },
   {
     "id": 42738250,
@@ -1465,8 +1465,8 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/08/26/20250826105315-fd76_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
-    "date": "13/4/2026",
-    "postedAt": 1776038400000
+    "date": "14/4/2026",
+    "postedAt": 1776124800000
   },
   {
     "id": 42738250,
@@ -1543,7 +1543,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/08/20260408085453-8638_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-da-man-dong-3-phuong-khue-my-48/ban-lo-goc-uong-a-ong-3-khu-tap-the-hai-quan-oi-dien-benh-vien-san-nhi-pr45502108",
     "date": "13/4/2026",
     "postedAt": 1776038400000
