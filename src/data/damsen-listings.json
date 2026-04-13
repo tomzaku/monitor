@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "10 giờ trước",
+    "date": "12 giờ trước",
     "postedAt": 1776038277000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/CNCVUvo6khkDLkB28PREXkjCTOfAXHuuuT0SrmL5DtY/preset:listing/plain/37e5d73039d1b20d898512cc73fee601-2979621552886994412.jpg",
     "url": "https://www.nhatot.com/131784166.htm",
-    "date": "23 giờ trước",
+    "date": "hôm qua",
     "postedAt": 1775992872000,
     "lat": 15.99107,
     "lng": 108.23758
@@ -343,24 +343,6 @@
     "lng": 108.24368
   },
   {
-    "id": 174714672,
-    "title": "Tôi Cần Bán Nhanh Lô Đầm Sen Nam Hoà Xuân",
-    "price": 5500000000,
-    "priceString": "5,5 tỷ",
-    "pricePerSqm": 55,
-    "size": 100,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Nguyễn Sỹ Huynh",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/q5IA0DaLfy2yOPvWBV4teEQBTSZFks7ZAMGkeic0HGw/preset:listing/plain/d59a0c7742903d6cb185b036b5275037-2975652101175982731.jpg",
-    "url": "https://www.nhatot.com/131221798.htm",
-    "date": "4 tuần trước",
-    "postedAt": 1773728222000,
-    "lat": 15.982958,
-    "lng": 108.23342
-  },
-  {
     "id": 174892700,
     "title": "6 TỶ 020 BÁN NHANH LÔ NGỌC TỊNH ĐẦM SEN B2.136 NAM HOÀ XUÂN ĐÔNG NAM",
     "price": 6020000000,
@@ -375,6 +357,24 @@
     "url": "https://www.nhatot.com/131371274.htm",
     "date": "3 tuần trước",
     "postedAt": 1774239516000,
+    "lat": 15.982958,
+    "lng": 108.23342
+  },
+  {
+    "id": 174714672,
+    "title": "Tôi Cần Bán Nhanh Lô Đầm Sen Nam Hoà Xuân",
+    "price": 5500000000,
+    "priceString": "5,5 tỷ",
+    "pricePerSqm": 55,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Nguyễn Sỹ Huynh",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/q5IA0DaLfy2yOPvWBV4teEQBTSZFks7ZAMGkeic0HGw/preset:listing/plain/d59a0c7742903d6cb185b036b5275037-2975652101175982731.jpg",
+    "url": "https://www.nhatot.com/131221798.htm",
+    "date": "4 tuần trước",
+    "postedAt": 1773728222000,
     "lat": 15.982958,
     "lng": 108.23342
   },
@@ -433,6 +433,22 @@
     "lng": 108.250885
   },
   {
+    "id": 45542967,
+    "title": "KHÔNG CHÊNH, biệt thự song lập 140m2 giá từ CĐT chỉ 6,89 tỷ tại phân khu Bạch Vân Vinhomes Làng Vân",
+    "price": 6960000000,
+    "priceString": "6,96 tỷ",
+    "pricePerSqm": 49.7,
+    "size": 140,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/13/20260413182431-6b5f_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/khong-chenh-song-lap-140m2-gia-tu-c-t-chi-6-89-ty-tai-phan-khu-bach-lang-van-pr45542967",
+    "date": "13/4/2026",
+    "postedAt": 1776038400000
+  },
+  {
     "id": 44169061,
     "title": "Căn góc 3PN dự án Master Đà Nẵng view sông - giá gốc từ CĐT",
     "price": 6200000000,
@@ -450,40 +466,6 @@
     "postedAt": 1776038400000
   },
   {
-    "id": 45336173,
-    "title": "ĐỘC QUYỀN QUỸ CĂN HỘ 1PN 2PN VIEW TRỰC DIÊN SÔNG HÀN - SỔ HỒNG LÂU DÀI - DÒNG TIỀN 25 TRIỆU/THÁNG !",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 71.7,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/18/20260318090008-baa4_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/oc-quyen-quy-1pn-2pn-view-truc-dien-song-han-so-hong-lau-dai-tien-25-trieu-thang-pr45336173",
-    "date": "13/4/2026",
-    "postedAt": 1776038400000
-  },
-  {
-    "id": 45446388,
-    "title": "Giá tốt nhất khu Bạch Vân, chỉ 5tỷ3 (100%) sở hữu căn 63m2, Thanh Khê 6, cơ hội đầu tư sinh lời",
-    "price": 5400000000,
-    "priceString": "5,4 tỷ",
-    "pricePerSqm": 85.7,
-    "size": 63,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 4,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/08/20260408151229-6b87_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/quy-can-oc-quyen-vin-lang-vi-tri-ep-va-chinh-sach-chiet-khau-tot-nhat-pr45446388",
-    "date": "13/4/2026",
-    "postedAt": 1776038400000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -494,7 +476,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/08/26/20250826105315-fd76_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
     "date": "13/4/2026",
     "postedAt": 1776038400000
@@ -510,7 +492,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "10/4/2026",
     "postedAt": 1775779200000
@@ -526,7 +508,7 @@
     "ward": "P. An Hải mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/25/20260325215935-20bd_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phuoc-truong-8-phuong-an-hai-bac-49/ban-so-23-8-28-ty-92-5m2-xay-moi-dong-tien-200-trieu-thang-pr45399829",
     "date": "10/4/2026",
     "postedAt": 1775779200000
@@ -542,7 +524,7 @@
     "ward": "P. Hòa Xuân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407084212-51cc_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-trung-luong-6-phuong-hoa-xuan-45/at-ep-uong-7-5m-gan-chung-cu-van-tien-dung-xuan-pr45493091",
     "date": "9/4/2026",
     "postedAt": 1775692800000
@@ -558,7 +540,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407085409-058d_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoa-lien-3-xa-hoa-lien-51/chi-2-75-ty-at-3-149m-huong-ong-nam-mat-me-gia-tot-au-tu-co-so-chinh-chu-pr45493249",
     "date": "9/4/2026",
     "postedAt": 1775692800000
@@ -574,7 +556,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/08/20260408085453-8638_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-da-man-dong-3-phuong-khue-my-48/ban-lo-goc-uong-a-ong-3-khu-tap-the-hai-quan-oi-dien-benh-vien-san-nhi-pr45502108",
     "date": "13/4/2026",
     "postedAt": 1776038400000
@@ -642,6 +624,40 @@
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-thoai-phuong-my-an-48/ban-kiet-o-to-ngang-18m-sieu-hiem-goc-thuong-thoai-pr45292862",
     "date": "12/4/2026",
     "postedAt": 1775952000000
+  },
+  {
+    "id": 45336173,
+    "title": "ĐỘC QUYỀN QUỸ CĂN HỘ 1PN 2PN VIEW TRỰC DIÊN SÔNG HÀN - SỔ HỒNG LÂU DÀI - DÒNG TIỀN 25 TRIỆU/THÁNG !",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 71.7,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/18/20260318090008-baa4_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/oc-quyen-quy-1pn-2pn-view-truc-dien-song-han-so-hong-lau-dai-tien-25-trieu-thang-pr45336173",
+    "date": "13/4/2026",
+    "postedAt": 1776038400000
+  },
+  {
+    "id": 45446388,
+    "title": "Giá tốt nhất khu Bạch Vân, chỉ 5tỷ3 (100%) sở hữu căn 63m2, Thanh Khê 6, cơ hội đầu tư sinh lời",
+    "price": 5400000000,
+    "priceString": "5,4 tỷ",
+    "pricePerSqm": 85.7,
+    "size": 63,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 4,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/08/20260408151229-6b87_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/quy-can-oc-quyen-vin-lang-vi-tri-ep-va-chinh-sach-chiet-khau-tot-nhat-pr45446388",
+    "date": "13/4/2026",
+    "postedAt": 1776038400000
   },
   {
     "id": 45485404,
@@ -944,23 +960,6 @@
     "postedAt": 1776038400000
   },
   {
-    "id": 43422070,
-    "title": "Độc quyền căn Dual Key 113m2 - trực diện sông - sở hữu chỉ với 1,8 tỷ",
-    "price": 7840000000,
-    "priceString": "7,84 tỷ",
-    "pricePerSqm": 69.4,
-    "size": 113,
-    "district": "Q. Hải Châu",
-    "ward": "P. Hòa Cường mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 3,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/07/02/20250702164650-69b4_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-masteri-rivera-danang/doc-quyen-dual-key-113m2-truc-dien-song-so-huu-chi-voi-1-9ty-pr43422070",
-    "date": "12/4/2026",
-    "postedAt": 1775952000000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -971,7 +970,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/08/26/20250826105315-fd76_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
     "date": "13/4/2026",
     "postedAt": 1776038400000
@@ -987,7 +986,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "10/4/2026",
     "postedAt": 1775779200000
@@ -1003,7 +1002,7 @@
     "ward": "P. An Hải mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/25/20260325215935-20bd_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phuoc-truong-8-phuong-an-hai-bac-49/ban-so-23-8-28-ty-92-5m2-xay-moi-dong-tien-200-trieu-thang-pr45399829",
     "date": "10/4/2026",
     "postedAt": 1775779200000
@@ -1019,7 +1018,7 @@
     "ward": "P. Hòa Xuân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407084212-51cc_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-trung-luong-6-phuong-hoa-xuan-45/at-ep-uong-7-5m-gan-chung-cu-van-tien-dung-xuan-pr45493091",
     "date": "9/4/2026",
     "postedAt": 1775692800000
@@ -1035,7 +1034,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407085409-058d_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoa-lien-3-xa-hoa-lien-51/chi-2-75-ty-at-3-149m-huong-ong-nam-mat-me-gia-tot-au-tu-co-so-chinh-chu-pr45493249",
     "date": "9/4/2026",
     "postedAt": 1775692800000
@@ -1117,6 +1116,23 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-van-thoai-phuong-my-an-48/ban-kiet-o-to-ngang-18m-sieu-hiem-goc-thuong-thoai-pr45292862",
+    "date": "12/4/2026",
+    "postedAt": 1775952000000
+  },
+  {
+    "id": 43422070,
+    "title": "Độc quyền căn Dual Key 113m2 - trực diện sông - sở hữu chỉ với 1,8 tỷ",
+    "price": 7840000000,
+    "priceString": "7,84 tỷ",
+    "pricePerSqm": 69.4,
+    "size": 113,
+    "district": "Q. Hải Châu",
+    "ward": "P. Hòa Cường mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 3,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/07/02/20250702164650-69b4_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-masteri-rivera-danang/doc-quyen-dual-key-113m2-truc-dien-song-so-huu-chi-voi-1-9ty-pr43422070",
     "date": "12/4/2026",
     "postedAt": 1775952000000
   },
@@ -1238,22 +1254,6 @@
     "postedAt": 1775865600000
   },
   {
-    "id": 45268959,
-    "title": "Quỹ song lập độc quyền - View suối, hồ gần công viên, dịch vụ - 11,3 tỷ - Lâu dài",
-    "price": 11300000000,
-    "priceString": "11,3 tỷ",
-    "pricePerSqm": 75.3,
-    "size": 150,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/10/20260310083616-2d9a_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/f1-vin-lang-khu-bach-tu-63m2-view-suoi-ho-tua-nui-6-ty-lau-dai-pr45268959",
-    "date": "11/4/2026",
-    "postedAt": 1775865600000
-  },
-  {
     "id": 42895181,
     "title": "Quỹ căn của CĐT dự án The Legend Đà Nẵng, view sông và cầu Rồng",
     "price": 6850000000,
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 45527467,
-    "title": "Duy nhất căn 2PN 67m2 mặt sông Hàn giá chính xác 5tỷ300 - giá gốc trực tiếp CĐT Capital Square",
+    "title": "Duy nhất căn 2PN 67m2 mặt sông Hàn giá chính xác từ 5 tỷ - giá gốc trực tiếp CĐT Capital Square",
     "price": 5300000000,
     "priceString": "5,3 tỷ",
     "pricePerSqm": 79.1,
@@ -1463,7 +1463,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/08/26/20250826105315-fd76_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
     "date": "13/4/2026",
     "postedAt": 1776038400000
@@ -1479,7 +1479,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "10/4/2026",
     "postedAt": 1775779200000
@@ -1495,7 +1495,7 @@
     "ward": "P. An Hải mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/25/20260325215935-20bd_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phuoc-truong-8-phuong-an-hai-bac-49/ban-so-23-8-28-ty-92-5m2-xay-moi-dong-tien-200-trieu-thang-pr45399829",
     "date": "10/4/2026",
     "postedAt": 1775779200000
@@ -1511,7 +1511,7 @@
     "ward": "P. Hòa Xuân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407084212-51cc_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-trung-luong-6-phuong-hoa-xuan-45/at-ep-uong-7-5m-gan-chung-cu-van-tien-dung-xuan-pr45493091",
     "date": "9/4/2026",
     "postedAt": 1775692800000
@@ -1527,7 +1527,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407085409-058d_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoa-lien-3-xa-hoa-lien-51/chi-2-75-ty-at-3-149m-huong-ong-nam-mat-me-gia-tot-au-tu-co-so-chinh-chu-pr45493249",
     "date": "9/4/2026",
     "postedAt": 1775692800000
