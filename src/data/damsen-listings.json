@@ -235,24 +235,6 @@
     "lng": 108.250885
   },
   {
-    "id": 173963057,
-    "title": "Đất Biệt Thự Nam Hoà Xuân Đầm Sen Diện Tích Đẹp 7.5m ngang chỉ 56tr/m",
-    "price": 8526139891,
-    "priceString": "8,526 tỷ",
-    "pricePerSqm": 56.8,
-    "size": 150,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen 21",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/sIR0zOJbSOuknAchrn3-De_0MYASX-vKCv0ebucR6NI/preset:listing/plain/29a7628e9714b5e42716776f3e4a43c0-2969177259389490832.jpg",
-    "url": "https://www.nhatot.com/130574616.htm",
-    "date": "2 tuần trước",
-    "postedAt": 1775015470000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 175055413,
     "title": "HÀNG ĐẸP ĐẦM SEN – CẶP ĐẤT B2.135 HƯỚNG TÂY BẮC – ĐƯỜNG THÔNG CỰC THOÁ",
     "price": 13500000000,
@@ -269,6 +251,24 @@
     "postedAt": 1774837265000,
     "lat": 15.982958,
     "lng": 108.23342
+  },
+  {
+    "id": 173963057,
+    "title": "Đất Biệt Thự Nam Hoà Xuân Đầm Sen Diện Tích Đẹp 7.5m ngang chỉ 56tr/m",
+    "price": 8526139891,
+    "priceString": "8,526 tỷ",
+    "pricePerSqm": 56.8,
+    "size": 150,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen 21",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/sIR0zOJbSOuknAchrn3-De_0MYASX-vKCv0ebucR6NI/preset:listing/plain/29a7628e9714b5e42716776f3e4a43c0-2969177259389490832.jpg",
+    "url": "https://www.nhatot.com/130574616.htm",
+    "date": "2 tuần trước",
+    "postedAt": 1775015470000,
+    "lat": 15.99914,
+    "lng": 108.250885
   },
   {
     "id": 175055718,
@@ -433,6 +433,22 @@
     "lng": 108.250885
   },
   {
+    "id": 45526633,
+    "title": "Bán CH đế trực diện sông Hàn căn góc 2 tầng 2 mặt tiền 192m2 vị trí đẹp nhất toà Peninsula Da Nang",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 192.6,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/11/20260411072441-103c_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/ban-cc-a-gia-thoa-thuan-192-6m2-view-ep-hang-hiem-tai-son-tra-pr45526633",
+    "date": "15/4/2026",
+    "postedAt": 1776211200000
+  },
+  {
     "id": 45342540,
     "title": "Trực tiếp CĐT Biệt thự biển chỉ từ 9,38 tỷ Vin Làng Vân Đà Nẵng sở hữu lâu dài vốn chỉ từ 3 tỷ HOT",
     "price": 9500000000,
@@ -462,22 +478,6 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/11/20260311112658-8b76_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/oc-quyen-gio-hang-ot-1-khu-bach-va-139-can-khu-ao-ngoc-lk-va-bt-on-lap-view-bien-pr45428131",
-    "date": "14/4/2026",
-    "postedAt": 1776124800000
-  },
-  {
-    "id": 45164132,
-    "title": "Vin Group ra bảng hàng Vinhomes Hải Vân Bay, giá bán đợt 1 trực tiếp từ CĐT, chiết khấu tốt",
-    "price": 5900000000,
-    "priceString": "5,9 tỷ",
-    "pricePerSqm": 81.9,
-    "size": 72,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/02/18/20260218182300-cdbb_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/cap-nhat-tien-o-du-an-a-nang-gia-ban-ot-1-truc-tiep-tu-c-t-pr45164132",
     "date": "14/4/2026",
     "postedAt": 1776124800000
   },
@@ -640,6 +640,22 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dt-605-xa-hoa-tien-51/toi-can-ban-lo-at-gan-cho-le-trach-tien-pr45428372",
     "date": "11/4/2026",
     "postedAt": 1775865600000
+  },
+  {
+    "id": 45164132,
+    "title": "Vin Group ra bảng hàng Vinhomes Hải Vân Bay, giá bán đợt 1 trực tiếp từ CĐT, chiết khấu tốt",
+    "price": 5900000000,
+    "priceString": "5,9 tỷ",
+    "pricePerSqm": 81.9,
+    "size": 72,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/02/18/20260218182300-cdbb_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/cap-nhat-tien-o-du-an-a-nang-gia-ban-ot-1-truc-tiep-tu-c-t-pr45164132",
+    "date": "14/4/2026",
+    "postedAt": 1776124800000
   },
   {
     "id": 45415696,
@@ -943,23 +959,6 @@
     "postedAt": 1776038400000
   },
   {
-    "id": 45336173,
-    "title": "ĐỘC QUYỀN QUỸ CĂN HỘ 1PN 2PN VIEW TRỰC DIÊN SÔNG HÀN - SỔ HỒNG LÂU DÀI - DÒNG TIỀN 25 TRIỆU/THÁNG !",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 71.7,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/18/20260318090008-baa4_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/oc-quyen-quy-1pn-2pn-view-truc-dien-song-han-so-hong-lau-dai-tien-25-trieu-thang-pr45336173",
-    "date": "13/4/2026",
-    "postedAt": 1776038400000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -1118,6 +1117,23 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dt-605-xa-hoa-tien-51/toi-can-ban-lo-at-gan-cho-le-trach-tien-pr45428372",
     "date": "11/4/2026",
     "postedAt": 1775865600000
+  },
+  {
+    "id": 45336173,
+    "title": "ĐỘC QUYỀN QUỸ CĂN HỘ 1PN 2PN VIEW TRỰC DIÊN SÔNG HÀN - SỔ HỒNG LÂU DÀI - DÒNG TIỀN 25 TRIỆU/THÁNG !",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 71.7,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/18/20260318090008-baa4_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/oc-quyen-quy-1pn-2pn-view-truc-dien-song-han-so-hong-lau-dai-tien-25-trieu-thang-pr45336173",
+    "date": "13/4/2026",
+    "postedAt": 1776038400000
   },
   {
     "id": 45446388,
@@ -1438,23 +1454,6 @@
     "postedAt": 1775865600000
   },
   {
-    "id": 42895181,
-    "title": "Quỹ căn của CĐT dự án The Legend Đà Nẵng, view sông và cầu Rồng",
-    "price": 6850000000,
-    "priceString": "6,85 tỷ",
-    "pricePerSqm": 113.6,
-    "size": 60.3,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/05/06/20250506135656-c188_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-van-kiet-phuong-an-hai-nam-the-legend-city/da-nang-khoi-dau-huyen-thoai-tren-truc-ty-do-pr42895181",
-    "date": "11/4/2026",
-    "postedAt": 1775865600000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -1545,7 +1544,7 @@
     "ward": "P. An Khê mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/13/20260413090328-d642_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-dai-hanh-phuong-hoa-phat-45/2-lo-lien-ke-ai-uong-33m-tang-kem-kho-tien-che-2-tang-pr45536735",
     "date": "15/4/2026",
     "postedAt": 1776211200000
@@ -1615,6 +1614,23 @@
     "postedAt": 1775865600000
   },
   {
+    "id": 42895181,
+    "title": "Quỹ căn của CĐT dự án The Legend Đà Nẵng, view sông và cầu Rồng",
+    "price": 6850000000,
+    "priceString": "6,85 tỷ",
+    "pricePerSqm": 113.6,
+    "size": 60.3,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/05/06/20250506135656-c188_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-van-kiet-phuong-an-hai-nam-the-legend-city/da-nang-khoi-dau-huyen-thoai-tren-truc-ty-do-pr42895181",
+    "date": "11/4/2026",
+    "postedAt": 1775865600000
+  },
+  {
     "id": 42713566,
     "title": "Peninsula Đà Nẵng- List 15 căn view sông Hàn DTSD từ 62- 72- 94 m2, thanh toán dàn trải, sổ lâu dài",
     "price": 3800000000,
@@ -1677,22 +1693,6 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/06/20260406105613-c35d_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nam-ky-khoi-nghia-phuong-hoa-hai-fpt-city-da-nang/tong-hop-bao-gia-nhung-lo-tot-nhat-khu-a-hom-nay-4-2026-pr45486740",
-    "date": "11/4/2026",
-    "postedAt": 1775865600000
-  },
-  {
-    "id": 45526633,
-    "title": "Bán CH đế trực diện sông Hàn căn góc 2 tầng 2 mặt tiền 192m2 vị trí đẹp nhất toà Peninsula Da Nang",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 192.6,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/11/20260411072441-103c_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/ban-cc-a-gia-thoa-thuan-192-6m2-view-ep-hang-hiem-tai-son-tra-pr45526633",
     "date": "11/4/2026",
     "postedAt": 1775865600000
   },
