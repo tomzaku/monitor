@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "hôm qua",
+    "date": "2 ngày trước",
     "postedAt": 1776038277000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/CNCVUvo6khkDLkB28PREXkjCTOfAXHuuuT0SrmL5DtY/preset:listing/plain/37e5d73039d1b20d898512cc73fee601-2979621552886994412.jpg",
     "url": "https://www.nhatot.com/131784166.htm",
-    "date": "2 ngày trước",
+    "date": "3 ngày trước",
     "postedAt": 1775992872000,
     "lat": 15.99107,
     "lng": 108.23758
@@ -343,24 +343,6 @@
     "lng": 108.24368
   },
   {
-    "id": 174892700,
-    "title": "6 TỶ 020 BÁN NHANH LÔ NGỌC TỊNH ĐẦM SEN B2.136 NAM HOÀ XUÂN ĐÔNG NAM",
-    "price": 6020000000,
-    "priceString": "6,02 tỷ",
-    "pricePerSqm": 60.2,
-    "size": 100,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Ngọc Tịnh",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/GpREkVDH9YBiy16KoRxFdGtusMn98NjD_V2iFE-fuqQ/preset:listing/plain/e6c9e3276af2082b62a9a84300e94df0-2976679656110016032.jpg",
-    "url": "https://www.nhatot.com/131371274.htm",
-    "date": "3 tuần trước",
-    "postedAt": 1774239516000,
-    "lat": 15.982958,
-    "lng": 108.23342
-  },
-  {
     "id": 174714672,
     "title": "Tôi Cần Bán Nhanh Lô Đầm Sen Nam Hoà Xuân",
     "price": 5500000000,
@@ -375,6 +357,24 @@
     "url": "https://www.nhatot.com/131221798.htm",
     "date": "4 tuần trước",
     "postedAt": 1773728222000,
+    "lat": 15.982958,
+    "lng": 108.23342
+  },
+  {
+    "id": 174892700,
+    "title": "6 TỶ 020 BÁN NHANH LÔ NGỌC TỊNH ĐẦM SEN B2.136 NAM HOÀ XUÂN ĐÔNG NAM",
+    "price": 6020000000,
+    "priceString": "6,02 tỷ",
+    "pricePerSqm": 60.2,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Ngọc Tịnh",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/GpREkVDH9YBiy16KoRxFdGtusMn98NjD_V2iFE-fuqQ/preset:listing/plain/e6c9e3276af2082b62a9a84300e94df0-2976679656110016032.jpg",
+    "url": "https://www.nhatot.com/131371274.htm",
+    "date": "3 tuần trước",
+    "postedAt": 1774239516000,
     "lat": 15.982958,
     "lng": 108.23342
   },
