@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/CNCVUvo6khkDLkB28PREXkjCTOfAXHuuuT0SrmL5DtY/preset:listing/plain/37e5d73039d1b20d898512cc73fee601-2979621552886994412.jpg",
     "url": "https://www.nhatot.com/131784166.htm",
-    "date": "3 ngày trước",
+    "date": "4 ngày trước",
     "postedAt": 1775992872000,
     "lat": 15.99107,
     "lng": 108.23758
@@ -415,6 +415,22 @@
     "lng": 108.250885
   },
   {
+    "id": 45532756,
+    "title": "Dự kiến 1,7 tỷ sở hữu ngay căn hộ Sun FourS Tower view trực diện sông, biển, đảo, núi, pháo hoa ĐN",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 31,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/15/20260415132924-9e92_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-phuoc-lan-phuong-hoa-quy-fours-tower-21005/chi-1-7-ty-so-huu-ngay-sun-view-truc-dien-song-bien-ao-nui-phao-a-nang-pr45532756",
+    "date": "16/4/2026",
+    "postedAt": 1776297600000
+  },
+  {
     "id": 45526633,
     "title": "Bán CH đế trực diện sông Hàn căn góc 2 tầng 2 mặt tiền 192m2 vị trí đẹp nhất toà Peninsula Da Nang",
     "price": 0,
@@ -446,23 +462,6 @@
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-phuoc-lan-phuong-hoa-quy-fours-tower-21005/mo-ban-sun-view-song-bien-chiet-khau-26-5-mien-lai-30-thang-pr45560873",
     "date": "16/4/2026",
     "postedAt": 1776297600000
-  },
-  {
-    "id": 45560371,
-    "title": "50 Suất Ngoại Giao Căn Hộ FourS Tower Loại Căn Studio, 1Br ; 2Br. Quỹ Căn Đẹp. Chiết Khấu 27,5%.",
-    "price": 1500000000,
-    "priceString": "1,5 tỷ",
-    "pricePerSqm": 40.5,
-    "size": 37,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/15/20260415214709-f37e_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-phuoc-lan-phuong-hoa-quy-fours-tower-21005/50-suat-ngoai-giao-loai-studio-1br-2br-ep-chiet-khau-27-5-pr45560371",
-    "date": "15/4/2026",
-    "postedAt": 1776211200000
   },
   {
     "id": 43880460,
@@ -623,6 +622,23 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dt-605-xa-hoa-tien-51/toi-can-ban-lo-at-gan-cho-le-trach-tien-pr45428372",
     "date": "11/4/2026",
     "postedAt": 1775865600000
+  },
+  {
+    "id": 45560371,
+    "title": "50 Suất Ngoại Giao Căn Hộ FourS Tower Loại Căn Studio, 1Br ; 2Br. Quỹ Căn Đẹp. Chiết Khấu 27,5%.",
+    "price": 1500000000,
+    "priceString": "1,5 tỷ",
+    "pricePerSqm": 40.5,
+    "size": 37,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/15/20260415214709-f37e_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-phuoc-lan-phuong-hoa-quy-fours-tower-21005/50-suat-ngoai-giao-loai-studio-1br-2br-ep-chiet-khau-27-5-pr45560371",
+    "date": "15/4/2026",
+    "postedAt": 1776211200000
   },
   {
     "id": 45560228,
@@ -941,23 +957,6 @@
     "postedAt": 1776211200000
   },
   {
-    "id": 45455680,
-    "title": "CHIẾT KHẤU CỰC KHỦNG 27,5% CHO ĐỢT 1 MỞ BÁN FOURS",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 53.8,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/02/20260402071634-dc36_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-phuoc-lan-phuong-hoa-quy-fours-tower-21005/nam-ngay-vi-tri-cot-loi-trung-tam-thanh-pho-a-nang-pr45455680",
-    "date": "15/4/2026",
-    "postedAt": 1776211200000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -968,7 +967,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/08/26/20250826105315-fd76_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
     "date": "14/4/2026",
     "postedAt": 1776124800000
@@ -984,7 +983,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "10/4/2026",
     "postedAt": 1775779200000
@@ -1000,7 +999,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407091649-3134_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-vo-nguyen-giap-phuong-khue-my-48/oi-dien-olalani-gia-tot-pr45493558",
     "date": "16/4/2026",
     "postedAt": 1776297600000
@@ -1016,7 +1015,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/08/25/20250825152245-5635_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-co-thach-phuong-khue-my-48/ban-lo-goc-thuy-son-5-283m2-cach-bien-500m-pr43874680",
     "date": "16/4/2026",
     "postedAt": 1776297600000
@@ -1032,7 +1031,7 @@
     "ward": "P. Sơn Trà mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/14/20260414151826-2710_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-tran-hung-dao-phuong-nai-hien-dong-49/2-mt-ao-vi-tri-ep-gia-hop-ly-pr45549766",
     "date": "16/4/2026",
     "postedAt": 1776297600000
@@ -1116,6 +1115,23 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dt-605-xa-hoa-tien-51/toi-can-ban-lo-at-gan-cho-le-trach-tien-pr45428372",
     "date": "11/4/2026",
     "postedAt": 1775865600000
+  },
+  {
+    "id": 45455680,
+    "title": "CHIẾT KHẤU CỰC KHỦNG 27,5% CHO ĐỢT 1 MỞ BÁN FOURS",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 53.8,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/02/20260402071634-dc36_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-phuoc-lan-phuong-hoa-quy-fours-tower-21005/nam-ngay-vi-tri-cot-loi-trung-tam-thanh-pho-a-nang-pr45455680",
+    "date": "15/4/2026",
+    "postedAt": 1776211200000
   },
   {
     "id": 42895181,
@@ -1435,23 +1451,6 @@
     "postedAt": 1776124800000
   },
   {
-    "id": 45415696,
-    "title": "Ưu đãi mở bán đợt 1! Chiết khấu 5% trừ thẳng vào giá, vốn ban đầu chỉ 25% - 0986 026 ***",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 53.8,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/21/20260321213537-97b2_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/uu-ai-mo-ban-ot-1-chiet-khau-5-tru-thang-vao-gia-von-ban-au-chi-25-pr45415696",
-    "date": "14/4/2026",
-    "postedAt": 1776124800000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -1610,6 +1609,23 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dt-605-xa-hoa-tien-51/toi-can-ban-lo-at-gan-cho-le-trach-tien-pr45428372",
     "date": "11/4/2026",
     "postedAt": 1775865600000
+  },
+  {
+    "id": 45415696,
+    "title": "Ưu đãi mở bán đợt 1! Chiết khấu 5% trừ thẳng vào giá, vốn ban đầu chỉ 25% - 0986 026 ***",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 53.8,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/21/20260321213537-97b2_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/uu-ai-mo-ban-ot-1-chiet-khau-5-tru-thang-vao-gia-von-ban-au-chi-25-pr45415696",
+    "date": "14/4/2026",
+    "postedAt": 1776124800000
   },
   {
     "id": 42459631,
@@ -1859,23 +1875,6 @@
     "rooms": 3,
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/13/20260413112842-1877_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-masteri-rivera-danang/ngoai-giao-3pn-truc-dien-song-tang-cao-gia-mua-truc-tiep-tu-cdt-tro-vay-en-70-pr45538922",
-    "date": "13/4/2026",
-    "postedAt": 1776038400000
-  },
-  {
-    "id": 45538559,
-    "title": "Quỹ căn ngoại giao CĐT BRG dự án Capital Square Đà Nẵng",
-    "price": 3970000000,
-    "priceString": "3,97 tỷ",
-    "pricePerSqm": 88.2,
-    "size": 45,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/13/20260413105846-f5f5_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-bac-capital-square/quy-ngoai-giao-c-t-brg-du-a-nang-pr45538559",
     "date": "13/4/2026",
     "postedAt": 1776038400000
   }
