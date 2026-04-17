@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/aNfLixiS68z1qu3mbkiwr6zUJ6YX-59bIO8_kRBa4kk/preset:listing/plain/eb5bc11a9290ecea57fe41bc9f8de2f0-2980321803180737301.jpg",
     "url": "https://www.nhatot.com/131882056.htm",
-    "date": "10 giờ trước",
+    "date": "11 giờ trước",
     "postedAt": 1776410399385,
     "lat": 15.982958,
     "lng": 108.23342
@@ -496,6 +496,22 @@
     "postedAt": 1775779200000
   },
   {
+    "id": 45049801,
+    "title": "2 MT Hồ Nghinh - Phước Trường 10",
+    "price": 50000000000,
+    "priceString": "50 tỷ",
+    "pricePerSqm": 325.1,
+    "size": 153.8,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-nghinh-phuong-phuoc-my-49/2-mt-truong-10-pr45049801",
+    "date": "18/4/2026",
+    "postedAt": 1776470400000
+  },
+  {
     "id": 45570402,
     "title": "Đất MT Hoàng Sa, vị trí siêu đẹp, đối diện bãi tắm Mân Thái",
     "price": 175000000000,
@@ -556,22 +572,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-trung-lap-3-phuong-hoa-hiep-nam-lakeside-palace/3-truc-i-vao-6-toa-chung-cu-ori-gia-tot-nhat-tu-truoc-tet-toi-nay-pr45446902",
-    "date": "17/4/2026",
-    "postedAt": 1776384000000
-  },
-  {
-    "id": 45049801,
-    "title": "2 MT Hồ Nghinh - Phước Trường 10",
-    "price": 50000000000,
-    "priceString": "50 tỷ",
-    "pricePerSqm": 325.1,
-    "size": 153.8,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-nghinh-phuong-phuoc-my-49/2-mt-truong-10-pr45049801",
     "date": "17/4/2026",
     "postedAt": 1776384000000
   },
@@ -991,6 +991,22 @@
     "postedAt": 1775779200000
   },
   {
+    "id": 45049801,
+    "title": "2 MT Hồ Nghinh - Phước Trường 10",
+    "price": 50000000000,
+    "priceString": "50 tỷ",
+    "pricePerSqm": 325.1,
+    "size": 153.8,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/17/20260117150914-2086_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-nghinh-phuong-phuoc-my-49/2-mt-truong-10-pr45049801",
+    "date": "18/4/2026",
+    "postedAt": 1776470400000
+  },
+  {
     "id": 45570402,
     "title": "Đất MT Hoàng Sa, vị trí siêu đẹp, đối diện bãi tắm Mân Thái",
     "price": 175000000000,
@@ -1017,7 +1033,7 @@
     "ward": "P. Hòa Cường mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/16/20260416163326-929d_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-2-9-1-phuong-hoa-cuong-bac-46/hang-hiem-375m2-ngang-15m-uong-2-thang-9-oi-dien-cong-vien-chau-a-a-nang-downtown-pr45566831",
     "date": "17/4/2026",
     "postedAt": 1776384000000
@@ -1051,22 +1067,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-trung-lap-3-phuong-hoa-hiep-nam-lakeside-palace/3-truc-i-vao-6-toa-chung-cu-ori-gia-tot-nhat-tu-truoc-tet-toi-nay-pr45446902",
-    "date": "17/4/2026",
-    "postedAt": 1776384000000
-  },
-  {
-    "id": 45049801,
-    "title": "2 MT Hồ Nghinh - Phước Trường 10",
-    "price": 50000000000,
-    "priceString": "50 tỷ",
-    "pricePerSqm": 325.1,
-    "size": 153.8,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-nghinh-phuong-phuoc-my-49/2-mt-truong-10-pr45049801",
     "date": "17/4/2026",
     "postedAt": 1776384000000
   },
@@ -1486,6 +1486,22 @@
     "postedAt": 1775779200000
   },
   {
+    "id": 45049801,
+    "title": "2 MT Hồ Nghinh - Phước Trường 10",
+    "price": 50000000000,
+    "priceString": "50 tỷ",
+    "pricePerSqm": 325.1,
+    "size": 153.8,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/17/20260117150914-2086_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-nghinh-phuong-phuoc-my-49/2-mt-truong-10-pr45049801",
+    "date": "18/4/2026",
+    "postedAt": 1776470400000
+  },
+  {
     "id": 45570402,
     "title": "Đất MT Hoàng Sa, vị trí siêu đẹp, đối diện bãi tắm Mân Thái",
     "price": 175000000000,
@@ -1546,22 +1562,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-trung-lap-3-phuong-hoa-hiep-nam-lakeside-palace/3-truc-i-vao-6-toa-chung-cu-ori-gia-tot-nhat-tu-truoc-tet-toi-nay-pr45446902",
-    "date": "17/4/2026",
-    "postedAt": 1776384000000
-  },
-  {
-    "id": 45049801,
-    "title": "2 MT Hồ Nghinh - Phước Trường 10",
-    "price": 50000000000,
-    "priceString": "50 tỷ",
-    "pricePerSqm": 325.1,
-    "size": 153.8,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-nghinh-phuong-phuoc-my-49/2-mt-truong-10-pr45049801",
     "date": "17/4/2026",
     "postedAt": 1776384000000
   },
