@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/aNfLixiS68z1qu3mbkiwr6zUJ6YX-59bIO8_kRBa4kk/preset:listing/plain/eb5bc11a9290ecea57fe41bc9f8de2f0-2980321803180737301.jpg",
     "url": "https://www.nhatot.com/131882056.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1776585598000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/klMkw_dVKTX3AtsDM-b3ykDpWNlce0R0ZC8CsUAKkKU/preset:listing/plain/8ed70316b833a7d3ea2d141fd3f3fa2d-2971732087148479670.jpg",
     "url": "https://www.nhatot.com/130795023.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1776560142000,
     "lat": 16.010834,
     "lng": 108.24368
@@ -54,24 +54,6 @@
     "lng": 108.22902
   },
   {
-    "id": 174462262,
-    "title": "bán đất đầm sen nam hoà xuân tp đà nẵng",
-    "price": 5650000000,
-    "priceString": "5,65 tỷ",
-    "pricePerSqm": 56.5,
-    "size": 100,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/PYbl-a5aXaZOvcwwmD_J93QOlxe_CJpKFOcx6V1aQAY/preset:listing/plain/44531d4b5806559b4b6d4bf9bb9e44aa-2974057898761986145.jpg",
-    "url": "https://www.nhatot.com/131005008.htm",
-    "date": "1 tuần trước",
-    "postedAt": 1775803324000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 175378108,
     "title": "Đầm Sen Nam Hoà Xuân MT đường Đức Tín 125m2 đường thông",
     "price": 6500000000,
@@ -88,6 +70,24 @@
     "postedAt": 1775992872000,
     "lat": 15.99107,
     "lng": 108.23758
+  },
+  {
+    "id": 174462262,
+    "title": "bán đất đầm sen nam hoà xuân tp đà nẵng",
+    "price": 5650000000,
+    "priceString": "5,65 tỷ",
+    "pricePerSqm": 56.5,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/PYbl-a5aXaZOvcwwmD_J93QOlxe_CJpKFOcx6V1aQAY/preset:listing/plain/44531d4b5806559b4b6d4bf9bb9e44aa-2974057898761986145.jpg",
+    "url": "https://www.nhatot.com/131005008.htm",
+    "date": "1 tuần trước",
+    "postedAt": 1775803324000,
+    "lat": 15.99914,
+    "lng": 108.250885
   },
   {
     "id": 174411460,
@@ -108,24 +108,6 @@
     "lng": 108.23342
   },
   {
-    "id": 175107041,
-    "title": "Bán đất 112,5m2 MT Đầm Sen 8, Nam Hoà Xuân",
-    "price": 6550000000,
-    "priceString": "6,55 tỷ",
-    "pricePerSqm": 58.5,
-    "size": 112,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "đầm Sen 8",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/zp3RRrvYcbaUVVNwVN_6IhzlQlw5oABGXiuHru8Cecs/preset:listing/plain/2baa5a067505893bbdfdad5994d124ad-2977974474060825474.jpg",
-    "url": "https://www.nhatot.com/131551284.htm",
-    "date": "3 tuần trước",
-    "postedAt": 1775011129000,
-    "lat": 15.982958,
-    "lng": 108.23342
-  },
-  {
     "id": 170029959,
     "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
     "price": 5700000000,
@@ -142,6 +124,24 @@
     "postedAt": 1775373545000,
     "lat": 16.01607,
     "lng": 108.22902
+  },
+  {
+    "id": 175107041,
+    "title": "Bán đất 112,5m2 MT Đầm Sen 8, Nam Hoà Xuân",
+    "price": 6550000000,
+    "priceString": "6,55 tỷ",
+    "pricePerSqm": 58.5,
+    "size": 112,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "đầm Sen 8",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/zp3RRrvYcbaUVVNwVN_6IhzlQlw5oABGXiuHru8Cecs/preset:listing/plain/2baa5a067505893bbdfdad5994d124ad-2977974474060825474.jpg",
+    "url": "https://www.nhatot.com/131551284.htm",
+    "date": "3 tuần trước",
+    "postedAt": 1775011129000,
+    "lat": 15.982958,
+    "lng": 108.23342
   },
   {
     "id": 175148745,
@@ -398,7 +398,7 @@
   },
   {
     "id": 45583624,
-    "title": "20 căn VICTORY PLACE CẠNH VINCOM D.A CAPITAL SQUARE 100% VIEW BIỂN TẦNG CAO CHIẾT KHẤU 14% GIÁ CĐT",
+    "title": "20 căn VICTORY PLACE CẠNH VINCOM D.A CAPITAL SQUARE 100% VIEW BIỂN TẦNG CAO CHIẾT KHẤU 18% GIÁ CĐT",
     "price": 0,
     "priceString": "Giá thỏa thuận",
     "pricePerSqm": 0,
@@ -1528,7 +1528,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/16/20260416154036-7f54_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-vo-chi-cong-phuong-hoa-quy-khu-do-thi-hoa-quy/gio-hang-cdt-ot-2-7-ty-nhanh-tay-nhan-san-pham-pr45566253",
     "date": "18/4/2026",
     "postedAt": 1776470400000
