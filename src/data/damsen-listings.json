@@ -198,24 +198,6 @@
     "lng": 108.23342
   },
   {
-    "id": 175118410,
-    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
-    "price": 4950000000,
-    "priceString": "4,95 tỷ",
-    "pricePerSqm": 47.1,
-    "size": 105,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
-    "url": "https://www.nhatot.com/131560978.htm",
-    "date": "3 tuần trước",
-    "postedAt": 1775033300000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 170029959,
     "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
     "price": 5700000000,
@@ -232,6 +214,24 @@
     "postedAt": 1775373545000,
     "lat": 16.01607,
     "lng": 108.22902
+  },
+  {
+    "id": 175118410,
+    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
+    "price": 4950000000,
+    "priceString": "4,95 tỷ",
+    "pricePerSqm": 47.1,
+    "size": 105,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
+    "url": "https://www.nhatot.com/131560978.htm",
+    "date": "3 tuần trước",
+    "postedAt": 1775033300000,
+    "lat": 15.99914,
+    "lng": 108.250885
   },
   {
     "id": 175057781,
@@ -465,7 +465,7 @@
     "rooms": 7,
     "image": "https://cdn.chotot.com/cCN3XqM8ysmcILsGhDPwkA2dJ-Eq47t3U7P6R7qsZDU/preset:listing/plain/f0a9c3e0a45ebc93abbff1bb538cf8d1-2980510774574937523.jpg",
     "url": "https://www.nhatot.com/131909812.htm",
-    "date": "14 giờ trước",
+    "date": "15 giờ trước",
     "postedAt": 1776671820000,
     "lat": 15.926985,
     "lng": 108.303
@@ -545,6 +545,24 @@
     "lng": 108.13961
   },
   {
+    "id": 175233663,
+    "title": "Chính Chủ Cần Bán Nhanh Lô Phong Lục Tây Ngang 6.5x23",
+    "price": 1980000000,
+    "priceString": "1,98 tỷ",
+    "pricePerSqm": 13.6,
+    "size": 146,
+    "district": "Thị xã Điện Bàn",
+    "ward": "Xã Điện Thắng Nam",
+    "street": "phong lục tây",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/lvJC3Ob3UHuYUvK-FJSdIy1GVvXRK7hkBoiJcWBUEO8/preset:listing/plain/ebe8fd35334edb51d3ebe362c3533128-2978737900140269936.jpg",
+    "url": "https://www.nhatot.com/131660036.htm",
+    "date": "2 tuần trước",
+    "postedAt": 1775466449000,
+    "lat": 15.915993,
+    "lng": 108.218475
+  },
+  {
     "id": 175234038,
     "title": "Cần chuyển nhượng Lô Đất 115m2 tại Phong Lục Tây - Điện Thắng Nam",
     "price": 1570000000,
@@ -581,24 +599,6 @@
     "postedAt": 1775551274000,
     "lat": 16.057308,
     "lng": 108.172226
-  },
-  {
-    "id": 175233663,
-    "title": "Chính Chủ Cần Bán Nhanh Lô Phong Lục Tây Ngang 6.5x23",
-    "price": 1980000000,
-    "priceString": "1,98 tỷ",
-    "pricePerSqm": 13.6,
-    "size": 146,
-    "district": "Thị xã Điện Bàn",
-    "ward": "Xã Điện Thắng Nam",
-    "street": "phong lục tây",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/lvJC3Ob3UHuYUvK-FJSdIy1GVvXRK7hkBoiJcWBUEO8/preset:listing/plain/ebe8fd35334edb51d3ebe362c3533128-2978737900140269936.jpg",
-    "url": "https://www.nhatot.com/131660036.htm",
-    "date": "2 tuần trước",
-    "postedAt": 1775466449000,
-    "lat": 15.915993,
-    "lng": 108.218475
   },
   {
     "id": 175011431,
@@ -822,8 +822,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-khue-my-48/ban-kdc-nha-may-cao-su-gan-furama-resort-gan-bien-khe-pr43367366",
-    "date": "20/4/2026",
-    "postedAt": 1776643200000
+    "date": "21/4/2026",
+    "postedAt": 1776729600000
   },
   {
     "id": 45228028,
@@ -1317,8 +1317,8 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/06/26/20250626152246-34c8_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-khue-my-48/ban-kdc-nha-may-cao-su-gan-furama-resort-gan-bien-khe-pr43367366",
-    "date": "20/4/2026",
-    "postedAt": 1776643200000
+    "date": "21/4/2026",
+    "postedAt": 1776729600000
   },
   {
     "id": 45228028,
@@ -1838,7 +1838,7 @@
     "ward": "P. Sơn Trà mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/17/20260417095807-6f77_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoang-sa-phuong-man-thai-49/at-mt-vi-tri-sieu-ep-oi-dien-bai-tam-thai-pr45570402",
     "date": "19/4/2026",
     "postedAt": 1776556800000
