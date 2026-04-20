@@ -447,7 +447,7 @@
     "rooms": 7,
     "image": "https://cdn.chotot.com/cCN3XqM8ysmcILsGhDPwkA2dJ-Eq47t3U7P6R7qsZDU/preset:listing/plain/f0a9c3e0a45ebc93abbff1bb538cf8d1-2980510774574937523.jpg",
     "url": "https://www.nhatot.com/131909812.htm",
-    "date": "9 giờ trước",
+    "date": "11 giờ trước",
     "postedAt": 1776671820000,
     "lat": 15.926985,
     "lng": 108.303
@@ -545,6 +545,24 @@
     "lng": 108.13961
   },
   {
+    "id": 175233663,
+    "title": "Chính Chủ Cần Bán Nhanh Lô Phong Lục Tây Ngang 6.5x23",
+    "price": 1980000000,
+    "priceString": "1,98 tỷ",
+    "pricePerSqm": 13.6,
+    "size": 146,
+    "district": "Thị xã Điện Bàn",
+    "ward": "Xã Điện Thắng Nam",
+    "street": "phong lục tây",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/lvJC3Ob3UHuYUvK-FJSdIy1GVvXRK7hkBoiJcWBUEO8/preset:listing/plain/ebe8fd35334edb51d3ebe362c3533128-2978737900140269936.jpg",
+    "url": "https://www.nhatot.com/131660036.htm",
+    "date": "2 tuần trước",
+    "postedAt": 1775466449000,
+    "lat": 15.915993,
+    "lng": 108.218475
+  },
+  {
     "id": 175234038,
     "title": "Cần chuyển nhượng Lô Đất 115m2 tại Phong Lục Tây - Điện Thắng Nam",
     "price": 1570000000,
@@ -581,24 +599,6 @@
     "postedAt": 1775551274000,
     "lat": 16.057308,
     "lng": 108.172226
-  },
-  {
-    "id": 175233663,
-    "title": "Chính Chủ Cần Bán Nhanh Lô Phong Lục Tây Ngang 6.5x23",
-    "price": 1980000000,
-    "priceString": "1,98 tỷ",
-    "pricePerSqm": 13.6,
-    "size": 146,
-    "district": "Thị xã Điện Bàn",
-    "ward": "Xã Điện Thắng Nam",
-    "street": "phong lục tây",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/lvJC3Ob3UHuYUvK-FJSdIy1GVvXRK7hkBoiJcWBUEO8/preset:listing/plain/ebe8fd35334edb51d3ebe362c3533128-2978737900140269936.jpg",
-    "url": "https://www.nhatot.com/131660036.htm",
-    "date": "2 tuần trước",
-    "postedAt": 1775466449000,
-    "lat": 15.915993,
-    "lng": 108.218475
   },
   {
     "id": 175011431,
