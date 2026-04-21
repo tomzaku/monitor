@@ -198,24 +198,6 @@
     "lng": 108.23342
   },
   {
-    "id": 175118410,
-    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
-    "price": 4950000000,
-    "priceString": "4,95 tỷ",
-    "pricePerSqm": 47.1,
-    "size": 105,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
-    "url": "https://www.nhatot.com/131560978.htm",
-    "date": "3 tuần trước",
-    "postedAt": 1775033300000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 170029959,
     "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
     "price": 5700000000,
@@ -232,6 +214,24 @@
     "postedAt": 1775373545000,
     "lat": 16.01607,
     "lng": 108.22902
+  },
+  {
+    "id": 175118410,
+    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
+    "price": 4950000000,
+    "priceString": "4,95 tỷ",
+    "pricePerSqm": 47.1,
+    "size": 105,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
+    "url": "https://www.nhatot.com/131560978.htm",
+    "date": "3 tuần trước",
+    "postedAt": 1775033300000,
+    "lat": 15.99914,
+    "lng": 108.250885
   },
   {
     "id": 175057781,
@@ -397,6 +397,40 @@
     "lng": 108.23342
   },
   {
+    "id": 45580969,
+    "title": "Căn hộ Sun Fours Tower Đà Nẵng, chỉ từ 2 tỷ, làm 2PN, view biển, pháo hoa. Chiết khấu giảm giá 28%",
+    "price": 2000000000,
+    "priceString": "2 tỷ",
+    "pricePerSqm": 36.4,
+    "size": 55,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/19/20260419101821-f6d5_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower/sun-fourstower-a-nang-gia-chi-tu-2-ty-set-up-2pn-view-bien-pr45580969",
+    "date": "22/4/2026",
+    "postedAt": 1776816000000
+  },
+  {
+    "id": 45560371,
+    "title": "Suất nội bộ căn hộ FourS Tower loại căn studio, 1BR; 2BR. Quỹ căn đẹp. Chiết khấu 29%",
+    "price": 1500000000,
+    "priceString": "1,5 tỷ",
+    "pricePerSqm": 40.5,
+    "size": 37,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/15/20260415214709-f37e_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-phuoc-lan-phuong-hoa-quy-fours-tower/50-suat-ngoai-giao-loai-studio-1br-2br-ep-chiet-khau-27-5-pr45560371",
+    "date": "22/4/2026",
+    "postedAt": 1776816000000
+  },
+  {
     "id": 45570248,
     "title": "Sun FourS Tower Tuyệt tác tại Đà Nẵng chiết khấu tới 28.5% - hỗ trợ 30 tháng 0% lãi suất",
     "price": 0,
@@ -414,40 +448,6 @@
     "postedAt": 1776816000000
   },
   {
-    "id": 45590012,
-    "title": "MỞ BÁN MERIDIAN TOÀ M2,CĂN NGOẠI GIAO 1 NGỦ VIEW PHÁO HOA ĐẲNG CẤP, SỞ HỮU NGAY VỊ TRÍ VÀNG ĐÀ NẴNG",
-    "price": 4180000000,
-    "priceString": "4,18 tỷ",
-    "pricePerSqm": 86,
-    "size": 48.6,
-    "district": "Q. Hải Châu",
-    "ward": "P. Hòa Cường mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/20/20260420141302-8755_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-the-meridian/2pn-view-phao-ang-cap-so-huu-ngay-vi-tri-vang-a-nang-pr45590012",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
-  },
-  {
-    "id": 45479441,
-    "title": "Độc quyền 3 căn Capital Square - view mặt sông Hàn Đà Nẵng - giỏ ngoại giao chiết khấu 16%",
-    "price": 6080000000,
-    "priceString": "6,08 tỷ",
-    "pricePerSqm": 77.9,
-    "size": 78,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/04/20260404221430-782d_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-bac-capital-square/oc-quyen-3-view-mat-song-han-a-nang-gio-ngoai-giao-chiet-khau-16-pr45479441",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -458,7 +458,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/08/26/20250826105315-fd76_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-thuy-son-5-phuong-hoa-hai-48/ban-lo-2-mat-tien-5-nguyen-co-thach-pr43880460",
     "date": "14/4/2026",
     "postedAt": 1776124800000
@@ -474,7 +474,7 @@
     "ward": "P. An Hải mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/25/20260325215935-20bd_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phuoc-truong-8-phuong-an-hai-bac-49/ban-so-23-8-28-ty-92-5m2-xay-moi-dong-tien-200-trieu-thang-pr45399829",
     "date": "18/4/2026",
     "postedAt": 1776470400000
@@ -490,7 +490,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "10/4/2026",
     "postedAt": 1775779200000
@@ -506,10 +506,10 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/06/26/20250626152246-34c8_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-khue-my-48/ban-kdc-nha-may-cao-su-gan-furama-resort-gan-bien-khe-pr43367366",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
+    "date": "22/4/2026",
+    "postedAt": 1776816000000
   },
   {
     "id": 45395255,
@@ -522,10 +522,10 @@
     "ward": "P. Thanh Khê mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/25/20260325121644-9650_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-nguyen-duc-trung-phuong-thanh-khe-dong-50/ban-tai-uc-p-ong-q-12-6-ty-100m2-pr45395255",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
+    "date": "22/4/2026",
+    "postedAt": 1776816000000
   },
   {
     "id": 45228028,
@@ -538,7 +538,7 @@
     "ward": "P. Hòa Xuân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/04/20260304121253-c527_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-sy-phuong-hoa-xuan-45/chinh-chu-can-ban-at-sat-cong-vien-truong-hoc-oi-dien-toa-stalent-pr45228028",
     "date": "20/4/2026",
     "postedAt": 1776643200000
@@ -606,6 +606,40 @@
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-trung-lap-3-phuong-hoa-hiep-nam-lakeside-palace/3-truc-i-vao-6-toa-chung-cu-ori-gia-tot-nhat-tu-truoc-tet-toi-nay-pr45446902",
     "date": "18/4/2026",
     "postedAt": 1776470400000
+  },
+  {
+    "id": 45590012,
+    "title": "MỞ BÁN MERIDIAN TOÀ M2,CĂN NGOẠI GIAO 1 NGỦ VIEW PHÁO HOA ĐẲNG CẤP, SỞ HỮU NGAY VỊ TRÍ VÀNG ĐÀ NẴNG",
+    "price": 4180000000,
+    "priceString": "4,18 tỷ",
+    "pricePerSqm": 86,
+    "size": 48.6,
+    "district": "Q. Hải Châu",
+    "ward": "P. Hòa Cường mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/20/20260420141302-8755_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-the-meridian/2pn-view-phao-ang-cap-so-huu-ngay-vi-tri-vang-a-nang-pr45590012",
+    "date": "21/4/2026",
+    "postedAt": 1776729600000
+  },
+  {
+    "id": 45479441,
+    "title": "Độc quyền 3 căn Capital Square - view mặt sông Hàn Đà Nẵng - giỏ ngoại giao chiết khấu 16%",
+    "price": 6080000000,
+    "priceString": "6,08 tỷ",
+    "pricePerSqm": 77.9,
+    "size": 78,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/04/20260404221430-782d_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-bac-capital-square/oc-quyen-3-view-mat-song-han-a-nang-gio-ngoai-giao-chiet-khau-16-pr45479441",
+    "date": "21/4/2026",
+    "postedAt": 1776729600000
   },
   {
     "id": 45600846,
@@ -910,39 +944,6 @@
     "postedAt": 1776729600000
   },
   {
-    "id": 45595549,
-    "title": "Capital Square - Căn hộ ngay cầu Sông Hàn - Chiết khấu 15% - Miễn lãi 24 tháng",
-    "price": 4640000000,
-    "priceString": "4,64 tỷ",
-    "pricePerSqm": 94.7,
-    "size": 49,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/21/20260421095325-84ff_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-bac-capital-square/ngay-cau-song-han-chiet-khau-15-mien-lai-24-thang-pr45595549",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
-  },
-  {
-    "id": 45589162,
-    "title": "Còn 1 lô MT Võ Chí Công B2.25.16 đối diện shophouse, siêu đẹp không cống trụ, đầu tư đỉnh",
-    "price": 8000000000,
-    "priceString": "8 tỷ",
-    "pricePerSqm": 72.7,
-    "size": 110,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/20/20260420120612-51cc_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-vo-chi-cong-phuong-hoa-xuan-45/con-1-lo-mt-b2-25-16-oi-dien-shophouse-sach-ep-khong-tru-au-tu-inh-pr45589162",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -1003,8 +1004,8 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/06/26/20250626152246-34c8_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-khue-my-48/ban-kdc-nha-may-cao-su-gan-furama-resort-gan-bien-khe-pr43367366",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
+    "date": "22/4/2026",
+    "postedAt": 1776816000000
   },
   {
     "id": 45395255,
@@ -1019,8 +1020,8 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/25/20260325121644-9650_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-nguyen-duc-trung-phuong-thanh-khe-dong-50/ban-tai-uc-p-ong-q-12-6-ty-100m2-pr45395255",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
+    "date": "22/4/2026",
+    "postedAt": 1776816000000
   },
   {
     "id": 45228028,
@@ -1103,6 +1104,39 @@
     "postedAt": 1776470400000
   },
   {
+    "id": 45595549,
+    "title": "Capital Square - Căn hộ ngay cầu Sông Hàn - Chiết khấu 15% - Miễn lãi 24 tháng",
+    "price": 4640000000,
+    "priceString": "4,64 tỷ",
+    "pricePerSqm": 94.7,
+    "size": 49,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/21/20260421095325-84ff_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-bac-capital-square/ngay-cau-song-han-chiet-khau-15-mien-lai-24-thang-pr45595549",
+    "date": "21/4/2026",
+    "postedAt": 1776729600000
+  },
+  {
+    "id": 45589162,
+    "title": "Còn 1 lô MT Võ Chí Công B2.25.16 đối diện shophouse, siêu đẹp không cống trụ, đầu tư đỉnh",
+    "price": 8000000000,
+    "priceString": "8 tỷ",
+    "pricePerSqm": 72.7,
+    "size": 110,
+    "district": "Q. Cẩm Lệ",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/20/20260420120612-51cc_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-vo-chi-cong-phuong-hoa-xuan-45/con-1-lo-mt-b2-25-16-oi-dien-shophouse-sach-ep-khong-tru-au-tu-inh-pr45589162",
+    "date": "21/4/2026",
+    "postedAt": 1776729600000
+  },
+  {
     "id": 45594981,
     "title": "Báo giá tốt nhất FPT City! Tổng hợp giỏ hàng đất nền - BDS dòng tiền giá tốt nhất FPT City T4.2026",
     "price": 4800000000,
@@ -1132,23 +1166,6 @@
     "rooms": 1,
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/14/20260414121245-97c8_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower-21005/studio-view-phao-gia-chi-tu-500-trieu-chiet-khau-22-5-an-han-vay-0-24t-pr45547999",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
-  },
-  {
-    "id": 45560371,
-    "title": "Suất nội bộ căn hộ FourS Tower loại căn studio, 1BR; 2BR. Quỹ căn đẹp. Chiết khấu 29%",
-    "price": 1500000000,
-    "priceString": "1,5 tỷ",
-    "pricePerSqm": 40.5,
-    "size": 37,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/15/20260415214709-f37e_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-phuoc-lan-phuong-hoa-quy-fours-tower/50-suat-ngoai-giao-loai-studio-1br-2br-ep-chiet-khau-27-5-pr45560371",
     "date": "21/4/2026",
     "postedAt": 1776729600000
   },
@@ -1216,23 +1233,6 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/20/20260420160639-a127_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-the-meridian/mo-ban-gio-vip-m2-view-phao-song-han-truc-dien-gia-tu-75tr-m-tiem-nang-tang-gia-manh-pr45591819",
-    "date": "20/4/2026",
-    "postedAt": 1776643200000
-  },
-  {
-    "id": 45580969,
-    "title": "Bán căn hộ Sun Fours Tower Đà Nẵng, giá chỉ từ 2 tỷ, sét úp 2PN, view biển. Chiết khấu giảm giá 28%",
-    "price": 2000000000,
-    "priceString": "2 tỷ",
-    "pricePerSqm": 36.4,
-    "size": 55,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/19/20260419101821-f6d5_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower/sun-fourstower-a-nang-gia-chi-tu-2-ty-set-up-2pn-view-bien-pr45580969",
     "date": "20/4/2026",
     "postedAt": 1776643200000
   },
@@ -1497,8 +1497,8 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/06/26/20250626152246-34c8_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-khue-my-48/ban-kdc-nha-may-cao-su-gan-furama-resort-gan-bien-khe-pr43367366",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
+    "date": "22/4/2026",
+    "postedAt": 1776816000000
   },
   {
     "id": 45395255,
@@ -1513,8 +1513,8 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/25/20260325121644-9650_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-nguyen-duc-trung-phuong-thanh-khe-dong-50/ban-tai-uc-p-ong-q-12-6-ty-100m2-pr45395255",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
+    "date": "22/4/2026",
+    "postedAt": 1776816000000
   },
   {
     "id": 45228028,
