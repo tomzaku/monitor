@@ -198,24 +198,6 @@
     "lng": 108.23342
   },
   {
-    "id": 170029959,
-    "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
-    "price": 5700000000,
-    "priceString": "5,7 tỷ",
-    "pricePerSqm": 57,
-    "size": 100,
-    "district": "Quận Cẩm Lệ",
-    "ward": "Phường Hòa Xuân",
-    "street": "Hòa Xuân",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
-    "url": "https://www.nhatot.com/127169287.htm",
-    "date": "2 tuần trước",
-    "postedAt": 1775373545000,
-    "lat": 16.01607,
-    "lng": 108.22902
-  },
-  {
     "id": 175118410,
     "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
     "price": 4950000000,
@@ -232,6 +214,24 @@
     "postedAt": 1775033300000,
     "lat": 15.99914,
     "lng": 108.250885
+  },
+  {
+    "id": 170029959,
+    "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
+    "price": 5700000000,
+    "priceString": "5,7 tỷ",
+    "pricePerSqm": 57,
+    "size": 100,
+    "district": "Quận Cẩm Lệ",
+    "ward": "Phường Hòa Xuân",
+    "street": "Hòa Xuân",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
+    "url": "https://www.nhatot.com/127169287.htm",
+    "date": "2 tuần trước",
+    "postedAt": 1775373545000,
+    "lat": 16.01607,
+    "lng": 108.22902
   },
   {
     "id": 175057781,
@@ -397,6 +397,23 @@
     "lng": 108.23342
   },
   {
+    "id": 45590012,
+    "title": "MỞ BÁN MERIDIAN TOÀ M2,CĂN NGOẠI GIAO 1 NGỦ VIEW PHÁO HOA ĐẲNG CẤP, SỞ HỮU NGAY VỊ TRÍ VÀNG ĐÀ NẴNG",
+    "price": 4180000000,
+    "priceString": "4,18 tỷ",
+    "pricePerSqm": 86,
+    "size": 48.6,
+    "district": "Q. Hải Châu",
+    "ward": "P. Hòa Cường mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/20/20260420141302-8755_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-the-meridian/2pn-view-phao-ang-cap-so-huu-ngay-vi-tri-vang-a-nang-pr45590012",
+    "date": "21/4/2026",
+    "postedAt": 1776729600000
+  },
+  {
     "id": 45479441,
     "title": "Độc quyền 3 căn Capital Square - view mặt sông Hàn Đà Nẵng - giỏ ngoại giao chiết khấu 16%",
     "price": 6080000000,
@@ -426,23 +443,6 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/21/20260421191012-b5b1_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-phuoc-lan-phuong-hoa-quy-fours-tower/30-cuoi-cung-gia-1ty4-chiet-khau-29-view-song-phao-coc-nhanh-chay-hang-tu-c-t-pr45600846",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
-  },
-  {
-    "id": 45499102,
-    "title": "Sun Group - căn hộ Fours ngay ngã tư Minh Mạng - Nguyễn Phước Lan, chiết khấu 5% booking sớm",
-    "price": 1400000000,
-    "priceString": "1,4 tỷ",
-    "pricePerSqm": 40,
-    "size": 35,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/07/20260407163800-490b_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower/sun-group-mo-ban-ngay-nga-tu-nguyen-phuoc-lan-chiet-khau-5-booking-som-pr45499102",
     "date": "21/4/2026",
     "postedAt": 1776729600000
   },
@@ -605,6 +605,23 @@
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-trung-lap-3-phuong-hoa-hiep-nam-lakeside-palace/3-truc-i-vao-6-toa-chung-cu-ori-gia-tot-nhat-tu-truoc-tet-toi-nay-pr45446902",
     "date": "18/4/2026",
     "postedAt": 1776470400000
+  },
+  {
+    "id": 45499102,
+    "title": "Sun Group - căn hộ Fours ngay ngã tư Minh Mạng - Nguyễn Phước Lan, chiết khấu 5% booking sớm",
+    "price": 1400000000,
+    "priceString": "1,4 tỷ",
+    "pricePerSqm": 40,
+    "size": 35,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/07/20260407163800-490b_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower/sun-group-mo-ban-ngay-nga-tu-nguyen-phuoc-lan-chiet-khau-5-booking-som-pr45499102",
+    "date": "21/4/2026",
+    "postedAt": 1776729600000
   },
   {
     "id": 45600726,
@@ -926,22 +943,6 @@
     "postedAt": 1776729600000
   },
   {
-    "id": 45594981,
-    "title": "Báo giá tốt nhất FPT City! Tổng hợp giỏ hàng đất nền - BDS dòng tiền giá tốt nhất FPT City T4.2026",
-    "price": 4800000000,
-    "priceString": "4,8 tỷ",
-    "pricePerSqm": 53.3,
-    "size": 90,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/31/20260331104314-c5f7_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-phuong-hoa-hai/bao-gia-tot-nhat-fpt-city-tong-hop-gio-hang-at-bds-dong-tien-gia-tot-nhat-fpt-city-t4-2026-pr45594981",
-    "date": "21/4/2026",
-    "postedAt": 1776729600000
-  },
-  {
     "id": 43880460,
     "title": "Bán lô 2 mặt tiền Thuỷ Sơn 5 - Nguyễn Cơ Thạch",
     "price": 28000000000,
@@ -1102,6 +1103,22 @@
     "postedAt": 1776470400000
   },
   {
+    "id": 45594981,
+    "title": "Báo giá tốt nhất FPT City! Tổng hợp giỏ hàng đất nền - BDS dòng tiền giá tốt nhất FPT City T4.2026",
+    "price": 4800000000,
+    "priceString": "4,8 tỷ",
+    "pricePerSqm": 53.3,
+    "size": 90,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/03/31/20260331104314-c5f7_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-phuong-hoa-hai/bao-gia-tot-nhat-fpt-city-tong-hop-gio-hang-at-bds-dong-tien-gia-tot-nhat-fpt-city-t4-2026-pr45594981",
+    "date": "21/4/2026",
+    "postedAt": 1776729600000
+  },
+  {
     "id": 45547999,
     "title": "FourS Tower - Căn hộ studio view pháo hoa giá chỉ từ 500 triệu. Chiết khấu 22,5%, ân hạn vay 0% 24T",
     "price": 1850000000,
@@ -1185,23 +1202,6 @@
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/tin-cuc-soc-chi-50-trieu-m2-so-huu-cao-cap-mat-song-han-dn-co-ban-giao-noi-that-lien-tuong-pr39901669",
     "date": "21/4/2026",
     "postedAt": 1776729600000
-  },
-  {
-    "id": 45590012,
-    "title": "MỞ BÁN MERIDIAN TOÀ M2,CĂN NGOẠI GIAO 1 NGỦ VIEW PHÁO HOA ĐẲNG CẤP, SỞ HỮU NGAY VỊ TRÍ VÀNG ĐÀ NẴNG",
-    "price": 4180000000,
-    "priceString": "4,18 tỷ",
-    "pricePerSqm": 86,
-    "size": 48.6,
-    "district": "Q. Hải Châu",
-    "ward": "P. Hòa Cường mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/20/20260420141302-8755_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-the-meridian/2pn-view-phao-ang-cap-so-huu-ngay-vi-tri-vang-a-nang-pr45590012",
-    "date": "20/4/2026",
-    "postedAt": 1776643200000
   },
   {
     "id": 45591819,
