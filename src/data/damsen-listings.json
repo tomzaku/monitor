@@ -192,7 +192,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
     "url": "https://www.nhatot.com/127169287.htm",
-    "date": "2 tuần trước",
+    "date": "3 tuần trước",
     "postedAt": 1775373545000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -652,6 +652,22 @@
     "postedAt": 1775779200000
   },
   {
+    "id": 45388347,
+    "title": "Bán đất ở Tân Hạnh, Hoà Phước, Hoà Xuân giá rẻ",
+    "price": 2390000000,
+    "priceString": "2,39 tỷ",
+    "pricePerSqm": 11.6,
+    "size": 206,
+    "district": "H. Hòa Vang",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phuoc/ban-at-o-tan-hanh-xuan-gia-re-pr45388347",
+    "date": "23/4/2026",
+    "postedAt": 1776902400000
+  },
+  {
     "id": 45395255,
     "title": "Bán nhà mặt phố tại Nguyễn Đức Trung, P. Thanh Khê Đông, Q. Thanh Khê, 12,6 tỷ, 100m2",
     "price": 12600000000,
@@ -712,22 +728,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-phong-bac-20-phuong-hoa-tho-dong-45/at-trung-tam-cam-le-gia-re-nhat-khu-vuc-cam-le-a-giam-100-tr-so-voi-truoc-tet-can-ban-gap-pr45606272",
-    "date": "22/4/2026",
-    "postedAt": 1776816000000
-  },
-  {
-    "id": 45388347,
-    "title": "Bán đất ở Tân Hạnh, Hoà Phước, Hoà Xuân giá rẻ",
-    "price": 2390000000,
-    "priceString": "2,39 tỷ",
-    "pricePerSqm": 11.6,
-    "size": 206,
-    "district": "H. Hòa Vang",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phuoc/ban-at-o-tan-hanh-xuan-gia-re-pr45388347",
     "date": "22/4/2026",
     "postedAt": 1776816000000
   },
@@ -1145,6 +1145,22 @@
     "postedAt": 1775779200000
   },
   {
+    "id": 45388347,
+    "title": "Bán đất ở Tân Hạnh, Hoà Phước, Hoà Xuân giá rẻ",
+    "price": 2390000000,
+    "priceString": "2,39 tỷ",
+    "pricePerSqm": 11.6,
+    "size": 206,
+    "district": "H. Hòa Vang",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/24/20260324154729-933b_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phuoc/ban-at-o-tan-hanh-xuan-gia-re-pr45388347",
+    "date": "23/4/2026",
+    "postedAt": 1776902400000
+  },
+  {
     "id": 45395255,
     "title": "Bán nhà mặt phố tại Nguyễn Đức Trung, P. Thanh Khê Đông, Q. Thanh Khê, 12,6 tỷ, 100m2",
     "price": 12600000000,
@@ -1187,7 +1203,7 @@
     "ward": "P. Hòa Xuân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/16/20260416192022-3c55_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-phan-khoi-phuong-hoa-xuan-45/ban-3-tang-luxury-moi-xay-uong-7-5m-khu-dan-tri-cao-cu-tp-a-nang-pr45222634",
     "date": "22/4/2026",
     "postedAt": 1776816000000
@@ -1205,22 +1221,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-phong-bac-20-phuong-hoa-tho-dong-45/at-trung-tam-cam-le-gia-re-nhat-khu-vuc-cam-le-a-giam-100-tr-so-voi-truoc-tet-can-ban-gap-pr45606272",
-    "date": "22/4/2026",
-    "postedAt": 1776816000000
-  },
-  {
-    "id": 45388347,
-    "title": "Bán đất ở Tân Hạnh, Hoà Phước, Hoà Xuân giá rẻ",
-    "price": 2390000000,
-    "priceString": "2,39 tỷ",
-    "pricePerSqm": 11.6,
-    "size": 206,
-    "district": "H. Hòa Vang",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phuoc/ban-at-o-tan-hanh-xuan-gia-re-pr45388347",
     "date": "22/4/2026",
     "postedAt": 1776816000000
   },
@@ -1641,6 +1641,22 @@
     "postedAt": 1775779200000
   },
   {
+    "id": 45388347,
+    "title": "Bán đất ở Tân Hạnh, Hoà Phước, Hoà Xuân giá rẻ",
+    "price": 2390000000,
+    "priceString": "2,39 tỷ",
+    "pricePerSqm": 11.6,
+    "size": 206,
+    "district": "H. Hòa Vang",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/24/20260324154729-933b_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phuoc/ban-at-o-tan-hanh-xuan-gia-re-pr45388347",
+    "date": "23/4/2026",
+    "postedAt": 1776902400000
+  },
+  {
     "id": 45395255,
     "title": "Bán nhà mặt phố tại Nguyễn Đức Trung, P. Thanh Khê Đông, Q. Thanh Khê, 12,6 tỷ, 100m2",
     "price": 12600000000,
@@ -1701,22 +1717,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-phong-bac-20-phuong-hoa-tho-dong-45/at-trung-tam-cam-le-gia-re-nhat-khu-vuc-cam-le-a-giam-100-tr-so-voi-truoc-tet-can-ban-gap-pr45606272",
-    "date": "22/4/2026",
-    "postedAt": 1776816000000
-  },
-  {
-    "id": 45388347,
-    "title": "Bán đất ở Tân Hạnh, Hoà Phước, Hoà Xuân giá rẻ",
-    "price": 2390000000,
-    "priceString": "2,39 tỷ",
-    "pricePerSqm": 11.6,
-    "size": 206,
-    "district": "H. Hòa Vang",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phuoc/ban-at-o-tan-hanh-xuan-gia-re-pr45388347",
     "date": "22/4/2026",
     "postedAt": 1776816000000
   },
