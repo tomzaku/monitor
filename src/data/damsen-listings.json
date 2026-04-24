@@ -180,24 +180,6 @@
     "lng": 108.23342
   },
   {
-    "id": 170029959,
-    "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
-    "price": 5700000000,
-    "priceString": "5,7 tỷ",
-    "pricePerSqm": 57,
-    "size": 100,
-    "district": "Quận Cẩm Lệ",
-    "ward": "Phường Hòa Xuân",
-    "street": "Hòa Xuân",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
-    "url": "https://www.nhatot.com/127169287.htm",
-    "date": "3 tuần trước",
-    "postedAt": 1775373545000,
-    "lat": 16.01607,
-    "lng": 108.22902
-  },
-  {
     "id": 175118410,
     "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
     "price": 4950000000,
@@ -214,6 +196,24 @@
     "postedAt": 1775033300000,
     "lat": 15.99914,
     "lng": 108.250885
+  },
+  {
+    "id": 170029959,
+    "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
+    "price": 5700000000,
+    "priceString": "5,7 tỷ",
+    "pricePerSqm": 57,
+    "size": 100,
+    "district": "Quận Cẩm Lệ",
+    "ward": "Phường Hòa Xuân",
+    "street": "Hòa Xuân",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/O9cdsFf57aJtENfm9zNZW_eqbCoJVrgquidf3vxO1mA/preset:listing/plain/f479ca55580f69c1ff90ed7871616cc8-2945385571341989004.jpg",
+    "url": "https://www.nhatot.com/127169287.htm",
+    "date": "3 tuần trước",
+    "postedAt": 1775373545000,
+    "lat": 16.01607,
+    "lng": 108.22902
   },
   {
     "id": 175057781,
@@ -427,7 +427,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/fOHengkwwRVeoEI1Pl50fCTTYAO3JT9FKr5ukJL7O4s/preset:listing/plain/996c992842ce971d05eee98d64e2be47-2975715389336782758.jpg",
     "url": "https://www.nhatot.com/131237294.htm",
-    "date": "23 giờ trước",
+    "date": "24 giờ trước",
     "postedAt": 1776904581585,
     "lat": 16.0087,
     "lng": 108.17548
@@ -445,7 +445,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/xS_P-jcDb4pbqDdcI3R9TUSjEt7Bs3qNmaPA7JwGkFE/preset:listing/plain/d41eb593fedf6f5c89ef2ea9992fd3fd-2979459342230446630.jpg",
     "url": "https://www.nhatot.com/129564387.htm",
-    "date": "14 giờ trước",
+    "date": "15 giờ trước",
     "postedAt": 1776935148632,
     "lat": 16.00425,
     "lng": 108.19438
@@ -689,7 +689,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/MUVWbIZRFE5pd0qvDzetvpV-jmwyc8DMPLKKmtWiBlI/preset:listing/plain/4870e4170dc99ba59ebf3a5b72e0c190-2977963495002155322.jpg",
     "url": "https://www.nhatot.com/131549009.htm",
-    "date": "11 giờ trước",
+    "date": "12 giờ trước",
     "postedAt": 1776946327000,
     "lat": 16.065027,
     "lng": 108.18652
@@ -709,7 +709,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/HyG4vT3QXU06R6AEH9U1TT61-Ldimllh4MIchrQzsJE/preset:listing/plain/1f4bcccf3ddf4115da6935f9e69bc775-2977309955985961294.jpg",
     "url": "https://www.nhatot.com/131466946.htm",
-    "date": "10 giờ trước",
+    "date": "11 giờ trước",
     "postedAt": 1776949808000,
     "lat": 16.065361,
     "lng": 108.18543
@@ -1117,11 +1117,11 @@
   },
   {
     "id": 45600696,
-    "title": "Căn góc 2PN (F5-12-33) đóng 900 triệu (25%) ký HĐMB, view pháo hoa, view sông, đóng 70% nhận nhà",
-    "price": 3000000000,
-    "priceString": "3 tỷ",
-    "pricePerSqm": 49.8,
-    "size": 60.2,
+    "title": "Căn góc 2PN có sân vườn (28m2) đóng 1.1 tỷ (25%) ký HĐMB, view sông + pháo hoa, đóng 70% nhận nhà",
+    "price": 3750000000,
+    "priceString": "3,75 tỷ",
+    "pricePerSqm": 36.8,
+    "size": 101.88,
     "district": "Q. Ngũ Hành Sơn",
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
