@@ -180,24 +180,6 @@
     "lng": 108.23342
   },
   {
-    "id": 175118410,
-    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
-    "price": 4950000000,
-    "priceString": "4,95 tỷ",
-    "pricePerSqm": 47.1,
-    "size": 105,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
-    "url": "https://www.nhatot.com/131560978.htm",
-    "date": "3 tuần trước",
-    "postedAt": 1775033300000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 170029959,
     "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
     "price": 5700000000,
@@ -214,6 +196,24 @@
     "postedAt": 1775373545000,
     "lat": 16.01607,
     "lng": 108.22902
+  },
+  {
+    "id": 175118410,
+    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
+    "price": 4950000000,
+    "priceString": "4,95 tỷ",
+    "pricePerSqm": 47.1,
+    "size": 105,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
+    "url": "https://www.nhatot.com/131560978.htm",
+    "date": "3 tuần trước",
+    "postedAt": 1775033300000,
+    "lat": 15.99914,
+    "lng": 108.250885
   },
   {
     "id": 175057781,
@@ -423,7 +423,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407101659-931e_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-khac-vien-phuong-khue-my-48/vip-sapphia-dt-157-5m2-x-ngang-7m-x-via-he-63m2-sat-bai-tam-sonthuy-xay-9tang-pr45493196",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -439,7 +439,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/22/20260422175021-4086_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-an-thuong-22-phuong-my-an-48/cuc-hiem-at-22-mat-tien-10-6m-dt-254m2-sat-cong-vien-co-hoi-vang-au-tu-xay-khach-san-pr45608180",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -455,7 +455,7 @@
     "ward": "P. Thanh Khê mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/31/20260131115546-3601_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-bau-lang-2-phuong-xuan-ha-50/ban-3-tang-tien-17-2-thanh-khe-da-nang-pr45124380",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -471,7 +471,7 @@
     "ward": "P. Thanh Khê mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/23/20260423133821-bad7_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-thai-thi-boi-phuong-thanh-khe-dong-50/ban-3-tang-kiet-251-7-10-a-nang-pr45613172",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -487,7 +487,7 @@
     "ward": "P. Thanh Khê mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/15/20260315153325-b471_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-dien-bien-phu-phuong-thanh-khe-dong-50/villa-2-tien-trung-tam-hiem-hang-khu-400-7-ien-phu-pr45314741",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -503,7 +503,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/11/07/20251107141147-5e6c_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-phuong-hoa-khanh-bac/chao-ban-285m2-ngang-7m9-vuong-vuc-nhin-so-la-me-thich-hop-homestay-can-ho-tai-lien-chieu-pr44485919",
     "date": "24/4/2026",
     "postedAt": 1776988800000
@@ -1491,7 +1491,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/11/07/20251107141147-5e6c_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-phuong-hoa-khanh-bac/chao-ban-285m2-ngang-7m9-vuong-vuc-nhin-so-la-me-thich-hop-homestay-can-ho-tai-lien-chieu-pr44485919",
     "date": "24/4/2026",
     "postedAt": 1776988800000
