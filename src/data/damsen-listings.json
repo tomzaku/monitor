@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/klMkw_dVKTX3AtsDM-b3ykDpWNlce0R0ZC8CsUAKkKU/preset:listing/plain/8ed70316b833a7d3ea2d141fd3f3fa2d-2971732087148479670.jpg",
     "url": "https://www.nhatot.com/130795023.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777102920730,
     "lat": 16.010834,
     "lng": 108.24368
@@ -385,7 +385,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/22/20260422175021-4086_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-an-thuong-22-phuong-my-an-48/cuc-hiem-at-22-mat-tien-10-6m-dt-254m2-sat-cong-vien-co-hoi-vang-au-tu-xay-khach-san-pr45608180",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -401,7 +401,7 @@
     "ward": "P. Thanh Khê mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/31/20260131115546-3601_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-bau-lang-2-phuong-xuan-ha-50/ban-3-tang-tien-17-2-thanh-khe-da-nang-pr45124380",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -417,7 +417,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407101659-931e_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-khac-vien-phuong-khue-my-48/vip-sapphia-dt-157-5m2-x-ngang-7m-x-via-he-63m2-sat-bai-tam-sonthuy-xay-9tang-pr45493196",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -433,7 +433,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/22/20260422153451-ad8b_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-vo-chi-cong-phuong-hoa-quy-khu-do-thi-hoa-quy/duy-nhat-2-sp-at-oi-lung-mat-tien-4-ty-pr45606963",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -449,7 +449,7 @@
     "ward": "P. Thanh Khê mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/23/20260423133821-bad7_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-thai-thi-boi-phuong-thanh-khe-dong-50/ban-3-tang-kiet-251-7-10-a-nang-pr45613172",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -465,7 +465,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/08/20260408085453-8638_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-da-man-dong-3-phuong-khue-my-48/ban-lo-goc-uong-a-ong-3-khu-tap-the-hai-quan-oi-dien-benh-vien-san-nhi-pr45502108",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -837,23 +837,6 @@
     "postedAt": 1776988800000
   },
   {
-    "id": 45580969,
-    "title": "Căn hộ Sun Fours Tower Đà Nẵng,1 tỷ 5 tới 2 tỷ,làm 2PN,view biển, pháo hoa. Chiết khấu giảm giá 28%",
-    "price": 2000000000,
-    "priceString": "2 tỷ",
-    "pricePerSqm": 36.4,
-    "size": 55,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/19/20260419101821-f6d5_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower/sun-fourstower-a-nang-gia-chi-tu-2-ty-set-up-2pn-view-bien-pr45580969",
-    "date": "24/4/2026",
-    "postedAt": 1776988800000
-  },
-  {
     "id": 45342540,
     "title": "Trực tiếp CĐT biệt thự mặt biển Làng Vân chỉ từ 7 tỷ Vin Đà Nẵng sở hữu lâu dài vốn chỉ từ 2 tỷ hot",
     "price": 5500000000,
@@ -871,6 +854,22 @@
     "postedAt": 1776988800000
   },
   {
+    "id": 45622246,
+    "title": "BIỆT THỰ MẶT BIỂN LÀNG VÂN ĐÀ NẴNG CHỈ TỪ 7 TỶ- GIÁ CĐt- CHIẾT KHẤU TỐT",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 80,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/24/20260424160504-5b3c_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/chinh-thuc-nhan-booking-khu-ao-ngoc-vin-lang-chiet-khau-cao-chinh-sach-tot-pr45622246",
+    "date": "24/4/2026",
+    "postedAt": 1776988800000
+  },
+  {
     "id": 45608180,
     "title": "Cực hiếm, đất An Thượng 22, MT 10.6m, DT 254m2, sát công viên, cơ hội vàng đầu tư & xây khách sạn",
     "price": 31000000000,
@@ -881,7 +880,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/22/20260422175021-4086_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-an-thuong-22-phuong-my-an-48/cuc-hiem-at-22-mat-tien-10-6m-dt-254m2-sat-cong-vien-co-hoi-vang-au-tu-xay-khach-san-pr45608180",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -897,7 +896,7 @@
     "ward": "P. Thanh Khê mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/31/20260131115546-3601_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-bau-lang-2-phuong-xuan-ha-50/ban-3-tang-tien-17-2-thanh-khe-da-nang-pr45124380",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -913,7 +912,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407101659-931e_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-khac-vien-phuong-khue-my-48/vip-sapphia-dt-157-5m2-x-ngang-7m-x-via-he-63m2-sat-bai-tam-sonthuy-xay-9tang-pr45493196",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -929,7 +928,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/22/20260422153451-ad8b_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-vo-chi-cong-phuong-hoa-quy-khu-do-thi-hoa-quy/duy-nhat-2-sp-at-oi-lung-mat-tien-4-ty-pr45606963",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -945,7 +944,7 @@
     "ward": "P. Thanh Khê mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/23/20260423133821-bad7_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-thai-thi-boi-phuong-thanh-khe-dong-50/ban-3-tang-kiet-251-7-10-a-nang-pr45613172",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -1027,22 +1026,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-dien-bien-phu-phuong-chinh-gian-50/ban-2-tang-ien-ang-vao-noi-that-khach-mua-don-vao-o-ngay-lh-pr45347034",
-    "date": "24/4/2026",
-    "postedAt": 1776988800000
-  },
-  {
-    "id": 45622246,
-    "title": "BIỆT THỰ MẶT BIỂN LÀNG VÂN ĐÀ NẴNG CHỈ TỪ 7 TỶ- GIÁ CĐt- CHIẾT KHẤU TỐT",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 80,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/24/20260424160504-5b3c_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/chinh-thuc-nhan-booking-khu-ao-ngoc-vin-lang-chiet-khau-cao-chinh-sach-tot-pr45622246",
     "date": "24/4/2026",
     "postedAt": 1776988800000
   },
@@ -1361,6 +1344,23 @@
     "postedAt": 1776902400000
   },
   {
+    "id": 45364619,
+    "title": "Chỉ từ 450 triệu sở hữu căn hộ GĐ 1, CK 29%, nhận nhà chỉ TT 70% hỗ trợ vay 70%, 0% lãi 30 tháng",
+    "price": 3200000000,
+    "priceString": "3,2 tỷ",
+    "pricePerSqm": 50,
+    "size": 64,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/16/20260416151259-c85b_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower/sun-mo-ban-a-nang-ck-5-at-cho-so-huu-chi-25-nhan-nha-tt-70-tro-vay-70-0-lai-pr45364619",
+    "date": "23/4/2026",
+    "postedAt": 1776902400000
+  },
+  {
     "id": 45608180,
     "title": "Cực hiếm, đất An Thượng 22, MT 10.6m, DT 254m2, sát công viên, cơ hội vàng đầu tư & xây khách sạn",
     "price": 31000000000,
@@ -1451,7 +1451,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/08/20260408085453-8638_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-da-man-dong-3-phuong-khue-my-48/ban-lo-goc-uong-a-ong-3-khu-tap-the-hai-quan-oi-dien-benh-vien-san-nhi-pr45502108",
     "date": "25/4/2026",
     "postedAt": 1777075200000
@@ -1519,23 +1519,6 @@
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-dien-bien-phu-phuong-chinh-gian-50/ban-2-tang-ien-ang-vao-noi-that-khach-mua-don-vao-o-ngay-lh-pr45347034",
     "date": "24/4/2026",
     "postedAt": 1776988800000
-  },
-  {
-    "id": 45364619,
-    "title": "Chỉ từ 450 triệu sở hữu căn hộ GĐ 1, CK 29%, nhận nhà chỉ TT 70% hỗ trợ vay 70%, 0% lãi 30 tháng",
-    "price": 3200000000,
-    "priceString": "3,2 tỷ",
-    "pricePerSqm": 50,
-    "size": 64,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/16/20260416151259-c85b_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower/sun-mo-ban-a-nang-ck-5-at-cho-so-huu-chi-25-nhan-nha-tt-70-tro-vay-70-0-lai-pr45364619",
-    "date": "23/4/2026",
-    "postedAt": 1776902400000
   },
   {
     "id": 44673739,
@@ -1805,6 +1788,22 @@
     "rooms": 1,
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/21/20260421095325-84ff_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-bac-capital-square/ngay-cau-song-han-chiet-khau-15-mien-lai-24-thang-pr45595549",
+    "date": "21/4/2026",
+    "postedAt": 1776729600000
+  },
+  {
+    "id": 45589162,
+    "title": "Sạch - Đẹp. MT Võ Chí Công B2.25.16 đối diện shophouse, không cống trụ, đầu tư đỉnh",
+    "price": 8000000000,
+    "priceString": "8 tỷ",
+    "pricePerSqm": 72.7,
+    "size": 110,
+    "district": "Q. Cẩm Lệ",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/20/20260420120612-51cc_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-vo-chi-cong-phuong-hoa-xuan-45/con-1-lo-mt-b2-25-16-oi-dien-shophouse-sach-ep-khong-tru-au-tu-inh-pr45589162",
     "date": "21/4/2026",
     "postedAt": 1776729600000
   }
