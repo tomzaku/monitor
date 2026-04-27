@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ZPJUq_A6eguaklF7fGdYFAmlbR1JJJVOkmvMxNXSzS4/preset:listing/plain/00e16f88be8cc6350ffd8294e79f60fc-2977689534754715514.jpg",
     "url": "https://www.nhatot.com/131512001.htm",
-    "date": "19 giờ trước",
+    "date": "21 giờ trước",
     "postedAt": 1777219407000,
     "lat": 15.939363,
     "lng": 108.16065
@@ -48,10 +48,28 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/jkxLDIhrTEU62P0nNrhPSUDoeRA_nx2dpx4OGzGGQ7A/preset:listing/plain/e410c6528ac0f13f1d12970d4168ad88-2978880634682103511.jpg",
     "url": "https://www.nhatot.com/131680923.htm",
-    "date": "11 giờ trước",
+    "date": "12 giờ trước",
     "postedAt": 1777251092000,
     "lat": 15.982958,
     "lng": 108.23342
+  },
+  {
+    "id": 171329647,
+    "title": "RẺ NHẤT ĐẦM SEN NAM HOÀ XUÂN CHỈ 4,8T",
+    "price": 4800000000,
+    "priceString": "4,8 tỷ",
+    "pricePerSqm": 48,
+    "size": 100,
+    "district": "Quận Cẩm Lệ",
+    "ward": "Phường Hòa Xuân",
+    "street": "Hòa Xuân",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
+    "url": "https://www.nhatot.com/128303012.htm",
+    "date": "4 giờ trước",
+    "postedAt": 1777280675000,
+    "lat": 16.01607,
+    "lng": 108.22902
   },
   {
     "id": 174973158,
@@ -71,24 +89,6 @@
     "lat": 15.982958,
     "lng": 108.23342,
     "block": "B2-129"
-  },
-  {
-    "id": 171329647,
-    "title": "RẺ NHẤT ĐẦM SEN NAM HOÀ XUÂN CHỈ 4,8T",
-    "price": 4800000000,
-    "priceString": "4,8 tỷ",
-    "pricePerSqm": 48,
-    "size": 100,
-    "district": "Quận Cẩm Lệ",
-    "ward": "Phường Hòa Xuân",
-    "street": "Hòa Xuân",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
-    "url": "https://www.nhatot.com/128303012.htm",
-    "date": "2 giờ trước",
-    "postedAt": 1777280675000,
-    "lat": 16.01607,
-    "lng": 108.22902
   },
   {
     "id": 174215045,
@@ -1158,24 +1158,8 @@
     "postedAt": 1777075200000
   },
   {
-    "id": 45591819,
-    "title": "Mở bán giỏ vip M2 Meridian view pháo hoa sông hàn trực diện, giá từ 75tr/m² tiềm năng tăng giá mạnh",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 48.6,
-    "district": "Q. Hải Châu",
-    "ward": "P. Hòa Cường mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/20/20260420160639-a127_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-the-meridian/mo-ban-gio-vip-m2-view-phao-song-han-truc-dien-gia-tu-75tr-m-tiem-nang-tang-gia-manh-pr45591819",
-    "date": "25/4/2026",
-    "postedAt": 1777075200000
-  },
-  {
     "id": 45559728,
-    "title": "Cần Chuyển Nhượng Lại Căn Nhà 3T Mới Xây Hơn Năm",
+    "title": "Cần chuyển nhượng lại căn nhà 3T mới xây hơn năm",
     "price": 11800000000,
     "priceString": "11,8 tỷ",
     "pricePerSqm": 121.6,
@@ -1457,6 +1441,23 @@
     "postedAt": 1776902400000
   },
   {
+    "id": 44673739,
+    "title": "Đón đầu dự án tháp tài chính Quốc tế - Mua ngay căn hộ Wyndham Soleil view biển Mỹ Khê Đà Nẵng",
+    "price": 4800000000,
+    "priceString": "4,8 tỷ",
+    "pricePerSqm": 79.2,
+    "size": 60.64,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/11/30/20251130115931-21f2_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-condotel-duong-pham-van-dong-phuong-an-hai-bac-wyndham-soleil-da-nang/don-dau-du-thap-tai-chinh-quoc-te-dau-tu-so-huu-can-ho-bien-my-khe-nang-pr44673739",
+    "date": "23/4/2026",
+    "postedAt": 1776902400000
+  },
+  {
     "id": 45222745,
     "title": "Trung Lập 15 kẹp khe thoáng sát Trần Văn Quế đẹp nhất trục đường",
     "price": 3850000000,
@@ -1615,23 +1616,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phuoc/ban-at-o-tan-hanh-xuan-gia-re-pr45388347",
     "date": "24/4/2026",
     "postedAt": 1776988800000
-  },
-  {
-    "id": 44673739,
-    "title": "Đón đầu dự án tháp tài chính Quốc tế - Mua ngay căn hộ Wyndham Soleil view biển Mỹ Khê Đà Nẵng",
-    "price": 4800000000,
-    "priceString": "4,8 tỷ",
-    "pricePerSqm": 79.2,
-    "size": 60.64,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/11/30/20251130115931-21f2_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-condotel-duong-pham-van-dong-phuong-an-hai-bac-wyndham-soleil-da-nang/don-dau-du-thap-tai-chinh-quoc-te-dau-tu-so-huu-can-ho-bien-my-khe-nang-pr44673739",
-    "date": "23/4/2026",
-    "postedAt": 1776902400000
   },
   {
     "id": 43346700,
@@ -1901,5 +1885,21 @@
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower/oc-quyen-goc-2pn-view-truc-dien-bien-gia-chi-4-3ty-a-bao-gom-vat-va-kpbt-pr45559212",
     "date": "19/4/2026",
     "postedAt": 1776556800000
+  },
+  {
+    "id": 45579570,
+    "title": "Chính chủ bán gấp lô đất tâm huyết KĐT Lakeside Bầu Tràm, dt 100m2, giá chỉ 3,7 tỷ tại Đà Nẵng",
+    "price": 3800000000,
+    "priceString": "3,8 tỷ",
+    "pricePerSqm": 38,
+    "size": 100,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/18/20260418141143-a91d_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-phuong-hoa-hiep-nam/chinh-chu-ban-gap-lo-at-tam-huyet-k-t-lakeside-bau-tram-dt-100m2-gia-chi-3-7-ty-tai-a-nang-pr45579570",
+    "date": "18/4/2026",
+    "postedAt": 1776470400000
   }
 ]
