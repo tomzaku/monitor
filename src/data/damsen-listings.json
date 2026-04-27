@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/jkxLDIhrTEU62P0nNrhPSUDoeRA_nx2dpx4OGzGGQ7A/preset:listing/plain/e410c6528ac0f13f1d12970d4168ad88-2978880634682103511.jpg",
     "url": "https://www.nhatot.com/131680923.htm",
-    "date": "19 giờ trước",
+    "date": "21 giờ trước",
     "postedAt": 1777251092000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -66,7 +66,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "11 giờ trước",
+    "date": "13 giờ trước",
     "postedAt": 1777280675000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -211,7 +211,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/S_3sRx8uQAeLgG31OgFYurktYRDQZKvM2hQ0I24bfTs/preset:listing/plain/30238fe80730b4b03f4bfe8749a13cae-2978160928564058252.jpg",
     "url": "https://www.nhatot.com/131582883.htm",
-    "date": "3 tuần trước",
+    "date": "4 tuần trước",
     "postedAt": 1775208600000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -235,24 +235,6 @@
     "lng": 108.23342
   },
   {
-    "id": 175118410,
-    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
-    "price": 4950000000,
-    "priceString": "4,95 tỷ",
-    "pricePerSqm": 47.1,
-    "size": 105,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
-    "url": "https://www.nhatot.com/131560978.htm",
-    "date": "4 tuần trước",
-    "postedAt": 1775033300000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 170029959,
     "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
     "price": 5700000000,
@@ -269,6 +251,24 @@
     "postedAt": 1775373545000,
     "lat": 16.01607,
     "lng": 108.22902
+  },
+  {
+    "id": 175118410,
+    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
+    "price": 4950000000,
+    "priceString": "4,95 tỷ",
+    "pricePerSqm": 47.1,
+    "size": 105,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
+    "url": "https://www.nhatot.com/131560978.htm",
+    "date": "4 tuần trước",
+    "postedAt": 1775033300000,
+    "lat": 15.99914,
+    "lng": 108.250885
   },
   {
     "id": 175055413,
@@ -483,10 +483,10 @@
     "ward": "P. Hải Vân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/26/20260426195822-2e48_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-trung-lap-15-phuong-hoa-hiep-nam-lakeside-palace/ban-lo-15-kep-khe-thoang-sat-tran-van-que-ep-nhat-truc-uong-pr45222745",
-    "date": "27/4/2026",
-    "postedAt": 1777248000000
+    "date": "28/4/2026",
+    "postedAt": 1777334400000
   },
   {
     "id": 45606984,
@@ -499,7 +499,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/22/20260422153701-9bc7_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-an-thuong-22-phuong-my-an-48/toa-can-ho-8-tang-sieu-dong-tien-11-nam-pr45606984",
     "date": "27/4/2026",
     "postedAt": 1777248000000
@@ -515,7 +515,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/22/20260422153451-ad8b_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-vo-chi-cong-phuong-hoa-quy-khu-do-thi-hoa-quy/duy-nhat-2-sp-at-oi-lung-mat-tien-4-ty-pr45606963",
     "date": "27/4/2026",
     "postedAt": 1777248000000
@@ -531,7 +531,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/08/20260408085453-8638_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-da-man-dong-3-phuong-khue-my-48/ban-lo-goc-uong-a-ong-3-khu-tap-the-hai-quan-oi-dien-benh-vien-san-nhi-pr45502108",
     "date": "27/4/2026",
     "postedAt": 1777248000000
@@ -547,7 +547,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/07/20260407101659-931e_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-khac-vien-phuong-khue-my-48/vip-sapphia-dt-157-5m2-x-ngang-7m-x-via-he-63m2-sat-bai-tam-sonthuy-xay-9tang-pr45493196",
     "date": "26/4/2026",
     "postedAt": 1777161600000
@@ -976,8 +976,8 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/26/20260426195822-2e48_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-trung-lap-15-phuong-hoa-hiep-nam-lakeside-palace/ban-lo-15-kep-khe-thoang-sat-tran-van-que-ep-nhat-truc-uong-pr45222745",
-    "date": "27/4/2026",
-    "postedAt": 1777248000000
+    "date": "28/4/2026",
+    "postedAt": 1777334400000
   },
   {
     "id": 45606984,
@@ -1470,8 +1470,8 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/26/20260426195822-2e48_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-trung-lap-15-phuong-hoa-hiep-nam-lakeside-palace/ban-lo-15-kep-khe-thoang-sat-tran-van-que-ep-nhat-truc-uong-pr45222745",
-    "date": "27/4/2026",
-    "postedAt": 1777248000000
+    "date": "28/4/2026",
+    "postedAt": 1777334400000
   },
   {
     "id": 45606984,
@@ -1548,7 +1548,7 @@
     "ward": "P. Thanh Khê mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/01/31/20260131115546-3601_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-bau-lang-2-phuong-xuan-ha-50/ban-3-tang-tien-17-2-thanh-khe-da-nang-pr45124380",
     "date": "26/4/2026",
     "postedAt": 1777161600000
