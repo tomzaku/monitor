@@ -439,24 +439,6 @@
     "lng": 108.20141
   },
   {
-    "id": 175103818,
-    "title": "Đất gần nam kỳ khởi nghĩa, view cánh đồng, 270m2 đất ở, 2 mặt kiệt",
-    "price": 2400000000,
-    "priceString": "2,4 tỷ",
-    "pricePerSqm": 8.9,
-    "size": 270,
-    "district": "Huyện Hòa Vang",
-    "ward": "Xã Hòa Khương",
-    "street": "đường bê tông oto",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/48ibgBy54n_0KqGsDxhNLAtQWqKK6NW2H6HUYmmfPEI/preset:listing/plain/9fa270310a976f593008c7855377d7ec-2977956621584096966.jpg",
-    "url": "https://www.nhatot.com/131548315.htm",
-    "date": "4 tuần trước",
-    "postedAt": 1775000843000,
-    "lat": 15.955791,
-    "lng": 108.101364
-  },
-  {
     "id": 175111069,
     "title": "NHÀ ĐẸP TRUNG TÂM HẢI CHÂU – 2 MẶT KIỆT Ô TÔ – SẴN Ở NGAY",
     "price": 3950000000,
@@ -475,6 +457,24 @@
     "postedAt": 1775017874000,
     "lat": 16.071089,
     "lng": 108.22144
+  },
+  {
+    "id": 175103818,
+    "title": "Đất gần nam kỳ khởi nghĩa, view cánh đồng, 270m2 đất ở, 2 mặt kiệt",
+    "price": 2400000000,
+    "priceString": "2,4 tỷ",
+    "pricePerSqm": 8.9,
+    "size": 270,
+    "district": "Huyện Hòa Vang",
+    "ward": "Xã Hòa Khương",
+    "street": "đường bê tông oto",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/48ibgBy54n_0KqGsDxhNLAtQWqKK6NW2H6HUYmmfPEI/preset:listing/plain/9fa270310a976f593008c7855377d7ec-2977956621584096966.jpg",
+    "url": "https://www.nhatot.com/131548315.htm",
+    "date": "4 tuần trước",
+    "postedAt": 1775000843000,
+    "lat": 15.955791,
+    "lng": 108.101364
   },
   {
     "id": 45636156,
@@ -558,6 +558,22 @@
     "postedAt": 1777420800000
   },
   {
+    "id": 45606984,
+    "title": "Toà căn hộ An Thượng 8 tầng - siêu dòng tiền 11%/năm",
+    "price": 27900000000,
+    "priceString": "27,9 tỷ",
+    "pricePerSqm": 320.7,
+    "size": 87,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-an-thuong-22-phuong-my-an-48/toa-can-ho-8-tang-sieu-dong-tien-11-nam-pr45606984",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
+  },
+  {
     "id": 45616150,
     "title": "Lô Võ Chí Công - Cơ hội cuối - vị trí đẹp - giá gốc CDT - chỉ 7 tỷ",
     "price": 7000000000,
@@ -620,22 +636,6 @@
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-phan-khoi-phuong-hoa-xuan-45/ban-3-tang-luxury-moi-xay-uong-7-5m-khu-dan-tri-cao-cu-tp-a-nang-pr45222634",
     "date": "29/4/2026",
     "postedAt": 1777420800000
-  },
-  {
-    "id": 45606984,
-    "title": "Toà căn hộ An Thượng 8 tầng - siêu dòng tiền 11%/năm",
-    "price": 27900000000,
-    "priceString": "27,9 tỷ",
-    "pricePerSqm": 320.7,
-    "size": 87,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-an-thuong-22-phuong-my-an-48/toa-can-ho-8-tang-sieu-dong-tien-11-nam-pr45606984",
-    "date": "28/4/2026",
-    "postedAt": 1777334400000
   },
   {
     "id": 45388347,
@@ -1052,6 +1052,22 @@
     "postedAt": 1777420800000
   },
   {
+    "id": 45606984,
+    "title": "Toà căn hộ An Thượng 8 tầng - siêu dòng tiền 11%/năm",
+    "price": 27900000000,
+    "priceString": "27,9 tỷ",
+    "pricePerSqm": 320.7,
+    "size": 87,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/22/20260422153701-9bc7_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-an-thuong-22-phuong-my-an-48/toa-can-ho-8-tang-sieu-dong-tien-11-nam-pr45606984",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
+  },
+  {
     "id": 45616150,
     "title": "Lô Võ Chí Công - Cơ hội cuối - vị trí đẹp - giá gốc CDT - chỉ 7 tỷ",
     "price": 7000000000,
@@ -1094,7 +1110,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/25/20260425114134-7d0a_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-chuong-duong-phuong-my-an-48/ban-at-ngu-hanh-son-a-nang-pr45626193",
     "date": "29/4/2026",
     "postedAt": 1777420800000
@@ -1114,22 +1130,6 @@
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-phan-khoi-phuong-hoa-xuan-45/ban-3-tang-luxury-moi-xay-uong-7-5m-khu-dan-tri-cao-cu-tp-a-nang-pr45222634",
     "date": "29/4/2026",
     "postedAt": 1777420800000
-  },
-  {
-    "id": 45606984,
-    "title": "Toà căn hộ An Thượng 8 tầng - siêu dòng tiền 11%/năm",
-    "price": 27900000000,
-    "priceString": "27,9 tỷ",
-    "pricePerSqm": 320.7,
-    "size": 87,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-an-thuong-22-phuong-my-an-48/toa-can-ho-8-tang-sieu-dong-tien-11-nam-pr45606984",
-    "date": "28/4/2026",
-    "postedAt": 1777334400000
   },
   {
     "id": 45388347,
@@ -1542,6 +1542,22 @@
     "postedAt": 1777420800000
   },
   {
+    "id": 45606984,
+    "title": "Toà căn hộ An Thượng 8 tầng - siêu dòng tiền 11%/năm",
+    "price": 27900000000,
+    "priceString": "27,9 tỷ",
+    "pricePerSqm": 320.7,
+    "size": 87,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/22/20260422153701-9bc7_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-an-thuong-22-phuong-my-an-48/toa-can-ho-8-tang-sieu-dong-tien-11-nam-pr45606984",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
+  },
+  {
     "id": 45616150,
     "title": "Lô Võ Chí Công - Cơ hội cuối - vị trí đẹp - giá gốc CDT - chỉ 7 tỷ",
     "price": 7000000000,
@@ -1584,7 +1600,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/25/20260425114134-7d0a_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-chuong-duong-phuong-my-an-48/ban-at-ngu-hanh-son-a-nang-pr45626193",
     "date": "29/4/2026",
     "postedAt": 1777420800000
@@ -1600,26 +1616,10 @@
     "ward": "P. Hòa Xuân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/16/20260416192022-3c55_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-phan-khoi-phuong-hoa-xuan-45/ban-3-tang-luxury-moi-xay-uong-7-5m-khu-dan-tri-cao-cu-tp-a-nang-pr45222634",
     "date": "29/4/2026",
     "postedAt": 1777420800000
-  },
-  {
-    "id": 45606984,
-    "title": "Toà căn hộ An Thượng 8 tầng - siêu dòng tiền 11%/năm",
-    "price": 27900000000,
-    "priceString": "27,9 tỷ",
-    "pricePerSqm": 320.7,
-    "size": 87,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-an-thuong-22-phuong-my-an-48/toa-can-ho-8-tang-sieu-dong-tien-11-nam-pr45606984",
-    "date": "28/4/2026",
-    "postedAt": 1777334400000
   },
   {
     "id": 45388347,
