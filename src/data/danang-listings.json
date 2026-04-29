@@ -1,5 +1,136 @@
 [
   {
+    "id": 175159929,
+    "title": ". CHÍNH CHỦ BÁN LÔ ĐẤT RẺ NHẤT THỊ TRƯỜNG,CHO NHÀ ĐÂU TƯ,HOMSETAY",
+    "price": 10000000000,
+    "priceString": "10 tỷ",
+    "pricePerSqm": 111.1,
+    "size": 90,
+    "district": "Quận Sơn Trà",
+    "ward": "Phường Mân Thái",
+    "street": "Mân Thái",
+    "category": "Nhà ở",
+    "floors": 1,
+    "rooms": 3,
+    "image": "https://cdn.chotot.com/Wbtd3BF4gtuHDO1D99NhKEW7gTkMwwUv9nhcIjP9thE/preset:listing/plain/1c7ac5b78f67f97ebc831052fe0396bc-2978275945753866086.jpg",
+    "url": "https://www.nhatot.com/131596492.htm",
+    "date": "4 phút trước",
+    "postedAt": 1777465116000,
+    "lat": 16.087246,
+    "lng": 108.24665
+  },
+  {
+    "id": 173110752,
+    "title": "Bán lô đất Nguyễn thúy - sát đường lớn Hồ Tùng Mậu",
+    "price": 7150000000,
+    "priceString": "7,15 tỷ",
+    "pricePerSqm": 76.1,
+    "size": 94,
+    "district": "Quận Liên Chiểu",
+    "ward": "Phường Hòa Minh",
+    "street": "Đường Nguyễn Thúy",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/gTF-9CIY31sUt4vj8eUZXimfyt8X6PcSaPDCXA7rAfU/preset:listing/plain/7d95a38be64ca498490002707a5de151-2963486661723008176.jpg",
+    "url": "https://www.nhatot.com/129832354.htm",
+    "date": "8 phút trước",
+    "postedAt": 1777464854000,
+    "lat": 16.083618,
+    "lng": 108.15654
+  },
+  {
+    "id": 175423549,
+    "title": "BÁN LÔ ĐẤT VỊ TRÍ ĐẸP - ĐƯỜNG HUỲNH THỊ MỘT - GẦN BIỂN TÂN TRÀ",
+    "price": 4900000000,
+    "priceString": "4,9 tỷ",
+    "pricePerSqm": 49,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Hải",
+    "street": "Đường Huỳnh Thị Một",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/wgkhHty1ttDdsinhcQbFw-rSzQ2XbNooktuThLuk1qs/preset:listing/plain/ab8baacfbbace0b9444648a04a0acb6a-2979897862556087345.jpg",
+    "url": "https://www.nhatot.com/131823052.htm",
+    "date": "21 phút trước",
+    "postedAt": 1777464072000,
+    "lat": 15.980813,
+    "lng": 108.26894
+  },
+  {
+    "id": 175562919,
+    "title": "Bán đất MT đường 7m5 Phan Khoang, gần bến xe, giá 5 tỷ 8 tl",
+    "price": 5800000000,
+    "priceString": "5,8 tỷ",
+    "pricePerSqm": 48.7,
+    "size": 119,
+    "district": "Quận Cẩm Lệ",
+    "ward": "Phường Hòa An",
+    "street": "Đường Phan Khoang",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/FXDdX-6b713dFr4jcURe0wE4JkRp3FB3AF2XY3oKhvM/preset:listing/plain/332901a7caa61c51c6019e5de0aebe31-2981349305737403627.jpg",
+    "url": "https://www.nhatot.com/131943015.htm",
+    "date": "41 phút trước",
+    "postedAt": 1777462872000,
+    "lat": 16.046959,
+    "lng": 108.17897
+  },
+  {
+    "id": 175758932,
+    "title": "NHÀ TUYỆT ĐẸP có TRẦN dát VÀNG và nội thất GỖ QUÝ, gần CHỢ THANH KHÊ",
+    "price": 8800000000,
+    "priceString": "8,8 tỷ",
+    "pricePerSqm": 95.7,
+    "size": 92,
+    "district": "Quận Thanh Khê",
+    "ward": "Phường Thanh Khê Đông",
+    "street": "Đường Cù Chính Lan",
+    "category": "Nhà ở",
+    "floors": 4,
+    "rooms": 4,
+    "image": "https://cdn.chotot.com/Dnrpm6Qk0rXqcntq_tqPI6OtVWCso_xrj9YdSv-15n4/preset:listing/plain/7dbb9a099eb0214dfb597a1e4afaa251-2982086406932369283.jpg",
+    "url": "https://www.nhatot.com/132110720.htm",
+    "date": "52 phút trước",
+    "postedAt": 1777462236000,
+    "lat": 16.065496,
+    "lng": 108.185425
+  },
+  {
+    "id": 174873353,
+    "title": "10x33 lô đôi sát Hoà Khương,Đà Nẵng.Lô lẻ 165m2 giá 1tỷ tl Ko lụt lội",
+    "price": 1000000000,
+    "priceString": "1 tỷ",
+    "pricePerSqm": 2.9,
+    "size": 339,
+    "district": "Huyện Hòa Vang",
+    "ward": "Xã Hòa Khương",
+    "street": "Đường Quốc lộ 14B mở rộng",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/RwfzF7wu4A9DiiFurqenZXIaQPN0gKpBfyoJ3fwVPM8/preset:listing/plain/a18dc29821b2f74df6b80bd678190fcb-2976549240655566546.jpg",
+    "url": "https://www.nhatot.com/131354792.htm",
+    "date": "1 giờ trước",
+    "postedAt": 1777461379000,
+    "lat": 15.969104,
+    "lng": 108.13947
+  },
+  {
+    "id": 175655909,
+    "title": "Bán gấp 2pn full nội thất liền tường cao cấp, trả trước 230tr HTLS 0%",
+    "price": 2330000000,
+    "priceString": "2,33 tỷ",
+    "pricePerSqm": 35.3,
+    "size": 66,
+    "district": "Quận Liên Chiểu",
+    "ward": "Phường Hòa Minh",
+    "street": "Mê Linh",
+    "category": "Căn hộ/Chung cư",
+    "rooms": 2,
+    "image": "https://cdn.chotot.com/WrPp0K-ZUynD0S4Jth_B5BXu_LCQKw2Q-6R92fZREls/preset:listing/plain/481d075a4c84c2e4f15be5f4333ed3b6-2981347772440679938.jpg",
+    "url": "https://www.nhatot.com/132022649.htm",
+    "date": "1 giờ trước",
+    "postedAt": 1777460991000,
+    "lat": 16.065733,
+    "lng": 108.16955
+  },
+  {
     "id": 175158350,
     "title": "Nhà 2 tầng 2 mặt kiệt cách đường hoàng diệu 30m Giá 3950 ❤️",
     "price": 3950000000,
@@ -13,7 +144,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/AOCGDvAt2Kaa7ZLokW5pXR4Y8ZiH0IiShi9l0FX3MTg/preset:listing/plain/2bd295599d31f22e4ca4338fd1e8f160-2978271207886902999.jpg",
     "url": "https://www.nhatot.com/131595108.htm",
-    "date": "6 phút trước",
+    "date": "1 giờ trước",
     "postedAt": 1777460079000,
     "lat": 16.042387,
     "lng": 108.22223
@@ -31,7 +162,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/GvgFuRaaIRP_I8sLr3VLQr3R5ukxV-HQlLAQHDZa9U4/preset:listing/plain/b94796ad24ada79f1dcb4d1a6241753f-2973925274143583409.jpg",
     "url": "https://www.nhatot.com/130619856.htm",
-    "date": "7 phút trước",
+    "date": "1 giờ trước",
     "postedAt": 1777459983000,
     "lat": 16.095436,
     "lng": 108.22826
@@ -50,7 +181,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/pZa99Qvo4OPrEXeFuyjrHzp9cxjHmhP0yR6E6MmfpdQ/preset:listing/plain/5da946634234865e4781cc2f110228c1-2982064010077002987.jpg",
     "url": "https://www.nhatot.com/132107236.htm",
-    "date": "11 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777459766000,
     "lat": 16.06571,
     "lng": 108.19882
@@ -68,7 +199,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/SFjpcUd56plu9FoxgezSAwqYG7NVsmqP5jU07KwcPbQ/preset:listing/plain/942cbf0218815e885e992a602ecc9e0d-2982081814608557696.jpg",
     "url": "https://www.nhatot.com/132110086.htm",
-    "date": "17 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777459373000,
     "lat": 16.066723,
     "lng": 108.16192
@@ -86,7 +217,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/4cSbRbnKEbf7WLiom8XnREDQpRbRHicUmkwJz8wk3Zo/preset:listing/plain/423312f8fb8938118dbc2c4c6fa03f87-2977285047909858162.jpg",
     "url": "https://www.nhatot.com/131462352.htm",
-    "date": "19 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777459288000,
     "lat": 15.990108,
     "lng": 108.2679
@@ -104,7 +235,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/GaRDDdmOTK1rZogNYA1Lt4HubGE6AcT7LI5y0c_SeeM/preset:listing/plain/81cbbda39cfc812c84711d43e5d70eef-2977300503110606534.jpg",
     "url": "https://www.nhatot.com/131465616.htm",
-    "date": "19 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777459269000,
     "lat": 15.986474,
     "lng": 108.26957
@@ -122,7 +253,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/NKjkJiMHi_sesOBptXz1mDm9mlrkggQV1Dhd2EmdJZs/preset:listing/plain/35eec3583a04402f8a1e110aa4be2e03-2977301790308285298.jpg",
     "url": "https://www.nhatot.com/131465705.htm",
-    "date": "19 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777459247000,
     "lat": 15.98441,
     "lng": 108.26994
@@ -140,7 +271,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/WPzSx1IKXcrxVN0Cng-Sjy3nIZRfQPVRLVF4Y2D6XAY/preset:listing/plain/8f86b01e92f6bfba88e5e41e00618645-2978014604647302122.jpg",
     "url": "https://www.nhatot.com/131561697.htm",
-    "date": "20 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777459196000,
     "lat": 15.986402,
     "lng": 108.26706
@@ -159,7 +290,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/07mXXWFivYzA-ESOmgCaxyH1RhI5QWFIHymgPJmcgOs/preset:listing/plain/f663495276742656f1bda1ac607ddfcf-2978883702374225623.jpg",
     "url": "https://www.nhatot.com/131681712.htm",
-    "date": "21 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777459181000,
     "lat": 16.056286,
     "lng": 108.217155
@@ -177,14 +308,14 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/xqo4iwoGEXygqzDVh4pcqz2gh2UKafGS_cPZg9Qfvdk/preset:listing/plain/177c1583df7cb61b7a7249fbf84bd725-2982080799124721539.jpg",
     "url": "https://www.nhatot.com/132109977.htm",
-    "date": "25 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777458909000,
     "lat": 16.016676,
     "lng": 108.21853
   },
   {
     "id": 175758011,
-    "title": "Siêu phầm nhà 3 tầng đẹp như Resort mặt tiền Hà Bồng có hồ cá Koi",
+    "title": "Cực phẩm nhà 3 tầng đẹp như Resort mặt tiền Hà Bồng có hồ cá Koi",
     "price": 8740000000,
     "priceString": "8,74 tỷ",
     "pricePerSqm": 87.4,
@@ -197,7 +328,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/Isfh0FSp-rI3PQVuOxEef38J7BAOf2RjtY5Xoah3_3U/preset:listing/plain/8f4498f85a194ce9a5d23d1bf830f4f2-2982080742623542823.jpg",
     "url": "https://www.nhatot.com/132109950.htm",
-    "date": "27 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777458799000,
     "lat": 16.008677,
     "lng": 108.221756
@@ -215,7 +346,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/w2WYbXVG7CbJtA1DBrQXQIJfo0VVMQCuYX4xQk3_ttc/preset:listing/plain/cc035c307fd21e8c90f2f8b2f77d5123-2977867069952424074.jpg",
     "url": "https://www.nhatot.com/131540975.htm",
-    "date": "27 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777458788000,
     "lat": 16.031725,
     "lng": 108.2461
@@ -235,7 +366,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/Rdn-z-VkcPxdzYCnwONUygsWSy7pFOQN8dEk7Dein-c/preset:listing/plain/d0eb763a93609ec7b98629bc7a1ec582-2982080678099433088.jpg",
     "url": "https://www.nhatot.com/132109933.htm",
-    "date": "28 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777458708000,
     "lat": 16.019941,
     "lng": 108.20747
@@ -255,7 +386,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/8Dy3DsHyb1S62PVlI7OtUCvRAjTdNoMcZ9tEOdDPBK8/preset:listing/plain/90871f97216de401138e9c205271c32d-2982080144506959488.jpg",
     "url": "https://www.nhatot.com/132109907.htm",
-    "date": "30 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777458630000,
     "lat": 16.073637,
     "lng": 108.15177
@@ -274,7 +405,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/o9GdQzwSQdsboE782W-cGxIwIzvn24culEOc3KGYzoA/preset:listing/plain/fe0dc677a18cb38b03ea02343efe8c1c-2982080351892878976.jpg",
     "url": "https://www.nhatot.com/132109871.htm",
-    "date": "32 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777458504000,
     "lat": 16.069033,
     "lng": 108.18469
@@ -292,7 +423,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/uagPZ3P5GkW0Gy0IucWOafRq7p9WTOthOwobygFMXhs/preset:listing/plain/a1ec109e993055f0ff379668ff5ca66c-2973809993206015774.jpg",
     "url": "https://www.nhatot.com/130975432.htm",
-    "date": "35 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777458304000,
     "lat": 16.063534,
     "lng": 108.189285
@@ -311,7 +442,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/f7pRmR6TYkPgQ2yqVL6lhtE_j6L1yTPwgZvHbiXMYV8/preset:listing/plain/ba1919685a665a97cea045efac2d1bb1-2979341093466688504.jpg",
     "url": "https://www.nhatot.com/131748215.htm",
-    "date": "36 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777458278000,
     "lat": 16.109346,
     "lng": 108.13037
@@ -330,7 +461,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/mMFF-52JGxMU3QmUY0yjR3GnIs-RRF7F285mxNaWERI/preset:listing/plain/1162cf87b902e0b290d7dce5a8c4a42d-2939170297031467492.jpg",
     "url": "https://www.nhatot.com/126197206.htm",
-    "date": "41 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777457981000,
     "lat": 16.072176,
     "lng": 108.228905
@@ -349,7 +480,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/sdvbvoiYUx5fJ4hiZBlfzKF--xCG7h1mgtdDJlk88HI/preset:listing/plain/4adf5837be0713c7b6ab51779049f979-2982076798330680960.jpg",
     "url": "https://www.nhatot.com/132109694.htm",
-    "date": "44 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777457748000,
     "lat": 16.076984,
     "lng": 108.23479
@@ -367,7 +498,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/p5KfgBUnafP2MGOdUIUrMcyip-ituxYo8Jg1-fpjtxs/preset:listing/plain/7384caaebac7e8753e5526a324a6f15d-2982078868446787200.jpg",
     "url": "https://www.nhatot.com/132109685.htm",
-    "date": "45 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777457712000,
     "lat": 16.084555,
     "lng": 108.24229
@@ -386,7 +517,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/JeV7c-2P8KLmo90kiMnav4oHVCSEH_BVxUdcoF67wwA/preset:listing/plain/0dd850553a12b842c3088a2f3bfc9c69-2973350634476018298.jpg",
     "url": "https://www.nhatot.com/130915722.htm",
-    "date": "45 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777457699000,
     "lat": 16.033625,
     "lng": 108.22743
@@ -405,7 +536,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/W3x3cNPwMqLeRueIqJtyNRTcjDBYUzESKbX6NlLQ-Bw/preset:listing/plain/0c2ef47596e23febe64d61494b596255-2981885653058036766.jpg",
     "url": "https://www.nhatot.com/132082088.htm",
-    "date": "49 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777457492000,
     "lat": 16.100111,
     "lng": 108.22886
@@ -425,7 +556,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/F1funNVxevXC-HCiirsk_FzX8kNYePOEkyYaEDyDzUs/preset:listing/plain/01a733d095864b0f49066b470bd6d2db-2981888664104852715.jpg",
     "url": "https://www.nhatot.com/132082943.htm",
-    "date": "51 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777457340000,
     "lat": 16.024868,
     "lng": 108.188866
@@ -445,7 +576,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/ZsZzvkMaHuIJYUv70OxldHY8uxnBQdTM39u3aslAsR8/preset:listing/plain/6233c30a24c6a831e334ef8dfcf83509-2982078134576938535.jpg",
     "url": "https://www.nhatot.com/132109600.htm",
-    "date": "52 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777457287000,
     "lat": 16.053411,
     "lng": 108.148796
@@ -465,7 +596,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/lwW6jcQ5hU2m99u_f2GYYS8KQ6ljv5Y7POolMDWHlEY/preset:listing/plain/9045c55ec74a3ac13c07068ffa6aae69-2982078089370000619.jpg",
     "url": "https://www.nhatot.com/132109561.htm",
-    "date": "54 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777457199958,
     "lat": 16.017202,
     "lng": 108.20072
@@ -485,7 +616,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/hTBG-3Wc_3hv12JkZ0jnjRifTSN121bNJsbdHElmoKo/preset:listing/plain/3695218fe7e98de541b4af8ab68335fe-2982077998580587266.jpg",
     "url": "https://www.nhatot.com/132109538.htm",
-    "date": "56 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777457044000,
     "lat": 16.046818,
     "lng": 108.17764
@@ -504,7 +635,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/KweYYC5soYd9dO5CD1xT5RkVrblsQhe3F4U81Jqe1fA/preset:listing/plain/e768ad4589d329dadd3eaa75f035039b-2981018357768492546.jpg",
     "url": "https://www.nhatot.com/131972604.htm",
-    "date": "57 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777457018000,
     "lat": 16.058823,
     "lng": 108.2084
@@ -524,7 +655,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/KSR9nEki-oCGY3PD7cmJLv_iknwT8EoxfAWdVLTDzoM/preset:listing/plain/6f4f17020764a69348978c99d72f5c62-2981070907426200811.jpg",
     "url": "https://www.nhatot.com/131199413.htm",
-    "date": "59 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1777456892000,
     "lat": 16.048767,
     "lng": 108.18586
@@ -543,7 +674,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/llc2ZvCsPpLr394eNvGmKuGNlPON5ghvFUZQsPvP3Ak/preset:listing/plain/6a8705238cf75d9ff685a7f778ef2a82-2939746744537219605.jpg",
     "url": "https://www.nhatot.com/126290226.htm",
-    "date": "1 giờ trước",
+    "date": "2 giờ trước",
     "postedAt": 1777456780000,
     "lat": 16.08381,
     "lng": 108.228874
@@ -563,7 +694,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/NUytyBIN9TOv22X5d0dAtgy3UP5wAfxUPGfiNR1vccw/preset:listing/plain/fb65a457ed0e3624b0d53f794278932f-2976238321300363067.jpg",
     "url": "https://www.nhatot.com/131309429.htm",
-    "date": "1 giờ trước",
+    "date": "2 giờ trước",
     "postedAt": 1777456740000,
     "lat": 16.053411,
     "lng": 108.148796
@@ -582,7 +713,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/Oc3KbRFJt0zFiI7ROiPZVW1Di8z3ArAV-kxJAEAXibg/preset:listing/plain/4505ac72aff0414ecd89a74a3607a5ec-2981505129944684034.jpg",
     "url": "https://www.nhatot.com/131571937.htm",
-    "date": "1 giờ trước",
+    "date": "2 giờ trước",
     "postedAt": 1777456740000,
     "lat": 16.099874,
     "lng": 108.25035
@@ -602,7 +733,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/nlI39S0J6TyrX_PyXcWdHT3yYGcU97NXH7s7VeQWXng/preset:listing/plain/3c2746e63faededfd7b79ae0f2915afc-2981900769319035934.jpg",
     "url": "https://www.nhatot.com/132085838.htm",
-    "date": "1 giờ trước",
+    "date": "2 giờ trước",
     "postedAt": 1777456740000,
     "lat": 16.065033,
     "lng": 108.17846
@@ -610,9 +741,9 @@
   {
     "id": 175757393,
     "title": "Cần bán diện tích lơn tại giáng đông hoà châu(430m) chia 3 lô",
-    "price": 2300000000,
-    "priceString": "2,3 tỷ",
-    "pricePerSqm": 18.9,
+    "price": 7400000000,
+    "priceString": "7,4 tỷ",
+    "pricePerSqm": 60.7,
     "size": 122,
     "district": "Huyện Hòa Vang",
     "ward": "Xã Hòa Châu",
@@ -620,7 +751,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/uM-2O7PjYSL-X7W63wflqAbNiYwfte-X1IoSnPwfm6s/preset:listing/plain/9204a237a10026ae2529c0b31129f4ad-2982076248668016515.jpg",
     "url": "https://www.nhatot.com/132109426.htm",
-    "date": "1 giờ trước",
+    "date": "2 giờ trước",
     "postedAt": 1777456614000,
     "lat": 15.99378,
     "lng": 108.19277
@@ -640,7 +771,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/9Ha8n74o7no3wWyrf1ASpuGk74kPFoTU3fRNmvCsrtM/preset:listing/plain/24adfbd1ed1c83ba4c98ad3db488adee-2981951593173066782.jpg",
     "url": "https://www.nhatot.com/132095082.htm",
-    "date": "1 giờ trước",
+    "date": "2 giờ trước",
     "postedAt": 1777456442000,
     "lat": 16.00653,
     "lng": 108.21355
@@ -660,7 +791,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/B23l7_9FC2aQvgPSkWAicb9zJ5wVHR7Cpn-LBI73cR8/preset:listing/plain/5a77baabff316ac0626965b39f919ec1-2976133956305805295.jpg",
     "url": "https://www.nhatot.com/131298685.htm",
-    "date": "1 giờ trước",
+    "date": "2 giờ trước",
     "postedAt": 1777456437000,
     "lat": 16.009804,
     "lng": 108.22467
@@ -680,7 +811,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/HRDo1SEF2D6vkG3SHf6pudPwXVRrmaDt6MboR7N6Bzk/preset:listing/plain/8d1810c128ad79fa4230d52667f22e68-2982076935945903339.jpg",
     "url": "https://www.nhatot.com/132109372.htm",
-    "date": "1 giờ trước",
+    "date": "2 giờ trước",
     "postedAt": 1777456423000,
     "lat": 16.008394,
     "lng": 108.24017
@@ -698,7 +829,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/YHFvI1Bt1r-lZd9DTmWFnw3ZUVH_C3Lq0G4cPFtJ1Tg/preset:listing/plain/ac9707904247f2e891cd0e700453d5f8-2973045779980092674.jpg",
     "url": "https://www.nhatot.com/130875766.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777456084000,
     "lat": 16.065863,
     "lng": 108.20284
@@ -717,7 +848,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/IzYfrsUrXcEJCgA967E5EX99CKtYXbBPUkM41QICOiU/preset:listing/plain/841300e5f61be4fa9276c3f34762036b-2981887860159417214.jpg",
     "url": "https://www.nhatot.com/132082421.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777456023000,
     "lat": 16.0814,
     "lng": 108.1376
@@ -735,7 +866,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/rICC67KSnV80W64RDgv7qkal_ouKO3Ry9ngx8t-piFA/preset:listing/plain/faa5b1e0d1b5f33fbd29bf75b1bf97ae-2977408152335720310.jpg",
     "url": "https://www.nhatot.com/131476926.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455996000,
     "lat": 16.006634,
     "lng": 108.25686
@@ -754,7 +885,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/RQtIotWoPaNaWVH71ws41AVzQ53XFggosCISa3znp10/preset:listing/plain/f2d3c5adc62daf57b07d6356b33b9a28-2981885526046477182.jpg",
     "url": "https://www.nhatot.com/132082243.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455902000,
     "lat": 16.100111,
     "lng": 108.22886
@@ -774,7 +905,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/HyG4vT3QXU06R6AEH9U1TT61-Ldimllh4MIchrQzsJE/preset:listing/plain/1f4bcccf3ddf4115da6935f9e69bc775-2977309955985961294.jpg",
     "url": "https://www.nhatot.com/131466946.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455902000,
     "lat": 16.065361,
     "lng": 108.18543
@@ -794,7 +925,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/5_Fv5xyjMIPZxRZrTRaBp2ntmQNVWQYuucwMwuBEubY/preset:listing/plain/6ad46ac7d82557b012390b770f9f6e01-2976235448938192253.jpg",
     "url": "https://www.nhatot.com/131308435.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455841000,
     "lat": 16.053411,
     "lng": 108.148796
@@ -814,7 +945,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/1OspIcHeMPrdMax5Gqef8g9BK2R-Q0UI-5SVGTueFeU/preset:listing/plain/24bd453d60256e231b7d46aeb54c57c1-2982074679590293379.jpg",
     "url": "https://www.nhatot.com/132109094.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455801000,
     "lat": 15.969104,
     "lng": 108.13947
@@ -833,7 +964,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/ne3mFCbCev0WZvP6ALs22TP0ZD6G4JfmvmQq6pgrrTQ/preset:listing/plain/487846df6dbff4da79e1c711eabe82f7-2982072890281674071.jpg",
     "url": "https://www.nhatot.com/132108777.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455720000,
     "lat": 15.986558,
     "lng": 108.26741
@@ -851,7 +982,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/suslZQNea3yDQdRYli0D2isOr7UhvRgqMNnBPuLK8eo/preset:listing/plain/dc95d23a77aeba087053310c6d918813-2981905508051901675.jpg",
     "url": "https://www.nhatot.com/132086656.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455720000,
     "lat": 16.03403,
     "lng": 108.215485
@@ -869,7 +1000,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/7WVjiqxEv3I7oFXqM6B0XtG-JN5odKBuOT9lJokyuYg/preset:listing/plain/891e39b8649c8c353bff2727bc650d70-2979741156641112656.jpg",
     "url": "https://www.nhatot.com/131799083.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455660000,
     "lat": 16.099676,
     "lng": 108.13694
@@ -887,7 +1018,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/fagQjAC0zP3xBWfgXAt-0v8xFP42_esLe3xE4HKbHKI/preset:listing/plain/704aca41677a90242d66de3ea085c0f3-2981920346022534379.jpg",
     "url": "https://www.nhatot.com/132089709.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455362000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -907,7 +1038,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/ja6zobKVxJg-pZft9wi6JDj5y29Sh-ipg8G6G1BnC1g/preset:listing/plain/de4746622901a3aefbbbdb3fbbfff238-2981963242143912827.jpg",
     "url": "https://www.nhatot.com/132096715.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455301000,
     "lat": 16.039656,
     "lng": 108.22192
@@ -927,7 +1058,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/nssKO7mXNCxNcu893ir-xVtGUOhIUO3TombJfFHVIAA/preset:listing/plain/7515bf4a7cf674422045f19e8a219bf0-2972618197138365365.jpg",
     "url": "https://www.nhatot.com/130828242.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455246000,
     "lat": 16.081253,
     "lng": 108.24399
@@ -946,7 +1077,7 @@
     "rooms": 5,
     "image": "https://cdn.chotot.com/nbjSgnitSQn6zQfqU2r4Gavwzw2PIxE1Fe8RAaP_3yU/preset:listing/plain/04335fa76736719d0bf11655a7ea8c78-2981898483522198763.jpg",
     "url": "https://www.nhatot.com/132085194.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455180000,
     "lat": 16.087301,
     "lng": 108.21936
@@ -965,7 +1096,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/gq8eGkX3AAjWWKtQAlE6hde8mDH2TF3-JyTzx_XFXXw/preset:listing/plain/51c32ae01ed73dda3e4510fa022cff39-2981891156845281651.jpg",
     "url": "https://www.nhatot.com/132083490.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455180000,
     "lat": 16.069782,
     "lng": 108.22938
@@ -984,7 +1115,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/mEB8sfeM7nkJ0iES32ijxKxx2bg8bQQXL9sM_yzX3bY/preset:listing/plain/6102c46168d635d6d5eae595a5eb066b-2981200821113627643.jpg",
     "url": "https://www.nhatot.com/132002607.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455165000,
     "lat": 16.100111,
     "lng": 108.22886
@@ -1002,7 +1133,7 @@
     "category": "Văn phòng, Mặt bằng kinh doanh",
     "image": "https://cdn.chotot.com/s_RS_LeAHXKpn0nZFZWMrHl_YlzT_7iB3gcDPvl9qrU/preset:listing/plain/24e7e7734ad419311c1a46ec863c4226-2981930036470930134.jpg",
     "url": "https://www.nhatot.com/132091790.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455124000,
     "lat": 16.067204,
     "lng": 108.24432
@@ -1021,7 +1152,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/mxDFKIWKvjDO5o8FTl8jgT2hr5e_lHRovDwd-fer7S0/preset:listing/plain/5ef73483b94e813902455b29beff3863-2980296974289219088.jpg",
     "url": "https://www.nhatot.com/131877305.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455094000,
     "lat": 15.9883375,
     "lng": 108.25981
@@ -1040,7 +1171,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/HiW9JjFqc0LUpXaGZdn-LFPwtXj2ZXLWuAdNKcbu7xM/preset:listing/plain/fc25d67a8b059d877f7d787563432c61-2960339861086411876.jpg",
     "url": "https://www.nhatot.com/129395716.htm",
-    "date": "1 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777455064000,
     "lat": 16.074707,
     "lng": 108.15503
@@ -1058,7 +1189,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/qXAnTqy6OovlIaQAhJaHhcoJpqMk6CtN3o661-6T1wI/preset:listing/plain/11c91ae72d29b6b091ef01a50af47229-2981889804995406075.jpg",
     "url": "https://www.nhatot.com/132082894.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777454943000,
     "lat": 16.031948,
     "lng": 108.224236
@@ -1078,7 +1209,7 @@
     "rooms": 6,
     "image": "https://cdn.chotot.com/3EBGH2jerFnOInZXXfTfcA0Ru5Hlen5Fxwq85rTrANA/preset:listing/plain/8f7d1cb4a635489c80a02a782ad9b2d5-2982074320216087298.jpg",
     "url": "https://www.nhatot.com/132108923.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777454892000,
     "lat": 16.04826,
     "lng": 108.17548
@@ -1098,7 +1229,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/KGzSUnnnD_DhpRdqsi9QPUMVCuWaj3iiaZXlkX9dE7M/preset:listing/plain/c93224cb93da00934f0305841170977a-2981818168150638804.jpg",
     "url": "https://www.nhatot.com/132078242.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777454761000,
     "lat": 16.030788,
     "lng": 108.2255
@@ -1117,7 +1248,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/u33VMJkNdOtPv7kFbimrS7uC3ymht6yRQ-X0hJwszS4/preset:listing/plain/7a86806aadc1b903a0b7de8074dd08d3-2982071265189540808.jpg",
     "url": "https://www.nhatot.com/132108864.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777454711000,
     "lat": 16.07182,
     "lng": 108.22909
@@ -1137,7 +1268,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/1s8e4YECbeJCgnxx5uE1zfN6NsvC7nvhkJflpY-PZtU/preset:listing/plain/c85d11204d976a570b2f9b51dc704ba8-2981908382695329667.jpg",
     "url": "https://www.nhatot.com/132087215.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777454700000,
     "lat": 16.044338,
     "lng": 108.18459
@@ -1156,7 +1287,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/mIUHKFP56GCwPhh9iT0kCmRWLHz5Ko3pQzIXh3CVvWk/preset:listing/plain/74e8e0a3b8a13e6822f0113a3e12011d-2982063422050410767.jpg",
     "url": "https://www.nhatot.com/132091652.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777454640000,
     "lat": 16.059008,
     "lng": 108.23034
@@ -1175,7 +1306,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/C-0aevWpI_By7HaaHnbJYfFvdS31ROyzVBe1RXNPk4I/preset:listing/plain/1f88708f061fe2b7df94955465596bd9-2981044240532920441.jpg",
     "url": "https://www.nhatot.com/131979575.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777454518000,
     "lat": 16.100111,
     "lng": 108.22886
@@ -1194,7 +1325,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/GiZiB1xUOnto2GPW74ZwL1-eoenGfWJf_wO6hxKwJ7Q/preset:listing/plain/9dc644d36fa6469d7f48d25a5d6d3311-2975817979054060235.jpg",
     "url": "https://www.nhatot.com/131249306.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777454347000,
     "lat": 16.02989,
     "lng": 108.229126
@@ -1214,7 +1345,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/PJIea1Y0cL6y5u2KFP9XHbJifMsOY4AK1fgPn2UDZ1I/preset:listing/plain/32d0e0b19daf11ce0d94e6308e63d495-2982072443167187215.jpg",
     "url": "https://www.nhatot.com/132108612.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777454301000,
     "lat": 15.987687,
     "lng": 108.13912
@@ -1234,7 +1365,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/5g365Wcme8YXy71p5Pqe4kukPnFJQUXuYX3eutdMf_M/preset:listing/plain/c27faaf3c0c4bd919ca085cb6729d1f8-2981921205840501462.jpg",
     "url": "https://www.nhatot.com/132089986.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777454220000,
     "lat": 16.04826,
     "lng": 108.17548
@@ -1253,7 +1384,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/eptURhRuJO8CLCcixqDvCX8bm-Xu_YG4nLN6pc8_H_0/preset:listing/plain/91c00c6e715e055180b1831722b6df83-2982072912649107051.jpg",
     "url": "https://www.nhatot.com/132108698.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777454171000,
     "lat": 16.06717,
     "lng": 108.24352
@@ -1271,7 +1402,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/3VuwhVgxxGxSwuqODTfHheT1FJo0M1QCM5SEcavjj9w/preset:listing/plain/88a07ea7c254af372b8be76054e61384-2976818753667062840.jpg",
     "url": "https://www.nhatot.com/131390977.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777453983000,
     "lat": 16.077059,
     "lng": 108.13694
@@ -1291,7 +1422,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/jQP7dwU43rC6PSI2dtlLe5wdZ5McE7xz7-MHXpHfQRc/preset:listing/plain/976ba47c110fbf89d21ccf46be8021a4-2981899954214853867.jpg",
     "url": "https://www.nhatot.com/132085613.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777453983000,
     "lat": 16.009937,
     "lng": 108.192924
@@ -1310,7 +1441,7 @@
     "rooms": 11,
     "image": "https://cdn.chotot.com/nGHzW27C8lWwmQ2OdCJhC00B3OASbYsoMW_gT0INlsA/preset:listing/plain/4f85efbc7850d60e104928a9ebe79678-2981920750165900591.jpg",
     "url": "https://www.nhatot.com/132089815.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777453861000,
     "lat": 16.063278,
     "lng": 108.23987
@@ -1328,7 +1459,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/Btd750CQOGi8otN-G2MIeufMpMyHKYbuLGbm__xyIxA/preset:listing/plain/83839c4c3412abe28cd43ee35676929f-2982071781274803435.jpg",
     "url": "https://www.nhatot.com/132108592.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777453850000,
     "lat": 16.100111,
     "lng": 108.22886
@@ -1347,7 +1478,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/zSpBzJCWUoEyliUPqGOSgdoCyNCHBfTY82cVr0gpG30/preset:listing/plain/5d0d2dcbbc649afaa8567bf9498815da-2981092233450395138.jpg",
     "url": "https://www.nhatot.com/131990392.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777453765000,
     "lat": 16.100111,
     "lng": 108.22886
@@ -1367,7 +1498,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/nQjge0P4SpNkIkH2n0NppyEpCVtR1M1esBMG-kf7TXU/preset:listing/plain/73869cb39dcdfe4c6d781ba581f16a23-2981905367682163742.jpg",
     "url": "https://www.nhatot.com/132086635.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777453680000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -1386,7 +1517,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/tfw9wH8rsa_IRAJf737AXGOzwR71EJmuEVALbD-0bpQ/preset:listing/plain/dc998fff11fc61d9355d53ee9fff1aeb-2981196789254690306.jpg",
     "url": "https://www.nhatot.com/132001424.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777453513000,
     "lat": 16.023832,
     "lng": 108.21255
@@ -1404,7 +1535,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/s1Y_XAlO_ZB9Skn4GfJOacQlN1d4qYLt7YDc-KUTy-A/preset:listing/plain/46c47a1de8abfa36f244105bdad643bd-2973217842496165918.jpg",
     "url": "https://www.nhatot.com/130899626.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777453432000,
     "lat": 16.11041,
     "lng": 108.12993
@@ -1423,7 +1554,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/FLzjG1QpQdWTdT23N0XSZj0qdLAfzb2VkRlCP-XJkPI/preset:listing/plain/96a90081cbf6d7b5aaeef328ad30476f-2982070959788369946.jpg",
     "url": "https://www.nhatot.com/132108367.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777453085000,
     "lat": 16.100111,
     "lng": 108.22886
@@ -1442,7 +1573,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/Z5M25OfmD43j7WI2a_Y2H1u32CU14TCdCTQP9l2NaXg/preset:listing/plain/2a22d1e26107c5623f64565207324f4f-2973072334564689154.jpg",
     "url": "https://www.nhatot.com/130885427.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1777452885000,
     "lat": 16.077059,
     "lng": 108.13694
@@ -1461,7 +1592,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/M2gK-N-q5WWi6Hi5lYsXfdoKELLjVT2t06TE3UQACOI/preset:listing/plain/b670f343a9172827d03fc800f2f38dd4-2982036041662274359.jpg",
     "url": "https://www.nhatot.com/132101955.htm",
-    "date": "2 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777452562000,
     "lat": 15.986558,
     "lng": 108.26741
@@ -1480,7 +1611,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/qeM5evBWYLL76plCckH_aVvezoy-bUcxJdum8QXSNow/preset:listing/plain/e836db8554460c2241529306112138da-2974378026730293656.jpg",
     "url": "https://www.nhatot.com/131051996.htm",
-    "date": "2 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777452531000,
     "lat": 16.09678,
     "lng": 108.24541
@@ -1500,7 +1631,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/Rg2-GdTSmAexyFrkTAqI02VdMz9QPWM2k78Bzx0Zouw/preset:listing/plain/d1f8faae2aba0a15613da104695736c3-2982069953228710159.jpg",
     "url": "https://www.nhatot.com/132108094.htm",
-    "date": "2 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777452309000,
     "lat": 16.037712,
     "lng": 108.172806
@@ -1520,7 +1651,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/RpUPaD-T4pDL-2S9PViPNivED3J0ivv0Cu9JdYX59aY/preset:listing/plain/b1b2cc93dc26e8ea614b0149f77408d9-2977241764185488242.jpg",
     "url": "https://www.nhatot.com/131293435.htm",
-    "date": "2 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777451855000,
     "lat": 16.06571,
     "lng": 108.19882
@@ -1538,7 +1669,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/aNfLixiS68z1qu3mbkiwr6zUJ6YX-59bIO8_kRBa4kk/preset:listing/plain/eb5bc11a9290ecea57fe41bc9f8de2f0-2980321803180737301.jpg",
     "url": "https://www.nhatot.com/131882056.htm",
-    "date": "2 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777451739000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -1556,7 +1687,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/m573ito6pYk6i2tkW2695PteLn-QGYuLsBfN6fSJsx4/preset:listing/plain/3a51053605cb6e2e101651ff2c8baed2-2982067081438503183.jpg",
     "url": "https://www.nhatot.com/132107896.htm",
-    "date": "2 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777451705000,
     "lat": 16.028744,
     "lng": 108.24008
@@ -1576,7 +1707,7 @@
     "rooms": 7,
     "image": "https://cdn.chotot.com/KAadyZcs6iTBY7tZuDKncJXa0p0WdGY0FxvcdTksxIM/preset:listing/plain/e965004587654e44694aa556432de11f-2981168782559993067.jpg",
     "url": "https://www.nhatot.com/131994923.htm",
-    "date": "2 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777451476000,
     "lat": 16.06261,
     "lng": 108.22144
@@ -1594,7 +1725,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/AYKJ9c82p3pTf2fl5tRzFxtrjSBuPHI-lI_7oCyoJ9U/preset:listing/plain/c890076c5bec2dc1f4c48edfcadfbbee-2982067812441952131.jpg",
     "url": "https://www.nhatot.com/132107683.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777450987000,
     "lat": 16.044945,
     "lng": 108.21734
@@ -1613,7 +1744,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/PNdps_sR1u5qtNAhuVMyQJsvIahbW2GVc7kedWgw4Ow/preset:listing/plain/69f95d76c2fc8e3fb916ae22999bab60-2981028247745846507.jpg",
     "url": "https://www.nhatot.com/131802138.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777450910000,
     "lat": 15.978963,
     "lng": 108.25413
@@ -1633,7 +1764,7 @@
     "rooms": 5,
     "image": "https://cdn.chotot.com/Y6AxS0gp3c8wIRNgbBwR1UTHHQI7eISzJ29nfVEzDic/preset:listing/plain/0fbb87ce5844fc4253c4e35b1f702f14-2981341512457370404.jpg",
     "url": "https://www.nhatot.com/132021078.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777450577000,
     "lat": 16.06585,
     "lng": 108.22986
@@ -1651,7 +1782,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/7z3yij3rajZh8jS2UJwxvEtoThtHboBkA_Rmfi65jis/preset:listing/plain/db4ca474d45b785dd78d8e97ac1c3aef-2980324061338623463.jpg",
     "url": "https://www.nhatot.com/131882674.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777450537000,
     "lat": 16.022776,
     "lng": 108.22472
@@ -1669,7 +1800,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/KOQ-3iDi56UCBxhNxpsCBuZHXnzpfjpQYBdVvMvLdUM/preset:listing/plain/8fd854df919b591649d88f95993bf9d1-2982066707968548075.jpg",
     "url": "https://www.nhatot.com/132107516.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777450482000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -1687,7 +1818,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/Z0DV7zCTcbX8xwGpcqRN9lcbKmHhqSHpDgIbHAxvkPI/preset:listing/plain/d4bbe3420c6f43de878145775071bc67-2982065434877680875.jpg",
     "url": "https://www.nhatot.com/132107504.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777450436000,
     "lat": 16.034105,
     "lng": 108.17618
@@ -1706,7 +1837,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/VqLA3RywocUlH9ku-4donkTJ219wCZd1u5uSqk-_iKQ/preset:listing/plain/804e3a561970154d942ae92fcd4d8876-2981964974116380814.jpg",
     "url": "https://www.nhatot.com/132096757.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777450022273,
     "lat": 15.98728,
     "lng": 108.26717
@@ -1725,7 +1856,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/D5VvSKmUYYBIuH5rgcolJJJ-zpvjdl7bP22cLVviuLs/preset:listing/plain/54020c56736413cb405d6ceb1ca4bac2-2982062030635392235.jpg",
     "url": "https://www.nhatot.com/132107367.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777449990000,
     "lat": 16.077059,
     "lng": 108.13694
@@ -1744,7 +1875,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/fohUimQ9hiYStSHkeyX-xYRRmiwYTQRTCK9NxVM-DKw/preset:listing/plain/94e31964a67428722a01c36595e7f12b-2972767653214333458.jpg",
     "url": "https://www.nhatot.com/130844657.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777449961000,
     "lat": 16.106192,
     "lng": 108.24756
@@ -1764,7 +1895,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/bEurbOjYU09Kufdbel1sZLV2rk_wMmVm3xaRskmrOEQ/preset:listing/plain/3b98525a5fb5dd7bdc3d7c15ba4c6ea7-2974820863851091652.jpg",
     "url": "https://www.nhatot.com/131109852.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777449885000,
     "lat": 16.066612,
     "lng": 108.19994
@@ -1783,7 +1914,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/tndES5_MVSboNibpVw8mZx1r4iOe8z2i5SKq3w8ivaU/preset:listing/plain/ee8073245db749df88b6aeee40d58c31-2981897027161532181.jpg",
     "url": "https://www.nhatot.com/132084807.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777449709000,
     "lat": 16.010834,
     "lng": 108.24368
@@ -1802,7 +1933,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/NltpAjvfYvre4qFuNNGzKgqhRy3ixGEox2i-wJNnjQw/preset:listing/plain/e7ea6b3b3fba0427dfcfc4749ba47e9e-2982064605042385167.jpg",
     "url": "https://www.nhatot.com/132107220.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777449579000,
     "lat": 16.100111,
     "lng": 108.22886
@@ -1822,7 +1953,7 @@
     "rooms": 9,
     "image": "https://cdn.chotot.com/N1F3psawyG2fc-Knw6_7aDY5HSodRcvJcgMyE2KBMZo/preset:listing/plain/eec54d8e8106d4a03ac5623aaaac8e05-2982062847932292331.jpg",
     "url": "https://www.nhatot.com/132107182.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777449483000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -1840,7 +1971,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/jWoFwKQBIVvUTGKDGB-O-DlLZjb-jsBIxp4j5miJgDE/preset:listing/plain/1d339ed8a5d53b556d4d110a56f06bf2-2981903162079304939.jpg",
     "url": "https://www.nhatot.com/132087769.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777449243974,
     "lat": 16.065617,
     "lng": 108.184616
@@ -1858,7 +1989,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/gwojUYiTjQPcTe1TvLQKXm4HsLDGBvZ80hVBZSTcmoM/preset:listing/plain/16219cf5bded3a957ea4b50afb27332d-2981171181985699330.jpg",
     "url": "https://www.nhatot.com/131995680.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777449238871,
     "lat": 16.086306,
     "lng": 108.1509
@@ -1877,7 +2008,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/WkJmGyBXXJ5L718W4cGCogckQsljeTB-Sovo5_CJV18/preset:listing/plain/ca623447ef470a6ee7c58d0239324314-2975076807370193705.jpg",
     "url": "https://www.nhatot.com/131143194.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777449183446,
     "lat": 16.065733,
     "lng": 108.16955
@@ -1895,7 +2026,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/WiOt_ztPDRExclxPaF9m5J4qZ5zL7XXTsEsjrfxADq8/preset:listing/plain/41716d44d3a2bd9d0af4495ab40f7333-2981760614393614211.jpg",
     "url": "https://www.nhatot.com/132068404.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777449062152,
     "lat": 16.097464,
     "lng": 108.12821
@@ -1913,7 +2044,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/NXBWvtkU8wAZ-GxFOvASTa-ydnaj52mhQzmfiz0--Qo/preset:listing/plain/f44a41f0cfde3298a9cf4a54fa8a487d-2982063885510882435.jpg",
     "url": "https://www.nhatot.com/132106975.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777448850000,
     "lat": 16.124105,
     "lng": 108.11961
@@ -1931,7 +2062,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/jolRubOy6u55OiSFNnWIkf1KzQg771EQSn5_QQdgTXk/preset:listing/plain/91d2d98899d4793d525f640919a36458-2981897163282570475.jpg",
     "url": "https://www.nhatot.com/132106944.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777448773000,
     "lat": 16.065859,
     "lng": 108.20102
@@ -1950,7 +2081,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/vY3kiynBAu8ju7efz9xbiwXUFmeqDcpBSYnufsC6KC8/preset:listing/plain/f5d847302f86c9ed54deb2552a86161f-2977866802519400134.jpg",
     "url": "https://www.nhatot.com/131541233.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777448763745,
     "lat": 16.072176,
     "lng": 108.228905
@@ -1968,7 +2099,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/xDBQAWgScN7mdjSFTLpILbq2_hGw-1hgNdUPInT9uiQ/preset:listing/plain/406244f4111d8a76627d9839b30f7d3e-2977412249309002610.jpg",
     "url": "https://www.nhatot.com/131413383.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777448687000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -1988,7 +2119,7 @@
     "rooms": 11,
     "image": "https://cdn.chotot.com/wcXpr3WWLKZ9jfmoKzrMtntBBq4yrDNJF_DSFhs6Sf0/preset:listing/plain/2eadc565d98c4e2b69014fd2f10fd1cf-2981915685105607710.jpg",
     "url": "https://www.nhatot.com/132088687.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777448581000,
     "lat": 16.063908,
     "lng": 108.20661
@@ -2008,7 +2139,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/r8H6ChF13kaHzf2XdThyEhMAuSENjGrjM3FqA-WYkF8/preset:listing/plain/19dbcf4eb639b8dfe2369f0cb82b4cb3-2975577543533302572.jpg",
     "url": "https://www.nhatot.com/131217154.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777448520758,
     "lat": 16.06261,
     "lng": 108.22144
@@ -2028,7 +2159,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/r5-i5ucQUWgLiSFsnA6zftO0TRC32KAPKEnPAXX5S7o/preset:listing/plain/a9509627356fa754ef291a8732d1022e-2981823783872158955.jpg",
     "url": "https://www.nhatot.com/132078809.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777448520000,
     "lat": 16.048773,
     "lng": 108.24016
@@ -2047,7 +2178,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/PUhXMxDnpuN8iLBZ0MRoKnlhWwIWOU_eygh9uKrUbrw/preset:listing/plain/ee8e1d9b830a957ec7eeb16c62c8f9f2-2981925292139057027.jpg",
     "url": "https://www.nhatot.com/132040937.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777448510000,
     "lat": 16.100111,
     "lng": 108.22886
@@ -2066,7 +2197,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/MxGTVZuwJWgy9GE4MfSofkr3rjvv3EvlbuzQR3UDYig/preset:listing/plain/6a7f31d05c08298354b412de2ff0a833-2982063019784527083.jpg",
     "url": "https://www.nhatot.com/132106787.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777448307000,
     "lat": 16.0814,
     "lng": 108.1376
@@ -2084,7 +2215,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/A-PBrVk8XMjyGlG_qGh5aqbZ6SvUEzWpm3reH96bwH0/preset:listing/plain/3af85092011016f273708fc777603643-2981886556441060382.jpg",
     "url": "https://www.nhatot.com/132082443.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777448222000,
     "lat": 16.008179,
     "lng": 108.18482
@@ -2102,7 +2233,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/A8HYqdS1AC6dFJT5-NEREmXNdxNLE1kcUIYix1LsYB0/preset:listing/plain/b32a4b4afe6e30f51e57dd51f79f3007-2982062800445033715.jpg",
     "url": "https://www.nhatot.com/132106725.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777448129000,
     "lat": 16.063051,
     "lng": 108.16584
@@ -2120,7 +2251,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/dtvU2OeZ4cWG0uMSlG7Ud3j95HmCJfm1BIBMd60dmKs/preset:listing/plain/2002472d9376e6804221aad85513fca8-2981737580615738398.jpg",
     "url": "https://www.nhatot.com/132065541.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777447863723,
     "lat": 16.099045,
     "lng": 108.13033
@@ -2138,7 +2269,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/yiBWNgga2ddhc7RkTeR3mKjuoFJFx7vpgxoDXjHtV6w/preset:listing/plain/27b234ac3a7879c9f796cc08167c1ed9-2981775069555907819.jpg",
     "url": "https://www.nhatot.com/132072926.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777447863000,
     "lat": 15.955791,
     "lng": 108.101364
@@ -2156,7 +2287,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/LG7TFmfODn4diXLshhxHySj43TyftxB85JGreJ4OX5E/preset:listing/plain/5e204d4ee1c02cde658a8fd1ecb00bc1-2981880373960090654.jpg",
     "url": "https://www.nhatot.com/132080827.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777447621000,
     "lat": 16.044945,
     "lng": 108.21734
@@ -2176,7 +2307,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/thBNUOjpSlRf7BfvhzWYHxlGjWMFw3-sSJl8pM33G6U/preset:listing/plain/42c769a1eff9ce524b3632dc97774fb3-2982061291001291023.jpg",
     "url": "https://www.nhatot.com/132106504.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777447458000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -2194,7 +2325,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ibQt6RgCqG2mC438hqyyMepjefSC0ZV1U32TCfcuRr0/preset:listing/plain/49c5d4f78b48dd57a4c4299fd1a98ecf-2981354871356323297.jpg",
     "url": "https://www.nhatot.com/132023975.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777447444000,
     "lat": 15.986558,
     "lng": 108.26741
@@ -2214,7 +2345,7 @@
     "rooms": 7,
     "image": "https://cdn.chotot.com/l1ytNZE7hIxJB5Fl2oZjxu7kwjsIa5huZHCId8NBMJ4/preset:listing/plain/e2e8d06f0cca181ddb169791e2dcea63-2982061663525244803.jpg",
     "url": "https://www.nhatot.com/132106496.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777447434000,
     "lat": 16.067251,
     "lng": 108.24048
@@ -2233,7 +2364,7 @@
     "rooms": 11,
     "image": "https://cdn.chotot.com/WnOVwlioC1LlwJUwtU49xAjlYIquT3bCyVnNaDxhGzM/preset:listing/plain/e6a49eddbae4433b8d3f3892c9081a8c-2981892993901437982.jpg",
     "url": "https://www.nhatot.com/132083786.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777447262000,
     "lat": 16.047314,
     "lng": 108.238754
@@ -2252,7 +2383,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/alkvAkqnsOmptF_QOFuH5SS10jjFEOIVWB14moZLQ5Y/preset:listing/plain/02ab2a4274e68549201cce94fca6b71d-2891901300423064636.jpg",
     "url": "https://www.nhatot.com/118692659.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777446790000,
     "lat": 16.072176,
     "lng": 108.228905
@@ -2271,7 +2402,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/iuvHPxGcnl_QtRaTQdL0_cbVzywdJh8VYekWw7k3_DY/preset:listing/plain/d147b19bd3bc42e8391e40969bdb5670-2914099981896080658.jpg",
     "url": "https://www.nhatot.com/120127722.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777446790000,
     "lat": 16.09547,
     "lng": 108.22449
@@ -2290,7 +2421,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/hK9ZQxOBU-QW2gUoarK9wfLhtay7B5tg7EQHUOm2dfg/preset:listing/plain/18f948615818dc6e497a1fb6c380e57a-2981779535927021443.jpg",
     "url": "https://www.nhatot.com/132072883.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777446484000,
     "lat": 16.010073,
     "lng": 108.241394
@@ -2309,7 +2440,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/Ai9wkbK1VNqvtM-cKAA3f1hxnsPbqZix5Mky0uZKrVo/preset:listing/plain/8e69b8caf788fdc9c6e3c6c086dccf30-2982058960786568832.jpg",
     "url": "https://www.nhatot.com/132106030.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777446171000,
     "lat": 16.09552,
     "lng": 108.12952
@@ -2329,7 +2460,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/VmOfP32g1mACZ8uZKBBmGDnEY3AeGsCXJK0wsJH0qa8/preset:listing/plain/02f9e69e79218cd30687355e7984d490-2981734919231934339.jpg",
     "url": "https://www.nhatot.com/132062878.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777446065000,
     "lat": 16.044493,
     "lng": 108.22046
@@ -2348,7 +2479,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/z1FVNOKJML2rrqxndsdF0XtW3nMXzGtj3sI5-y5ler8/preset:listing/plain/7c7e7b62ac8a81d438c19819a767623e-2981930704570328853.jpg",
     "url": "https://www.nhatot.com/132081420.htm",
-    "date": "4 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1777445882000,
     "lat": 16.082352,
     "lng": 108.22017
@@ -2366,7 +2497,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ql9INzg4ArZrDgWzs9gaDQvbahuQ8n8a7ofLgE1LyZE/preset:listing/plain/99dab38cb97723c88069d7886f2c5611-2981915915308278814.jpg",
     "url": "https://www.nhatot.com/132097110.htm",
-    "date": "4 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777444983000,
     "lat": 16.087246,
     "lng": 108.24665
@@ -2385,7 +2516,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/-eG8AJXvbr_brWQNi94IMSYwIPM9jFnbCXvvOl_adzo/preset:listing/plain/c030eb6fe8df78e16b243dfeb73febde-2980429799956282410.jpg",
     "url": "https://www.nhatot.com/131893360.htm",
-    "date": "4 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777444690000,
     "lat": 16.012283,
     "lng": 108.1992
@@ -2403,7 +2534,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/_d5Crt6VgvKLbPiEn5gZOc6hNv6hXIwRhhqbCJh77M8/preset:listing/plain/146ee96d194fe522f93096a13b7a4bd2-2981308341617792514.jpg",
     "url": "https://www.nhatot.com/132013244.htm",
-    "date": "4 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777444594000,
     "lat": 16.098959,
     "lng": 108.13023
@@ -2421,7 +2552,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/baSltgwAihcFtVD4V7IRD2SRiCn-jp_2Sm1k1-mHncM/preset:listing/plain/5a699f53382a1f90c9ffac56700f5b01-2953475130716895495.jpg",
     "url": "https://www.nhatot.com/128381053.htm",
-    "date": "4 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777444589000,
     "lat": 16.072458,
     "lng": 108.14619
@@ -2441,7 +2572,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/SujzXhPiKiiF4ixGc4pZb_B_GUopa1IzbR1-UJZHHZI/preset:listing/plain/c3de25c649d08344300bc8f3ad5dbaed-2981923024162463886.jpg",
     "url": "https://www.nhatot.com/132090365.htm",
-    "date": "4 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777444503000,
     "lat": 16.071089,
     "lng": 108.22144
@@ -2460,7 +2591,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/tEM65bWKLkowxgMFIoTlUXVJPP2FtXQDayzDItYMFKQ/preset:listing/plain/74b9ee5520de3356640b40a931f3d658-2976797384700691024.jpg",
     "url": "https://www.nhatot.com/131386560.htm",
-    "date": "4 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777444322000,
     "lat": 16.065733,
     "lng": 108.16955
@@ -2479,7 +2610,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/T_2x6_0XwglQe4oqhGuF3waq8TxoF1aOVapHnEr_Ons/preset:listing/plain/682e6611a34c63385abd1b5acdbbe777-2981742446008314518.jpg",
     "url": "https://www.nhatot.com/132064749.htm",
-    "date": "4 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777444291000,
     "lat": 16.0087,
     "lng": 108.17548
@@ -2498,7 +2629,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/a8lJKLVDFoGtzSRa2Gg3kVNXqOE7EY-X51CIjjKfENw/preset:listing/plain/d8a16b0c166a73b48f8681e320723245-2978992519784860277.jpg",
     "url": "https://www.nhatot.com/131693607.htm",
-    "date": "4 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777444221000,
     "lat": 16.065643,
     "lng": 108.18726
@@ -2518,7 +2649,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/xM4ivJjzHLcLdHb0-Hfi157mF3fhz5deLZHwCmER7xQ/preset:listing/plain/f463611cf4202484e2bf954ec1c198d1-2981919433520292894.jpg",
     "url": "https://www.nhatot.com/132089684.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777443842000,
     "lat": 16.061768,
     "lng": 108.23336
@@ -2536,7 +2667,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ypMVzyH9DQALj26HqjqrCAaNE0B_lxIruzmVeGXFkvA/preset:listing/plain/e6fd43be31d02f6301a5890d520492a6-2976030075900883134.jpg",
     "url": "https://www.nhatot.com/129083150.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777443781423,
     "lat": 16.022776,
     "lng": 108.22472
@@ -2554,7 +2685,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/PdDLJLAAf0Lpc_trnu-rew0kxgx0r5vGyCTxj-5bnrY/preset:listing/plain/00ca4d4605ad2494aeb596610809c6ed-2981937857826970859.jpg",
     "url": "https://www.nhatot.com/132093114.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777443604000,
     "lat": 16.025723,
     "lng": 108.24398
@@ -2572,7 +2703,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/cZQdsjGqGXy9IIjrdI_oBWc68YSqtfzGr1HbDloOVL8/preset:listing/plain/ea2382a5d14d4313f4298d62511158c8-2981890541765127845.jpg",
     "url": "https://www.nhatot.com/132083069.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777443483000,
     "lat": 16.087358,
     "lng": 108.08358
@@ -2591,7 +2722,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/74yzo5EM1A2RH_5DHy4IvWfl907YMoC0rS6sZDQedPA/preset:listing/plain/b5982d34d675758154c541d5d30a18ff-2982055098628300011.jpg",
     "url": "https://www.nhatot.com/132105211.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777443442000,
     "lat": 16.044338,
     "lng": 108.18459
@@ -2609,7 +2740,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/21X6RtwUfqgZ5rik-LQ-2GN3hheHPOQFEn6skikp9e0/preset:listing/plain/30cde15bc707a4a6f20c2f669e5a0dd9-2981608934991248539.jpg",
     "url": "https://www.nhatot.com/132051428.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777443417000,
     "lat": 16.087246,
     "lng": 108.24665
@@ -2627,7 +2758,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/h9va2dj2NhlZQwpDkSqzH1KIg0xGwGDIjhF_9p9mhhA/preset:listing/plain/327f3ed9000eb9e5e57d336c52965a6d-2981013547136638187.jpg",
     "url": "https://www.nhatot.com/131971412.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777443387000,
     "lat": 16.070528,
     "lng": 108.16153
@@ -2646,7 +2777,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/0tvzShepzRDnkK9r0b8PvGGpeu8MED8P8CHRAU-W8yU/preset:listing/plain/5dce43ae6865b935a53d5e862b70f02a-2982051460023422851.jpg",
     "url": "https://www.nhatot.com/132105127.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777443184000,
     "lat": 16.069782,
     "lng": 108.22938
@@ -2665,7 +2796,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/6ykZ-LpKS79pTLMDSwe4FGkxF_GaYwYLZpFneL8y-eE/preset:listing/plain/e86e41058e9d24e61375f1a71e121da8-2981207693743086827.jpg",
     "url": "https://www.nhatot.com/132004049.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777443180000,
     "lat": 16.09433,
     "lng": 108.22721
@@ -2683,7 +2814,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/bK49cp4JAnR8J6BUMbtVXoi4bDzQwDongdx9LUXDS7g/preset:listing/plain/e01fc2520b2865fc156548994957afad-2978121651922884311.jpg",
     "url": "https://www.nhatot.com/131573543.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777443165000,
     "lat": 16.048767,
     "lng": 108.18586
@@ -2703,7 +2834,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/Pb7YXcML3vdhfuvsI5RadzVNgbaf0XTaVnSUa_6QT0Q/preset:listing/plain/b54ff9f205ffef95ca31960f932a8020-2981889016725121275.jpg",
     "url": "https://www.nhatot.com/132082612.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777443064000,
     "lat": 16.046694,
     "lng": 108.20958
@@ -2721,7 +2852,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/0RkAANGU6OiN0cSvTm_mVTaPw0TiIekgQSq7TJucWoM/preset:listing/plain/4fc88c7def5f7ef4bc1c04b6da91c72f-2982053743952573571.jpg",
     "url": "https://www.nhatot.com/132104950.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777442647000,
     "lat": 16.092907,
     "lng": 108.24848
@@ -2739,7 +2870,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/mAomkFWDKKl8hlwvHXotL0ze4YuEGR8fanSniE4_WJU/preset:listing/plain/f923a3b649d1121716470e7963b5cdf3-2976033447904047294.jpg",
     "url": "https://www.nhatot.com/131284193.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777442584000,
     "lat": 16.016212,
     "lng": 108.22386
@@ -2759,7 +2890,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/e7FHLJhm77LrEFlapAenG4khL_sxyRoFV9vUkuG1ROs/preset:listing/plain/23cf99a3634a5ec170e67c0b7e3155d0-2982045437435072048.jpg",
     "url": "https://www.nhatot.com/132104818.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777442166000,
     "lat": 16.081715,
     "lng": 108.16231
@@ -2779,7 +2910,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/vUeLekT1ae2lXWsy7hdvg3HD6_t2qh9bzlbAqDhGcY0/preset:listing/plain/59bdeb8919ea1f74e34cbd0537fffe8e-2973065242890339586.jpg",
     "url": "https://www.nhatot.com/130879870.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777442039000,
     "lat": 15.984765,
     "lng": 108.21451
@@ -2797,7 +2928,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/PcLhZWe3pfcPnt4WUPUGRJ4jdV2PNo9lu7X07-FKdng/preset:listing/plain/0212c4ce7bb795c3783dbe94da630c31-2975976827465616220.jpg",
     "url": "https://www.nhatot.com/131274932.htm",
-    "date": "5 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777441432000,
     "lat": 15.955791,
     "lng": 108.101364
@@ -2815,7 +2946,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ooAV8M6A4S8uEtoghUqYSMEqmTLgGDoAD7i1MwqknVs/preset:listing/plain/8a5c9e56068c29b3e9e8af5d03d7a1b1-2963534540271266689.jpg",
     "url": "https://www.nhatot.com/129843524.htm",
-    "date": "5 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777441383000,
     "lat": 15.955791,
     "lng": 108.101364
@@ -2834,30 +2965,10 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/df5oRcNYFFqZ404T7kbkXlwgsLlHXLpeaCktMHRyu88/preset:listing/plain/74b175e6fbd4f9fae28bf1c4c8f16403-2973767065355553647.jpg",
     "url": "https://www.nhatot.com/130965136.htm",
-    "date": "5 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777441136000,
     "lat": 16.0087,
     "lng": 108.17548
-  },
-  {
-    "id": 175242277,
-    "title": "BÁN NHÀ 2 TẦNG LÔ GÓC 2 MẶT KIỆT – NGUYỄN VĂN HUỀ, THANH KHÊ – NHÀ ĐẸP",
-    "price": 3600000000,
-    "priceString": "3,6 tỷ",
-    "pricePerSqm": 80.7,
-    "size": 44.5999,
-    "district": "Quận Thanh Khê",
-    "ward": "Phường Thanh Khê Tây",
-    "street": "Đường Nguyễn Văn Huề",
-    "category": "Nhà ở",
-    "floors": 2,
-    "rooms": 2,
-    "image": "https://cdn.chotot.com/HieXUl-UUW2UCw0nB2Jup5fvB-YlbNgl7lDlFGfiZkI/preset:listing/plain/fc0f81a12bb08506ddfa6bf25015c56f-2978782684084434963.jpg",
-    "url": "https://www.nhatot.com/131667185.htm",
-    "date": "5 giờ trước",
-    "postedAt": 1777441070000,
-    "lat": 16.0691,
-    "lng": 108.17655
   },
   {
     "id": 175751437,
@@ -2873,7 +2984,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/W_r3hVWBKMX61QxVrRHu-h60nudMoWyEEiUzJrPZ6nI/preset:listing/plain/8bf6db66dac5dcde08f0d87b97da7922-2982049903294657667.jpg",
     "url": "https://www.nhatot.com/132104384.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777440437000,
     "lat": 16.099676,
     "lng": 108.13694
@@ -2892,7 +3003,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/NJZsPY-p2fSMA-NGfh-9TRM9DTjlcbjriDnUEwf472Q/preset:listing/plain/01aaeaeec328041b10f8654082d1c13d-2980632354007127554.jpg",
     "url": "https://www.nhatot.com/131168579.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777440247000,
     "lat": 16.09227,
     "lng": 108.23095
@@ -2911,7 +3022,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/1wB_Tt5gqO4yzMf0Rnsv2tAwXi7ovU8g-B_q3A-ek58/preset:listing/plain/0b739915f27cd74d59bc889566728390-2982043578132740709.jpg",
     "url": "https://www.nhatot.com/131593181.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777440232000,
     "lat": 15.97223,
     "lng": 108.172516
@@ -2929,7 +3040,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/wnhKkIi5ypjqWRj0eu7GeDYnpt3ihSactPATxJlMMLY/preset:listing/plain/852bfa0313a6bb8afdc44ce33fc4ed09-2980783765095613020.jpg",
     "url": "https://www.nhatot.com/131944491.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777439879000,
     "lat": 16.063187,
     "lng": 108.19203
@@ -2949,7 +3060,7 @@
     "rooms": 9,
     "image": "https://cdn.chotot.com/SF0zmJN24SFmlKlm-r0Xrvjk6RsGXkHiH68z3hZUUyE/preset:listing/plain/6e3dc98e255f5c2a829128b8363f620c-2981998479786676099.jpg",
     "url": "https://www.nhatot.com/132104141.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777439547000,
     "lat": 16.02662,
     "lng": 108.2119
@@ -2969,7 +3080,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/tohU0UXu4-qI5fiwtpUQcfP4MJiPiaLqJVR-P9FwwFg/preset:listing/plain/7e05bb927f5b2451856e8e00ddfa250e-2977992781370852330.jpg",
     "url": "https://www.nhatot.com/131556400.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777439475000,
     "lat": 16.070599,
     "lng": 108.194756
@@ -2988,7 +3099,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/5688bLfoc3JyUIItkxdfINfP2HTffzQ2Ztdo186lwqM/preset:listing/plain/c08b7d6ed3cb2c16f305987c6ed307dd-2977109286547522128.jpg",
     "url": "https://www.nhatot.com/131434020.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777439334000,
     "lat": 16.02056,
     "lng": 108.206085
@@ -3007,7 +3118,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/8FEyKCnYTdR9vNR25Ofn6gUEYboYHbhj9KLvN1z41l8/preset:listing/plain/2e85bfca570ec5c5fc91c68b27e4b05a-2982046717178922327.jpg",
     "url": "https://www.nhatot.com/132104009.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777439094000,
     "lat": 16.077059,
     "lng": 108.13694
@@ -3027,7 +3138,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/e_HfZ9WjehgL2fC6-_OXmeDxphc6ooTbgAkt-MfLQNw/preset:listing/plain/be654d26920817984967c1e265d06801-2978249807103744648.jpg",
     "url": "https://www.nhatot.com/131590203.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777438781000,
     "lat": 16.071089,
     "lng": 108.22144
@@ -3046,7 +3157,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/J_NKKYiet1tU37Il-WKMMPFlqG8xP-GR4Fbl0jOhT5I/preset:listing/plain/e265a005282c3877496c9f6981faefff-2977848964336523076.jpg",
     "url": "https://www.nhatot.com/131536260.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777438574000,
     "lat": 16.048254,
     "lng": 108.22234
@@ -3065,7 +3176,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/KcYyqurwNC7yuaa_SYV2t3GBcH7BVJ8juvXSAkM25LA/preset:listing/plain/18ecc782293f9eb6571189988011fceb-2982045851176505219.jpg",
     "url": "https://www.nhatot.com/132103814.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777438525000,
     "lat": 16.09552,
     "lng": 108.12952
@@ -3083,7 +3194,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ZbQOW-4XaeT0xb1dFaaCJN67cYNVNT0yEAen7UrqZog/preset:listing/plain/65424bef19e96cc1a17b6df5d3887888-2982044435355393259.jpg",
     "url": "https://www.nhatot.com/132103786.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777438508000,
     "lat": 15.984765,
     "lng": 108.21451
@@ -3102,7 +3213,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/Ktey9JxanNbJcx-v1oIub95Aw210DhcexuvpgDWepeg/preset:listing/plain/98f26f5a2118bfc9a75c44b642a00959-2981321436579927554.jpg",
     "url": "https://www.nhatot.com/132016849.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777438452000,
     "lat": 16.153168,
     "lng": 108.10729
@@ -3121,7 +3232,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/et1X9aFOcB9buXjm2wDPjP47hUc-w3OvIr0dhfz9Ub0/preset:listing/plain/a1b5eff95b0660f2ccf91e5dabe91c5c-2976713176097412818.jpg",
     "url": "https://www.nhatot.com/131378624.htm",
-    "date": "6 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1777438432000,
     "lat": 16.008562,
     "lng": 108.19937
@@ -3141,7 +3252,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/OkAZzu6Cp80Al168ne29m8z1ZaZH3r8oFIC-HBrivxk/preset:listing/plain/c2822118b76527982fd2ce03c9b4e351-2960144194822499231.jpg",
     "url": "https://www.nhatot.com/129368471.htm",
-    "date": "6 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777438245000,
     "lat": 16.038195,
     "lng": 108.24282
@@ -3160,7 +3271,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/02i1lTEtl3p2mh18Xg_CCkaESU7vSpESt8vHcsgdek4/preset:listing/plain/d24fbec0726d6a3b9b3abfdfbf1af93d-2980011352180228885.jpg",
     "url": "https://www.nhatot.com/131836560.htm",
-    "date": "6 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777438139000,
     "lat": 16.06191,
     "lng": 108.23652
@@ -3179,7 +3290,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/urCGwLbvhflycDpfhVGJBfsABAGK01VpX-ZSiZmh-yQ/preset:listing/plain/cb363c7f40b29e08b6e932ea5f630b72-2982045823175417067.jpg",
     "url": "https://www.nhatot.com/132103630.htm",
-    "date": "6 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777438048000,
     "lat": 16.055532,
     "lng": 108.22347
@@ -3198,7 +3309,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/ZpqmrjSlxAGQzrmPg_2Pp96bFZ5mwIjxjVhE03PTSOY/preset:listing/plain/09c2dbb70cf4e66a9a2e7bfa43fe8781-2982045875309949896.jpg",
     "url": "https://www.nhatot.com/132103591.htm",
-    "date": "6 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777437952000,
     "lat": 16.065733,
     "lng": 108.16955
@@ -3218,7 +3329,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/hlsGtm0BNxw22lYRtKXYvKXRVed1FEIbeW3_giFfQLU/preset:listing/plain/39cba7e0eef44d2885ccb0c7e394f90c-2980765690741218284.jpg",
     "url": "https://www.nhatot.com/131941124.htm",
-    "date": "6 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777437931000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -3237,7 +3348,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/sSysuXjRQzx58xoaryE32orKtor4Zd5s_yDr_UZ-Vpo/preset:listing/plain/4f03cdcd906b2b1a7a8c93740ed97042-2982045277821328619.jpg",
     "url": "https://www.nhatot.com/132103560.htm",
-    "date": "6 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777437883000,
     "lat": 16.042387,
     "lng": 108.22223
@@ -3255,7 +3366,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/imK2cBV9H9rRh3ohmTeV71LUYateSnXLTFXQwOi8kQs/preset:listing/plain/5fbdcfd7c01ccf65f55a5d5eb9bf6bc3-2982045438344809715.jpg",
     "url": "https://www.nhatot.com/132103521.htm",
-    "date": "6 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777437762000,
     "lat": 15.986558,
     "lng": 108.26741
@@ -3275,7 +3386,7 @@
     "rooms": 5,
     "image": "https://cdn.chotot.com/03sZ8R5y-MLWFeNg-PUejYGQNcgut0XBbyhMbUG9xdk/preset:listing/plain/cc77581a493a967c8de36d1e14188381-2982045558084056008.jpg",
     "url": "https://www.nhatot.com/132103492.htm",
-    "date": "6 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777437707000,
     "lat": 16.03113,
     "lng": 108.226
@@ -3295,7 +3406,7 @@
     "rooms": 6,
     "image": "https://cdn.chotot.com/tAWQEVN8o0c_Z9AeY5NZTBQXWipZcYJPZZW8oljmjaQ/preset:listing/plain/88fb97b0d01285d9700386237d8981d3-2981624962781628564.jpg",
     "url": "https://www.nhatot.com/132054109.htm",
-    "date": "6 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777437673000,
     "lat": 16.058197,
     "lng": 108.236176
@@ -3314,7 +3425,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/fiLIqDUiDBUWWfmy0RNkhkrJVLkwnX7eUJmg6SyG52k/preset:listing/plain/3a978d56ff373c0869a58771876ff94d-2980652252074907138.jpg",
     "url": "https://www.nhatot.com/131926699.htm",
-    "date": "6 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777437536000,
     "lat": 16.04226,
     "lng": 108.183365
@@ -3333,7 +3444,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/hiKzhY7drjgRzd_rKfIaQOSHwqWMvrGEIZeWMdGOj4s/preset:listing/plain/8c79b5863944fa9fe7b7689567135216-2982044322141035755.jpg",
     "url": "https://www.nhatot.com/132103220.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777436982000,
     "lat": 16.053411,
     "lng": 108.148796
@@ -3352,7 +3463,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/eeOJ540OGOsxc7BdDnF79BNFM4Y9mn4TWMf_sY_Mzco/preset:listing/plain/3ca1a2ecdef6efac342c1ba69f8ac51f-2980009064461479661.jpg",
     "url": "https://www.nhatot.com/131836024.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777436939000,
     "lat": 16.100111,
     "lng": 108.22886
@@ -3371,7 +3482,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/x9ZiqIXT6Eoq_fmrSVt8CO67-3klVUxw7SJFCno55vQ/preset:listing/plain/2d28afa7a1ba4d785410d8a4d91e41e6-2978294991932333182.jpg",
     "url": "https://www.nhatot.com/131578072.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777436636000,
     "lat": 16.012566,
     "lng": 108.19835
@@ -3389,7 +3500,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/VvmHP7Qyekw6S1c7DhPRZ6JMS9ncoREVOIqOzXZEyHc/preset:listing/plain/396927232d649df0e89473a96a143ade-2973488000057243748.jpg",
     "url": "https://www.nhatot.com/130930883.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777436493000,
     "lat": 16.000658,
     "lng": 108.23845
@@ -3408,7 +3519,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/V6ZfFkQ8lhVCPas3Rkz5YJy2cPekIBgw4uU6_sMv9_4/preset:listing/plain/0cedf3ea36b1c3644260bb56697932b5-2977681476101298133.jpg",
     "url": "https://www.nhatot.com/131509839.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777436473000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -3426,7 +3537,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/LKDvr2c59bpbyUyJRm6vrBjG0OCyeS5_C4s_-fYtRyQ/preset:listing/plain/39e0c5792f11b1dd6ca3975964d7b2ba-2982043112405251016.jpg",
     "url": "https://www.nhatot.com/132102967.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777436333000,
     "lat": 16.006634,
     "lng": 108.25686
@@ -3445,7 +3556,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/Nc1OaxXSTs7K3Mke1nTC3UNZVu8yHsJjrQ4XIhTbKv4/preset:listing/plain/8c24ae4075b8a27250a7e9e3bf025665-2978151366076293584.jpg",
     "url": "https://www.nhatot.com/131580540.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777436201000,
     "lat": 16.017271,
     "lng": 108.20541
@@ -3464,7 +3575,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/-pHijjKAn7Hy4ZglIll5cZ7h8_j6MVEzHtJZI5cbUp0/preset:listing/plain/266e57df110dbce0395a6664a8a2b171-2976405372151842336.jpg",
     "url": "https://www.nhatot.com/131335333.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777436124000,
     "lat": 16.017271,
     "lng": 108.20541
@@ -3482,7 +3593,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/8jDvtELSm9Z6tBu6GlH9qhcnjQDAzIPCMnmBOxg7IDU/preset:listing/plain/aa5a663af0a50874767f7069052ec7b5-2982042415785451791.jpg",
     "url": "https://www.nhatot.com/132102850.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777436040000,
     "lat": 16.015623,
     "lng": 108.22619
@@ -3500,7 +3611,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/Qp0XtD7EEGfJHigQZj8QfyK_-Bere9N5d5mB31FNbxk/preset:listing/plain/cd4404c4cdde3c06fcffcc88094a7b0e-2977716345690513094.jpg",
     "url": "https://www.nhatot.com/131518273.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777435908000,
     "lat": 16.05827,
     "lng": 108.174
@@ -3519,7 +3630,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/kHqxl38Igc3jEFcYVW3hdsu902urE8YtDnuzt4obOyg/preset:listing/plain/40f78114b24fc64065022294a04bbae2-2968568216064727183.jpg",
     "url": "https://www.nhatot.com/130494288.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777435895000,
     "lat": 16.08975,
     "lng": 108.23581
@@ -3539,7 +3650,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/dduwW5bqtDLQ1ASdwgNijpZxyhWRqAjhTpBUsleLzW4/preset:listing/plain/b9e3a8d5a6286925d01784d15293bfcb-2982042459752139806.jpg",
     "url": "https://www.nhatot.com/132102790.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777435893000,
     "lat": 16.065617,
     "lng": 108.184616
@@ -3558,7 +3669,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/Jz7VFz8pNrpj7fljSGpyTuJUThqVglY9VqcfV_IfSHM/preset:listing/plain/ed056b32a6dac7e86413571f6a5fae77-2982041738603890903.jpg",
     "url": "https://www.nhatot.com/132102683.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777435623000,
     "lat": 15.986558,
     "lng": 108.26741
@@ -3576,7 +3687,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/iv-a5clMfLQMXPCUIeFaJV-TpRmHrVcRATJaeNiK604/preset:listing/plain/d14a721dc6540669555583c0d8fe192a-2979260615586318965.jpg",
     "url": "https://www.nhatot.com/131731422.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777435487000,
     "lat": 16.028736,
     "lng": 108.172516
@@ -3596,7 +3707,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/5-ke6u_C_jOgbP7u5ORK-pwxUSyH9e9CKP3WRc3N-3c/preset:listing/plain/08c9d26fd907056bcae0b13aaddee248-2982041610456380547.jpg",
     "url": "https://www.nhatot.com/132102596.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777435401000,
     "lat": 16.054104,
     "lng": 108.18476
@@ -3616,7 +3727,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/QsX861JP4RCTwWvvq19hq9J-wJhs6z7HsxdPjR8N8i8/preset:listing/plain/d616b92345a109abd3324e5544ad5708-2978845981707254873.jpg",
     "url": "https://www.nhatot.com/131671893.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777435178000,
     "lat": 16.057611,
     "lng": 108.16576
@@ -3634,7 +3745,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/sHXj1i2L26HsEW_aiqa3ARVCputerji0nv9zSLKdiHA/preset:listing/plain/98e3d515429031e3c95636883fb1748b-2980739440254157589.jpg",
     "url": "https://www.nhatot.com/131935115.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777435163000,
     "lat": 16.05659,
     "lng": 108.16533
@@ -3652,7 +3763,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/W4_gxsR2TeIiCZ2rVOpiMWjLaH5jqDlbrGuXP-Pm97c/preset:listing/plain/ad157d0d470c8f0b3e5711863108ca70-2980513510914587690.jpg",
     "url": "https://www.nhatot.com/131910072.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777434860000,
     "lat": 16.06483,
     "lng": 108.15593
@@ -3672,7 +3783,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/szu3k_FgIeUMXIdfNJcPC3G3FoXzJYRdtsMXuAEeWZ4/preset:listing/plain/74e73fe166f54bd84d28b77648e4d2da-2982039813753114499.jpg",
     "url": "https://www.nhatot.com/132102351.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777434767000,
     "lat": 16.093815,
     "lng": 108.2279
@@ -3690,7 +3801,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/EQeRcYwZdOAva13A0DHn7Qc17xbeEkF2ALXzi9m1khs/preset:listing/plain/e7a28bf472d217f5ae7d8b913b451119-2982040425530530615.jpg",
     "url": "https://www.nhatot.com/132102337.htm",
-    "date": "7 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777434722000,
     "lat": 16.015213,
     "lng": 108.22651
@@ -3708,7 +3819,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/4ub17JAmpM_tgIiIiYaumafCrHvKw0TRU5B4aalbrP8/preset:listing/plain/b9082dd9e1f2749db9823ed21177181b-2981451307278261483.jpg",
     "url": "https://www.nhatot.com/132031486.htm",
-    "date": "7 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777434708000,
     "lat": 15.99886,
     "lng": 108.26546
@@ -3728,7 +3839,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/NiL4GHN4aZ-NY-ixoBk1x4M8KEgde2x-MXqvHsRkJuI/preset:listing/plain/65394aa9771dfa36d232e4dfaab38d58-2982040660735472584.jpg",
     "url": "https://www.nhatot.com/131579169.htm",
-    "date": "7 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777434602324,
     "lat": 16.1,
     "lng": 108.13803
@@ -3746,7 +3857,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/cKZ5O2MKzoh9b5jDe2iPSfWIfFq5V4AZKeZEYTFiExU/preset:listing/plain/d426a5b89e60841d172f27c87d09de0c-2981009302534919682.jpg",
     "url": "https://www.nhatot.com/131970416.htm",
-    "date": "7 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777434541000,
     "lat": 15.990108,
     "lng": 108.2679
@@ -3766,7 +3877,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/stKr54Dg_IRrVD1rlNj3bGsFtMmW2HFtLV8K9NsGWfM/preset:listing/plain/b52d34d24066184256a883dcebe53ba5-2981950647650193283.jpg",
     "url": "https://www.nhatot.com/131720180.htm",
-    "date": "7 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777434329000,
     "lat": 16.084421,
     "lng": 108.158394
@@ -3785,7 +3896,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/1t9uhdNz_SICHm8hlhtVa7SYbVVWv0S-JwIGgQhLUZM/preset:listing/plain/208fc9274ad8b2235e527608474fb0b0-2982039703661628659.jpg",
     "url": "https://www.nhatot.com/132102156.htm",
-    "date": "7 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777434303000,
     "lat": 16.003473,
     "lng": 108.22272
@@ -3804,7 +3915,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/0JrIWRhF3hXVhWEGOOapay5iVJibuLLgq9lEhSwc4Bo/preset:listing/plain/e443dddf983212d7d3839597c785ff10-2982039384627196872.jpg",
     "url": "https://www.nhatot.com/132102070.htm",
-    "date": "7 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777434084000,
     "lat": 15.986198,
     "lng": 108.24111
@@ -3822,7 +3933,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/QL1Sho0yZglRM213VvKAoBsSJHUvPcyIQ85R-EfPwmU/preset:listing/plain/b52d1acd0c2b67c401b7ce80b59dae56-2982039048012570895.jpg",
     "url": "https://www.nhatot.com/132102044.htm",
-    "date": "7 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777433999000,
     "lat": 16.070292,
     "lng": 108.24665
@@ -3840,7 +3951,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/0vJoEjICjU-NKZpaYiyxbkGpOgOdyH_BYmnDZVwDp5E/preset:listing/plain/6b1134c0fb140f96133276ee16e44478-2981150581110332651.jpg",
     "url": "https://www.nhatot.com/131990574.htm",
-    "date": "7 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777433657000,
     "lat": 16.06483,
     "lng": 108.15593
@@ -3858,7 +3969,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/Irl9UDr1MSNquyKS-XT12YnK-b4ypnI8qJphbV1TRJw/preset:listing/plain/312ee31dfa61346ce9df8162665c3c27-2982038433216302979.jpg",
     "url": "https://www.nhatot.com/132101887.htm",
-    "date": "7 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777433570000,
     "lat": 15.9970665,
     "lng": 108.26649
@@ -3876,7 +3987,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/uTO4LywNWcVKcA0XmuPuk0deIcIZczeTDrB6j1tnFsA/preset:listing/plain/40c33ce432b1b19fe6f42688f423d4ec-2981437081757324802.jpg",
     "url": "https://www.nhatot.com/131366204.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777433358000,
     "lat": 16.048275,
     "lng": 108.01244
@@ -3896,7 +4007,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/o24ueVArf0AzzKCyQT72hENDMC-D8_einL4hZ-3cwSE/preset:listing/plain/4d5a5d4611fb2cd83c405c78b21a4c86-2978559014931922904.jpg",
     "url": "https://www.nhatot.com/131633277.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777433358000,
     "lat": 16.076984,
     "lng": 108.23479
@@ -3914,7 +4025,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/BbJ_1l5gKeVyJLuDz5PVR4LHFOA5YwwLkxVMKMCknMQ/preset:listing/plain/da6d9ef4efd537102e79e7a0d51ce6c1-2981004835873134082.jpg",
     "url": "https://www.nhatot.com/131969913.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777433343000,
     "lat": 15.99886,
     "lng": 108.26546
@@ -3933,7 +4044,7 @@
     "rooms": 8,
     "image": "https://cdn.chotot.com/qHzBn3ihyh2DrvIsiGGQ_HvPnaDpnTVtIZ3I0uoHe0g/preset:listing/plain/3ee11befabde69a46e6ca5f3e20cacb9-2982037322201768207.jpg",
     "url": "https://www.nhatot.com/132101761.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777433270000,
     "lat": 16.04769,
     "lng": 108.24665
@@ -3953,7 +4064,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/9ZgDxMLFyUAXfyk7UWSXODlpsY-PeXSvm4nKx2_dWPo/preset:listing/plain/5464747465f0b9fb58dc9ecb14c74d09-2981016267418870779.jpg",
     "url": "https://www.nhatot.com/131971913.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777433252000,
     "lat": 16.03311,
     "lng": 108.224236
@@ -3973,7 +4084,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/1zPU1aemlPDJmKqms2oKjy0f2CvRTCtVsJmiWuvJNjg/preset:listing/plain/9514fb5b2b68cdf346f87fa4eb860a01-2972919391338045058.jpg",
     "url": "https://www.nhatot.com/130862292.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777433252000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -3992,7 +4103,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/teCNTpj3rDPpS2XCkUqVbdZHMsXFOE7YWEcM1JoyRLE/preset:listing/plain/5914bb3bb8d60dcc8bdf2427129d3e71-2982035803517272324.jpg",
     "url": "https://www.nhatot.com/132101631.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432995000,
     "lat": 16.09547,
     "lng": 108.22449
@@ -4010,7 +4121,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/R5iLs-XzitJED6ILHcvss4gya6n9cmEMdosiTgaQwL0/preset:listing/plain/b6ed9c94eac23f8bcfe3926e2f28b421-2982036874123861227.jpg",
     "url": "https://www.nhatot.com/132101529.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432798000,
     "lat": 15.986558,
     "lng": 108.26741
@@ -4030,7 +4141,7 @@
     "rooms": 6,
     "image": "https://cdn.chotot.com/wjCDLfc1hP2FEz7XKS_2YFzWwBIt1Ayltx3gr6N5_bo/preset:listing/plain/174256458ad357bca04897f3d70252d1-2903332424070701834.jpg",
     "url": "https://www.nhatot.com/120081484.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432514000,
     "lat": 16.066315,
     "lng": 108.210365
@@ -4050,7 +4161,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/5jqVr0c3E6JsD9qPKQdEK5g4qr4ZtW85WDqulnyCMdc/preset:listing/plain/bd25c3e500b494a8c5a5c982542b3d60-2980914749126574869.jpg",
     "url": "https://www.nhatot.com/131962668.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432459000,
     "lat": 16.066238,
     "lng": 108.242325
@@ -4068,7 +4179,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/KXm7KHlki_xs9VhHmZLNbFZLrzTyecRrP0jrjOd_SV4/preset:listing/plain/8919986560597eb56d8c88781c883cbb-2982036745053986027.jpg",
     "url": "https://www.nhatot.com/132101375.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432444000,
     "lat": 16.093782,
     "lng": 108.2464
@@ -4087,7 +4198,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/xs6YHwMC3EKadhiY6nvQFj0VRN3h4Lo6upfyItoDaxc/preset:listing/plain/8b09c47499ef52b1eaa01852984b3100-2969890940781534831.jpg",
     "url": "https://www.nhatot.com/130659659.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432433000,
     "lat": 16.106192,
     "lng": 108.24756
@@ -4105,7 +4216,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/JWUQ0caN34yh_y0QjlB-arHbPnySJa1xZP6KscT92qA/preset:listing/plain/acc441ad1cc768b6c5a0ca0067c7e918-2982035421889765647.jpg",
     "url": "https://www.nhatot.com/132101367.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432417000,
     "lat": 15.986198,
     "lng": 108.24111
@@ -4125,7 +4236,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/9CBCHZcOmWtk6kfMEYG0kfLb1SE5BdG3NVAQeSTVIPM/preset:listing/plain/81b27ed76f28e6cd47b5fda5958e4ef2-2980216716440011541.jpg",
     "url": "https://www.nhatot.com/131869765.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432352000,
     "lat": 16.065228,
     "lng": 108.19344
@@ -4145,7 +4256,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/k_VrW4THjPNyZkuQynh5mQpux8ZPGUL_C1WmUmM8_Qs/preset:listing/plain/2d3ffe54094d8127f6fa4051c3bfcae9-2970312186857301069.jpg",
     "url": "https://www.nhatot.com/129243777.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432347000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -4164,7 +4275,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/eA_VC15F_rezOOSU3umm-B6srmVJRnaiXexK9axRlAM/preset:listing/plain/5ec6badcdf02ec2547f080fdacfc00fc-2965800161219876695.jpg",
     "url": "https://www.nhatot.com/130132555.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432322000,
     "lat": 16.09547,
     "lng": 108.22449
@@ -4183,7 +4294,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/OVLq5j9_dkWsa9xnT4tQnd3rzpzNI561gT5OPzSWgd0/preset:listing/plain/a2d080563bc32883438612f94cec05e6-2982036553134693611.jpg",
     "url": "https://www.nhatot.com/132101319.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432315000,
     "lat": 16.075237,
     "lng": 108.173996
@@ -4202,7 +4313,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/Q5rQR3j9tJzc0c-BMxRXsWde2xqF2OkrIrbbZ2-96B0/preset:listing/plain/d08e7e1b634e48e53e43dad92d2dfc8d-2979991755128079125.jpg",
     "url": "https://www.nhatot.com/130932347.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432261000,
     "lat": 16.09552,
     "lng": 108.12952
@@ -4220,7 +4331,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/34sGjHCUR82CJCDd37Q-gRRUed52n6o4VSBdGgQXwj8/preset:listing/plain/05c1032084103116341be8ef7b0369f2-2964635075855360940.jpg",
     "url": "https://www.nhatot.com/129986602.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432160000,
     "lat": 16.0452,
     "lng": 108.11322
@@ -4238,7 +4349,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/F58pzedf172yx-Tfz62t4hpWaDSjaDUHFHtCI81AS-c/preset:listing/plain/b028f739e52e902e04716d1b5cafd800-2980617496662606613.jpg",
     "url": "https://www.nhatot.com/131921230.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777432049000,
     "lat": 15.984951,
     "lng": 108.22817
@@ -4258,7 +4369,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/v_veabdmehSGWy8JvUnbntHx_2vrtzwhSCvTmG3Yfi0/preset:listing/plain/f09955c9a9fc98c48b1e5f9719dfb337-2980182399373226367.jpg",
     "url": "https://www.nhatot.com/131863213.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431943000,
     "lat": 16.04942,
     "lng": 108.185455
@@ -4276,7 +4387,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/sJTqSar0Qa4Ao8IC1ycWSL119N1Wa6JuWgPMAi58dWc/preset:listing/plain/a848611d1d02aef6bbc64e6556f5b747-2977825427612884678.jpg",
     "url": "https://www.nhatot.com/131530024.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431933000,
     "lat": 16.059593,
     "lng": 108.16944
@@ -4295,7 +4406,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/q7wW5uJvIcoGQpKMwHZQLTSXxFHAJJ8Phb8OJePIG9g/preset:listing/plain/f6ca55a052e5511e240894f74343cfe4-2975688398040456913.jpg",
     "url": "https://www.nhatot.com/131231693.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431923000,
     "lat": 16.063663,
     "lng": 108.16002
@@ -4313,7 +4424,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/taYLIGpLj32bi-ZGTGiguiWoL6X-ERvDNIeGEhN8xsk/preset:listing/plain/e16ed6e49e440aee82c6164b6a2b0a63-2982035463615226127.jpg",
     "url": "https://www.nhatot.com/132101120.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431839000,
     "lat": 16.03311,
     "lng": 108.224236
@@ -4332,7 +4443,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/OM0wpsA9-P-mHSZnJtoYIxnHqvomEvCPTJPardEY8Ws/preset:listing/plain/f3978e8312ea336743d7530074ebbc3b-2945942153268860527.jpg",
     "url": "https://www.nhatot.com/127256699.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431803000,
     "lat": 16.09227,
     "lng": 108.23095
@@ -4351,7 +4462,7 @@
     "rooms": 7,
     "image": "https://cdn.chotot.com/2JwIDNJiMBeEUZJZOvpNCXp787nHkd-f2cirOXazBLs/preset:listing/plain/8352726553b4803bc98fd25df6ab934d-2978558216625110336.jpg",
     "url": "https://www.nhatot.com/131633071.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431639000,
     "lat": 16.067251,
     "lng": 108.24048
@@ -4371,7 +4482,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/BN-SOR80tjAxOOhaXXW-iBV7--K1CLmj9UsDSUsCWuk/preset:listing/plain/0f215c1a9e72d0af01cd023407826561-2982035230791177098.jpg",
     "url": "https://www.nhatot.com/132101010.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431591000,
     "lat": 16.030788,
     "lng": 108.2255
@@ -4389,7 +4500,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/rfu5oeTXYENNGLXoRp0o96NnXH5Zr446zqinrIaeKHM/preset:listing/plain/738eed9e9fb4930fb96150eb494ae616-2982034900530544900.jpg",
     "url": "https://www.nhatot.com/132101009.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431588000,
     "lat": 16.016174,
     "lng": 108.18984
@@ -4407,7 +4518,7 @@
     "category": "Văn phòng, Mặt bằng kinh doanh",
     "image": "https://cdn.chotot.com/7iHJzi_G0g1MzOvFA5YbDUFytl9XbWgNZr2LWBkqCAc/preset:listing/plain/01d9fed2b6b63929a4744338c4340807-2982035074363208648.jpg",
     "url": "https://www.nhatot.com/132101001.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431570000,
     "lat": 16.03022,
     "lng": 108.25258
@@ -4427,7 +4538,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/VG9H26XQfSYS4mX2TfTiiZd61Xn5A5hN0bCvlhvud_g/preset:listing/plain/da68b8ea387aa691c0332ad958d669ba-2980877117021441478.jpg",
     "url": "https://www.nhatot.com/131953433.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431558000,
     "lat": 16.06135,
     "lng": 108.21536
@@ -4447,7 +4558,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/QmMr0B2zfy3HrVQDEQ8Jjs7-HmTS9ACSRs5hSO2AEK0/preset:listing/plain/0db88ca39388bac9d33d54d8b74ea162-2978402470292880038.jpg",
     "url": "https://www.nhatot.com/131611569.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431452000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -4467,7 +4578,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/VWlPrpEWeE2X7wtH59APdtnOvyITMVl_FL4yK86yCO0/preset:listing/plain/6ad15a8fc5713b9f92a973d9010fdb18-2977140750388269220.jpg",
     "url": "https://www.nhatot.com/131442347.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431431000,
     "lat": 16.05753,
     "lng": 108.15919
@@ -4486,7 +4597,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/HTmnxN5pJQfws1_VDP-DMIStIvh2GmeQ1xjv59hRK5M/preset:listing/plain/63684af4efa18832fb7a7b897145d4e7-2952020009254905276.jpg",
     "url": "https://www.nhatot.com/128155835.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431430000,
     "lat": 16.09547,
     "lng": 108.22449
@@ -4504,7 +4615,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/79I0QNle-6gOKhTDMrKrHU744K3imu7d7wjR0AzR9jw/preset:listing/plain/8dd83b91975f93b93cdc8124d505c52d-2982034731085696899.jpg",
     "url": "https://www.nhatot.com/132100904.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431359000,
     "lat": 16.031134,
     "lng": 108.22701
@@ -4522,7 +4633,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/01k3w0qYbdfQ7yz0KHn_96tNwndUYmAweZdZHyBjSI4/preset:listing/plain/59ac37fdcad539d2e4201ade8bf6550e-2981447307423159810.jpg",
     "url": "https://www.nhatot.com/132030905.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431346323,
     "lat": 15.984537,
     "lng": 108.2106
@@ -4541,7 +4652,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/0tPLk-zNe1wumzcMOFSEEP4rgJ174jkWRcdizUiMpM8/preset:listing/plain/94ea0deda786cf61812786e137542d3a-2977859560351456966.jpg",
     "url": "https://www.nhatot.com/131539470.htm",
-    "date": "8 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1777431235000,
     "lat": 16.010834,
     "lng": 108.24368
@@ -4560,7 +4671,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/uir0o0dHsSax2duhSEZNObt1nxTdgTHIBgaOcHFkLyo/preset:listing/plain/9b2c082a38d0c0f7932767edaba6d4be-2981018728628803469.jpg",
     "url": "https://www.nhatot.com/131941485.htm",
-    "date": "8 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777431123000,
     "lat": 16.070292,
     "lng": 108.24665
@@ -4580,7 +4691,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/s0szgfx0Nl90P_Qidz-7LuJdIimufVXdyw-ytf2g_GU/preset:listing/plain/269200f5d7564398118b0f12adb44255-2980486489071352874.jpg",
     "url": "https://www.nhatot.com/131906192.htm",
-    "date": "8 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777431042000,
     "lat": 16.099676,
     "lng": 108.13694
@@ -4600,7 +4711,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/1lHAyJ_F_aZCDHKVdseeeYfNrwkje7InSakW-SQ5u4g/preset:listing/plain/8e3fa8f71281996dc43d2699b357e6fd-2978883100488796789.jpg",
     "url": "https://www.nhatot.com/131681916.htm",
-    "date": "8 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777430951000,
     "lat": 16.067635,
     "lng": 108.14624
@@ -4619,7 +4730,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/-kFtzYiO6t7HH0fFe_AwKWYKVP5q4-oX31xct46_-Js/preset:listing/plain/7dd90ccebd8543a9445825a4a3b15fd9-2962015262775255182.jpg",
     "url": "https://www.nhatot.com/129599417.htm",
-    "date": "8 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777430941000,
     "lat": 16.062922,
     "lng": 108.16822
@@ -4637,7 +4748,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/_-H_5f7q-BFVVKeqOdPA1UGLA0PK9vQHYKlU1I7eWIA/preset:listing/plain/88d3066e7b5c14ea170b19fc2ef170d1-2979749510067849154.jpg",
     "url": "https://www.nhatot.com/131800672.htm",
-    "date": "8 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777430845000,
     "lat": 15.986198,
     "lng": 108.24111
@@ -4656,7 +4767,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/s1U5as-6xspjC1fW2VvQ_6mHfTbm8TlUAxzhhvqoHPU/preset:listing/plain/cfd464ea9ed063ffe4b5265378eedc61-2979127372612930165.jpg",
     "url": "https://www.nhatot.com/131712182.htm",
-    "date": "8 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777430729000,
     "lat": 16.057308,
     "lng": 108.172226
@@ -4675,7 +4786,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/bHz4cCJ25sjtMglYhcaWPBA6vemYRuFGgTKYKMunMvo/preset:listing/plain/47ea94204c94025a0b80e993d7de0008-2979716952540465715.jpg",
     "url": "https://www.nhatot.com/131792562.htm",
-    "date": "8 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777430597000,
     "lat": 16.008562,
     "lng": 108.19937
@@ -4695,7 +4806,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/28sulYlAsH-WSzbwetwbrw1caIl6Ykyycsgj-RAOEPM/preset:listing/plain/d2765608e07f6b26b6fbd4bb178a2c3d-2979137706406480501.jpg",
     "url": "https://www.nhatot.com/131714899.htm",
-    "date": "8 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777430551000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -4715,7 +4826,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/PiMIza6QyeO139OxevEWo62H2Hl9pgyHO_rAOw5ElYI/preset:listing/plain/1f1250096d3ff212188a161afcdbed9d-2974505076017964867.jpg",
     "url": "https://www.nhatot.com/131065361.htm",
-    "date": "8 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777430045000,
     "lat": 16.044338,
     "lng": 108.18459
@@ -4733,7 +4844,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/z1ol74E27FRK7dkPd3yEL2eu0cwWkZ8cR8mmS4FGsck/preset:listing/plain/fb7a8cd0c6739cf7f77717a2f8f5ad6b-2966232542670728688.jpg",
     "url": "https://www.nhatot.com/130191028.htm",
-    "date": "8 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777430043000,
     "lat": 16.014187,
     "lng": 108.19883
@@ -4751,7 +4862,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/0Y0tcwdKqsI4QVWhK4ZdnYJFp2IjiVtF5pCVgqQXPcQ/preset:listing/plain/3fb4e7c28bdb8bdf2605bd07caa51412-2977826228361308474.jpg",
     "url": "https://www.nhatot.com/131530244.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429696000,
     "lat": 16.066536,
     "lng": 108.164185
@@ -4771,7 +4882,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/jjSf4fYwPZMykqFwEqNKPRTnYyYTkWgXUnXry128BUc/preset:listing/plain/b4afa948b02cd3e03bdf5f33227692a3-2978985635566019926.jpg",
     "url": "https://www.nhatot.com/131691569.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429651000,
     "lat": 16.001999,
     "lng": 108.219955
@@ -4789,7 +4900,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/jpbglyL4WeNZN6Dwt9kR11y9wcfWuFqbhEcdw6S4gCc/preset:listing/plain/48c419c67aaf985d0f3a23c8f5a6607a-2978008780629443562.jpg",
     "url": "https://www.nhatot.com/131560223.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429645000,
     "lat": 15.968948,
     "lng": 108.18168
@@ -4808,7 +4919,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/Uej5RY-BSRIA8UpIv5JPKQKM-B65PMJW9g3P7SdwwSU/preset:listing/plain/2232af38da524cde4e20f015dd392fec-2977683187307559794.jpg",
     "url": "https://www.nhatot.com/131510209.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429633000,
     "lat": 16.069942,
     "lng": 108.21032
@@ -4826,7 +4937,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/YfCkxnD-aLUdt771-Oc0bkbOYZVLKCI0sAyYV7vJryA/preset:listing/plain/189ce1c01d1ed0111eb77448feeeb3c0-2978419660417045015.jpg",
     "url": "https://www.nhatot.com/131616092.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429605000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -4846,7 +4957,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/OYW70sLx6GgtriKqHWjH7KZleQowL2brGj-APQFprT4/preset:listing/plain/53389da3d01e48be6fe10e8d7e9a2016-2982031449179197315.jpg",
     "url": "https://www.nhatot.com/132100208.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429550000,
     "lat": 16.059078,
     "lng": 108.20728
@@ -4866,7 +4977,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/PRyXm-W_J5Q7ka_R-QZRMFkzDb-hKrKuxADcnBBF4e4/preset:listing/plain/0acd322999ea24a0584328a4ef5fdcc5-2980043658281023468.jpg",
     "url": "https://www.nhatot.com/131844289.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429473923,
     "lat": 16.01032,
     "lng": 108.253494
@@ -4884,7 +4995,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/1BjtFpHXz4cbzdsu2YFOE5Yt121jX63iOd8iyqIauxg/preset:listing/plain/b256d424be9dd237232b1cc74a21e8da-2981080855302413566.jpg",
     "url": "https://www.nhatot.com/131986632.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429393000,
     "lat": 15.969104,
     "lng": 108.13947
@@ -4902,7 +5013,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/4kbMEWwPz4IjgcM-C-fKIOY6WW9mJnaloZGNaizwYEE/preset:listing/plain/ddc2fce1a813886f8e8cceadc50ad414-2982031184214630671.jpg",
     "url": "https://www.nhatot.com/132100093.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429278000,
     "lat": 16.070667,
     "lng": 108.21571
@@ -4922,7 +5033,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/x77qIFYHqfDbWtbtnbuRshlvxk2iXsk9rJx2CKsZHAo/preset:listing/plain/a50ab5c488d8e1effa8732bac7db53db-2980027586946072405.jpg",
     "url": "https://www.nhatot.com/131840281.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429276000,
     "lat": 15.999946,
     "lng": 108.234215
@@ -4941,7 +5052,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/wHVsnvmz_yvKaKc3zjDzL1LI2PnDz2ZHpB3Y1eipky4/preset:listing/plain/c99dccd2a0a02e33954e4b0a1fecdc8a-2982030749802642242.jpg",
     "url": "https://www.nhatot.com/132100071.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429218000,
     "lat": 16.05824,
     "lng": 108.22385
@@ -4959,7 +5070,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/yHf_mv4wOhx65PHAx-HI7wZPUEvEdF2geuvBpFEOMvo/preset:listing/plain/c22b0bb1fe62c2fc609ec601d04607d8-2976890023483980569.jpg",
     "url": "https://www.nhatot.com/131406376.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429175000,
     "lat": 16.0452,
     "lng": 108.11322,
@@ -4979,7 +5090,7 @@
     "rooms": 1,
     "image": "https://cdn.chotot.com/neN1Aoh9eZtDO8N2ihtqQE-qyCXooHjKUh39q6zHqIk/preset:listing/plain/52f28f63ca270f50f1ab5401c35a93cd-2981632347544730779.jpg",
     "url": "https://www.nhatot.com/131222371.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429114000,
     "lat": 16.06445,
     "lng": 108.21374
@@ -4999,7 +5110,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/JLtuH73cn5b4c630pIg3etwQYWgmnU9iWHSX_YuGUL0/preset:listing/plain/c461958b424c21e03fbe5ed999bc14a0-2980434817885438741.jpg",
     "url": "https://www.nhatot.com/131894479.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429058000,
     "lat": 16.061335,
     "lng": 108.21181
@@ -5018,7 +5129,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/KFcfzqwDMfa4uwoeUm_rf3PWo9HgH6npj6KCXQT3bVo/preset:listing/plain/9bc884c342de3943364391a863a1caaa-2981811433254719363.jpg",
     "url": "https://www.nhatot.com/132077409.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777429043000,
     "lat": 16.00763,
     "lng": 108.199135
@@ -5037,7 +5148,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/lAgdFNScjk_X6z3TDod792T2NOWyOTARflxMUdKpa2s/preset:listing/plain/1efe78776956fcdb86e94b65569fbf5a-2936375173221840089.jpg",
     "url": "https://www.nhatot.com/125764670.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777428957000,
     "lat": 16.01417,
     "lng": 108.227455
@@ -5055,7 +5166,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/KcZ9EHLPcNLGus_eFTU2xqQWG9tTPyDTkM3Tfj_Uyo8/preset:listing/plain/5688cd05d1bb50c914f766de3fa3f508-2982029697921768683.jpg",
     "url": "https://www.nhatot.com/132099941.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777428814000,
     "lat": 16.084179,
     "lng": 108.14249
@@ -5073,7 +5184,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/3ibN21unOgwmxg0O-ZPKQHIUJz6PubD_vvy8AI83Yvk/preset:listing/plain/fcabc9d96bcf1290545b18bc698c860b-2977824849466285766.jpg",
     "url": "https://www.nhatot.com/131529883.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777428492000,
     "lat": 16.06745,
     "lng": 108.17061
@@ -5092,7 +5203,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/KuejGMomVXufzx7LLCXa1m5F14C4-MxRNIA1rnFUHzg/preset:listing/plain/b5a4d36205e2096515877dc54e7d7af2-2973925012171090478.jpg",
     "url": "https://www.nhatot.com/130988338.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777428057000,
     "lat": 16.009804,
     "lng": 108.22467
@@ -5110,7 +5221,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/TY-DTj9N6Qh0uS7p6NFtyj-fO6Qc0PrfeSG62i1jTdc/preset:listing/plain/49f159000a60a684f19db11d6e8ce358-2979026474543886053.jpg",
     "url": "https://www.nhatot.com/131702590.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777428047000,
     "lat": 16.04769,
     "lng": 108.24665
@@ -5130,7 +5241,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/Ucmuh4bykEtxig4TU0v5MxeMnOsq31-lWVyL5yyvxng/preset:listing/plain/c7b6305e7ac765b63ce19b48f3acf388-2981303284711396866.jpg",
     "url": "https://www.nhatot.com/130804746.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777428001000,
     "lat": 16.06984,
     "lng": 108.21157
@@ -5148,7 +5259,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/w057WPDambd3TluvSY6hKq4r7CcOU-eSQMVyU_nQE6k/preset:listing/plain/4cd1df31e73da7af1b55299a61e10726-2978140094990017243.jpg",
     "url": "https://www.nhatot.com/129647764.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777427975000,
     "lat": 16.02014,
     "lng": 108.063515
@@ -5167,7 +5278,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/sXIZih_6vH6-BgfJs9VnR9BrjuLvOaBVyVQdFpRR_0k/preset:listing/plain/fbd51087e696e18fb4d313a62dda2f65-2981598116147336706.jpg",
     "url": "https://www.nhatot.com/132049415.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777427890000,
     "lat": 16.013596,
     "lng": 108.20324
@@ -5187,7 +5298,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/dgNQUe_2bk73qIHXb6agapjHIIJ3WcS-ipsKCbGdBk0/preset:listing/plain/905fe6f0b9a356e28c0eb542ad60f493-2978717172668486432.jpg",
     "url": "https://www.nhatot.com/131508190.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777427882000,
     "lat": 16.027998,
     "lng": 108.24513
@@ -5206,7 +5317,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/itHfUB6790sFAxuvUdiQiJs3cy_w3Cyf01euONy2Mvc/preset:listing/plain/71bb9eaaab9318f3cd842216eaa7ea23-2981163117449948949.jpg",
     "url": "https://www.nhatot.com/131695553.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777427768000,
     "lat": 16.025654,
     "lng": 108.212654
@@ -5224,7 +5335,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/paD2nRZ83LL0jcKRYLMCiEh48iaAfQfhvHiaTtGgm_Q/preset:listing/plain/e37afa0a3855a5a30c4cc39391864cf0-2982028435449483139.jpg",
     "url": "https://www.nhatot.com/132099592.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777427752000,
     "lat": 16.075521,
     "lng": 108.15648
@@ -5244,7 +5355,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/zhBucjyHkF2TZRW3ls3pjzJ6ZAd1QTdnVAZWQXf6h28/preset:listing/plain/40694c291bc7549fb4e8d4c5aa4a2ad4-2980873234306103071.jpg",
     "url": "https://www.nhatot.com/131952230.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777427718000,
     "lat": 16.04826,
     "lng": 108.17548
@@ -5264,108 +5375,43 @@
     "rooms": 10,
     "image": "https://cdn.chotot.com/gF7sLtkcWwWOnD8xEqSPZzudyn5Ks3qtq3EY-2KOm-Y/preset:listing/plain/20a21b9dda2a8f94af8e00ddfdbbddbf-2982027123982261483.jpg",
     "url": "https://www.nhatot.com/131563420.htm",
-    "date": "9 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1777427672723,
     "lat": 16.037638,
     "lng": 108.22286
   },
   {
-    "id": 173042882,
-    "title": "Độc quyền căn hộ The Soleil biển Mỹ Khê, giá chỉ 2,9x tỉ, view biển.",
-    "price": 2900000000,
-    "priceString": "2,9 tỷ",
-    "pricePerSqm": 96.7,
-    "size": 30,
-    "district": "Quận Sơn Trà",
-    "ward": "Phường An Hải Bắc",
-    "street": "Phạm Văn Đồng",
-    "category": "Căn hộ/Chung cư",
+    "id": 45164132,
+    "title": "Vin Group ra bảng hàng Vinhomes Hải Vân Bay, giá bán đợt 1 trực tiếp từ CĐT, chiết khấu tốt",
+    "price": 5900000000,
+    "priceString": "5,9 tỷ",
+    "pricePerSqm": 81.9,
+    "size": 72,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/02/18/20260218182300-cdbb_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/cap-nhat-tien-o-du-an-a-nang-gia-ban-ot-1-truc-tiep-tu-c-t-pr45164132",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
+  },
+  {
+    "id": 45648208,
+    "title": "Bán Căn hộ 1PN+, 1WC tại Sun Symphony Residence, giá thỏa thuận, 45m2",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 45,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
     "rooms": 1,
-    "image": "https://cdn.chotot.com/4BsGsUDnpWU0wpp-0wtAtGYcvCKMrYTiIqfFe819cmQ/preset:listing/plain/76a2f9dce850928121752d2ff9669c2a-2963046144988489780.jpg",
-    "url": "https://www.nhatot.com/129773307.htm",
-    "date": "9 giờ trước",
-    "postedAt": 1777427389000,
-    "lat": 16.07073,
-    "lng": 108.23661
-  },
-  {
-    "id": 175745710,
-    "title": "CHƯA ĐẾN 3 TỶ CHO CĂN HỘ CAO CẤP VIEW BIỂN TẦNG CAO FULL NỘI THẤT",
-    "price": 3000000000,
-    "priceString": "3 tỷ",
-    "pricePerSqm": 61.2,
-    "size": 49,
-    "district": "Quận Sơn Trà",
-    "ward": "Phường Nại Hiên Đông",
-    "street": "Đường Lê Văn Duyệt",
-    "category": "Căn hộ/Chung cư",
-    "rooms": 1,
-    "image": "https://cdn.chotot.com/LQFAq4Zq2lUUAsuOm-2upS1fxbeYBIFqGYXHlWK2MQE/preset:listing/plain/d667930d931cff394b0bbe8949207e05-2982028045629436872.jpg",
-    "url": "https://www.nhatot.com/132099465.htm",
-    "date": "9 giờ trước",
-    "postedAt": 1777427388000,
-    "lat": 16.100111,
-    "lng": 108.22886
-  },
-  {
-    "id": 175269127,
-    "title": "Nhà Kiệt 2m Lê Tấn Trung Sơn Trà Đà Nẵng Công Năng : 2p Ngủ 1 wc Diện",
-    "price": 3250000000,
-    "priceString": "3,25 tỷ",
-    "pricePerSqm": 60.2,
-    "size": 54,
-    "district": "Quận Sơn Trà",
-    "ward": "Phường Thọ Quang",
-    "street": "Đường Lê Tân Trung",
-    "category": "Nhà ở",
-    "floors": 11,
-    "rooms": 2,
-    "image": "https://cdn.chotot.com/WOgTtPj5yYw9_8hGNF1HUgf1AQk5A3qGEcwM7A0eZDs/preset:listing/plain/cd7ce047a898d9b333976350102675e7-2978978287783524918.jpg",
-    "url": "https://www.nhatot.com/131690059.htm",
-    "date": "9 giờ trước",
-    "postedAt": 1777427364000,
-    "lat": 16.100063,
-    "lng": 108.24922
-  },
-  {
-    "id": 174600433,
-    "title": "BÁN NHÀ CĂN HỘ 3T 81m2, CẠNH SÂN BAY, DÒNG TIỀN 28TR, KIỆT NHỰA 5M",
-    "price": 7950000000,
-    "priceString": "7,95 tỷ",
-    "pricePerSqm": 98.1,
-    "size": 81,
-    "district": "Quận Hải Châu",
-    "ward": "Phường Hòa Cường Bắc",
-    "street": "Đường Nguyễn Hữu Thọ",
-    "category": "Nhà ở",
-    "floors": 3,
-    "rooms": 9,
-    "image": "https://cdn.chotot.com/DO4yTDx3MkbCgw9EzByyJn7UFMVG4bp3JflRztk-Dqk/preset:listing/plain/e8cec629521c335f25d6ce4b96539aa4-2974937618130713598.jpg",
-    "url": "https://www.nhatot.com/131124280.htm",
-    "date": "9 giờ trước",
-    "postedAt": 1777427349313,
-    "lat": 16.041897,
-    "lng": 108.2104
-  },
-  {
-    "id": 175745626,
-    "title": "Toà căn hộ có hồ bơi mỹ đa đông 12 gần biển mỹ khê",
-    "price": 32000000000,
-    "priceString": "32 tỷ",
-    "pricePerSqm": 124.5,
-    "size": 257,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Mỹ An",
-    "street": "Đường Mỹ Đa Đông 12",
-    "category": "Nhà ở",
-    "floors": 3,
-    "rooms": 11,
-    "image": "https://cdn.chotot.com/Jxx3FAAznY4vtGO5N_rDfkMpxv6dsMI7Ety7LamZbIQ/preset:listing/plain/3494b3a081b08f506af708999a05723a-2982027770134125803.jpg",
-    "url": "https://www.nhatot.com/132099400.htm",
-    "date": "9 giờ trước",
-    "postedAt": 1777427164000,
-    "lat": 16.044111,
-    "lng": 108.24759
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/29/20260429182427-f9d6_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-nai-hien-dong-sun-symphony-residence/ban-1pn-1wc-tai-gia-thoa-thuan-45m2-pr45648208",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
   },
   {
     "id": 45298084,
@@ -5385,38 +5431,6 @@
     "postedAt": 1777420800000
   },
   {
-    "id": 45641737,
-    "title": "Độc quyền quỹ căn Vinhomes Hải Vân Bay Đà Nẵng chỉ 20% sở hữu BĐS mặt biển đẳng cấp của Vinhomes",
-    "price": 5900000000,
-    "priceString": "5,9 tỷ",
-    "pricePerSqm": 84.3,
-    "size": 70,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/23/20260423091302-6205_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/oc-quyen-quy-can-a-nang-chi-20-so-huu-b-s-mat-bien-ang-cap-cua-vinhomes-pr45641737",
-    "date": "29/4/2026",
-    "postedAt": 1777420800000
-  },
-  {
-    "id": 45647681,
-    "title": "RA MẮT SYMPHONY 5 QUỸ ĐẤT CUỐI CÙNG TRỰC DIỆN SÔNG HÀN, VIEW PHÁO HOA GIÁ GỐC TỪ CDT SUN GROUP",
-    "price": 2600000000,
-    "priceString": "2,6 tỷ",
-    "pricePerSqm": 86.7,
-    "size": 30,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/29/20260429164054-999b_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-nai-hien-dong-sun-symphony-residence/ra-mat-5-quy-at-cuoi-cung-truc-dien-song-han-view-phao-hoa-gia-goc-tu-cdt-group-pr45647681",
-    "date": "29/4/2026",
-    "postedAt": 1777420800000
-  },
-  {
     "id": 43367366,
     "title": "Bán đất đường Lê Văn Hiến - KDC nhà máy cao su - gần Furama Resort - gần biển Mỹ Khê",
     "price": 13800000000,
@@ -5427,7 +5441,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/06/26/20250626152246-34c8_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-khue-my-48/ban-kdc-nha-may-cao-su-gan-furama-resort-gan-bien-khe-pr43367366",
     "date": "29/4/2026",
     "postedAt": 1777420800000
@@ -5443,7 +5457,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/08/20260408085453-8638_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-da-man-dong-3-phuong-khue-my-48/ban-lo-goc-uong-a-ong-3-khu-tap-the-hai-quan-oi-dien-benh-vien-san-nhi-pr45502108",
     "date": "29/4/2026",
     "postedAt": 1777420800000
@@ -5459,7 +5473,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/07/30/20250730201522-0fb0_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-ho-xuan-huong-phuong-khue-my-48/ban-lo-kiet-6m-dt-300m2-gan-furama-resort-pr43658901",
     "date": "29/4/2026",
     "postedAt": 1777420800000
@@ -5475,7 +5489,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/29/20260429132324-192d_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-at-uong-dt-215m2-ngang-10-3m-gan-du-to-hop-khan-ai-phao-hoa-cach-song-han-300m-pr45646093",
     "date": "29/4/2026",
     "postedAt": 1777420800000
@@ -5491,7 +5505,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "29/4/2026",
     "postedAt": 1777420800000
@@ -5507,7 +5521,7 @@
     "ward": "P. Hải Vân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/26/20260426195822-2e48_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-trung-lap-15-phuong-hoa-hiep-nam-lakeside-palace/ban-lo-15-kep-khe-thoang-sat-tran-van-que-ep-nhat-truc-uong-pr45222745",
     "date": "29/4/2026",
     "postedAt": 1777420800000
@@ -5573,6 +5587,38 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-vo-chi-cong-phuong-hoa-quy-khu-do-thi-hoa-quy/co-hoi-cuoi-cung-at-nen-vi-tri-ep-gia-goc-cdt-7-ty-pr45616150",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
+  },
+  {
+    "id": 45641737,
+    "title": "Độc quyền quỹ căn Vinhomes Hải Vân Bay Đà Nẵng chỉ 20% sở hữu BĐS mặt biển đẳng cấp của Vinhomes",
+    "price": 5900000000,
+    "priceString": "5,9 tỷ",
+    "pricePerSqm": 84.3,
+    "size": 70,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/23/20260423091302-6205_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/oc-quyen-quy-can-a-nang-chi-20-so-huu-b-s-mat-bien-ang-cap-cua-vinhomes-pr45641737",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
+  },
+  {
+    "id": 45647681,
+    "title": "RA MẮT SYMPHONY 5 QUỸ ĐẤT CUỐI CÙNG TRỰC DIỆN SÔNG HÀN, VIEW PHÁO HOA GIÁ GỐC TỪ CDT SUN GROUP",
+    "price": 2600000000,
+    "priceString": "2,6 tỷ",
+    "pricePerSqm": 86.7,
+    "size": 30,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/29/20260429164054-999b_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-nai-hien-dong-sun-symphony-residence/ra-mat-5-quy-at-cuoi-cung-truc-dien-song-han-view-phao-hoa-gia-goc-tu-cdt-group-pr45647681",
     "date": "29/4/2026",
     "postedAt": 1777420800000
   },
@@ -5793,7 +5839,7 @@
   },
   {
     "id": 45645436,
-    "title": "BÁN CĂN HỘ GÓC 2 PHÒNG NGỦ GIÁ TỐT DỄ ĐẦU TƯ MT NGUYỄN PHƯỚC LAN , VIEW CỰC THOÁNG VÀ ĐẸP",
+    "title": "Bán căn hộ góc 2 phòng ngủ giá tốt dễ đầu tư MT Nguyễn Phước Lan, view cực thoáng và đẹp",
     "price": 3300000000,
     "priceString": "3,3 tỷ",
     "pricePerSqm": 50.8,
@@ -5803,14 +5849,14 @@
     "street": "",
     "category": "Bất động sản",
     "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/29/20260429111428-a4c1_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower/ban-goc-2-phong-ngu-gia-tot-de-au-tu-mt-nguyen-phuoc-lan-view-cuc-thoang-va-ep-pr45645436",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/29/20260429183923-44c5_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-phuoc-lan-phuong-hoa-quy-fours-tower/ban-goc-2-phong-ngu-gia-tot-de-au-tu-mt-view-cuc-thoang-va-ep-pr45645436",
     "date": "29/4/2026",
     "postedAt": 1777420800000
   },
   {
     "id": 45645381,
-    "title": "Tập Đoàn BRG mở bán Toà Capital Square View trực diện Sông Hàn ngay cạnh VinCom Đà Nẵng.",
+    "title": "Tập Đoàn BRG mở bán Toà Capital Square view trực diện Sông Hàn ngay cạnh VinCom Đà Nẵng",
     "price": 3990000000,
     "priceString": "3,99 tỷ",
     "pricePerSqm": 88.7,
@@ -5871,40 +5917,6 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/29/20260429101935-bf00_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-xo-viet-nghe-tinh-phuong-hoa-cuong-nam-46/ban-at-3-mat-tien-tai-a-nang-gia-tot-80-ty-pr45644885",
-    "date": "29/4/2026",
-    "postedAt": 1777420800000
-  },
-  {
-    "id": 45575777,
-    "title": "Hot, mở bán phân khu 3 Đảo Ngọc giá dự kiến từ 5,5 tỷ. CK 11%. Ân hạn gốc + lãi trong 60 tháng",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 150,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 4,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/06/20260406163518-3b74_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/chinh-thuc-nhan-booking-khu-3-ao-ngoc-bay-pr45575777",
-    "date": "29/4/2026",
-    "postedAt": 1777420800000
-  },
-  {
-    "id": 45591344,
-    "title": "Quỹ căn CĐT, căn góc 2 BR có sân vườn tòa F1 giá tốt nhất FourS Tower, căn hộ cao cấp Nam Hòa Xuân",
-    "price": 3430000000,
-    "priceString": "3,43 tỷ",
-    "pricePerSqm": 52.9,
-    "size": 64.8,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/23/20260423094904-e83b_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower/tu-c-t-1br-toa-f1-view-downtown-gia-tot-nhat-cao-cap-nam-xuan-pr45591344",
     "date": "29/4/2026",
     "postedAt": 1777420800000
   },
@@ -6065,6 +6077,40 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-vo-chi-cong-phuong-hoa-quy-khu-do-thi-hoa-quy/co-hoi-cuoi-cung-at-nen-vi-tri-ep-gia-goc-cdt-7-ty-pr45616150",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
+  },
+  {
+    "id": 45575777,
+    "title": "Hot, mở bán phân khu 3 Đảo Ngọc giá dự kiến từ 5,5 tỷ. CK 11%. Ân hạn gốc + lãi trong 60 tháng",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 150,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 4,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/06/20260406163518-3b74_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/chinh-thuc-nhan-booking-khu-3-ao-ngoc-bay-pr45575777",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
+  },
+  {
+    "id": 45591344,
+    "title": "Quỹ căn CĐT, căn góc 2 BR có sân vườn tòa F1 giá tốt nhất FourS Tower, căn hộ cao cấp Nam Hòa Xuân",
+    "price": 3430000000,
+    "priceString": "3,43 tỷ",
+    "pricePerSqm": 52.9,
+    "size": 64.8,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/23/20260423094904-e83b_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower/tu-c-t-1br-toa-f1-view-downtown-gia-tot-nhat-cao-cap-nam-xuan-pr45591344",
     "date": "29/4/2026",
     "postedAt": 1777420800000
   },
@@ -6368,39 +6414,6 @@
     "postedAt": 1777334400000
   },
   {
-    "id": 45576454,
-    "title": "TIẾN NGAY LÔ ĐẤT VÀNG 2 MẶT TIỀN RẺ HƠN CẢ ĐẤT KIỆT KINH DOANH ĐỈNH . Chỉ 7,9 tỷ",
-    "price": 7500000000,
-    "priceString": "7,5 tỷ",
-    "pricePerSqm": 53.6,
-    "size": 140,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hòa Khánh mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/18/20260418060222-b149_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-minh-khong-phuong-hoa-minh-47/tien-ngay-lo-at-vang-2-mat-tien-re-hon-ca-at-kiet-kinh-doanh-inh-chi-7-9-ty-pr45576454",
-    "date": "28/4/2026",
-    "postedAt": 1777334400000
-  },
-  {
-    "id": 39872224,
-    "title": "Căn hộ 1PN view Panaroma Sông Hàn tầng cao ngắm pháo hoa tuyệt đẹp - Cam kết giá tốt nhất T3/2026",
-    "price": 3310000000,
-    "priceString": "3,31 tỷ",
-    "pricePerSqm": 68,
-    "size": 48.7,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 3,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/02/14/20250214235953-7bfe_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/nhan-dat-cho-dot-1-cao-cap-mat-song-han-gan-bien-my-khe-so-huu-lau-dai-vi-tri-kim-cuong-pr39872224",
-    "date": "27/4/2026",
-    "postedAt": 1777248000000
-  },
-  {
     "id": 43367366,
     "title": "Bán đất đường Lê Văn Hiến - KDC nhà máy cao su - gần Furama Resort - gần biển Mỹ Khê",
     "price": 13800000000,
@@ -6561,6 +6574,39 @@
     "postedAt": 1777420800000
   },
   {
+    "id": 45576454,
+    "title": "TIẾN NGAY LÔ ĐẤT VÀNG 2 MẶT TIỀN RẺ HƠN CẢ ĐẤT KIỆT KINH DOANH ĐỈNH . Chỉ 7,9 tỷ",
+    "price": 7500000000,
+    "priceString": "7,5 tỷ",
+    "pricePerSqm": 53.6,
+    "size": 140,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hòa Khánh mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/18/20260418060222-b149_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-minh-khong-phuong-hoa-minh-47/tien-ngay-lo-at-vang-2-mat-tien-re-hon-ca-at-kiet-kinh-doanh-inh-chi-7-9-ty-pr45576454",
+    "date": "28/4/2026",
+    "postedAt": 1777334400000
+  },
+  {
+    "id": 39872224,
+    "title": "Căn hộ 1PN view Panaroma Sông Hàn tầng cao ngắm pháo hoa tuyệt đẹp - Cam kết giá tốt nhất T3/2026",
+    "price": 3310000000,
+    "priceString": "3,31 tỷ",
+    "pricePerSqm": 68,
+    "size": 48.7,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 3,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/02/14/20250214235953-7bfe_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/nhan-dat-cho-dot-1-cao-cap-mat-song-han-gan-bien-my-khe-so-huu-lau-dai-vi-tri-kim-cuong-pr39872224",
+    "date": "27/4/2026",
+    "postedAt": 1777248000000
+  },
+  {
     "id": 45567259,
     "title": "Suất ngoại giao! Giá 1 tỷ 9 (100%) sở hữu căn hộ FourS - Chiết khấu 28,5% - TT 70% nhận nhà",
     "price": 1900000000,
@@ -6662,9 +6708,9 @@
   {
     "id": 43106034,
     "title": "Tòa căn hộ 4T 21 Phan Thành Tài view sông Hàn, gồm 7 căn hộ và 1 MB cho thuê, dòng tiền net 65tr/th",
-    "price": 19700000000,
-    "priceString": "19,7 tỷ",
-    "pricePerSqm": 252.6,
+    "price": 18700000000,
+    "priceString": "18,7 tỷ",
+    "pricePerSqm": 239.7,
     "size": 78,
     "district": "Q. Hải Châu",
     "ward": "P. Hòa Cường mới",
@@ -6860,39 +6906,6 @@
     "postedAt": 1776988800000
   },
   {
-    "id": 45557727,
-    "title": "Đất Biển Sơn Thủy, đường 7,5m Sơn Thủy Đông 2, cách bãi tắm chỉ 300m, giá đầu tư chỉ 7,25 tỷ",
-    "price": 7250000000,
-    "priceString": "7,25 tỷ",
-    "pricePerSqm": 80.6,
-    "size": 90,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/15/20260415150857-1d0f_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-son-thuy-dong-2-phuong-hoa-hai-48/at-bien-uong-7-5m-ong-2-cach-bai-tam-chi-300m-gia-au-tu-chi-7-25-ty-pr45557727",
-    "date": "24/4/2026",
-    "postedAt": 1776988800000
-  },
-  {
-    "id": 45618001,
-    "title": "Bán căn 2PN, view về Đà Nẵng Downtown, giá tốt nhất thị trường, tầng cao view thoáng",
-    "price": 5950000000,
-    "priceString": "5,95 tỷ",
-    "pricePerSqm": 76.9,
-    "size": 77.4,
-    "district": "Q. Hải Châu",
-    "ward": "P. Hòa Cường mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/24/20260424091332-15af_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-masteri-rivera-danang/ban-2pn-view-ve-a-nang-downtown-gia-tot-nhat-thi-truong-tang-cao-view-thoang-pr45618001",
-    "date": "24/4/2026",
-    "postedAt": 1776988800000
-  },
-  {
     "id": 43367366,
     "title": "Bán đất đường Lê Văn Hiến - KDC nhà máy cao su - gần Furama Resort - gần biển Mỹ Khê",
     "price": 13800000000,
@@ -7053,6 +7066,39 @@
     "postedAt": 1777420800000
   },
   {
+    "id": 45557727,
+    "title": "Đất Biển Sơn Thủy, đường 7,5m Sơn Thủy Đông 2, cách bãi tắm chỉ 300m, giá đầu tư chỉ 7,25 tỷ",
+    "price": 7250000000,
+    "priceString": "7,25 tỷ",
+    "pricePerSqm": 80.6,
+    "size": 90,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/15/20260415150857-1d0f_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-son-thuy-dong-2-phuong-hoa-hai-48/at-bien-uong-7-5m-ong-2-cach-bai-tam-chi-300m-gia-au-tu-chi-7-25-ty-pr45557727",
+    "date": "24/4/2026",
+    "postedAt": 1776988800000
+  },
+  {
+    "id": 45618001,
+    "title": "Bán căn 2PN, view về Đà Nẵng Downtown, giá tốt nhất thị trường, tầng cao view thoáng",
+    "price": 5950000000,
+    "priceString": "5,95 tỷ",
+    "pricePerSqm": 76.9,
+    "size": 77.4,
+    "district": "Q. Hải Châu",
+    "ward": "P. Hòa Cường mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/24/20260424091332-15af_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-masteri-rivera-danang/ban-2pn-view-ve-a-nang-downtown-gia-tot-nhat-thi-truong-tang-cao-view-thoang-pr45618001",
+    "date": "24/4/2026",
+    "postedAt": 1776988800000
+  },
+  {
     "id": 45615150,
     "title": "ĐỘC QUYỀN QUỸ CĂN 1PN,2PN VIEW PHÁO HOA - GIỎ HÀNG TÒA M2 - THE MERIDIAN ĐÀ NẴNG - CĂN HỘ HẠNG SANG",
     "price": 4000000000,
@@ -7205,7 +7251,7 @@
   },
   {
     "id": 45607955,
-    "title": "Căn hộ biển Đà Nẵng 2PN dòng tiền 35tr tháng View biển + sân golf Sổ lâu dài",
+    "title": "Căn hộ biển Đà Nẵng 2PN dòng tiền 35tr tháng view biển + sân golf Sổ lâu dài",
     "price": 5300000000,
     "priceString": "5,3 tỷ",
     "pricePerSqm": 62.7,
@@ -7320,40 +7366,6 @@
     "postedAt": 1776211200000
   },
   {
-    "id": 45647960,
-    "title": "Shophouse góc mặt sông Hàn ngang 9.7m nhìn thẳng bến du thuyền giá tốt từ CĐT - Sở hữu lâu dài",
-    "price": 41000000000,
-    "priceString": "41 tỷ",
-    "pricePerSqm": 234.8,
-    "size": 174.6,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 9,
-    "image": "https://file4.batdongsan.com.vn/crop/348x174/2025/07/22/20250722110733-6719_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-tran-hung-dao-phuong-nai-hien-dong-sun-symphony-residence/goc-mat-song-han-ngang-9-7m-nhin-thang-ben-du-thuyen-gia-tot-tu-c-t-so-huu-lau-dai-pr45647960",
-    "date": "29/4/2026",
-    "postedAt": 1777420800000
-  },
-  {
-    "id": 45647947,
-    "title": "Quỹ Căn Symphoy 5 view Pháo hoa - giá gốc chiết khấu cao từ CDT Sun Group",
-    "price": 2450000000,
-    "priceString": "2,45 tỷ",
-    "pricePerSqm": 81.7,
-    "size": 30,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/04/29/20260429172007-23d2_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-nai-hien-dong-sun-symphony-residence/quy-symphoy-5-view-phao-hoa-gia-goc-chiet-khau-cao-tu-cdt-group-pr45647947",
-    "date": "29/4/2026",
-    "postedAt": 1777420800000
-  },
-  {
     "id": 43367366,
     "title": "Bán đất đường Lê Văn Hiến - KDC nhà máy cao su - gần Furama Resort - gần biển Mỹ Khê",
     "price": 13800000000,
@@ -7428,7 +7440,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "29/4/2026",
     "postedAt": 1777420800000
@@ -7444,7 +7456,7 @@
     "ward": "P. Hải Vân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/26/20260426195822-2e48_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-trung-lap-15-phuong-hoa-hiep-nam-lakeside-palace/ban-lo-15-kep-khe-thoang-sat-tran-van-que-ep-nhat-truc-uong-pr45222745",
     "date": "29/4/2026",
     "postedAt": 1777420800000
@@ -7514,8 +7526,42 @@
     "postedAt": 1777420800000
   },
   {
+    "id": 45647960,
+    "title": "Shophouse góc mặt sông Hàn ngang 9.7m nhìn thẳng bến du thuyền giá tốt từ CĐT - Sở hữu lâu dài",
+    "price": 41000000000,
+    "priceString": "41 tỷ",
+    "pricePerSqm": 234.8,
+    "size": 174.6,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 9,
+    "image": "https://file4.batdongsan.com.vn/crop/348x174/2025/07/22/20250722110733-6719_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-tran-hung-dao-phuong-nai-hien-dong-sun-symphony-residence/goc-mat-song-han-ngang-9-7m-nhin-thang-ben-du-thuyen-gia-tot-tu-c-t-so-huu-lau-dai-pr45647960",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
+  },
+  {
+    "id": 45647947,
+    "title": "Quỹ căn Symphony 5 view Pháo hoa - giá gốc chiết khấu cao từ CĐT Sun Group",
+    "price": 2450000000,
+    "priceString": "2,45 tỷ",
+    "pricePerSqm": 81.7,
+    "size": 30,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/04/29/20260429172007-23d2_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-nai-hien-dong-sun-symphony-residence/quy-symphoy-5-view-phao-hoa-gia-goc-chiet-khau-cao-tu-cdt-group-pr45647947",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
+  },
+  {
     "id": 45175339,
-    "title": "Deal Hiếm - Căn 1PN The Legend City - giá tốt nhất DA - View Pháo Hoa - chiết khấu lên đến 14%",
+    "title": "Deal hiếm - Căn 1PN The Legend City - giá tốt nhất DA - View pháo hoa - chiết khấu lên đến 14%",
     "price": 4800000000,
     "priceString": "4,8 tỷ",
     "pricePerSqm": 123.1,
@@ -7747,40 +7793,6 @@
     "postedAt": 1777334400000
   },
   {
-    "id": 45173817,
-    "title": "Sở hữu lâu dài căn hộ mặt biển Hiyori Aqua Tower - tiến độ thanh toán dàn trải",
-    "price": 4200000000,
-    "priceString": "4,2 tỷ",
-    "pricePerSqm": 70,
-    "size": 60,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/02/24/20260224085419-caf2_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-tho-quang-hiyori-aqua-tower-20749/so-huu-lau-dai-mat-bien-tien-o-thanh-toan-dan-trai-pr45173817",
-    "date": "28/4/2026",
-    "postedAt": 1777334400000
-  },
-  {
-    "id": 45591415,
-    "title": "Còn sót 1 căn 1N view sân golf chiết khấu 12% giá 3,269 tỷ tầng đẹp. LH 0969 919 ***",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 44.88,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/04/20/20260420161335-73b7_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-truong-sa-phuong-hoa-hai-newtown-diamond-da-nang/con-sot-1-1n-view-san-golf-chiet-khau-12-gia-3-269-ty-tang-ep-lh-pr45591415",
-    "date": "28/4/2026",
-    "postedAt": 1777334400000
-  },
-  {
     "id": 43367366,
     "title": "Bán đất đường Lê Văn Hiến - KDC nhà máy cao su - gần Furama Resort - gần biển Mỹ Khê",
     "price": 13800000000,
@@ -7939,6 +7951,40 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-vo-chi-cong-phuong-hoa-quy-khu-do-thi-hoa-quy/co-hoi-cuoi-cung-at-nen-vi-tri-ep-gia-goc-cdt-7-ty-pr45616150",
     "date": "29/4/2026",
     "postedAt": 1777420800000
+  },
+  {
+    "id": 45173817,
+    "title": "Sở hữu lâu dài căn hộ mặt biển Hiyori Aqua Tower - tiến độ thanh toán dàn trải",
+    "price": 4200000000,
+    "priceString": "4,2 tỷ",
+    "pricePerSqm": 70,
+    "size": 60,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/02/24/20260224085419-caf2_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-tho-quang-hiyori-aqua-tower-20749/so-huu-lau-dai-mat-bien-tien-o-thanh-toan-dan-trai-pr45173817",
+    "date": "28/4/2026",
+    "postedAt": 1777334400000
+  },
+  {
+    "id": 45591415,
+    "title": "Còn sót 1 căn 1N view sân golf chiết khấu 12% giá 3,269 tỷ tầng đẹp. LH 0969 919 ***",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 44.88,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/04/20/20260420161335-73b7_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-truong-sa-phuong-hoa-hai-newtown-diamond-da-nang/con-sot-1-1n-view-san-golf-chiet-khau-12-gia-3-269-ty-tang-ep-lh-pr45591415",
+    "date": "28/4/2026",
+    "postedAt": 1777334400000
   },
   {
     "id": 44185572,
@@ -8188,40 +8234,6 @@
     "rooms": 2,
     "image": "https://file4.batdongsan.com.vn/crop/348x174/2025/10/30/20251030192027-1f5d_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-29-3-1-phuong-hoa-xuan-cora-tower/trung-tam-da-nang-sun-chi-2-9-ty-tra-truoc-800-trieu-cho-den-luc-nhan-nha-pr44419429",
-    "date": "26/4/2026",
-    "postedAt": 1777161600000
-  },
-  {
-    "id": 45505083,
-    "title": "Nhà mặt tiền Trần Huấn (kẹp kiệt bên hông) đường rộng 10m5, 200m2 ngang 10m, vị trí tiềm năng.",
-    "price": 21500000000,
-    "priceString": "21,5 tỷ",
-    "pricePerSqm": 107.5,
-    "size": 200,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Cẩm Lệ mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 3,
-    "image": "https://file4.batdongsan.com.vn/crop/348x174/2025/12/11/20251211143031-b139_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-tran-huan-phuong-khue-trung-45/tien-kep-kiet-ben-hong-uong-rong-10m5-gan-cau-hoa-xuan-200m2-ngang-10m-pr45505083",
-    "date": "26/4/2026",
-    "postedAt": 1777161600000
-  },
-  {
-    "id": 45227914,
-    "title": "CĐT Sun Group tung quỹ căn hiếm 2 mặt tiền sông Hàn và Trần Hưng Đạo, giá chiết khấu cao mua đợt 1",
-    "price": 52800000000,
-    "priceString": "52,8 tỷ",
-    "pricePerSqm": 314.3,
-    "size": 168,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 5,
-    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/03/04/20260304132541-7b0c_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-shophouse-nha-pho-thuong-mai-duong-tran-hung-dao-phuong-nai-hien-dong-sun-symphony-residence/c-t-group-tung-quy-can-hiem-2-mat-tien-song-han-va-ao-gia-chiet-khau-cao-mua-ot-1-pr45227914",
     "date": "26/4/2026",
     "postedAt": 1777161600000
   }
