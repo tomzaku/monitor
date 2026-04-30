@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/aNfLixiS68z1qu3mbkiwr6zUJ6YX-59bIO8_kRBa4kk/preset:listing/plain/eb5bc11a9290ecea57fe41bc9f8de2f0-2980321803180737301.jpg",
     "url": "https://www.nhatot.com/131882056.htm",
-    "date": "2 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777538139000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -195,7 +195,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/Vk_MRiavrv_VRijQ9tpcuyydAj4erLAlpRPGfE_n2FE/preset:listing/plain/30bfcb863327cee140f72e06db9c75a8-2982186106981323124.jpg",
     "url": "https://www.nhatot.com/131677195.htm",
-    "date": "7 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1777522368000,
     "lat": 16.066612,
     "lng": 108.19994
@@ -219,24 +219,6 @@
     "lng": 108.23342
   },
   {
-    "id": 175118410,
-    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
-    "price": 4950000000,
-    "priceString": "4,95 tỷ",
-    "pricePerSqm": 47.1,
-    "size": 105,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
-    "url": "https://www.nhatot.com/131560978.htm",
-    "date": "4 tuần trước",
-    "postedAt": 1775033300000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 170029959,
     "title": "RẺ NHẤT THỊ TRƯỜNG KHU ĐẦM SEN - NAM HOÀ XUÂN -CỌC LÀ ĐÃ LỜI",
     "price": 5150000000,
@@ -253,6 +235,24 @@
     "postedAt": 1775373545927,
     "lat": 16.01607,
     "lng": 108.22902
+  },
+  {
+    "id": 175118410,
+    "title": "BÁN RẺ LÔ ĐẤT ĐƯỜNG 7m5 ĐẦM SEN- NAM HOÀ XUÂN- GIÁ TỐT 4,950 TỶ/105M",
+    "price": 4950000000,
+    "priceString": "4,95 tỷ",
+    "pricePerSqm": 47.1,
+    "size": 105,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
+    "url": "https://www.nhatot.com/131560978.htm",
+    "date": "4 tuần trước",
+    "postedAt": 1775033300000,
+    "lat": 15.99914,
+    "lng": 108.250885
   },
   {
     "id": 174965832,
@@ -287,7 +287,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/jl7qd-cyjcl6hJaQnh_8b97N_wJoo82ENE4bVUKP1qI/preset:listing/plain/9737d15797de0ae5792f24e9fdd1f446-2978828517113238796.jpg",
     "url": "https://www.nhatot.com/131668268.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1777528712000,
     "lat": 16.092907,
     "lng": 108.24848
@@ -1698,23 +1698,6 @@
     "postedAt": 1777334400000
   },
   {
-    "id": 45615935,
-    "title": "Sở hữu căn hộ FourS 2PN gồm 1Pn lớn &1PN nhỏ, DT rộng 54m2 được tặng sân vườn 16,24m2, giá 2x tỉ",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 70,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/29/20260429091241-8419_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-hoa-quy-fours-tower/oc-quyen-sun-2pn-f5-12-33-1pn-san-vuon-70m2-studio-1ty4-re-nhat-thi-truong-a-nang-pr45615935",
-    "date": "28/4/2026",
-    "postedAt": 1777334400000
-  },
-  {
     "id": 45638192,
     "title": "THE HUDSON(CAPITAL SQUARE)-KIỆT TÁC \" VIEW SÔNG\" BẬC NHẤT ĐÀ THÀNH- 2PN- CHIẾT KHẤU MAXIMUM",
     "price": 8000000000,
@@ -1861,5 +1844,21 @@
     "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/a-nang-vi-tri-vang-ven-bien-gia-tu-5-x-ty-chiet-khau-hap-dan-pr45629628",
     "date": "26/4/2026",
     "postedAt": 1777161600000
+  },
+  {
+    "id": 43106034,
+    "title": "Tòa căn hộ 4T 21 Phan Thành Tài view sông Hàn, gồm 7 căn hộ và 1 MB cho thuê, dòng tiền net 65tr/th",
+    "price": 18700000000,
+    "priceString": "18,7 tỷ",
+    "pricePerSqm": 239.7,
+    "size": 78,
+    "district": "Q. Hải Châu",
+    "ward": "P. Hòa Cường mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/25/20260425200008-7a82_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phan-thanh-tai-phuong-binh-thuan-46/ban-4-tang-view-song-han-sieu-vip-cach-di-bo-bach-dang-50m-gia-chi-14-5-ty-pr43106034",
+    "date": "25/4/2026",
+    "postedAt": 1777075200000
   }
 ]
