@@ -12,8 +12,8 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/aNfLixiS68z1qu3mbkiwr6zUJ6YX-59bIO8_kRBa4kk/preset:listing/plain/eb5bc11a9290ecea57fe41bc9f8de2f0-2980321803180737301.jpg",
     "url": "https://www.nhatot.com/131882056.htm",
-    "date": "22 giờ trước",
-    "postedAt": 1777451739000,
+    "date": "6 phút trước",
+    "postedAt": 1777538139000,
     "lat": 15.982958,
     "lng": 108.23342
   },
@@ -195,7 +195,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/Vk_MRiavrv_VRijQ9tpcuyydAj4erLAlpRPGfE_n2FE/preset:listing/plain/30bfcb863327cee140f72e06db9c75a8-2982186106981323124.jpg",
     "url": "https://www.nhatot.com/131677195.htm",
-    "date": "2 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777522368000,
     "lat": 16.066612,
     "lng": 108.19994
@@ -287,7 +287,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/jl7qd-cyjcl6hJaQnh_8b97N_wJoo82ENE4bVUKP1qI/preset:listing/plain/9737d15797de0ae5792f24e9fdd1f446-2978828517113238796.jpg",
     "url": "https://www.nhatot.com/131668268.htm",
-    "date": "33 phút trước",
+    "date": "3 giờ trước",
     "postedAt": 1777528712000,
     "lat": 16.092907,
     "lng": 108.24848
@@ -387,6 +387,23 @@
     "lng": 108.101364
   },
   {
+    "id": 39901669,
+    "title": "Hot! Quỹ căn hộ - giá gốc từ CĐT. View trực diện sông Hàn Peninsula Đà Nẵng. Chiết khấu lên đến 18%",
+    "price": 4400000000,
+    "priceString": "4,4 tỷ",
+    "pricePerSqm": 61.1,
+    "size": 72,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/21/20260421143529-3776_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-peninsula-da-nang/tin-cuc-soc-chi-50-trieu-m2-so-huu-cao-cap-mat-song-han-dn-co-ban-giao-noi-that-lien-tuong-pr39901669",
+    "date": "30/4/2026",
+    "postedAt": 1777507200000
+  },
+  {
     "id": 44697854,
     "title": "Bán căn hộ cao cấp The Legend City, ngay Cầu Rồng, 72.5m2, giá đầu tư trung tâm Sơn Trà, Đà Nẵng",
     "price": 0,
@@ -420,19 +437,18 @@
     "postedAt": 1777507200000
   },
   {
-    "id": 45648941,
-    "title": "CĂN 2 PN TẦNG CAO DIỆN TÍCH 79.1 M2 - VIEW BIỂN GIÁ CHỈ 5,4 TỶ BÀN GIAO NỘI THẤT CAO CẤP",
-    "price": 5400000000,
-    "priceString": "5,4 tỷ",
-    "pricePerSqm": 68.3,
-    "size": 79.1,
+    "id": 45646093,
+    "title": "Bán đất đường Hoài Thanh DT 215m2 ngang 10,3m gần Dự án tổ hợp Khán đài pháo hoa cách sông Hàn 300m",
+    "price": 23650000000,
+    "priceString": "23,65 tỷ",
+    "pricePerSqm": 110,
+    "size": 215,
     "district": "Q. Ngũ Hành Sơn",
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "rooms": 2,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/29/20260429155419-aa1f_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-truong-sa-phuong-hoa-hai-newtown-diamond-da-nang/2-pn-tang-cao-dien-tich-79-1-m2-view-bien-gia-chi-5-4-ty-ban-giao-noi-that-cao-cap-pr45648941",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-at-uong-dt-215m2-ngang-10-3m-gan-du-to-hop-khan-ai-phao-hoa-cach-song-han-300m-pr45646093",
     "date": "30/4/2026",
     "postedAt": 1777507200000
   },
@@ -485,22 +501,6 @@
     "postedAt": 1777507200000
   },
   {
-    "id": 45646093,
-    "title": "Bán đất đường Hoài Thanh DT 215m2 ngang 10,3m gần Dự án tổ hợp Khán đài pháo hoa cách sông Hàn 300m",
-    "price": 23650000000,
-    "priceString": "23,65 tỷ",
-    "pricePerSqm": 110,
-    "size": 215,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-at-uong-dt-215m2-ngang-10-3m-gan-du-to-hop-khan-ai-phao-hoa-cach-song-han-300m-pr45646093",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
-  },
-  {
     "id": 42738250,
     "title": "Chính chủ bán tòa CHDV cách biển 300m, 22 phòng luôn full, 153.6m2 x 7 tầng, 3 mặt thoáng",
     "price": 21800000000,
@@ -533,22 +533,6 @@
     "postedAt": 1777420800000
   },
   {
-    "id": 45458870,
-    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
-    "price": 49000000000,
-    "priceString": "49 tỷ",
-    "pricePerSqm": 211.2,
-    "size": 232,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
-  },
-  {
     "id": 45637870,
     "title": "Mặt tiền Mai Hắc Đế - sát cầu Rồng - 100m2 ngang 5m kinh doanh đỉnh",
     "price": 18000000000,
@@ -561,6 +545,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-pho-mai-hac-de-phuong-an-hai-bac-49/tien-e-sat-cau-rong-100m2-ngang-5m-kinh-doanh-inh-pr45637870",
+    "date": "30/4/2026",
+    "postedAt": 1777507200000
+  },
+  {
+    "id": 45458870,
+    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
+    "price": 49000000000,
+    "priceString": "49 tỷ",
+    "pricePerSqm": 211.2,
+    "size": 232,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
     "date": "30/4/2026",
     "postedAt": 1777507200000
   },
@@ -593,6 +593,23 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-vo-chi-cong-phuong-hoa-quy-khu-do-thi-hoa-quy/co-hoi-cuoi-cung-at-nen-vi-tri-ep-gia-goc-cdt-7-ty-pr45616150",
+    "date": "30/4/2026",
+    "postedAt": 1777507200000
+  },
+  {
+    "id": 45648941,
+    "title": "CĂN 2 PN TẦNG CAO DIỆN TÍCH 79.1 M2 - VIEW BIỂN GIÁ CHỈ 5,4 TỶ BÀN GIAO NỘI THẤT CAO CẤP",
+    "price": 5400000000,
+    "priceString": "5,4 tỷ",
+    "pricePerSqm": 68.3,
+    "size": 79.1,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/29/20260429155419-aa1f_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-truong-sa-phuong-hoa-hai-newtown-diamond-da-nang/2-pn-tang-cao-dien-tich-79-1-m2-view-bien-gia-chi-5-4-ty-ban-giao-noi-that-cao-cap-pr45648941",
     "date": "30/4/2026",
     "postedAt": 1777507200000
   },
@@ -915,20 +932,20 @@
     "postedAt": 1777420800000
   },
   {
-    "id": 45647667,
-    "title": "CĂN HỘ CAO CẤP THE LEGEND , giá cực chất chỉ từ 6 tỷ, 38,8m2 trung tâm du lịch Đà Nẵng",
-    "price": 6200000000,
-    "priceString": "6,2 tỷ",
-    "pricePerSqm": 159.8,
-    "size": 38.8,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
+    "id": 45646093,
+    "title": "Bán đất đường Hoài Thanh DT 215m2 ngang 10,3m gần Dự án tổ hợp Khán đài pháo hoa cách sông Hàn 300m",
+    "price": 23650000000,
+    "priceString": "23,65 tỷ",
+    "pricePerSqm": 110,
+    "size": 215,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/29/20260429163811-d1ce_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-van-kiet-phuong-an-hai-nam-the-legend-city/cao-cap-gia-cuc-chat-chi-tu-6-ty-38-8m2-trung-tam-du-lich-a-nang-pr45647667",
-    "date": "29/4/2026",
-    "postedAt": 1777420800000
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/29/20260429132324-192d_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-at-uong-dt-215m2-ngang-10-3m-gan-du-to-hop-khan-ai-phao-hoa-cach-song-han-300m-pr45646093",
+    "date": "30/4/2026",
+    "postedAt": 1777507200000
   },
   {
     "id": 43367366,
@@ -979,22 +996,6 @@
     "postedAt": 1777507200000
   },
   {
-    "id": 45646093,
-    "title": "Bán đất đường Hoài Thanh DT 215m2 ngang 10,3m gần Dự án tổ hợp Khán đài pháo hoa cách sông Hàn 300m",
-    "price": 23650000000,
-    "priceString": "23,65 tỷ",
-    "pricePerSqm": 110,
-    "size": 215,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/29/20260429132324-192d_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-at-uong-dt-215m2-ngang-10-3m-gan-du-to-hop-khan-ai-phao-hoa-cach-song-han-300m-pr45646093",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
-  },
-  {
     "id": 42738250,
     "title": "Chính chủ bán tòa CHDV cách biển 300m, 22 phòng luôn full, 153.6m2 x 7 tầng, 3 mặt thoáng",
     "price": 21800000000,
@@ -1027,22 +1028,6 @@
     "postedAt": 1777420800000
   },
   {
-    "id": 45458870,
-    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
-    "price": 49000000000,
-    "priceString": "49 tỷ",
-    "pricePerSqm": 211.2,
-    "size": 232,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
-  },
-  {
     "id": 45637870,
     "title": "Mặt tiền Mai Hắc Đế - sát cầu Rồng - 100m2 ngang 5m kinh doanh đỉnh",
     "price": 18000000000,
@@ -1055,6 +1040,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-pho-mai-hac-de-phuong-an-hai-bac-49/tien-e-sat-cau-rong-100m2-ngang-5m-kinh-doanh-inh-pr45637870",
+    "date": "30/4/2026",
+    "postedAt": 1777507200000
+  },
+  {
+    "id": 45458870,
+    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
+    "price": 49000000000,
+    "priceString": "49 tỷ",
+    "pricePerSqm": 211.2,
+    "size": 232,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
     "date": "30/4/2026",
     "postedAt": 1777507200000
   },
@@ -1089,6 +1090,22 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-vo-chi-cong-phuong-hoa-quy-khu-do-thi-hoa-quy/co-hoi-cuoi-cung-at-nen-vi-tri-ep-gia-goc-cdt-7-ty-pr45616150",
     "date": "30/4/2026",
     "postedAt": 1777507200000
+  },
+  {
+    "id": 45647667,
+    "title": "CĂN HỘ CAO CẤP THE LEGEND , giá cực chất chỉ từ 6 tỷ, 38,8m2 trung tâm du lịch Đà Nẵng",
+    "price": 6200000000,
+    "priceString": "6,2 tỷ",
+    "pricePerSqm": 159.8,
+    "size": 38.8,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/29/20260429163811-d1ce_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-van-kiet-phuong-an-hai-nam-the-legend-city/cao-cap-gia-cuc-chat-chi-tu-6-ty-38-8m2-trung-tam-du-lich-a-nang-pr45647667",
+    "date": "29/4/2026",
+    "postedAt": 1777420800000
   },
   {
     "id": 45647590,
@@ -1405,20 +1422,20 @@
     "postedAt": 1777334400000
   },
   {
-    "id": 45610589,
-    "title": "Độc quyền quỹ căn Vinhomes Hải Vân Bay Đà Nẵng chỉ 20% sở hữu BĐS mặt biển đẳng cấp của Vinhomes",
-    "price": 5900000000,
-    "priceString": "5,9 tỷ",
-    "pricePerSqm": 84.3,
-    "size": 70,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
+    "id": 45646093,
+    "title": "Bán đất đường Hoài Thanh DT 215m2 ngang 10,3m gần Dự án tổ hợp Khán đài pháo hoa cách sông Hàn 300m",
+    "price": 23650000000,
+    "priceString": "23,65 tỷ",
+    "pricePerSqm": 110,
+    "size": 215,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/23/20260423091302-6205_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/oc-quyen-quy-can-a-nang-chi-20-so-huu-b-s-mat-bien-ang-cap-cua-vinhomes-pr45610589",
-    "date": "28/4/2026",
-    "postedAt": 1777334400000
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/29/20260429132324-192d_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-at-uong-dt-215m2-ngang-10-3m-gan-du-to-hop-khan-ai-phao-hoa-cach-song-han-300m-pr45646093",
+    "date": "30/4/2026",
+    "postedAt": 1777507200000
   },
   {
     "id": 43367366,
@@ -1469,22 +1486,6 @@
     "postedAt": 1777507200000
   },
   {
-    "id": 45646093,
-    "title": "Bán đất đường Hoài Thanh DT 215m2 ngang 10,3m gần Dự án tổ hợp Khán đài pháo hoa cách sông Hàn 300m",
-    "price": 23650000000,
-    "priceString": "23,65 tỷ",
-    "pricePerSqm": 110,
-    "size": 215,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/29/20260429132324-192d_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-at-uong-dt-215m2-ngang-10-3m-gan-du-to-hop-khan-ai-phao-hoa-cach-song-han-300m-pr45646093",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
-  },
-  {
     "id": 42738250,
     "title": "Chính chủ bán tòa CHDV cách biển 300m, 22 phòng luôn full, 153.6m2 x 7 tầng, 3 mặt thoáng",
     "price": 21800000000,
@@ -1517,22 +1518,6 @@
     "postedAt": 1777420800000
   },
   {
-    "id": 45458870,
-    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
-    "price": 49000000000,
-    "priceString": "49 tỷ",
-    "pricePerSqm": 211.2,
-    "size": 232,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
-  },
-  {
     "id": 45637870,
     "title": "Mặt tiền Mai Hắc Đế - sát cầu Rồng - 100m2 ngang 5m kinh doanh đỉnh",
     "price": 18000000000,
@@ -1545,6 +1530,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-pho-mai-hac-de-phuong-an-hai-bac-49/tien-e-sat-cau-rong-100m2-ngang-5m-kinh-doanh-inh-pr45637870",
+    "date": "30/4/2026",
+    "postedAt": 1777507200000
+  },
+  {
+    "id": 45458870,
+    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
+    "price": 49000000000,
+    "priceString": "49 tỷ",
+    "pricePerSqm": 211.2,
+    "size": 232,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
     "date": "30/4/2026",
     "postedAt": 1777507200000
   },
@@ -1579,6 +1580,22 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-vo-chi-cong-phuong-hoa-quy-khu-do-thi-hoa-quy/co-hoi-cuoi-cung-at-nen-vi-tri-ep-gia-goc-cdt-7-ty-pr45616150",
     "date": "30/4/2026",
     "postedAt": 1777507200000
+  },
+  {
+    "id": 45610589,
+    "title": "Độc quyền quỹ căn Vinhomes Hải Vân Bay Đà Nẵng chỉ 20% sở hữu BĐS mặt biển đẳng cấp của Vinhomes",
+    "price": 5900000000,
+    "priceString": "5,9 tỷ",
+    "pricePerSqm": 84.3,
+    "size": 70,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/23/20260423091302-6205_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/oc-quyen-quy-can-a-nang-chi-20-so-huu-b-s-mat-bien-ang-cap-cua-vinhomes-pr45610589",
+    "date": "28/4/2026",
+    "postedAt": 1777334400000
   },
   {
     "id": 45640840,
@@ -1844,21 +1861,5 @@
     "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/a-nang-vi-tri-vang-ven-bien-gia-tu-5-x-ty-chiet-khau-hap-dan-pr45629628",
     "date": "26/4/2026",
     "postedAt": 1777161600000
-  },
-  {
-    "id": 43106034,
-    "title": "Tòa căn hộ 4T 21 Phan Thành Tài view sông Hàn, gồm 7 căn hộ và 1 MB cho thuê, dòng tiền net 65tr/th",
-    "price": 18700000000,
-    "priceString": "18,7 tỷ",
-    "pricePerSqm": 239.7,
-    "size": 78,
-    "district": "Q. Hải Châu",
-    "ward": "P. Hòa Cường mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/25/20260425200008-7a82_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phan-thanh-tai-phuong-binh-thuan-46/ban-4-tang-view-song-han-sieu-vip-cach-di-bo-bach-dang-50m-gia-chi-14-5-ty-pr43106034",
-    "date": "25/4/2026",
-    "postedAt": 1777075200000
   }
 ]
