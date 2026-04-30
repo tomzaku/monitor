@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/aNfLixiS68z1qu3mbkiwr6zUJ6YX-59bIO8_kRBa4kk/preset:listing/plain/eb5bc11a9290ecea57fe41bc9f8de2f0-2980321803180737301.jpg",
     "url": "https://www.nhatot.com/131882056.htm",
-    "date": "12 giờ trước",
+    "date": "13 giờ trước",
     "postedAt": 1777538139000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -85,7 +85,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "3 ngày trước",
+    "date": "4 ngày trước",
     "postedAt": 1777280675000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -195,7 +195,7 @@
     "rooms": 3,
     "image": "https://cdn.chotot.com/Vk_MRiavrv_VRijQ9tpcuyydAj4erLAlpRPGfE_n2FE/preset:listing/plain/30bfcb863327cee140f72e06db9c75a8-2982186106981323124.jpg",
     "url": "https://www.nhatot.com/131677195.htm",
-    "date": "16 giờ trước",
+    "date": "18 giờ trước",
     "postedAt": 1777522368000,
     "lat": 16.066612,
     "lng": 108.19994
@@ -287,7 +287,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/jl7qd-cyjcl6hJaQnh_8b97N_wJoo82ENE4bVUKP1qI/preset:listing/plain/9737d15797de0ae5792f24e9fdd1f446-2978828517113238796.jpg",
     "url": "https://www.nhatot.com/131668268.htm",
-    "date": "15 giờ trước",
+    "date": "16 giờ trước",
     "postedAt": 1777528712000,
     "lat": 16.092907,
     "lng": 108.24848
@@ -437,6 +437,22 @@
     "postedAt": 1777507200000
   },
   {
+    "id": 43658901,
+    "title": "Bán 2 lô liền kiệt 5m đường Hồ Xuân Hương, DT 200m2 ngang 8.4m đối diện công viên gần Furama resort",
+    "price": 25000000000,
+    "priceString": "25 tỷ",
+    "pricePerSqm": 125,
+    "size": 200,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-xuan-huong-phuong-khue-my-48/ban-lo-kiet-6m-dt-300m2-gan-furama-resort-pr43658901",
+    "date": "1/5/2026",
+    "postedAt": 1777593600000
+  },
+  {
     "id": 45646093,
     "title": "Bán đất đường Hoài Thanh DT 215m2 ngang 10,3m gần Dự án tổ hợp Khán đài pháo hoa cách sông Hàn 300m",
     "price": 23650000000,
@@ -485,22 +501,6 @@
     "postedAt": 1777507200000
   },
   {
-    "id": 43658901,
-    "title": "Bán 2 lô liền kiệt 5m đường Hồ Xuân Hương, DT 200m2 ngang 8.4m đối diện công viên gần Furama resort",
-    "price": 25000000000,
-    "priceString": "25 tỷ",
-    "pricePerSqm": 125,
-    "size": 200,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-xuan-huong-phuong-khue-my-48/ban-lo-kiet-6m-dt-300m2-gan-furama-resort-pr43658901",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
-  },
-  {
     "id": 42738250,
     "title": "Chính chủ bán tòa CHDV cách biển 300m, 22 phòng luôn full, 153.6m2 x 7 tầng, 3 mặt thoáng",
     "price": 21800000000,
@@ -533,6 +533,22 @@
     "postedAt": 1777420800000
   },
   {
+    "id": 45458870,
+    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
+    "price": 49000000000,
+    "priceString": "49 tỷ",
+    "pricePerSqm": 211.2,
+    "size": 232,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
+    "date": "1/5/2026",
+    "postedAt": 1777593600000
+  },
+  {
     "id": 45637870,
     "title": "Mặt tiền Mai Hắc Đế - sát cầu Rồng - 100m2 ngang 5m kinh doanh đỉnh",
     "price": 18000000000,
@@ -547,22 +563,6 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-pho-mai-hac-de-phuong-an-hai-bac-49/tien-e-sat-cau-rong-100m2-ngang-5m-kinh-doanh-inh-pr45637870",
     "date": "1/5/2026",
     "postedAt": 1777593600000
-  },
-  {
-    "id": 45458870,
-    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
-    "price": 49000000000,
-    "priceString": "49 tỷ",
-    "pricePerSqm": 211.2,
-    "size": 232,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
   },
   {
     "id": 45626193,
@@ -934,6 +934,22 @@
     "postedAt": 1777420800000
   },
   {
+    "id": 43658901,
+    "title": "Bán 2 lô liền kiệt 5m đường Hồ Xuân Hương, DT 200m2 ngang 8.4m đối diện công viên gần Furama resort",
+    "price": 25000000000,
+    "priceString": "25 tỷ",
+    "pricePerSqm": 125,
+    "size": 200,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/07/30/20250730201522-0fb0_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-xuan-huong-phuong-khue-my-48/ban-lo-kiet-6m-dt-300m2-gan-furama-resort-pr43658901",
+    "date": "1/5/2026",
+    "postedAt": 1777593600000
+  },
+  {
     "id": 45646093,
     "title": "Bán đất đường Hoài Thanh DT 215m2 ngang 10,3m gần Dự án tổ hợp Khán đài pháo hoa cách sông Hàn 300m",
     "price": 23650000000,
@@ -944,7 +960,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/29/20260429132324-192d_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-at-uong-dt-215m2-ngang-10-3m-gan-du-to-hop-khan-ai-phao-hoa-cach-song-han-300m-pr45646093",
     "date": "1/5/2026",
     "postedAt": 1777593600000
@@ -960,7 +976,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/08/20260408085453-8638_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-da-man-dong-3-phuong-khue-my-48/ban-lo-goc-uong-a-ong-3-khu-tap-the-hai-quan-oi-dien-benh-vien-san-nhi-pr45502108",
     "date": "30/4/2026",
     "postedAt": 1777507200000
@@ -976,24 +992,8 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/06/26/20250626152246-34c8_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-khue-my-48/ban-kdc-nha-may-cao-su-gan-furama-resort-gan-bien-khe-pr43367366",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
-  },
-  {
-    "id": 43658901,
-    "title": "Bán 2 lô liền kiệt 5m đường Hồ Xuân Hương, DT 200m2 ngang 8.4m đối diện công viên gần Furama resort",
-    "price": 25000000000,
-    "priceString": "25 tỷ",
-    "pricePerSqm": 125,
-    "size": 200,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-xuan-huong-phuong-khue-my-48/ban-lo-kiet-6m-dt-300m2-gan-furama-resort-pr43658901",
     "date": "30/4/2026",
     "postedAt": 1777507200000
   },
@@ -1008,7 +1008,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "30/4/2026",
     "postedAt": 1777507200000
@@ -1030,6 +1030,22 @@
     "postedAt": 1777420800000
   },
   {
+    "id": 45458870,
+    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
+    "price": 49000000000,
+    "priceString": "49 tỷ",
+    "pricePerSqm": 211.2,
+    "size": 232,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
+    "date": "1/5/2026",
+    "postedAt": 1777593600000
+  },
+  {
     "id": 45637870,
     "title": "Mặt tiền Mai Hắc Đế - sát cầu Rồng - 100m2 ngang 5m kinh doanh đỉnh",
     "price": 18000000000,
@@ -1044,22 +1060,6 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-pho-mai-hac-de-phuong-an-hai-bac-49/tien-e-sat-cau-rong-100m2-ngang-5m-kinh-doanh-inh-pr45637870",
     "date": "1/5/2026",
     "postedAt": 1777593600000
-  },
-  {
-    "id": 45458870,
-    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
-    "price": 49000000000,
-    "priceString": "49 tỷ",
-    "pricePerSqm": 211.2,
-    "size": 232,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
   },
   {
     "id": 45626193,
@@ -1423,6 +1423,22 @@
     "postedAt": 1777420800000
   },
   {
+    "id": 43658901,
+    "title": "Bán 2 lô liền kiệt 5m đường Hồ Xuân Hương, DT 200m2 ngang 8.4m đối diện công viên gần Furama resort",
+    "price": 25000000000,
+    "priceString": "25 tỷ",
+    "pricePerSqm": 125,
+    "size": 200,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/07/30/20250730201522-0fb0_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-xuan-huong-phuong-khue-my-48/ban-lo-kiet-6m-dt-300m2-gan-furama-resort-pr43658901",
+    "date": "1/5/2026",
+    "postedAt": 1777593600000
+  },
+  {
     "id": 45646093,
     "title": "Bán đất đường Hoài Thanh DT 215m2 ngang 10,3m gần Dự án tổ hợp Khán đài pháo hoa cách sông Hàn 300m",
     "price": 23650000000,
@@ -1471,22 +1487,6 @@
     "postedAt": 1777507200000
   },
   {
-    "id": 43658901,
-    "title": "Bán 2 lô liền kiệt 5m đường Hồ Xuân Hương, DT 200m2 ngang 8.4m đối diện công viên gần Furama resort",
-    "price": 25000000000,
-    "priceString": "25 tỷ",
-    "pricePerSqm": 125,
-    "size": 200,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/07/30/20250730201522-0fb0_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-ho-xuan-huong-phuong-khue-my-48/ban-lo-kiet-6m-dt-300m2-gan-furama-resort-pr43658901",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
-  },
-  {
     "id": 42738250,
     "title": "Chính chủ bán tòa CHDV cách biển 300m, 22 phòng luôn full, 153.6m2 x 7 tầng, 3 mặt thoáng",
     "price": 21800000000,
@@ -1519,6 +1519,22 @@
     "postedAt": 1777420800000
   },
   {
+    "id": 45458870,
+    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
+    "price": 49000000000,
+    "priceString": "49 tỷ",
+    "pricePerSqm": 211.2,
+    "size": 232,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
+    "date": "1/5/2026",
+    "postedAt": 1777593600000
+  },
+  {
     "id": 45637870,
     "title": "Mặt tiền Mai Hắc Đế - sát cầu Rồng - 100m2 ngang 5m kinh doanh đỉnh",
     "price": 18000000000,
@@ -1533,22 +1549,6 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-pho-mai-hac-de-phuong-an-hai-bac-49/tien-e-sat-cau-rong-100m2-ngang-5m-kinh-doanh-inh-pr45637870",
     "date": "1/5/2026",
     "postedAt": 1777593600000
-  },
-  {
-    "id": 45458870,
-    "title": "Chính chủ gửi bán đất DT 232m đường Lâm Hoành tuyến sau đường Võ Nguyên Giáp Đà Nẵng cách biển 150m",
-    "price": 49000000000,
-    "priceString": "49 tỷ",
-    "pricePerSqm": 211.2,
-    "size": 232,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
   },
   {
     "id": 45626193,
