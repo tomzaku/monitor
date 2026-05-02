@@ -49,7 +49,7 @@
     "rooms": 11,
     "image": "https://cdn.chotot.com/XOH2j9v4vsLMzqu8sdiSYp_R8C9xfYYEqfY7-JvbKrk/preset:listing/plain/8a1aa254a2932d37b8ffcc1e064212f1-2982311913436165760.jpg",
     "url": "https://www.nhatot.com/132126594.htm",
-    "date": "10 giờ trước",
+    "date": "11 giờ trước",
     "postedAt": 1777707180000,
     "lat": 16.014433,
     "lng": 108.23815
@@ -73,24 +73,6 @@
     "lng": 108.250885
   },
   {
-    "id": 171329647,
-    "title": "RẺ NHẤT ĐẦM SEN NAM HOÀ XUÂN CHỈ 4,8T",
-    "price": 4800000000,
-    "priceString": "4,8 tỷ",
-    "pricePerSqm": 48,
-    "size": 100,
-    "district": "Quận Cẩm Lệ",
-    "ward": "Phường Hòa Xuân",
-    "street": "Hòa Xuân",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
-    "url": "https://www.nhatot.com/128303012.htm",
-    "date": "5 ngày trước",
-    "postedAt": 1777280675000,
-    "lat": 16.01607,
-    "lng": 108.22902
-  },
-  {
     "id": 175258458,
     "title": "Bán Đất Nam Hoà Xuân , Hoà Quý , Đà Nẵng",
     "price": 4800000000,
@@ -107,6 +89,24 @@
     "postedAt": 1777251092000,
     "lat": 15.982958,
     "lng": 108.23342
+  },
+  {
+    "id": 171329647,
+    "title": "RẺ NHẤT ĐẦM SEN NAM HOÀ XUÂN CHỈ 4,8T",
+    "price": 4800000000,
+    "priceString": "4,8 tỷ",
+    "pricePerSqm": 48,
+    "size": 100,
+    "district": "Quận Cẩm Lệ",
+    "ward": "Phường Hòa Xuân",
+    "street": "Hòa Xuân",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
+    "url": "https://www.nhatot.com/128303012.htm",
+    "date": "5 ngày trước",
+    "postedAt": 1777280675000,
+    "lat": 16.01607,
+    "lng": 108.22902
   },
   {
     "id": 174973158,
@@ -249,7 +249,7 @@
     "rooms": 4,
     "image": "https://cdn.chotot.com/i0EfA2f7kVfMMdJehMg7J0SswDVpgfABw_ZkuBKrLT4/preset:listing/plain/1527ac1f7a3f7b1ae382c1c87432df8a-2978190673186609800.jpg",
     "url": "https://www.nhatot.com/131587845.htm",
-    "date": "3 giờ trước",
+    "date": "4 giờ trước",
     "postedAt": 1777732098000,
     "lat": 16.063051,
     "lng": 108.16584
@@ -268,7 +268,7 @@
     "rooms": 11,
     "image": "https://cdn.chotot.com/19YWAcpD1qOwge_WqgwvQpMuj8_no80zI87EXRK1HN0/preset:listing/plain/43f88a8206fe8eee8e203d39ac298588-2974918639895643979.jpg",
     "url": "https://www.nhatot.com/131118772.htm",
-    "date": "17 giờ trước",
+    "date": "18 giờ trước",
     "postedAt": 1777681690000,
     "lat": 16.08689,
     "lng": 108.14428
@@ -288,7 +288,7 @@
     "rooms": 9,
     "image": "https://cdn.chotot.com/N1F3psawyG2fc-Knw6_7aDY5HSodRcvJcgMyE2KBMZo/preset:listing/plain/eec54d8e8106d4a03ac5623aaaac8e05-2982062847932292331.jpg",
     "url": "https://www.nhatot.com/132107182.htm",
-    "date": "2 ngày trước",
+    "date": "3 ngày trước",
     "postedAt": 1777529404000,
     "lat": 16.01607,
     "lng": 108.22902
