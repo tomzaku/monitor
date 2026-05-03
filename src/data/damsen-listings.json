@@ -49,7 +49,7 @@
     "rooms": 11,
     "image": "https://cdn.chotot.com/XOH2j9v4vsLMzqu8sdiSYp_R8C9xfYYEqfY7-JvbKrk/preset:listing/plain/8a1aa254a2932d37b8ffcc1e064212f1-2982311913436165760.jpg",
     "url": "https://www.nhatot.com/132126594.htm",
-    "date": "11 giờ trước",
+    "date": "13 giờ trước",
     "postedAt": 1777791664000,
     "lat": 16.014433,
     "lng": 108.23815
@@ -234,6 +234,45 @@
     "postedAt": 1774494190000,
     "lat": 15.99914,
     "lng": 108.250885
+  },
+  {
+    "id": 175149785,
+    "title": "BÁN DÃY TRỌ 4 PHÒNG - 2 MẶT KIỆT Ô TÔ TÔ HIỆU - HOÀ MINH, DÒNG THU MỖI",
+    "price": 3850000000,
+    "priceString": "3,85 tỷ",
+    "pricePerSqm": 47,
+    "size": 82,
+    "district": "Quận Liên Chiểu",
+    "ward": "Phường Hòa Minh",
+    "street": "Đường Tô Hiệu",
+    "category": "Nhà ở",
+    "rooms": 4,
+    "image": "https://cdn.chotot.com/i0EfA2f7kVfMMdJehMg7J0SswDVpgfABw_ZkuBKrLT4/preset:listing/plain/1527ac1f7a3f7b1ae382c1c87432df8a-2978190673186609800.jpg",
+    "url": "https://www.nhatot.com/131587845.htm",
+    "date": "hôm qua",
+    "postedAt": 1777732098000,
+    "lat": 16.063051,
+    "lng": 108.16584
+  },
+  {
+    "id": 175775833,
+    "title": "Bán Dãy Trọ 4 Phòng 2 Mặt Kiệt 256 Âu Cơ",
+    "price": 3050000000,
+    "priceString": "3,05 tỷ",
+    "pricePerSqm": 40.7,
+    "size": 75,
+    "district": "Quận Liên Chiểu",
+    "ward": "Phường Hòa Khánh Bắc",
+    "street": "Đường Kiệt 256 Âu Cơ",
+    "category": "Nhà ở",
+    "floors": 1,
+    "rooms": 4,
+    "image": "https://cdn.chotot.com/aiqD3AjXFfuaeq5hiApjp9_yBibk9aeq89qawrsWJ7M/preset:listing/plain/f84d54f73287be1086d1bd2dde3464c6-2982249451559335552.jpg",
+    "url": "https://www.nhatot.com/132124990.htm",
+    "date": "3 ngày trước",
+    "postedAt": 1777559240000,
+    "lat": 16.071638,
+    "lng": 108.1433
   },
   {
     "id": 45580969,
@@ -791,7 +830,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/06/26/20250626152246-34c8_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-le-van-hien-phuong-khue-my-48/ban-kdc-nha-may-cao-su-gan-furama-resort-gan-bien-khe-pr43367366",
     "date": "1/5/2026",
     "postedAt": 1777593600000
@@ -807,7 +846,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/08/20260408085453-8638_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-da-man-dong-3-phuong-khue-my-48/ban-lo-goc-uong-a-ong-3-khu-tap-the-hai-quan-oi-dien-benh-vien-san-nhi-pr45502108",
     "date": "1/5/2026",
     "postedAt": 1777593600000
@@ -823,7 +862,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/29/20260429132324-192d_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-at-uong-dt-215m2-ngang-10-3m-gan-du-to-hop-khan-ai-phao-hoa-cach-song-han-300m-pr45646093",
     "date": "1/5/2026",
     "postedAt": 1777593600000
@@ -839,7 +878,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/07/30/20250730201522-0fb0_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-dat-duong-ho-xuan-huong-phuong-khue-my-48/ban-lo-kiet-6m-dt-300m2-gan-furama-resort-pr43658901",
     "date": "1/5/2026",
     "postedAt": 1777593600000
@@ -855,7 +894,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "30/4/2026",
     "postedAt": 1777507200000
@@ -1363,7 +1402,7 @@
     "ward": "P. Hòa Xuân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "",
+    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/16/20260416195149-bda5_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phan-khoi-phuong-hoa-xuan-45/ban-3-tang-luxury-moi-xay-uong-7-5m-khu-dan-tri-cao-cu-tp-a-nang-pr45205220",
     "date": "3/5/2026",
     "postedAt": 1777766400000
