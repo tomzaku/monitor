@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/aNfLixiS68z1qu3mbkiwr6zUJ6YX-59bIO8_kRBa4kk/preset:listing/plain/eb5bc11a9290ecea57fe41bc9f8de2f0-2980321803180737301.jpg",
     "url": "https://www.nhatot.com/131882056.htm",
-    "date": "3 ngày trước",
+    "date": "4 ngày trước",
     "postedAt": 1777624537000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/xPsHuz9l8iuwPeQ2P9fuGgXj8ULHf9gxFj98UCUUdOU/preset:listing/plain/c0f18777240b7f625099aad7fcd74211-2978011376645395605.jpg",
     "url": "https://www.nhatot.com/131560978.htm",
-    "date": "3 ngày trước",
+    "date": "4 ngày trước",
     "postedAt": 1777625301000,
     "lat": 15.99914,
     "lng": 108.250885
@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/Wf3ye1he62X5_tVRzf4qRbARr-gGBACe-bZ8mswwjTA/preset:listing/plain/3d916b7d43db184a470e0ae1e593cba2-2977682693741525874.jpg",
     "url": "https://www.nhatot.com/131510038.htm",
-    "date": "18 giờ trước",
+    "date": "20 giờ trước",
     "postedAt": 1777858043000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -91,24 +91,6 @@
     "lng": 108.250885
   },
   {
-    "id": 175258458,
-    "title": "Bán Đất Nam Hoà Xuân , Hoà Quý , Đà Nẵng",
-    "price": 4800000000,
-    "priceString": "4,8 tỷ",
-    "pricePerSqm": 45.7,
-    "size": 105,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen 24",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/jkxLDIhrTEU62P0nNrhPSUDoeRA_nx2dpx4OGzGGQ7A/preset:listing/plain/e410c6528ac0f13f1d12970d4168ad88-2978880634682103511.jpg",
-    "url": "https://www.nhatot.com/131680923.htm",
-    "date": "1 tuần trước",
-    "postedAt": 1777251092000,
-    "lat": 15.982958,
-    "lng": 108.23342
-  },
-  {
     "id": 171329647,
     "title": "RẺ NHẤT ĐẦM SEN NAM HOÀ XUÂN CHỈ 4,8T",
     "price": 4800000000,
@@ -125,6 +107,24 @@
     "postedAt": 1777280675000,
     "lat": 16.01607,
     "lng": 108.22902
+  },
+  {
+    "id": 175258458,
+    "title": "Bán Đất Nam Hoà Xuân , Hoà Quý , Đà Nẵng",
+    "price": 4800000000,
+    "priceString": "4,8 tỷ",
+    "pricePerSqm": 45.7,
+    "size": 105,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen 24",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/jkxLDIhrTEU62P0nNrhPSUDoeRA_nx2dpx4OGzGGQ7A/preset:listing/plain/e410c6528ac0f13f1d12970d4168ad88-2978880634682103511.jpg",
+    "url": "https://www.nhatot.com/131680923.htm",
+    "date": "1 tuần trước",
+    "postedAt": 1777251092000,
+    "lat": 15.982958,
+    "lng": 108.23342
   },
   {
     "id": 174973158,
@@ -418,8 +418,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-pho-tran-quoc-hoan-phuong-hoa-hai-48/ban-bien-son-thuy-duong-15m-le-5m-duong-di-thang-ra-bai-tam-son-thuy-ngu-hanh-pr44989067",
-    "date": "4/5/2026",
-    "postedAt": 1777852800000
+    "date": "5/5/2026",
+    "postedAt": 1777939200000
   },
   {
     "id": 41919856,
@@ -434,8 +434,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-huu-tien-phuong-hoa-tho-dong-45/duy-nhat-goc-phong-bac-view-cong-vien-gia-tot-nhat-thi-truong-full-noi-that-pr41919856",
-    "date": "4/5/2026",
-    "postedAt": 1777852800000
+    "date": "5/5/2026",
+    "postedAt": 1777939200000
   },
   {
     "id": 45205220,
@@ -911,8 +911,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-pho-tran-quoc-hoan-phuong-hoa-hai-48/ban-bien-son-thuy-duong-15m-le-5m-duong-di-thang-ra-bai-tam-son-thuy-ngu-hanh-pr44989067",
-    "date": "4/5/2026",
-    "postedAt": 1777852800000
+    "date": "5/5/2026",
+    "postedAt": 1777939200000
   },
   {
     "id": 41919856,
@@ -927,8 +927,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-huu-tien-phuong-hoa-tho-dong-45/duy-nhat-goc-phong-bac-view-cong-vien-gia-tot-nhat-thi-truong-full-noi-that-pr41919856",
-    "date": "4/5/2026",
-    "postedAt": 1777852800000
+    "date": "5/5/2026",
+    "postedAt": 1777939200000
   },
   {
     "id": 45205220,
@@ -1407,8 +1407,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-pho-tran-quoc-hoan-phuong-hoa-hai-48/ban-bien-son-thuy-duong-15m-le-5m-duong-di-thang-ra-bai-tam-son-thuy-ngu-hanh-pr44989067",
-    "date": "4/5/2026",
-    "postedAt": 1777852800000
+    "date": "5/5/2026",
+    "postedAt": 1777939200000
   },
   {
     "id": 41919856,
@@ -1423,8 +1423,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-huu-tien-phuong-hoa-tho-dong-45/duy-nhat-goc-phong-bac-view-cong-vien-gia-tot-nhat-thi-truong-full-noi-that-pr41919856",
-    "date": "4/5/2026",
-    "postedAt": 1777852800000
+    "date": "5/5/2026",
+    "postedAt": 1777939200000
   },
   {
     "id": 45205220,
