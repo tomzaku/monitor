@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/Wf3ye1he62X5_tVRzf4qRbARr-gGBACe-bZ8mswwjTA/preset:listing/plain/3d916b7d43db184a470e0ae1e593cba2-2977682693741525874.jpg",
     "url": "https://www.nhatot.com/131510038.htm",
-    "date": "10 giờ trước",
+    "date": "12 giờ trước",
     "postedAt": 1777858043000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -270,23 +270,6 @@
     "postedAt": 1777852800000
   },
   {
-    "id": 45664131,
-    "title": "SUN GROUP CHÍNH THỨC GIỚI THIỆU SYMPHONY 5 TÒA THÁP CUỐI CÙNG BÊN SÔNG HÀN, VIEW PHÁO HOA DIFF",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 30,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/05/04/20260504145415-c916_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-nai-hien-dong-sun-symphony-residence/group-chinh-thuc-gioi-thieu-5-toa-thap-cuoi-cung-ben-song-han-view-phao-hoa-diff-pr45664131",
-    "date": "4/5/2026",
-    "postedAt": 1777852800000
-  },
-  {
     "id": 45644885,
     "title": "Bán đất 3 mặt tiền tại Xô Viết Nghệ Tĩnh, Đà Nẵng, giá tốt 80 tỷ",
     "price": 80000000000,
@@ -445,6 +428,23 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-lam-hoanh-phuong-phuoc-my-49/chinh-chu-ban-at-dt-232m2-uong-tuyen-sau-uong-vo-nguyen-giap-a-nang-gia-re-nhat-pr45458870",
     "date": "1/5/2026",
     "postedAt": 1777593600000
+  },
+  {
+    "id": 45664131,
+    "title": "SUN GROUP CHÍNH THỨC GIỚI THIỆU SYMPHONY 5 TÒA THÁP CUỐI CÙNG BÊN SÔNG HÀN, VIEW PHÁO HOA DIFF",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 30,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/05/04/20260504145415-c916_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-nai-hien-dong-sun-symphony-residence/group-chinh-thuc-gioi-thieu-5-toa-thap-cuoi-cung-ben-song-han-view-phao-hoa-diff-pr45664131",
+    "date": "4/5/2026",
+    "postedAt": 1777852800000
   },
   {
     "id": 45506747,
@@ -1349,7 +1349,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "30/4/2026",
     "postedAt": 1777507200000
