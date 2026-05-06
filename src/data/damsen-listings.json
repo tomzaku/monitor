@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/DxAYrwWWy3Aq7lGLpXjmAoauT5DAKHtNGiqElBs6xHs/preset:listing/plain/2a76826bec66f15d42cadc66df21eac8-2982897400257919837.jpg",
     "url": "https://www.nhatot.com/132190038.htm",
-    "date": "13 giờ trước",
+    "date": "14 giờ trước",
     "postedAt": 1778058360000,
     "lat": 15.99389,
     "lng": 108.23178
@@ -194,7 +194,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/CNCVUvo6khkDLkB28PREXkjCTOfAXHuuuT0SrmL5DtY/preset:listing/plain/37e5d73039d1b20d898512cc73fee601-2979621552886994412.jpg",
     "url": "https://www.nhatot.com/131784166.htm",
-    "date": "3 tuần trước",
+    "date": "4 tuần trước",
     "postedAt": 1775992872000,
     "lat": 15.99107,
     "lng": 108.23758
@@ -1194,23 +1194,6 @@
     "postedAt": 1777507200000
   },
   {
-    "id": 45649096,
-    "title": "RA MẮT SUN SYMPHONY 5 BIỂU TƯỢNG MỚI BÊN SÔNG HÀN GIÁ GỐC TỪ CĐT",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 40,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/04/30/20260430003506-a424_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-nai-hien-dong-sun-symphony-residence/ra-mat-5-bieu-tuong-moi-ben-song-han-gia-goc-tu-c-t-pr45649096",
-    "date": "30/4/2026",
-    "postedAt": 1777507200000
-  },
-  {
     "id": 45641737,
     "title": "Độc quyền quỹ căn Vinhomes Hải Vân Bay Đà Nẵng chỉ 20% sở hữu BĐS mặt biển đẳng cấp của Vinhomes",
     "price": 5900000000,
@@ -1290,6 +1273,23 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phan-thanh-tai-phuong-binh-thuan-46/ban-4-tang-view-song-han-sieu-vip-cach-di-bo-bach-dang-50m-gia-chi-14-5-ty-pr43106034",
     "date": "25/4/2026",
     "postedAt": 1777075200000
+  },
+  {
+    "id": 43483229,
+    "title": "Sống đẳng cấp và cơ hội đầu tư tại The Legend Đà Nẵng tổ hợp The Legend City Da Nang cầu Rồng",
+    "price": 0,
+    "priceString": "Giá thỏa thuận",
+    "pricePerSqm": 0,
+    "size": 115,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 3,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/11/21/20251121115254-0866_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-van-kiet-phuong-an-hai-nam-the-legend-city/song-dang-cap-va-co-hoi-dau-tu-tai-da-nang-to-hop-da-nang-pr43483229",
+    "date": "22/4/2026",
+    "postedAt": 1776816000000
   },
   {
     "id": 45658235,
@@ -1382,7 +1382,7 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "30/4/2026",
     "postedAt": 1777507200000
@@ -1450,23 +1450,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-pho-tran-quoc-hoan-phuong-hoa-hai-48/ban-bien-son-thuy-duong-15m-le-5m-duong-di-thang-ra-bai-tam-son-thuy-ngu-hanh-pr44989067",
     "date": "6/5/2026",
     "postedAt": 1778025600000
-  },
-  {
-    "id": 43483229,
-    "title": "Sống đẳng cấp và cơ hội đầu tư tại The Legend Đà Nẵng tổ hợp The Legend City Da Nang cầu Rồng",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 115,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 3,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2025/11/21/20251121115254-0866_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-vo-van-kiet-phuong-an-hai-nam-the-legend-city/song-dang-cap-va-co-hoi-dau-tu-tai-da-nang-to-hop-da-nang-pr43483229",
-    "date": "22/4/2026",
-    "postedAt": 1776816000000
   },
   {
     "id": 45624934,
@@ -1698,6 +1681,23 @@
     "rooms": 2,
     "image": "https://file4.batdongsan.com.vn/crop/348x174/2025/10/30/20251030182705-007f_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-nam-sun-ponte-residence-da-nang/cau-rong-view-bien-my-khue-so-huu-chi-2-9-ty-nhan-nha-thang-12-cho-thue-ngay-pr44419151",
+    "date": "5/5/2026",
+    "postedAt": 1777939200000
+  },
+  {
+    "id": 45538922,
+    "title": "Quỹ ngoại giao Masteri-căn 3PN trực diện sông-tầng cao-giá mua trực tiếp từ cđt- hỗ trợ vay đến 70%",
+    "price": 6000000000,
+    "priceString": "6 tỷ",
+    "pricePerSqm": 75.8,
+    "size": 79.2,
+    "district": "Q. Hải Châu",
+    "ward": "P. Hòa Cường mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 3,
+    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/04/13/20260413112842-1877_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-quy-my-phuong-hoa-cuong-nam-masteri-rivera-danang/ngoai-giao-3pn-truc-dien-song-tang-cao-gia-mua-truc-tiep-tu-cdt-tro-vay-en-70-pr45538922",
     "date": "5/5/2026",
     "postedAt": 1777939200000
   }
