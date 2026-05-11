@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ZPJUq_A6eguaklF7fGdYFAmlbR1JJJVOkmvMxNXSzS4/preset:listing/plain/00e16f88be8cc6350ffd8294e79f60fc-2977689534754715514.jpg",
     "url": "https://www.nhatot.com/131512001.htm",
-    "date": "10 giờ trước",
+    "date": "12 giờ trước",
     "postedAt": 1778485125000,
     "lat": 15.939363,
     "lng": 108.16065
@@ -317,8 +317,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-che-lan-vien-phuong-my-an-48/chu-can-ban-gap-2-tang-sat-bien-khe-dong-tien-san-pr45658235",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
   },
   {
     "id": 45646093,
@@ -385,36 +385,20 @@
     "postedAt": 1777507200000
   },
   {
-    "id": 45705655,
-    "title": "Hạ giá bán nhanh lô đất đường Chế Viết Tấn, giá rẻ nhất thị trường",
-    "price": 6700000000,
-    "priceString": "6,7 tỷ",
-    "pricePerSqm": 67,
-    "size": 100,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Hòa Xuân mới",
+    "id": 45696494,
+    "title": "Bán đất mặt tiền Trần Sâm sát khách sạn Alansea Đà Nẵng",
+    "price": 14200000000,
+    "priceString": "14,2 tỷ",
+    "pricePerSqm": 78.9,
+    "size": 180,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
     "street": "",
     "category": "Bất động sản",
     "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-che-viet-tan-phuong-hoa-xuan-45/ha-gia-ban-nhanh-lo-at-uong-gia-re-nhat-thi-truong-pr45705655",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
-  },
-  {
-    "id": 44366669,
-    "title": "Bán đất mặt tiền đường Nam Cao nối dài, diện tích 100 m2, giá 4,6 tỷ (có thương lượng)",
-    "price": 4600000000,
-    "priceString": "4,6 tỷ",
-    "pricePerSqm": 46,
-    "size": 100,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hòa Khánh mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-pho-nam-cao-phuong-hoa-khanh-nam-47/ban-tai-16-5-ty-300m2-so-do-day-du-mat-tien-15m-pr44366669",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
+    "url": "https://batdongsan.com.vn/ban-dat-duong-tran-sam-phuong-nai-hien-dong-49/ban-at-mat-tien-sat-khach-san-alansea-a-nang-pr45696494",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
   },
   {
     "id": 45684391,
@@ -429,24 +413,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-me-linh-phuong-hoa-hiep-nam-the-ori-garden/ban-3pn-toa-moi-ct10-70m2-so-hong-nha-san-chinh-chu-pr45684391",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
-  },
-  {
-    "id": 45696494,
-    "title": "Bán đất mặt tiền Trần Sâm sát khách sạn Alansea Đà Nẵng",
-    "price": 14200000000,
-    "priceString": "14,2 tỷ",
-    "pricePerSqm": 78.9,
-    "size": 180,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-tran-sam-phuong-nai-hien-dong-49/ban-at-mat-tien-sat-khach-san-alansea-a-nang-pr45696494",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
   },
   {
     "id": 44323899,
@@ -461,8 +429,40 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-pho-ton-duc-thang-phuong-hoa-khanh-bac-47/ban-200-m2-ngay-tai-ngo-3-duong-tp-da-nang-pr44323899",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
+  },
+  {
+    "id": 45698262,
+    "title": "Bán lô đường Cồn Dầu 24 giá rẻ khu dân cư đông đúc",
+    "price": 6250000000,
+    "priceString": "6,25 tỷ",
+    "pricePerSqm": 61.3,
+    "size": 102,
+    "district": "Q. Cẩm Lệ",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-con-dau-24-phuong-hoa-xuan-dream-home-kdt-hoa-xuan/ban-lo-uong-24-gia-re-khu-dan-cu-ong-uc-pr45698262",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
+  },
+  {
+    "id": 45707797,
+    "title": "Lô đất đẹp mặt tiền đường Nguyễn Thành Thọ, giá rẻ không thể tin được chỉ 4,34 tỷ",
+    "price": 4340000000,
+    "priceString": "4,34 tỷ",
+    "pricePerSqm": 43.4,
+    "size": 100,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-thanh-tho-phuong-hoa-quy-48/lo-at-ep-mat-tien-uong-gia-re-khong-the-tin-uoc-chi-3-44-ty-pr45707797",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
   },
   {
     "id": 45268959,
@@ -806,10 +806,10 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/05/03/20260503130403-ff61_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-che-lan-vien-phuong-my-an-48/chu-can-ban-gap-2-tang-sat-bien-khe-dong-tien-san-pr45658235",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
   },
   {
     "id": 45646093,
@@ -822,7 +822,7 @@
     "ward": "P. Ngũ Hành Sơn mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/04/29/20260429132324-192d_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an/ban-at-uong-dt-215m2-ngang-10-3m-gan-du-to-hop-khan-ai-phao-hoa-cach-song-han-300m-pr45646093",
     "date": "9/5/2026",
     "postedAt": 1778284800000
@@ -838,7 +838,7 @@
     "ward": "P. Hòa Xuân mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/05/06/20260506203043-a677_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-phuong-hoa-xuan-kdt-hoa-xuan-mo-rong/chinh-chu-can-ban-664m2-3-mat-tien-mat-tien-50-met-tai-ao-vip-1-xuan-pr45681211",
     "date": "9/5/2026",
     "postedAt": 1778284800000
@@ -854,7 +854,7 @@
     "ward": "P. Sơn Trà mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/03/28/20260328003856-fd68_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-man-quang-8-phuong-tho-quang-49/chinh-chu-so-o-cat-ket-can-ban-101-3m2-at-tt-son-tra-pr45418333",
     "date": "8/5/2026",
     "postedAt": 1778198400000
@@ -870,58 +870,10 @@
     "ward": "P. Liên Chiểu mới",
     "street": "",
     "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2025/04/16/20250416083827-7f81_wm.jpg",
+    "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
     "date": "30/4/2026",
     "postedAt": 1777507200000
-  },
-  {
-    "id": 45705655,
-    "title": "Hạ giá bán nhanh lô đất đường Chế Viết Tấn, giá rẻ nhất thị trường",
-    "price": 6700000000,
-    "priceString": "6,7 tỷ",
-    "pricePerSqm": 67,
-    "size": 100,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-che-viet-tan-phuong-hoa-xuan-45/ha-gia-ban-nhanh-lo-at-uong-gia-re-nhat-thi-truong-pr45705655",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
-  },
-  {
-    "id": 44366669,
-    "title": "Bán đất mặt tiền đường Nam Cao nối dài, diện tích 100 m2, giá 4,6 tỷ (có thương lượng)",
-    "price": 4600000000,
-    "priceString": "4,6 tỷ",
-    "pricePerSqm": 46,
-    "size": 100,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hòa Khánh mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-pho-nam-cao-phuong-hoa-khanh-nam-47/ban-tai-16-5-ty-300m2-so-do-day-du-mat-tien-15m-pr44366669",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
-  },
-  {
-    "id": 45684391,
-    "title": "Bán căn 3PN chung cư Ori Garden toà mới CT10 - 70m2 - view biển, sổ hồng, nhà sẵn chính chủ",
-    "price": 2850000000,
-    "priceString": "2,85 tỷ",
-    "pricePerSqm": 40.7,
-    "size": 70,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-me-linh-phuong-hoa-hiep-nam-the-ori-garden/ban-3pn-toa-moi-ct10-70m2-so-hong-nha-san-chinh-chu-pr45684391",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
   },
   {
     "id": 45696494,
@@ -936,8 +888,24 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-tran-sam-phuong-nai-hien-dong-49/ban-at-mat-tien-sat-khach-san-alansea-a-nang-pr45696494",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
+  },
+  {
+    "id": 45684391,
+    "title": "Bán căn 3PN chung cư Ori Garden toà mới CT10 - 70m2 - view biển, sổ hồng, nhà sẵn chính chủ",
+    "price": 2850000000,
+    "priceString": "2,85 tỷ",
+    "pricePerSqm": 40.7,
+    "size": 70,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-me-linh-phuong-hoa-hiep-nam-the-ori-garden/ban-3pn-toa-moi-ct10-70m2-so-hong-nha-san-chinh-chu-pr45684391",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
   },
   {
     "id": 44323899,
@@ -952,8 +920,40 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-pho-ton-duc-thang-phuong-hoa-khanh-bac-47/ban-200-m2-ngay-tai-ngo-3-duong-tp-da-nang-pr44323899",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
+  },
+  {
+    "id": 45698262,
+    "title": "Bán lô đường Cồn Dầu 24 giá rẻ khu dân cư đông đúc",
+    "price": 6250000000,
+    "priceString": "6,25 tỷ",
+    "pricePerSqm": 61.3,
+    "size": 102,
+    "district": "Q. Cẩm Lệ",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-con-dau-24-phuong-hoa-xuan-dream-home-kdt-hoa-xuan/ban-lo-uong-24-gia-re-khu-dan-cu-ong-uc-pr45698262",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
+  },
+  {
+    "id": 45707797,
+    "title": "Lô đất đẹp mặt tiền đường Nguyễn Thành Thọ, giá rẻ không thể tin được chỉ 4,34 tỷ",
+    "price": 4340000000,
+    "priceString": "4,34 tỷ",
+    "pricePerSqm": 43.4,
+    "size": 100,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-thanh-tho-phuong-hoa-quy-48/lo-at-ep-mat-tien-uong-gia-re-khong-the-tin-uoc-chi-3-44-ty-pr45707797",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
   },
   {
     "id": 44697854,
@@ -1303,8 +1303,8 @@
     "category": "Bất động sản",
     "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/05/03/20260503130403-ff61_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-che-lan-vien-phuong-my-an-48/chu-can-ban-gap-2-tang-sat-bien-khe-dong-tien-san-pr45658235",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
   },
   {
     "id": 45646093,
@@ -1371,36 +1371,20 @@
     "postedAt": 1777507200000
   },
   {
-    "id": 45705655,
-    "title": "Hạ giá bán nhanh lô đất đường Chế Viết Tấn, giá rẻ nhất thị trường",
-    "price": 6700000000,
-    "priceString": "6,7 tỷ",
-    "pricePerSqm": 67,
-    "size": 100,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/393x222/2026/05/11/20260511091609-1500_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-che-viet-tan-phuong-hoa-xuan-45/ha-gia-ban-nhanh-lo-at-uong-gia-re-nhat-thi-truong-pr45705655",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
-  },
-  {
-    "id": 44366669,
-    "title": "Bán đất mặt tiền đường Nam Cao nối dài, diện tích 100 m2, giá 4,6 tỷ (có thương lượng)",
-    "price": 4600000000,
-    "priceString": "4,6 tỷ",
-    "pricePerSqm": 46,
-    "size": 100,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hòa Khánh mới",
+    "id": 45696494,
+    "title": "Bán đất mặt tiền Trần Sâm sát khách sạn Alansea Đà Nẵng",
+    "price": 14200000000,
+    "priceString": "14,2 tỷ",
+    "pricePerSqm": 78.9,
+    "size": 180,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
     "street": "",
     "category": "Bất động sản",
     "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-pho-nam-cao-phuong-hoa-khanh-nam-47/ban-tai-16-5-ty-300m2-so-do-day-du-mat-tien-15m-pr44366669",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
+    "url": "https://batdongsan.com.vn/ban-dat-duong-tran-sam-phuong-nai-hien-dong-49/ban-at-mat-tien-sat-khach-san-alansea-a-nang-pr45696494",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
   },
   {
     "id": 45684391,
@@ -1415,24 +1399,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-me-linh-phuong-hoa-hiep-nam-the-ori-garden/ban-3pn-toa-moi-ct10-70m2-so-hong-nha-san-chinh-chu-pr45684391",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
-  },
-  {
-    "id": 45696494,
-    "title": "Bán đất mặt tiền Trần Sâm sát khách sạn Alansea Đà Nẵng",
-    "price": 14200000000,
-    "priceString": "14,2 tỷ",
-    "pricePerSqm": 78.9,
-    "size": 180,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-tran-sam-phuong-nai-hien-dong-49/ban-at-mat-tien-sat-khach-san-alansea-a-nang-pr45696494",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
   },
   {
     "id": 44323899,
@@ -1447,8 +1415,40 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-pho-ton-duc-thang-phuong-hoa-khanh-bac-47/ban-200-m2-ngay-tai-ngo-3-duong-tp-da-nang-pr44323899",
-    "date": "11/5/2026",
-    "postedAt": 1778457600000
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
+  },
+  {
+    "id": 45698262,
+    "title": "Bán lô đường Cồn Dầu 24 giá rẻ khu dân cư đông đúc",
+    "price": 6250000000,
+    "priceString": "6,25 tỷ",
+    "pricePerSqm": 61.3,
+    "size": 102,
+    "district": "Q. Cẩm Lệ",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-con-dau-24-phuong-hoa-xuan-dream-home-kdt-hoa-xuan/ban-lo-uong-24-gia-re-khu-dan-cu-ong-uc-pr45698262",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
+  },
+  {
+    "id": 45707797,
+    "title": "Lô đất đẹp mặt tiền đường Nguyễn Thành Thọ, giá rẻ không thể tin được chỉ 4,34 tỷ",
+    "price": 4340000000,
+    "priceString": "4,34 tỷ",
+    "pricePerSqm": 43.4,
+    "size": 100,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-thanh-tho-phuong-hoa-quy-48/lo-at-ep-mat-tien-uong-gia-re-khong-the-tin-uoc-chi-3-44-ty-pr45707797",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
   },
   {
     "id": 45552680,
