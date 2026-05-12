@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ZPJUq_A6eguaklF7fGdYFAmlbR1JJJVOkmvMxNXSzS4/preset:listing/plain/00e16f88be8cc6350ffd8294e79f60fc-2977689534754715514.jpg",
     "url": "https://www.nhatot.com/131512001.htm",
-    "date": "15 giờ trước",
+    "date": "16 giờ trước",
     "postedAt": 1778485125000,
     "lat": 15.939363,
     "lng": 108.16065
@@ -385,6 +385,22 @@
     "postedAt": 1777507200000
   },
   {
+    "id": 45205220,
+    "title": "Bán nhà 3 tầng hiện đại vip Hoà Xuân, dòng tiền 30tr, ngay ngã 4 Hoà Xuân thông Trần Nam Trung",
+    "price": 7490000000,
+    "priceString": "7,49 tỷ",
+    "pricePerSqm": 74.9,
+    "size": 100,
+    "district": "Q. Cẩm Lệ",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phan-khoi-phuong-hoa-xuan-45/ban-3-tang-luxury-moi-xay-uong-7-5m-khu-dan-tri-cao-cu-tp-a-nang-pr45205220",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
+  },
+  {
     "id": 45705655,
     "title": "Hạ giá bán nhanh lô đất đường Chế Viết Tấn, giá rẻ nhất thị trường",
     "price": 6700000000,
@@ -445,22 +461,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-me-linh-phuong-hoa-hiep-nam-the-ori-garden/ban-3pn-toa-moi-ct10-70m2-so-hong-nha-san-chinh-chu-pr45684391",
-    "date": "12/5/2026",
-    "postedAt": 1778544000000
-  },
-  {
-    "id": 44323899,
-    "title": "Bán đất 200 m2, ngay ngõ ba Tôn Đức Thắng - Âu Cơ (920 Tôn Đức Thắng), TP Đà Nẵng",
-    "price": 19000000000,
-    "priceString": "19 tỷ",
-    "pricePerSqm": 95,
-    "size": 200,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Liên Chiểu mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-pho-ton-duc-thang-phuong-hoa-khanh-bac-47/ban-200-m2-ngay-tai-ngo-3-duong-tp-da-nang-pr44323899",
     "date": "12/5/2026",
     "postedAt": 1778544000000
   },
@@ -876,6 +876,22 @@
     "postedAt": 1777507200000
   },
   {
+    "id": 45205220,
+    "title": "Bán nhà 3 tầng hiện đại vip Hoà Xuân, dòng tiền 30tr, ngay ngã 4 Hoà Xuân thông Trần Nam Trung",
+    "price": 7490000000,
+    "priceString": "7,49 tỷ",
+    "pricePerSqm": 74.9,
+    "size": 100,
+    "district": "Q. Cẩm Lệ",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phan-khoi-phuong-hoa-xuan-45/ban-3-tang-luxury-moi-xay-uong-7-5m-khu-dan-tri-cao-cu-tp-a-nang-pr45205220",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
+  },
+  {
     "id": 45705655,
     "title": "Hạ giá bán nhanh lô đất đường Chế Viết Tấn, giá rẻ nhất thị trường",
     "price": 6700000000,
@@ -936,22 +952,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-me-linh-phuong-hoa-hiep-nam-the-ori-garden/ban-3pn-toa-moi-ct10-70m2-so-hong-nha-san-chinh-chu-pr45684391",
-    "date": "12/5/2026",
-    "postedAt": 1778544000000
-  },
-  {
-    "id": 44323899,
-    "title": "Bán đất 200 m2, ngay ngõ ba Tôn Đức Thắng - Âu Cơ (920 Tôn Đức Thắng), TP Đà Nẵng",
-    "price": 19000000000,
-    "priceString": "19 tỷ",
-    "pricePerSqm": 95,
-    "size": 200,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Liên Chiểu mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-pho-ton-duc-thang-phuong-hoa-khanh-bac-47/ban-200-m2-ngay-tai-ngo-3-duong-tp-da-nang-pr44323899",
     "date": "12/5/2026",
     "postedAt": 1778544000000
   },
@@ -1371,6 +1371,22 @@
     "postedAt": 1777507200000
   },
   {
+    "id": 45205220,
+    "title": "Bán nhà 3 tầng hiện đại vip Hoà Xuân, dòng tiền 30tr, ngay ngã 4 Hoà Xuân thông Trần Nam Trung",
+    "price": 7490000000,
+    "priceString": "7,49 tỷ",
+    "pricePerSqm": 74.9,
+    "size": 100,
+    "district": "Q. Cẩm Lệ",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phan-khoi-phuong-hoa-xuan-45/ban-3-tang-luxury-moi-xay-uong-7-5m-khu-dan-tri-cao-cu-tp-a-nang-pr45205220",
+    "date": "12/5/2026",
+    "postedAt": 1778544000000
+  },
+  {
     "id": 45705655,
     "title": "Hạ giá bán nhanh lô đất đường Chế Viết Tấn, giá rẻ nhất thị trường",
     "price": 6700000000,
@@ -1431,22 +1447,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-me-linh-phuong-hoa-hiep-nam-the-ori-garden/ban-3pn-toa-moi-ct10-70m2-so-hong-nha-san-chinh-chu-pr45684391",
-    "date": "12/5/2026",
-    "postedAt": 1778544000000
-  },
-  {
-    "id": 44323899,
-    "title": "Bán đất 200 m2, ngay ngõ ba Tôn Đức Thắng - Âu Cơ (920 Tôn Đức Thắng), TP Đà Nẵng",
-    "price": 19000000000,
-    "priceString": "19 tỷ",
-    "pricePerSqm": 95,
-    "size": 200,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Liên Chiểu mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-pho-ton-duc-thang-phuong-hoa-khanh-bac-47/ban-200-m2-ngay-tai-ngo-3-duong-tp-da-nang-pr44323899",
     "date": "12/5/2026",
     "postedAt": 1778544000000
   },
