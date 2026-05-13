@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/aNfLixiS68z1qu3mbkiwr6zUJ6YX-59bIO8_kRBa4kk/preset:listing/plain/eb5bc11a9290ecea57fe41bc9f8de2f0-2980321803180737301.jpg",
     "url": "https://www.nhatot.com/131882056.htm",
-    "date": "14 giờ trước",
+    "date": "16 giờ trước",
     "postedAt": 1778574230000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ZPJUq_A6eguaklF7fGdYFAmlbR1JJJVOkmvMxNXSzS4/preset:listing/plain/00e16f88be8cc6350ffd8294e79f60fc-2977689534754715514.jpg",
     "url": "https://www.nhatot.com/131512001.htm",
-    "date": "14 giờ trước",
+    "date": "15 giờ trước",
     "postedAt": 1778577064000,
     "lat": 15.939363,
     "lng": 108.16065
@@ -88,24 +88,6 @@
     "postedAt": 1777858043000,
     "lat": 15.982958,
     "lng": 108.23342
-  },
-  {
-    "id": 171329647,
-    "title": "RẺ NHẤT ĐẦM SEN NAM HOÀ XUÂN CHỈ 4,8T",
-    "price": 4800000000,
-    "priceString": "4,8 tỷ",
-    "pricePerSqm": 48,
-    "size": 100,
-    "district": "Quận Cẩm Lệ",
-    "ward": "Phường Hòa Xuân",
-    "street": "Hòa Xuân",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
-    "url": "https://www.nhatot.com/128303012.htm",
-    "date": "2 tuần trước",
-    "postedAt": 1777280675000,
-    "lat": 16.01607,
-    "lng": 108.22902
   },
   {
     "id": 174973158,
@@ -510,6 +492,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 42738250,
+    "title": "Chính chủ bán tòa CHDV cách biển 300m, 22 phòng luôn full, 153.6m2 x 7 tầng, 3 mặt thoáng",
+    "price": 21800000000,
+    "priceString": "21,8 tỷ",
+    "pricePerSqm": 141.9,
+    "size": 153.6,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Liên Chiểu mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
+    "date": "13/5/2026",
+    "postedAt": 1778630400000
+  },
+  {
     "id": 45705655,
     "title": "Hạ giá bán nhanh lô đất đường Chế Viết Tấn, giá rẻ nhất thị trường",
     "price": 6700000000,
@@ -586,22 +584,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phuoc/ban-at-o-tan-hanh-xuan-gia-re-pr45388347",
-    "date": "13/5/2026",
-    "postedAt": 1778630400000
-  },
-  {
-    "id": 45707797,
-    "title": "Lô đất đẹp mặt tiền đường Nguyễn Thành Thọ, giá rẻ không thể tin được chỉ 4,34 tỷ",
-    "price": 4340000000,
-    "priceString": "4,34 tỷ",
-    "pricePerSqm": 43.4,
-    "size": 100,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-thanh-tho-phuong-hoa-quy-48/lo-at-ep-mat-tien-uong-gia-re-khong-the-tin-uoc-chi-3-44-ty-pr45707797",
     "date": "13/5/2026",
     "postedAt": 1778630400000
   },
@@ -1160,6 +1142,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 42738250,
+    "title": "Chính chủ bán tòa CHDV cách biển 300m, 22 phòng luôn full, 153.6m2 x 7 tầng, 3 mặt thoáng",
+    "price": 21800000000,
+    "priceString": "21,8 tỷ",
+    "pricePerSqm": 141.9,
+    "size": 153.6,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Liên Chiểu mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
+    "date": "13/5/2026",
+    "postedAt": 1778630400000
+  },
+  {
     "id": 45705655,
     "title": "Hạ giá bán nhanh lô đất đường Chế Viết Tấn, giá rẻ nhất thị trường",
     "price": 6700000000,
@@ -1236,22 +1234,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phuoc/ban-at-o-tan-hanh-xuan-gia-re-pr45388347",
-    "date": "13/5/2026",
-    "postedAt": 1778630400000
-  },
-  {
-    "id": 45707797,
-    "title": "Lô đất đẹp mặt tiền đường Nguyễn Thành Thọ, giá rẻ không thể tin được chỉ 4,34 tỷ",
-    "price": 4340000000,
-    "priceString": "4,34 tỷ",
-    "pricePerSqm": 43.4,
-    "size": 100,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-thanh-tho-phuong-hoa-quy-48/lo-at-ep-mat-tien-uong-gia-re-khong-the-tin-uoc-chi-3-44-ty-pr45707797",
     "date": "13/5/2026",
     "postedAt": 1778630400000
   },
@@ -1813,6 +1795,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 42738250,
+    "title": "Chính chủ bán tòa CHDV cách biển 300m, 22 phòng luôn full, 153.6m2 x 7 tầng, 3 mặt thoáng",
+    "price": 21800000000,
+    "priceString": "21,8 tỷ",
+    "pricePerSqm": 141.9,
+    "size": 153.6,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Liên Chiểu mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-an-ninh-phuong-hoa-khanh-bac-47/ban-toa-chdv-cach-bien-300m-luon-full-phong-sat-khu-du-lich-mikazuki-vin-lang-van-pr42738250",
+    "date": "13/5/2026",
+    "postedAt": 1778630400000
+  },
+  {
     "id": 45705655,
     "title": "Hạ giá bán nhanh lô đất đường Chế Viết Tấn, giá rẻ nhất thị trường",
     "price": 6700000000,
@@ -1889,22 +1887,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phuoc/ban-at-o-tan-hanh-xuan-gia-re-pr45388347",
-    "date": "13/5/2026",
-    "postedAt": 1778630400000
-  },
-  {
-    "id": 45707797,
-    "title": "Lô đất đẹp mặt tiền đường Nguyễn Thành Thọ, giá rẻ không thể tin được chỉ 4,34 tỷ",
-    "price": 4340000000,
-    "priceString": "4,34 tỷ",
-    "pricePerSqm": 43.4,
-    "size": 100,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-thanh-tho-phuong-hoa-quy-48/lo-at-ep-mat-tien-uong-gia-re-khong-the-tin-uoc-chi-3-44-ty-pr45707797",
     "date": "13/5/2026",
     "postedAt": 1778630400000
   },
