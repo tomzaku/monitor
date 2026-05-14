@@ -13,7 +13,7 @@
     "rooms": 11,
     "image": "https://cdn.chotot.com/PZ6nfKMZYNXdL3QS1LHsghzG2eBSXSWNyCNbg3hRjC8/preset:listing/plain/adb2817a21b7c1bbfff89d541758ee42-2984213154570076389.jpg",
     "url": "https://www.nhatot.com/132377241.htm",
-    "date": "7 giờ trước",
+    "date": "9 giờ trước",
     "postedAt": 1778730003000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -31,7 +31,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/aNfLixiS68z1qu3mbkiwr6zUJ6YX-59bIO8_kRBa4kk/preset:listing/plain/eb5bc11a9290ecea57fe41bc9f8de2f0-2980321803180737301.jpg",
     "url": "https://www.nhatot.com/131882056.htm",
-    "date": "3 giờ trước",
+    "date": "5 giờ trước",
     "postedAt": 1778747033000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -2015,6 +2015,23 @@
     "postedAt": 1778112000000
   },
   {
+    "id": 45619283,
+    "title": "Độc quyền 2PN Hiyori Aqua Tower - view biển Sơn Trà, bàn giao tiêu chuẩn Nhật, cách biển 300m",
+    "price": 4350000000,
+    "priceString": "4,35 tỷ",
+    "pricePerSqm": 65.5,
+    "size": 66.46,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 2,
+    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/04/13/20260413085956-7b29_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-duc-tho-phuong-tho-quang-hiyori-aqua-tower-20749/oc-quyen-2pn-view-bien-son-tra-ban-giao-tieu-chuan-nhat-cach-bien-300m-pr45619283",
+    "date": "14/5/2026",
+    "postedAt": 1778716800000
+  },
+  {
     "id": 45687649,
     "title": "GIỎ HÀNG CUỐI CÙNG CĂN HỘ TRỰC DIỆN SÔNG HÀN PENINSULA ĐÀ NẴNG - CHIẾT KHẤU CAO NHẤT THỊ TRƯỜNG",
     "price": 3130000000,
@@ -2145,22 +2162,6 @@
     "rooms": 2,
     "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/02/10/20260210094404-fa72_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-duc-tho-phuong-tho-quang-hiyori-aqua-tower-20749/oc-quyen-quy-2pn-re-nhat-gio-hang-2-view-truc-dien-bien-tro-vay-70-pr45154967",
-    "date": "14/5/2026",
-    "postedAt": 1778716800000
-  },
-  {
-    "id": 45729422,
-    "title": "HÀNG HIẾM NAM VIỆT Á MẶT TIỀN LÊ VĂN THỦ SÁT SÔNG HÀN",
-    "price": 11500000000,
-    "priceString": "11,5 tỷ",
-    "pricePerSqm": 109.5,
-    "size": 105,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/05/14/20260514104719-08ba_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-le-van-thu-1-phuong-khue-my-48/ban-3-tang-full-noi-that-tien-dong-tien-on-inh-pr45729422",
     "date": "14/5/2026",
     "postedAt": 1778716800000
   }
