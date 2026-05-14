@@ -13,7 +13,7 @@
     "rooms": 11,
     "image": "https://cdn.chotot.com/PZ6nfKMZYNXdL3QS1LHsghzG2eBSXSWNyCNbg3hRjC8/preset:listing/plain/adb2817a21b7c1bbfff89d541758ee42-2984213154570076389.jpg",
     "url": "https://www.nhatot.com/132377241.htm",
-    "date": "14 giờ trước",
+    "date": "16 giờ trước",
     "postedAt": 1778730003000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -31,7 +31,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/aNfLixiS68z1qu3mbkiwr6zUJ6YX-59bIO8_kRBa4kk/preset:listing/plain/eb5bc11a9290ecea57fe41bc9f8de2f0-2980321803180737301.jpg",
     "url": "https://www.nhatot.com/131882056.htm",
-    "date": "9 giờ trước",
+    "date": "11 giờ trước",
     "postedAt": 1778747033000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -543,6 +543,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 45720177,
+    "title": "Đất vàng - TĐC vành đai phía Tây - DT 120m2 đường 10.5m - sát trục Nam Kỳ Khởi Nghĩa",
+    "price": 3500000000,
+    "priceString": "3,5 tỷ",
+    "pricePerSqm": 29.2,
+    "size": 120,
+    "district": "H. Hòa Vang",
+    "ward": "X. Hòa Tiến mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nam-ky-khoi-nghia-xa-hoa-khuong-51/at-vang-t-c-vanh-ai-phia-tay-dt-120m-uong-10-5m-sat-truc-nghia-pr45720177",
+    "date": "15/5/2026",
+    "postedAt": 1778803200000
+  },
+  {
     "id": 45693973,
     "title": "Bán đất 906.5m2 tại xã Hòa Phong, 5,5 tỷ, hướng Đông, mặt tiền 29m, đất ven hồ view cực đẹp, MTG",
     "price": 5500000000,
@@ -587,22 +603,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-hai-phong-phuong-thanh-khe-tay-50/ban-tai-14-3-ty-82m2-chinh-chu-gia-tot-pr45723716",
-    "date": "14/5/2026",
-    "postedAt": 1778716800000
-  },
-  {
-    "id": 45684391,
-    "title": "Bán căn 3PN chung cư Ori Garden toà mới CT10 - 70m2 - view biển, sổ hồng, nhà sẵn chính chủ",
-    "price": 2850000000,
-    "priceString": "2,85 tỷ",
-    "pricePerSqm": 40.7,
-    "size": 70,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-me-linh-phuong-hoa-hiep-nam-the-ori-garden/ban-3pn-toa-moi-ct10-70m2-so-hong-nha-san-chinh-chu-pr45684391",
     "date": "14/5/2026",
     "postedAt": 1778716800000
   },
@@ -1196,6 +1196,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 45720177,
+    "title": "Đất vàng - TĐC vành đai phía Tây - DT 120m2 đường 10.5m - sát trục Nam Kỳ Khởi Nghĩa",
+    "price": 3500000000,
+    "priceString": "3,5 tỷ",
+    "pricePerSqm": 29.2,
+    "size": 120,
+    "district": "H. Hòa Vang",
+    "ward": "X. Hòa Tiến mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nam-ky-khoi-nghia-xa-hoa-khuong-51/at-vang-t-c-vanh-ai-phia-tay-dt-120m-uong-10-5m-sat-truc-nghia-pr45720177",
+    "date": "15/5/2026",
+    "postedAt": 1778803200000
+  },
+  {
     "id": 45693973,
     "title": "Bán đất 906.5m2 tại xã Hòa Phong, 5,5 tỷ, hướng Đông, mặt tiền 29m, đất ven hồ view cực đẹp, MTG",
     "price": 5500000000,
@@ -1240,22 +1256,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-hai-phong-phuong-thanh-khe-tay-50/ban-tai-14-3-ty-82m2-chinh-chu-gia-tot-pr45723716",
-    "date": "14/5/2026",
-    "postedAt": 1778716800000
-  },
-  {
-    "id": 45684391,
-    "title": "Bán căn 3PN chung cư Ori Garden toà mới CT10 - 70m2 - view biển, sổ hồng, nhà sẵn chính chủ",
-    "price": 2850000000,
-    "priceString": "2,85 tỷ",
-    "pricePerSqm": 40.7,
-    "size": 70,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-me-linh-phuong-hoa-hiep-nam-the-ori-garden/ban-3pn-toa-moi-ct10-70m2-so-hong-nha-san-chinh-chu-pr45684391",
     "date": "14/5/2026",
     "postedAt": 1778716800000
   },
@@ -1849,6 +1849,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 45720177,
+    "title": "Đất vàng - TĐC vành đai phía Tây - DT 120m2 đường 10.5m - sát trục Nam Kỳ Khởi Nghĩa",
+    "price": 3500000000,
+    "priceString": "3,5 tỷ",
+    "pricePerSqm": 29.2,
+    "size": 120,
+    "district": "H. Hòa Vang",
+    "ward": "X. Hòa Tiến mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nam-ky-khoi-nghia-xa-hoa-khuong-51/at-vang-t-c-vanh-ai-phia-tay-dt-120m-uong-10-5m-sat-truc-nghia-pr45720177",
+    "date": "15/5/2026",
+    "postedAt": 1778803200000
+  },
+  {
     "id": 45693973,
     "title": "Bán đất 906.5m2 tại xã Hòa Phong, 5,5 tỷ, hướng Đông, mặt tiền 29m, đất ven hồ view cực đẹp, MTG",
     "price": 5500000000,
@@ -1893,22 +1909,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-hai-phong-phuong-thanh-khe-tay-50/ban-tai-14-3-ty-82m2-chinh-chu-gia-tot-pr45723716",
-    "date": "14/5/2026",
-    "postedAt": 1778716800000
-  },
-  {
-    "id": 45684391,
-    "title": "Bán căn 3PN chung cư Ori Garden toà mới CT10 - 70m2 - view biển, sổ hồng, nhà sẵn chính chủ",
-    "price": 2850000000,
-    "priceString": "2,85 tỷ",
-    "pricePerSqm": 40.7,
-    "size": 70,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-me-linh-phuong-hoa-hiep-nam-the-ori-garden/ban-3pn-toa-moi-ct10-70m2-so-hong-nha-san-chinh-chu-pr45684391",
     "date": "14/5/2026",
     "postedAt": 1778716800000
   },
