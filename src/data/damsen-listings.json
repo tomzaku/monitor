@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/kqJ00tA7rAFkAG5FDo8duPif2LsVndgC7WSRCUw-yvo/preset:listing/plain/9b1e8da126a42f8adc9058de0e143dd1-2973698125331048222.jpg",
     "url": "https://www.nhatot.com/130961502.htm",
-    "date": "15 giờ trước",
+    "date": "17 giờ trước",
     "postedAt": 1778824660000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/q7PXJ0hbA_c2ZP3kMLUQ3rAAPIJv7oPnmXQlb4JuP2Q/preset:listing/plain/2b722ee502d669da2e9814e43f82224b-2978735166896873222.jpg",
     "url": "https://www.nhatot.com/128303012.htm",
-    "date": "19 giờ trước",
+    "date": "21 giờ trước",
     "postedAt": 1778809994000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -67,7 +67,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/VNUWf2JPmu8cvKOlZAbHnsLsdCuaUj0DNPBELk5vk6Y/preset:listing/plain/6ba6b4b777aa18d027efc2883903a84a-2984401907440836526.jpg",
     "url": "https://www.nhatot.com/132407423.htm",
-    "date": "10 giờ trước",
+    "date": "12 giờ trước",
     "postedAt": 1778842284000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -103,7 +103,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ZPJUq_A6eguaklF7fGdYFAmlbR1JJJVOkmvMxNXSzS4/preset:listing/plain/00e16f88be8cc6350ffd8294e79f60fc-2977689534754715514.jpg",
     "url": "https://www.nhatot.com/131512001.htm",
-    "date": "3 ngày trước",
+    "date": "4 ngày trước",
     "postedAt": 1778577064000,
     "lat": 15.939363,
     "lng": 108.16065
@@ -578,6 +578,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 45693973,
+    "title": "Bán đất 906.5m2 tại xã Hòa Phong, 5,5 tỷ, hướng Đông, mặt tiền 29m, đất ven hồ view cực đẹp, MTG",
+    "price": 5500000000,
+    "priceString": "5,5 tỷ",
+    "pricePerSqm": 6.1,
+    "size": 906.5,
+    "district": "H. Hòa Vang",
+    "ward": "X. Hòa Vang mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phong/ban-at-906m2-tai-5-5-ty-huong-ong-mat-tien-29m-at-ven-ho-view-cuc-ep-mtg-pr45693973",
+    "date": "16/5/2026",
+    "postedAt": 1778889600000
+  },
+  {
     "id": 45684391,
     "title": "Bán căn 3PN chung cư Ori Garden toà mới CT10 - 70m2 - view biển, sổ hồng, nhà sẵn chính chủ",
     "price": 2850000000,
@@ -624,22 +640,6 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-hai-phong-phuong-thanh-khe-tay-50/ban-tai-14-3-ty-82m2-chinh-chu-gia-tot-pr45723716",
     "date": "16/5/2026",
     "postedAt": 1778889600000
-  },
-  {
-    "id": 45693973,
-    "title": "Bán đất 906.5m2 tại xã Hòa Phong, 5,5 tỷ, hướng Đông, mặt tiền 29m, đất ven hồ view cực đẹp, MTG",
-    "price": 5500000000,
-    "priceString": "5,5 tỷ",
-    "pricePerSqm": 6.1,
-    "size": 906.5,
-    "district": "H. Hòa Vang",
-    "ward": "X. Hòa Vang mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phong/ban-at-906m2-tai-5-5-ty-huong-ong-mat-tien-29m-at-ven-ho-view-cuc-ep-mtg-pr45693973",
-    "date": "15/5/2026",
-    "postedAt": 1778803200000
   },
   {
     "id": 45522308,
@@ -1230,6 +1230,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 45693973,
+    "title": "Bán đất 906.5m2 tại xã Hòa Phong, 5,5 tỷ, hướng Đông, mặt tiền 29m, đất ven hồ view cực đẹp, MTG",
+    "price": 5500000000,
+    "priceString": "5,5 tỷ",
+    "pricePerSqm": 6.1,
+    "size": 906.5,
+    "district": "H. Hòa Vang",
+    "ward": "X. Hòa Vang mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phong/ban-at-906m2-tai-5-5-ty-huong-ong-mat-tien-29m-at-ven-ho-view-cuc-ep-mtg-pr45693973",
+    "date": "16/5/2026",
+    "postedAt": 1778889600000
+  },
+  {
     "id": 45684391,
     "title": "Bán căn 3PN chung cư Ori Garden toà mới CT10 - 70m2 - view biển, sổ hồng, nhà sẵn chính chủ",
     "price": 2850000000,
@@ -1276,22 +1292,6 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-hai-phong-phuong-thanh-khe-tay-50/ban-tai-14-3-ty-82m2-chinh-chu-gia-tot-pr45723716",
     "date": "16/5/2026",
     "postedAt": 1778889600000
-  },
-  {
-    "id": 45693973,
-    "title": "Bán đất 906.5m2 tại xã Hòa Phong, 5,5 tỷ, hướng Đông, mặt tiền 29m, đất ven hồ view cực đẹp, MTG",
-    "price": 5500000000,
-    "priceString": "5,5 tỷ",
-    "pricePerSqm": 6.1,
-    "size": 906.5,
-    "district": "H. Hòa Vang",
-    "ward": "X. Hòa Vang mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phong/ban-at-906m2-tai-5-5-ty-huong-ong-mat-tien-29m-at-ven-ho-view-cuc-ep-mtg-pr45693973",
-    "date": "15/5/2026",
-    "postedAt": 1778803200000
   },
   {
     "id": 45727270,
@@ -1884,6 +1884,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 45693973,
+    "title": "Bán đất 906.5m2 tại xã Hòa Phong, 5,5 tỷ, hướng Đông, mặt tiền 29m, đất ven hồ view cực đẹp, MTG",
+    "price": 5500000000,
+    "priceString": "5,5 tỷ",
+    "pricePerSqm": 6.1,
+    "size": 906.5,
+    "district": "H. Hòa Vang",
+    "ward": "X. Hòa Vang mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phong/ban-at-906m2-tai-5-5-ty-huong-ong-mat-tien-29m-at-ven-ho-view-cuc-ep-mtg-pr45693973",
+    "date": "16/5/2026",
+    "postedAt": 1778889600000
+  },
+  {
     "id": 45684391,
     "title": "Bán căn 3PN chung cư Ori Garden toà mới CT10 - 70m2 - view biển, sổ hồng, nhà sẵn chính chủ",
     "price": 2850000000,
@@ -1930,22 +1946,6 @@
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-hai-phong-phuong-thanh-khe-tay-50/ban-tai-14-3-ty-82m2-chinh-chu-gia-tot-pr45723716",
     "date": "16/5/2026",
     "postedAt": 1778889600000
-  },
-  {
-    "id": 45693973,
-    "title": "Bán đất 906.5m2 tại xã Hòa Phong, 5,5 tỷ, hướng Đông, mặt tiền 29m, đất ven hồ view cực đẹp, MTG",
-    "price": 5500000000,
-    "priceString": "5,5 tỷ",
-    "pricePerSqm": 6.1,
-    "size": 906.5,
-    "district": "H. Hòa Vang",
-    "ward": "X. Hòa Vang mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phong/ban-at-906m2-tai-5-5-ty-huong-ong-mat-tien-29m-at-ven-ho-view-cuc-ep-mtg-pr45693973",
-    "date": "15/5/2026",
-    "postedAt": 1778803200000
   },
   {
     "id": 45575777,
