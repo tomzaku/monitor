@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/CNCVUvo6khkDLkB28PREXkjCTOfAXHuuuT0SrmL5DtY/preset:listing/plain/37e5d73039d1b20d898512cc73fee601-2979621552886994412.jpg",
     "url": "https://www.nhatot.com/131784166.htm",
-    "date": "5 giờ trước",
+    "date": "7 giờ trước",
     "postedAt": 1778895310000,
     "lat": 15.99107,
     "lng": 108.23758
@@ -85,7 +85,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/VNUWf2JPmu8cvKOlZAbHnsLsdCuaUj0DNPBELk5vk6Y/preset:listing/plain/6ba6b4b777aa18d027efc2883903a84a-2984401907440836526.jpg",
     "url": "https://www.nhatot.com/132407423.htm",
-    "date": "19 giờ trước",
+    "date": "22 giờ trước",
     "postedAt": 1778842284000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -103,7 +103,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/aNfLixiS68z1qu3mbkiwr6zUJ6YX-59bIO8_kRBa4kk/preset:listing/plain/eb5bc11a9290ecea57fe41bc9f8de2f0-2980321803180737301.jpg",
     "url": "https://www.nhatot.com/131882056.htm",
-    "date": "hôm qua",
+    "date": "2 ngày trước",
     "postedAt": 1778747033000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -613,6 +613,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 45382609,
+    "title": "Căn góc biển đường 7.5m cách biển 200m, ngang 16m chỉ 34 tỷ",
+    "price": 34000000000,
+    "priceString": "34 tỷ",
+    "pricePerSqm": 170,
+    "size": 200,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duc-an-phuong-phuoc-my/can-goc-bien-uong-7-5-cach-bien-200m-ngang-16m-chi-34-ty-pr45382609",
+    "date": "16/5/2026",
+    "postedAt": 1778889600000
+  },
+  {
     "id": 45308421,
     "title": "Chào bán cặp đất đẹp mặt tiền Hoàng Sa, view trực diện biển, 205m2 (ngang 10m), 85 tỷ",
     "price": 85000000000,
@@ -641,22 +657,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phong/ban-at-906m2-tai-5-5-ty-huong-ong-mat-tien-29m-at-ven-ho-view-cuc-ep-mtg-pr45693973",
-    "date": "16/5/2026",
-    "postedAt": 1778889600000
-  },
-  {
-    "id": 45205866,
-    "title": "Bán lô đôi 200m2 tại 127, 129 Chế Viết Tấn, P. Hòa Xuân, Tp. Đà Nẵng",
-    "price": 13600000000,
-    "priceString": "13,6 tỷ",
-    "pricePerSqm": 68,
-    "size": 200,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-che-viet-tan-phuong-hoa-xuan-kdt-hoa-xuan-mo-rong/ban-lo-oi-200m2-tai-127-129-p-tp-a-nang-pr45205866",
     "date": "16/5/2026",
     "postedAt": 1778889600000
   },
@@ -1266,6 +1266,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 45382609,
+    "title": "Căn góc biển đường 7.5m cách biển 200m, ngang 16m chỉ 34 tỷ",
+    "price": 34000000000,
+    "priceString": "34 tỷ",
+    "pricePerSqm": 170,
+    "size": 200,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duc-an-phuong-phuoc-my/can-goc-bien-uong-7-5-cach-bien-200m-ngang-16m-chi-34-ty-pr45382609",
+    "date": "16/5/2026",
+    "postedAt": 1778889600000
+  },
+  {
     "id": 45308421,
     "title": "Chào bán cặp đất đẹp mặt tiền Hoàng Sa, view trực diện biển, 205m2 (ngang 10m), 85 tỷ",
     "price": 85000000000,
@@ -1294,22 +1310,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phong/ban-at-906m2-tai-5-5-ty-huong-ong-mat-tien-29m-at-ven-ho-view-cuc-ep-mtg-pr45693973",
-    "date": "16/5/2026",
-    "postedAt": 1778889600000
-  },
-  {
-    "id": 45205866,
-    "title": "Bán lô đôi 200m2 tại 127, 129 Chế Viết Tấn, P. Hòa Xuân, Tp. Đà Nẵng",
-    "price": 13600000000,
-    "priceString": "13,6 tỷ",
-    "pricePerSqm": 68,
-    "size": 200,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-che-viet-tan-phuong-hoa-xuan-kdt-hoa-xuan-mo-rong/ban-lo-oi-200m2-tai-127-129-p-tp-a-nang-pr45205866",
     "date": "16/5/2026",
     "postedAt": 1778889600000
   },
@@ -1918,6 +1918,22 @@
     "postedAt": 1778198400000
   },
   {
+    "id": 45382609,
+    "title": "Căn góc biển đường 7.5m cách biển 200m, ngang 16m chỉ 34 tỷ",
+    "price": 34000000000,
+    "priceString": "34 tỷ",
+    "pricePerSqm": 170,
+    "size": 200,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duc-an-phuong-phuoc-my/can-goc-bien-uong-7-5-cach-bien-200m-ngang-16m-chi-34-ty-pr45382609",
+    "date": "16/5/2026",
+    "postedAt": 1778889600000
+  },
+  {
     "id": 45308421,
     "title": "Chào bán cặp đất đẹp mặt tiền Hoàng Sa, view trực diện biển, 205m2 (ngang 10m), 85 tỷ",
     "price": 85000000000,
@@ -1946,22 +1962,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-xa-hoa-phong/ban-at-906m2-tai-5-5-ty-huong-ong-mat-tien-29m-at-ven-ho-view-cuc-ep-mtg-pr45693973",
-    "date": "16/5/2026",
-    "postedAt": 1778889600000
-  },
-  {
-    "id": 45205866,
-    "title": "Bán lô đôi 200m2 tại 127, 129 Chế Viết Tấn, P. Hòa Xuân, Tp. Đà Nẵng",
-    "price": 13600000000,
-    "priceString": "13,6 tỷ",
-    "pricePerSqm": 68,
-    "size": 200,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-che-viet-tan-phuong-hoa-xuan-kdt-hoa-xuan-mo-rong/ban-lo-oi-200m2-tai-127-129-p-tp-a-nang-pr45205866",
     "date": "16/5/2026",
     "postedAt": 1778889600000
   },
@@ -2168,7 +2168,7 @@
   },
   {
     "id": 45739048,
-    "title": "Duy nhất 1 căn Ngoại Giao 2PN The Filmore , Tầng cao- Chiết khấu khủng 6%",
+    "title": "Duy nhất 1 căn ngoại giao 2PN The Filmore, tầng cao - Chiết khấu khủng 6%",
     "price": 9500000000,
     "priceString": "9,5 tỷ",
     "pricePerSqm": 133.2,
