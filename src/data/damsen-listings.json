@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/CNCVUvo6khkDLkB28PREXkjCTOfAXHuuuT0SrmL5DtY/preset:listing/plain/37e5d73039d1b20d898512cc73fee601-2979621552886994412.jpg",
     "url": "https://www.nhatot.com/131784166.htm",
-    "date": "14 giờ trước",
+    "date": "15 giờ trước",
     "postedAt": 1778895310000,
     "lat": 15.99107,
     "lng": 108.23758
@@ -67,7 +67,7 @@
     "rooms": 11,
     "image": "https://cdn.chotot.com/PZ6nfKMZYNXdL3QS1LHsghzG2eBSXSWNyCNbg3hRjC8/preset:listing/plain/adb2817a21b7c1bbfff89d541758ee42-2984213154570076389.jpg",
     "url": "https://www.nhatot.com/132377241.htm",
-    "date": "2 ngày trước",
+    "date": "3 ngày trước",
     "postedAt": 1778730003000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -597,22 +597,6 @@
     "postedAt": 1778284800000
   },
   {
-    "id": 45382609,
-    "title": "Căn góc biển đường 7.5m cách biển 200m, ngang 16m chỉ 34 tỷ",
-    "price": 34000000000,
-    "priceString": "34 tỷ",
-    "pricePerSqm": 170,
-    "size": 200,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duc-an-phuong-phuoc-my/can-goc-bien-uong-7-5-cach-bien-200m-ngang-16m-chi-34-ty-pr45382609",
-    "date": "16/5/2026",
-    "postedAt": 1778889600000
-  },
-  {
     "id": 45308421,
     "title": "Chào bán cặp đất đẹp mặt tiền Hoàng Sa, view trực diện biển, 205m2 (ngang 10m), 85 tỷ",
     "price": 85000000000,
@@ -625,6 +609,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoang-sa-phuong-man-thai-49/chao-ban-cap-at-ep-mat-tien-view-truc-dien-bien-210m2-ngang-10m-85-ty-pr45308421",
+    "date": "16/5/2026",
+    "postedAt": 1778889600000
+  },
+  {
+    "id": 45382609,
+    "title": "Căn góc biển đường 7.5m cách biển 200m, ngang 16m chỉ 34 tỷ",
+    "price": 34000000000,
+    "priceString": "34 tỷ",
+    "pricePerSqm": 170,
+    "size": 200,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duc-an-phuong-phuoc-my/can-goc-bien-uong-7-5-cach-bien-200m-ngang-16m-chi-34-ty-pr45382609",
     "date": "16/5/2026",
     "postedAt": 1778889600000
   },
@@ -1249,22 +1249,6 @@
     "postedAt": 1778284800000
   },
   {
-    "id": 45382609,
-    "title": "Căn góc biển đường 7.5m cách biển 200m, ngang 16m chỉ 34 tỷ",
-    "price": 34000000000,
-    "priceString": "34 tỷ",
-    "pricePerSqm": 170,
-    "size": 200,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duc-an-phuong-phuoc-my/can-goc-bien-uong-7-5-cach-bien-200m-ngang-16m-chi-34-ty-pr45382609",
-    "date": "16/5/2026",
-    "postedAt": 1778889600000
-  },
-  {
     "id": 45308421,
     "title": "Chào bán cặp đất đẹp mặt tiền Hoàng Sa, view trực diện biển, 205m2 (ngang 10m), 85 tỷ",
     "price": 85000000000,
@@ -1277,6 +1261,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoang-sa-phuong-man-thai-49/chao-ban-cap-at-ep-mat-tien-view-truc-dien-bien-210m2-ngang-10m-85-ty-pr45308421",
+    "date": "16/5/2026",
+    "postedAt": 1778889600000
+  },
+  {
+    "id": 45382609,
+    "title": "Căn góc biển đường 7.5m cách biển 200m, ngang 16m chỉ 34 tỷ",
+    "price": 34000000000,
+    "priceString": "34 tỷ",
+    "pricePerSqm": 170,
+    "size": 200,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duc-an-phuong-phuoc-my/can-goc-bien-uong-7-5-cach-bien-200m-ngang-16m-chi-34-ty-pr45382609",
     "date": "16/5/2026",
     "postedAt": 1778889600000
   },
@@ -1902,22 +1902,6 @@
     "postedAt": 1778284800000
   },
   {
-    "id": 45382609,
-    "title": "Căn góc biển đường 7.5m cách biển 200m, ngang 16m chỉ 34 tỷ",
-    "price": 34000000000,
-    "priceString": "34 tỷ",
-    "pricePerSqm": 170,
-    "size": 200,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duc-an-phuong-phuoc-my/can-goc-bien-uong-7-5-cach-bien-200m-ngang-16m-chi-34-ty-pr45382609",
-    "date": "16/5/2026",
-    "postedAt": 1778889600000
-  },
-  {
     "id": 45308421,
     "title": "Chào bán cặp đất đẹp mặt tiền Hoàng Sa, view trực diện biển, 205m2 (ngang 10m), 85 tỷ",
     "price": 85000000000,
@@ -1930,6 +1914,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoang-sa-phuong-man-thai-49/chao-ban-cap-at-ep-mat-tien-view-truc-dien-bien-210m2-ngang-10m-85-ty-pr45308421",
+    "date": "16/5/2026",
+    "postedAt": 1778889600000
+  },
+  {
+    "id": 45382609,
+    "title": "Căn góc biển đường 7.5m cách biển 200m, ngang 16m chỉ 34 tỷ",
+    "price": 34000000000,
+    "priceString": "34 tỷ",
+    "pricePerSqm": 170,
+    "size": 200,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-duc-an-phuong-phuoc-my/can-goc-bien-uong-7-5-cach-bien-200m-ngang-16m-chi-34-ty-pr45382609",
     "date": "16/5/2026",
     "postedAt": 1778889600000
   },
