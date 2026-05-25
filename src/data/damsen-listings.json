@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/CNCVUvo6khkDLkB28PREXkjCTOfAXHuuuT0SrmL5DtY/preset:listing/plain/37e5d73039d1b20d898512cc73fee601-2979621552886994412.jpg",
     "url": "https://www.nhatot.com/131784166.htm",
-    "date": "16 giờ trước",
+    "date": "18 giờ trước",
     "postedAt": 1779674410482,
     "lat": 15.99107,
     "lng": 108.23758
@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/klMkw_dVKTX3AtsDM-b3ykDpWNlce0R0ZC8CsUAKkKU/preset:listing/plain/8ed70316b833a7d3ea2d141fd3f3fa2d-2971732087148479670.jpg",
     "url": "https://www.nhatot.com/130795023.htm",
-    "date": "10 giờ trước",
+    "date": "12 giờ trước",
     "postedAt": 1779696123000,
     "lat": 16.010834,
     "lng": 108.24368
@@ -66,7 +66,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/kqJ00tA7rAFkAG5FDo8duPif2LsVndgC7WSRCUw-yvo/preset:listing/plain/9b1e8da126a42f8adc9058de0e143dd1-2973698125331048222.jpg",
     "url": "https://www.nhatot.com/130961502.htm",
-    "date": "5 ngày trước",
+    "date": "6 ngày trước",
     "postedAt": 1779256436000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -551,6 +551,22 @@
     "postedAt": 1778803200000
   },
   {
+    "id": 45399829,
+    "title": "Bán nhà mặt phố số 23 Phước Trường 8, 28 tỷ, 92,5m2, nhà xây mới dòng tiền 200 triệu/tháng",
+    "price": 28000000000,
+    "priceString": "28 tỷ",
+    "pricePerSqm": 302.7,
+    "size": 92.5,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phuoc-truong-8-phuong-phuoc-my-49/ban-so-23-8-28-ty-92-5m2-xay-moi-dong-tien-200-trieu-thang-pr45399829",
+    "date": "26/5/2026",
+    "postedAt": 1779753600000
+  },
+  {
     "id": 45793891,
     "title": "Bán đất 06 Hồ Trung Lượng, Đảo 2, Hòa Xuân, 100m2",
     "price": 7100000000,
@@ -627,22 +643,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-duong-loan-phuong-hoa-xuan-45/ban-lo-goc-2mt-gan-du-an-aeon-mall-164m2-chi-12-ty-tl-pr45769598",
-    "date": "25/5/2026",
-    "postedAt": 1779667200000
-  },
-  {
-    "id": 45399829,
-    "title": "Bán nhà mặt phố số 23 Phước Trường 8, 28 tỷ, 92,5m2, nhà xây mới dòng tiền 200 triệu/tháng",
-    "price": 28000000000,
-    "priceString": "28 tỷ",
-    "pricePerSqm": 302.7,
-    "size": 92.5,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phuoc-truong-8-phuong-phuoc-my-49/ban-so-23-8-28-ty-92-5m2-xay-moi-dong-tien-200-trieu-thang-pr45399829",
     "date": "25/5/2026",
     "postedAt": 1779667200000
   },
@@ -1207,6 +1207,22 @@
     "postedAt": 1778803200000
   },
   {
+    "id": 45399829,
+    "title": "Bán nhà mặt phố số 23 Phước Trường 8, 28 tỷ, 92,5m2, nhà xây mới dòng tiền 200 triệu/tháng",
+    "price": 28000000000,
+    "priceString": "28 tỷ",
+    "pricePerSqm": 302.7,
+    "size": 92.5,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phuoc-truong-8-phuong-phuoc-my-49/ban-so-23-8-28-ty-92-5m2-xay-moi-dong-tien-200-trieu-thang-pr45399829",
+    "date": "26/5/2026",
+    "postedAt": 1779753600000
+  },
+  {
     "id": 45793891,
     "title": "Bán đất 06 Hồ Trung Lượng, Đảo 2, Hòa Xuân, 100m2",
     "price": 7100000000,
@@ -1283,22 +1299,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-duong-loan-phuong-hoa-xuan-45/ban-lo-goc-2mt-gan-du-an-aeon-mall-164m2-chi-12-ty-tl-pr45769598",
-    "date": "25/5/2026",
-    "postedAt": 1779667200000
-  },
-  {
-    "id": 45399829,
-    "title": "Bán nhà mặt phố số 23 Phước Trường 8, 28 tỷ, 92,5m2, nhà xây mới dòng tiền 200 triệu/tháng",
-    "price": 28000000000,
-    "priceString": "28 tỷ",
-    "pricePerSqm": 302.7,
-    "size": 92.5,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phuoc-truong-8-phuong-phuoc-my-49/ban-so-23-8-28-ty-92-5m2-xay-moi-dong-tien-200-trieu-thang-pr45399829",
     "date": "25/5/2026",
     "postedAt": 1779667200000
   },
@@ -1861,6 +1861,22 @@
     "postedAt": 1778803200000
   },
   {
+    "id": 45399829,
+    "title": "Bán nhà mặt phố số 23 Phước Trường 8, 28 tỷ, 92,5m2, nhà xây mới dòng tiền 200 triệu/tháng",
+    "price": 28000000000,
+    "priceString": "28 tỷ",
+    "pricePerSqm": 302.7,
+    "size": 92.5,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phuoc-truong-8-phuong-phuoc-my-49/ban-so-23-8-28-ty-92-5m2-xay-moi-dong-tien-200-trieu-thang-pr45399829",
+    "date": "26/5/2026",
+    "postedAt": 1779753600000
+  },
+  {
     "id": 45793891,
     "title": "Bán đất 06 Hồ Trung Lượng, Đảo 2, Hòa Xuân, 100m2",
     "price": 7100000000,
@@ -1937,22 +1953,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-duong-loan-phuong-hoa-xuan-45/ban-lo-goc-2mt-gan-du-an-aeon-mall-164m2-chi-12-ty-tl-pr45769598",
-    "date": "25/5/2026",
-    "postedAt": 1779667200000
-  },
-  {
-    "id": 45399829,
-    "title": "Bán nhà mặt phố số 23 Phước Trường 8, 28 tỷ, 92,5m2, nhà xây mới dòng tiền 200 triệu/tháng",
-    "price": 28000000000,
-    "priceString": "28 tỷ",
-    "pricePerSqm": 302.7,
-    "size": 92.5,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-phuoc-truong-8-phuong-phuoc-my-49/ban-so-23-8-28-ty-92-5m2-xay-moi-dong-tien-200-trieu-thang-pr45399829",
     "date": "25/5/2026",
     "postedAt": 1779667200000
   },
