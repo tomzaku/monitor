@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/kqJ00tA7rAFkAG5FDo8duPif2LsVndgC7WSRCUw-yvo/preset:listing/plain/9b1e8da126a42f8adc9058de0e143dd1-2973698125331048222.jpg",
     "url": "https://www.nhatot.com/130961502.htm",
-    "date": "13 giờ trước",
+    "date": "15 giờ trước",
     "postedAt": 1782184201000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -197,21 +197,20 @@
     "postedAt": 1782172800000
   },
   {
-    "id": 45814346,
-    "title": "Chỉ từ 500 triệu sở hữu căn hộ cao cấp, sát sông, pháo hóa DIFF, khai thác cho thuê 1 - 2 triệu/đêm",
-    "price": 1770000000,
-    "priceString": "1,77 tỷ",
-    "pricePerSqm": 53.6,
-    "size": 33,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
+    "id": 45737621,
+    "title": "Bán nhà riêng tại K54/38 đường Ông Ích Khiêm, 5,4 tỷ, 64,3m2, giá siêu hời",
+    "price": 5400000000,
+    "priceString": "5,4 tỷ",
+    "pricePerSqm": 84,
+    "size": 64.3,
+    "district": "Q. Hải Châu",
+    "ward": "",
     "street": "",
     "category": "Bất động sản",
-    "rooms": 1,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/06/01/20260601170248-08ce_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-symphony-5/chi-tu-500-trieu-so-huu-cao-cap-sat-song-phao-hoa-diff-khai-thac-cho-thue-1-2-trieu-em-pr45814346",
-    "date": "23/6/2026",
-    "postedAt": 1782172800000
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
+    "date": "",
+    "postedAt": 0
   },
   {
     "id": 45872865,
@@ -242,22 +241,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-symphony-5/chi-tu-500-trieu-so-huu-cao-cap-sat-song-phao-hoa-diff-khai-thac-cho-thue-1-2-trieu-em-pr45814346",
-    "date": "",
-    "postedAt": 0
-  },
-  {
-    "id": 45737621,
-    "title": "Bán nhà riêng tại K54/38 đường Ông Ích Khiêm, 5,4 tỷ, 64,3m2, giá siêu hời",
-    "price": 5400000000,
-    "priceString": "5,4 tỷ",
-    "pricePerSqm": 84,
-    "size": 64.3,
-    "district": "Q. Hải Châu",
-    "ward": "",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
     "date": "",
     "postedAt": 0
   },
@@ -374,6 +357,23 @@
     "postedAt": 0
   },
   {
+    "id": 45814346,
+    "title": "Chỉ từ 500 triệu sở hữu căn hộ cao cấp, sát sông, pháo hóa DIFF, khai thác cho thuê 1 - 2 triệu/đêm",
+    "price": 1770000000,
+    "priceString": "1,77 tỷ",
+    "pricePerSqm": 53.6,
+    "size": 33,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/06/01/20260601170248-08ce_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-symphony-5/chi-tu-500-trieu-so-huu-cao-cap-sat-song-phao-hoa-diff-khai-thac-cho-thue-1-2-trieu-em-pr45814346",
+    "date": "23/6/2026",
+    "postedAt": 1782172800000
+  },
+  {
     "id": 45737621,
     "title": "Bán nhà riêng tại K54/38 đường Ông Ích Khiêm, 5,4 tỷ, 64,3m2, giá siêu hời",
     "price": 5400000000,
@@ -386,8 +386,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
-    "date": "23/6/2026",
-    "postedAt": 1782172800000
+    "date": "24/6/2026",
+    "postedAt": 1782259200000
   },
   {
     "id": 45937446,
@@ -470,6 +470,22 @@
     "postedAt": 1781654400000
   },
   {
+    "id": 45740907,
+    "title": "Tòa căn hộ ven sông Hàn biển Mỹ Khê, có giá nét nhất thị trường",
+    "price": 14200000000,
+    "priceString": "14,2 tỷ",
+    "pricePerSqm": 135.2,
+    "size": 105,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-truong-cong-hy-phuong-khue-my-khu-do-thi-nam-cau-tuyen-son/toa-can-ho-ven-song-han-bien-khe-co-gia-net-nhat-truong-pr45740907",
+    "date": "23/6/2026",
+    "postedAt": 1782172800000
+  },
+  {
     "id": 44054035,
     "title": "Bán 2 lô liền kề đường An Tư Công Chúa - Gần sông Hàn - KDC Nam Cầu Trần Thị Lý",
     "price": 35000000000,
@@ -514,22 +530,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-huu-an-phuong-nai-hien-dong-49/at-biet-thu-vinh-bien-183m-gia-so-khai-90-tr-m-canh-sieu-o-thi-thuan-phuoc-pr45938734",
-    "date": "23/6/2026",
-    "postedAt": 1782172800000
-  },
-  {
-    "id": 45740907,
-    "title": "Tòa căn hộ ven sông Hàn biển Mỹ Khê, có giá nét nhất thị trường",
-    "price": 14200000000,
-    "priceString": "14,2 tỷ",
-    "pricePerSqm": 135.2,
-    "size": 105,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-truong-cong-hy-phuong-khue-my-khu-do-thi-nam-cau-tuyen-son/toa-can-ho-ven-song-han-bien-khe-co-gia-net-nhat-truong-pr45740907",
     "date": "23/6/2026",
     "postedAt": 1782172800000
   },
@@ -855,6 +855,22 @@
     "postedAt": 1781913600000
   },
   {
+    "id": 45737621,
+    "title": "Bán nhà riêng tại K54/38 đường Ông Ích Khiêm, 5,4 tỷ, 64,3m2, giá siêu hời",
+    "price": 5400000000,
+    "priceString": "5,4 tỷ",
+    "pricePerSqm": 84,
+    "size": 64.3,
+    "district": "Q. Hải Châu",
+    "ward": "",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
+    "date": "",
+    "postedAt": 0
+  },
+  {
     "id": 45872865,
     "title": "Bán căn hộ 2PN 60m2 tại The Meridian, Đà Nẵng view pháo hoa sông Hàn, giá đầu tư tốt",
     "price": 0,
@@ -883,22 +899,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-symphony-5/chi-tu-500-trieu-so-huu-cao-cap-sat-song-phao-hoa-diff-khai-thac-cho-thue-1-2-trieu-em-pr45814346",
-    "date": "",
-    "postedAt": 0
-  },
-  {
-    "id": 45737621,
-    "title": "Bán nhà riêng tại K54/38 đường Ông Ích Khiêm, 5,4 tỷ, 64,3m2, giá siêu hời",
-    "price": 5400000000,
-    "priceString": "5,4 tỷ",
-    "pricePerSqm": 84,
-    "size": 64.3,
-    "district": "Q. Hải Châu",
-    "ward": "",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
     "date": "",
     "postedAt": 0
   },
@@ -1044,8 +1044,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
-    "date": "23/6/2026",
-    "postedAt": 1782172800000
+    "date": "24/6/2026",
+    "postedAt": 1782259200000
   },
   {
     "id": 45937446,
@@ -1128,6 +1128,22 @@
     "postedAt": 1781654400000
   },
   {
+    "id": 45740907,
+    "title": "Tòa căn hộ ven sông Hàn biển Mỹ Khê, có giá nét nhất thị trường",
+    "price": 14200000000,
+    "priceString": "14,2 tỷ",
+    "pricePerSqm": 135.2,
+    "size": 105,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-truong-cong-hy-phuong-khue-my-khu-do-thi-nam-cau-tuyen-son/toa-can-ho-ven-song-han-bien-khe-co-gia-net-nhat-truong-pr45740907",
+    "date": "23/6/2026",
+    "postedAt": 1782172800000
+  },
+  {
     "id": 44054035,
     "title": "Bán 2 lô liền kề đường An Tư Công Chúa - Gần sông Hàn - KDC Nam Cầu Trần Thị Lý",
     "price": 35000000000,
@@ -1172,22 +1188,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-huu-an-phuong-nai-hien-dong-49/at-biet-thu-vinh-bien-183m-gia-so-khai-90-tr-m-canh-sieu-o-thi-thuan-phuoc-pr45938734",
-    "date": "23/6/2026",
-    "postedAt": 1782172800000
-  },
-  {
-    "id": 45740907,
-    "title": "Tòa căn hộ ven sông Hàn biển Mỹ Khê, có giá nét nhất thị trường",
-    "price": 14200000000,
-    "priceString": "14,2 tỷ",
-    "pricePerSqm": 135.2,
-    "size": 105,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-truong-cong-hy-phuong-khue-my-khu-do-thi-nam-cau-tuyen-son/toa-can-ho-ven-song-han-bien-khe-co-gia-net-nhat-truong-pr45740907",
     "date": "23/6/2026",
     "postedAt": 1782172800000
   },
@@ -1497,6 +1497,22 @@
     "postedAt": 1781049600000
   },
   {
+    "id": 45737621,
+    "title": "Bán nhà riêng tại K54/38 đường Ông Ích Khiêm, 5,4 tỷ, 64,3m2, giá siêu hời",
+    "price": 5400000000,
+    "priceString": "5,4 tỷ",
+    "pricePerSqm": 84,
+    "size": 64.3,
+    "district": "Q. Hải Châu",
+    "ward": "",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
+    "date": "",
+    "postedAt": 0
+  },
+  {
     "id": 45872865,
     "title": "Bán căn hộ 2PN 60m2 tại The Meridian, Đà Nẵng view pháo hoa sông Hàn, giá đầu tư tốt",
     "price": 0,
@@ -1525,22 +1541,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-duyet-phuong-nai-hien-dong-symphony-5/chi-tu-500-trieu-so-huu-cao-cap-sat-song-phao-hoa-diff-khai-thac-cho-thue-1-2-trieu-em-pr45814346",
-    "date": "",
-    "postedAt": 0
-  },
-  {
-    "id": 45737621,
-    "title": "Bán nhà riêng tại K54/38 đường Ông Ích Khiêm, 5,4 tỷ, 64,3m2, giá siêu hời",
-    "price": 5400000000,
-    "priceString": "5,4 tỷ",
-    "pricePerSqm": 84,
-    "size": 64.3,
-    "district": "Q. Hải Châu",
-    "ward": "",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
     "date": "",
     "postedAt": 0
   },
@@ -1685,8 +1685,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
-    "date": "23/6/2026",
-    "postedAt": 1782172800000
+    "date": "24/6/2026",
+    "postedAt": 1782259200000
   },
   {
     "id": 45937446,
@@ -1769,6 +1769,22 @@
     "postedAt": 1781654400000
   },
   {
+    "id": 45740907,
+    "title": "Tòa căn hộ ven sông Hàn biển Mỹ Khê, có giá nét nhất thị trường",
+    "price": 14200000000,
+    "priceString": "14,2 tỷ",
+    "pricePerSqm": 135.2,
+    "size": 105,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-truong-cong-hy-phuong-khue-my-khu-do-thi-nam-cau-tuyen-son/toa-can-ho-ven-song-han-bien-khe-co-gia-net-nhat-truong-pr45740907",
+    "date": "23/6/2026",
+    "postedAt": 1782172800000
+  },
+  {
     "id": 44054035,
     "title": "Bán 2 lô liền kề đường An Tư Công Chúa - Gần sông Hàn - KDC Nam Cầu Trần Thị Lý",
     "price": 35000000000,
@@ -1813,22 +1829,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-huu-an-phuong-nai-hien-dong-49/at-biet-thu-vinh-bien-183m-gia-so-khai-90-tr-m-canh-sieu-o-thi-thuan-phuoc-pr45938734",
-    "date": "23/6/2026",
-    "postedAt": 1782172800000
-  },
-  {
-    "id": 45740907,
-    "title": "Tòa căn hộ ven sông Hàn biển Mỹ Khê, có giá nét nhất thị trường",
-    "price": 14200000000,
-    "priceString": "14,2 tỷ",
-    "pricePerSqm": 135.2,
-    "size": 105,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-truong-cong-hy-phuong-khue-my-khu-do-thi-nam-cau-tuyen-son/toa-can-ho-ven-song-han-bien-khe-co-gia-net-nhat-truong-pr45740907",
     "date": "23/6/2026",
     "postedAt": 1782172800000
   },
