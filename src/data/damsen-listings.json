@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/1iOIQkwKPs212o2Lbo2cSA_l1VLfJPpJrDT143-gkKg/preset:listing/plain/cf8ddbb6d3bc058cfc9cab3b7181edaf-2992486570646173197.jpg",
     "url": "https://www.nhatot.com/133466126.htm",
-    "date": "12 giờ trước",
+    "date": "14 giờ trước",
     "postedAt": 1783661480000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -473,8 +473,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-da-phuoc-2-phuong-khue-my-khu-do-thi-nam-cau-tuyen-son/ban-3-tang-full-noi-that-tien-le-van-thu-dong-tien-on-inh-pr45729422",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
+    "date": "11/7/2026",
+    "postedAt": 1783728000000
   },
   {
     "id": 43085918,
@@ -509,6 +509,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 46025392,
+    "title": "Trục chính 7,5m Nguyễn Thành Long kẹp cống sát góc đường 10,5m - cách chung cư chỉ 50m",
+    "price": 4400000000,
+    "priceString": "4,4 tỷ",
+    "pricePerSqm": 44,
+    "size": 100,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
+    "date": "11/7/2026",
+    "postedAt": 1783728000000
+  },
+  {
     "id": 45940920,
     "title": "Chính chủ, bán đất đường Hoàng Thế Thiện, Hòa Xuân, Đà Nẵng",
     "price": 10000000000,
@@ -525,22 +541,6 @@
     "postedAt": 1783641600000
   },
   {
-    "id": 45554638,
-    "title": "Một ngôi nhà 3 tầng đường ô tô nhựa, sát biển và chợ khoảng 50m, lại có phòng ngủ dưới tiện lợi",
-    "price": 5150000000,
-    "priceString": "5,15 tỷ",
-    "pricePerSqm": 78.6,
-    "size": 65.5,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hòa Khánh mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-chanh-phuong-hoa-minh-47/ban-kiet-nhua-o-to-gan-bien-tat-thanh-uong-full-noi-that-gia-tot-pr45554638",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
-  },
-  {
     "id": 46027473,
     "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
     "price": 24200000000,
@@ -553,22 +553,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-lo-at-ngay-khan-ai-phao-hoa-pr46027473",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
-  },
-  {
-    "id": 46025392,
-    "title": "Trục chính 7,5m Nguyễn Thành Long kẹp cống sát góc đường 10,5m - cách chung cư chỉ 50m",
-    "price": 4400000000,
-    "priceString": "4,4 tỷ",
-    "pricePerSqm": 44,
-    "size": 100,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
     "date": "10/7/2026",
     "postedAt": 1783641600000
   },
@@ -601,6 +585,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-huu-an-phuong-nai-hien-dong-49/at-biet-thu-vinh-bien-183m-gia-so-khai-90-tr-m-canh-sieu-o-thi-thuan-phuoc-pr45938734",
+    "date": "10/7/2026",
+    "postedAt": 1783641600000
+  },
+  {
+    "id": 46018063,
+    "title": "Hàng hiếm! Siêu phẩm - K. Nguyễn Văn Thoại - 87m2 ngang 5.2m - lõi phố tây An Thượng - Giá đầu tư",
+    "price": 12800000000,
+    "priceString": "12,8 tỷ",
+    "pricePerSqm": 147.1,
+    "size": 87,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-van-thoai-phuong-phuoc-my-49/hang-hiem-sieu-pham-k-87m-ngang-5-2m-loi-pho-tay-an-thuong-gia-au-tu-pr46018063",
     "date": "10/7/2026",
     "postedAt": 1783641600000
   },
@@ -1132,8 +1132,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-da-phuoc-2-phuong-khue-my-khu-do-thi-nam-cau-tuyen-son/ban-3-tang-full-noi-that-tien-le-van-thu-dong-tien-on-inh-pr45729422",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
+    "date": "11/7/2026",
+    "postedAt": 1783728000000
   },
   {
     "id": 43085918,
@@ -1168,6 +1168,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 46025392,
+    "title": "Trục chính 7,5m Nguyễn Thành Long kẹp cống sát góc đường 10,5m - cách chung cư chỉ 50m",
+    "price": 4400000000,
+    "priceString": "4,4 tỷ",
+    "pricePerSqm": 44,
+    "size": 100,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
+    "date": "11/7/2026",
+    "postedAt": 1783728000000
+  },
+  {
     "id": 45940920,
     "title": "Chính chủ, bán đất đường Hoàng Thế Thiện, Hòa Xuân, Đà Nẵng",
     "price": 10000000000,
@@ -1184,22 +1200,6 @@
     "postedAt": 1783641600000
   },
   {
-    "id": 45554638,
-    "title": "Một ngôi nhà 3 tầng đường ô tô nhựa, sát biển và chợ khoảng 50m, lại có phòng ngủ dưới tiện lợi",
-    "price": 5150000000,
-    "priceString": "5,15 tỷ",
-    "pricePerSqm": 78.6,
-    "size": 65.5,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hòa Khánh mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-chanh-phuong-hoa-minh-47/ban-kiet-nhua-o-to-gan-bien-tat-thanh-uong-full-noi-that-gia-tot-pr45554638",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
-  },
-  {
     "id": 46027473,
     "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
     "price": 24200000000,
@@ -1212,22 +1212,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-lo-at-ngay-khan-ai-phao-hoa-pr46027473",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
-  },
-  {
-    "id": 46025392,
-    "title": "Trục chính 7,5m Nguyễn Thành Long kẹp cống sát góc đường 10,5m - cách chung cư chỉ 50m",
-    "price": 4400000000,
-    "priceString": "4,4 tỷ",
-    "pricePerSqm": 44,
-    "size": 100,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
     "date": "10/7/2026",
     "postedAt": 1783641600000
   },
@@ -1260,6 +1244,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-huu-an-phuong-nai-hien-dong-49/at-biet-thu-vinh-bien-183m-gia-so-khai-90-tr-m-canh-sieu-o-thi-thuan-phuoc-pr45938734",
+    "date": "10/7/2026",
+    "postedAt": 1783641600000
+  },
+  {
+    "id": 46018063,
+    "title": "Hàng hiếm! Siêu phẩm - K. Nguyễn Văn Thoại - 87m2 ngang 5.2m - lõi phố tây An Thượng - Giá đầu tư",
+    "price": 12800000000,
+    "priceString": "12,8 tỷ",
+    "pricePerSqm": 147.1,
+    "size": 87,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-van-thoai-phuong-phuoc-my-49/hang-hiem-sieu-pham-k-87m-ngang-5-2m-loi-pho-tay-an-thuong-gia-au-tu-pr46018063",
     "date": "10/7/2026",
     "postedAt": 1783641600000
   },
@@ -1790,8 +1790,8 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-da-phuoc-2-phuong-khue-my-khu-do-thi-nam-cau-tuyen-son/ban-3-tang-full-noi-that-tien-le-van-thu-dong-tien-on-inh-pr45729422",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
+    "date": "11/7/2026",
+    "postedAt": 1783728000000
   },
   {
     "id": 43085918,
@@ -1826,6 +1826,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 46025392,
+    "title": "Trục chính 7,5m Nguyễn Thành Long kẹp cống sát góc đường 10,5m - cách chung cư chỉ 50m",
+    "price": 4400000000,
+    "priceString": "4,4 tỷ",
+    "pricePerSqm": 44,
+    "size": 100,
+    "district": "Q. Liên Chiểu",
+    "ward": "P. Hải Vân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
+    "date": "11/7/2026",
+    "postedAt": 1783728000000
+  },
+  {
     "id": 45940920,
     "title": "Chính chủ, bán đất đường Hoàng Thế Thiện, Hòa Xuân, Đà Nẵng",
     "price": 10000000000,
@@ -1842,22 +1858,6 @@
     "postedAt": 1783641600000
   },
   {
-    "id": 45554638,
-    "title": "Một ngôi nhà 3 tầng đường ô tô nhựa, sát biển và chợ khoảng 50m, lại có phòng ngủ dưới tiện lợi",
-    "price": 5150000000,
-    "priceString": "5,15 tỷ",
-    "pricePerSqm": 78.6,
-    "size": 65.5,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hòa Khánh mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-nguyen-chanh-phuong-hoa-minh-47/ban-kiet-nhua-o-to-gan-bien-tat-thanh-uong-full-noi-that-gia-tot-pr45554638",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
-  },
-  {
     "id": 46027473,
     "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
     "price": 24200000000,
@@ -1870,22 +1870,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-lo-at-ngay-khan-ai-phao-hoa-pr46027473",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
-  },
-  {
-    "id": 46025392,
-    "title": "Trục chính 7,5m Nguyễn Thành Long kẹp cống sát góc đường 10,5m - cách chung cư chỉ 50m",
-    "price": 4400000000,
-    "priceString": "4,4 tỷ",
-    "pricePerSqm": 44,
-    "size": 100,
-    "district": "Q. Liên Chiểu",
-    "ward": "P. Hải Vân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
     "date": "10/7/2026",
     "postedAt": 1783641600000
   },
@@ -1918,6 +1902,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-huu-an-phuong-nai-hien-dong-49/at-biet-thu-vinh-bien-183m-gia-so-khai-90-tr-m-canh-sieu-o-thi-thuan-phuoc-pr45938734",
+    "date": "10/7/2026",
+    "postedAt": 1783641600000
+  },
+  {
+    "id": 46018063,
+    "title": "Hàng hiếm! Siêu phẩm - K. Nguyễn Văn Thoại - 87m2 ngang 5.2m - lõi phố tây An Thượng - Giá đầu tư",
+    "price": 12800000000,
+    "priceString": "12,8 tỷ",
+    "pricePerSqm": 147.1,
+    "size": 87,
+    "district": "Q. Sơn Trà",
+    "ward": "P. An Hải mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-nguyen-van-thoai-phuong-phuoc-my-49/hang-hiem-sieu-pham-k-87m-ngang-5-2m-loi-pho-tay-an-thuong-gia-au-tu-pr46018063",
     "date": "10/7/2026",
     "postedAt": 1783641600000
   },
