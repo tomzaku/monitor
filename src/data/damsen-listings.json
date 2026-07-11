@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/1iOIQkwKPs212o2Lbo2cSA_l1VLfJPpJrDT143-gkKg/preset:listing/plain/cf8ddbb6d3bc058cfc9cab3b7181edaf-2992486570646173197.jpg",
     "url": "https://www.nhatot.com/133466126.htm",
-    "date": "13 giờ trước",
+    "date": "14 giờ trước",
     "postedAt": 1783758721712,
     "lat": 15.982958,
     "lng": 108.23342
@@ -84,7 +84,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ru2WbZJwGaqJdH0trzawJLsqKz7K_QP3dUsvQ37TC-I/preset:listing/plain/588e4c1b2c26c10c44978217f89b8d38-2992333156023167635.jpg",
     "url": "https://www.nhatot.com/133444495.htm",
-    "date": "10 giờ trước",
+    "date": "11 giờ trước",
     "postedAt": 1783772096174,
     "lat": 15.99914,
     "lng": 108.250885,
@@ -510,6 +510,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 46027473,
+    "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
+    "price": 24200000000,
+    "priceString": "24,2 tỷ",
+    "pricePerSqm": 112.6,
+    "size": 215,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-lo-at-ngay-khan-ai-phao-hoa-pr46027473",
+    "date": "12/7/2026",
+    "postedAt": 1783814400000
+  },
+  {
     "id": 46025392,
     "title": "Trục chính 7,5m Nguyễn Thành Long kẹp cống sát góc đường 10,5m - cách chung cư chỉ 50m",
     "price": 4400000000,
@@ -524,22 +540,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
     "date": "12/7/2026",
     "postedAt": 1783814400000
-  },
-  {
-    "id": 46027473,
-    "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
-    "price": 24200000000,
-    "priceString": "24,2 tỷ",
-    "pricePerSqm": 112.6,
-    "size": 215,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-lo-at-ngay-khan-ai-phao-hoa-pr46027473",
-    "date": "11/7/2026",
-    "postedAt": 1783728000000
   },
   {
     "id": 45663213,
@@ -1167,6 +1167,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 46027473,
+    "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
+    "price": 24200000000,
+    "priceString": "24,2 tỷ",
+    "pricePerSqm": 112.6,
+    "size": 215,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-lo-at-ngay-khan-ai-phao-hoa-pr46027473",
+    "date": "12/7/2026",
+    "postedAt": 1783814400000
+  },
+  {
     "id": 46025392,
     "title": "Trục chính 7,5m Nguyễn Thành Long kẹp cống sát góc đường 10,5m - cách chung cư chỉ 50m",
     "price": 4400000000,
@@ -1181,22 +1197,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
     "date": "12/7/2026",
     "postedAt": 1783814400000
-  },
-  {
-    "id": 46027473,
-    "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
-    "price": 24200000000,
-    "priceString": "24,2 tỷ",
-    "pricePerSqm": 112.6,
-    "size": 215,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-lo-at-ngay-khan-ai-phao-hoa-pr46027473",
-    "date": "11/7/2026",
-    "postedAt": 1783728000000
   },
   {
     "id": 45663213,
@@ -1826,6 +1826,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 46027473,
+    "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
+    "price": 24200000000,
+    "priceString": "24,2 tỷ",
+    "pricePerSqm": 112.6,
+    "size": 215,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-lo-at-ngay-khan-ai-phao-hoa-pr46027473",
+    "date": "12/7/2026",
+    "postedAt": 1783814400000
+  },
+  {
     "id": 46025392,
     "title": "Trục chính 7,5m Nguyễn Thành Long kẹp cống sát góc đường 10,5m - cách chung cư chỉ 50m",
     "price": 4400000000,
@@ -1840,22 +1856,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
     "date": "12/7/2026",
     "postedAt": 1783814400000
-  },
-  {
-    "id": 46027473,
-    "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
-    "price": 24200000000,
-    "priceString": "24,2 tỷ",
-    "pricePerSqm": 112.6,
-    "size": 215,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-hoai-thanh-phuong-my-an-48/ban-lo-at-ngay-khan-ai-phao-hoa-pr46027473",
-    "date": "11/7/2026",
-    "postedAt": 1783728000000
   },
   {
     "id": 45663213,
