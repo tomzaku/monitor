@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/1iOIQkwKPs212o2Lbo2cSA_l1VLfJPpJrDT143-gkKg/preset:listing/plain/cf8ddbb6d3bc058cfc9cab3b7181edaf-2992486570646173197.jpg",
     "url": "https://www.nhatot.com/133466126.htm",
-    "date": "17 giờ trước",
+    "date": "19 giờ trước",
     "postedAt": 1783661480000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -510,6 +510,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 45940920,
+    "title": "Chính chủ, bán đất đường Hoàng Thế Thiện, Hòa Xuân, Đà Nẵng",
+    "price": 10000000000,
+    "priceString": "10 tỷ",
+    "pricePerSqm": 83.3,
+    "size": 120,
+    "district": "Q. Cẩm Lệ",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-pho-hoang-the-thien-phuong-hoa-xuan-dream-home-kdt-hoa-xuan/ban-at-uong-tp-a-nang-pr45940920",
+    "date": "11/7/2026",
+    "postedAt": 1783728000000
+  },
+  {
     "id": 46027473,
     "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
     "price": 24200000000,
@@ -540,22 +556,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
     "date": "11/7/2026",
     "postedAt": 1783728000000
-  },
-  {
-    "id": 45940920,
-    "title": "Chính chủ, bán đất đường Hoàng Thế Thiện, Hòa Xuân, Đà Nẵng",
-    "price": 10000000000,
-    "priceString": "10 tỷ",
-    "pricePerSqm": 83.3,
-    "size": 120,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-pho-hoang-the-thien-phuong-hoa-xuan-dream-home-kdt-hoa-xuan/ban-at-uong-tp-a-nang-pr45940920",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
   },
   {
     "id": 45663213,
@@ -1168,6 +1168,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 45940920,
+    "title": "Chính chủ, bán đất đường Hoàng Thế Thiện, Hòa Xuân, Đà Nẵng",
+    "price": 10000000000,
+    "priceString": "10 tỷ",
+    "pricePerSqm": 83.3,
+    "size": 120,
+    "district": "Q. Cẩm Lệ",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-pho-hoang-the-thien-phuong-hoa-xuan-dream-home-kdt-hoa-xuan/ban-at-uong-tp-a-nang-pr45940920",
+    "date": "11/7/2026",
+    "postedAt": 1783728000000
+  },
+  {
     "id": 46027473,
     "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
     "price": 24200000000,
@@ -1198,22 +1214,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
     "date": "11/7/2026",
     "postedAt": 1783728000000
-  },
-  {
-    "id": 45940920,
-    "title": "Chính chủ, bán đất đường Hoàng Thế Thiện, Hòa Xuân, Đà Nẵng",
-    "price": 10000000000,
-    "priceString": "10 tỷ",
-    "pricePerSqm": 83.3,
-    "size": 120,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-pho-hoang-the-thien-phuong-hoa-xuan-dream-home-kdt-hoa-xuan/ban-at-uong-tp-a-nang-pr45940920",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
   },
   {
     "id": 45663213,
@@ -1826,6 +1826,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 45940920,
+    "title": "Chính chủ, bán đất đường Hoàng Thế Thiện, Hòa Xuân, Đà Nẵng",
+    "price": 10000000000,
+    "priceString": "10 tỷ",
+    "pricePerSqm": 83.3,
+    "size": 120,
+    "district": "Q. Cẩm Lệ",
+    "ward": "P. Hòa Xuân mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-pho-hoang-the-thien-phuong-hoa-xuan-dream-home-kdt-hoa-xuan/ban-at-uong-tp-a-nang-pr45940920",
+    "date": "11/7/2026",
+    "postedAt": 1783728000000
+  },
+  {
     "id": 46027473,
     "title": "Bán lô đất Hoài Thanh, ngay khán đài pháo hoa",
     "price": 24200000000,
@@ -1856,22 +1872,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-duong-nguyen-thanh-long-phuong-hoa-hiep-nam-lakeside-palace/truc-chinh-7-5m-kep-cong-sat-goc-uong-10-5m-cach-chung-cu-chi-50m-pr46025392",
     "date": "11/7/2026",
     "postedAt": 1783728000000
-  },
-  {
-    "id": 45940920,
-    "title": "Chính chủ, bán đất đường Hoàng Thế Thiện, Hòa Xuân, Đà Nẵng",
-    "price": 10000000000,
-    "priceString": "10 tỷ",
-    "pricePerSqm": 83.3,
-    "size": 120,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Hòa Xuân mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-nen-du-an-pho-hoang-the-thien-phuong-hoa-xuan-dream-home-kdt-hoa-xuan/ban-at-uong-tp-a-nang-pr45940920",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
   },
   {
     "id": 45663213,
@@ -2158,20 +2158,20 @@
     "postedAt": 1782691200000
   },
   {
-    "id": 45965625,
-    "title": "2 tòa tháp đẹp nhất KĐT Hòa Xuân - Tầm view biển Mỹ Khê + trực diện sông Hàn + Pháo hoa vĩnh viễn",
-    "price": 0,
-    "priceString": "Giá thỏa thuận",
-    "pricePerSqm": 0,
-    "size": 95.1,
-    "district": "Q. Cẩm Lệ",
-    "ward": "P. Hòa Xuân mới",
+    "id": 46015067,
+    "title": "Sở hữu căn hộ ngay trung tâm Đà Nẵng Aeon Mall tích hợp trong tòa nhà chỉ từ 2,5 tỷ/căn",
+    "price": 2950000000,
+    "priceString": "2,95 tỷ",
+    "pricePerSqm": 49.2,
+    "size": 60,
+    "district": "Q. Thanh Khê",
+    "ward": "P. Thanh Khê mới",
     "street": "",
     "category": "Bất động sản",
-    "rooms": 3,
-    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/06/26/20260626142430-ab6c_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-dinh-thi-phuong-hoa-xuan-s-light-tower/ang-quang-srt-gia-that-khong-ao-thong-tin-chuan-100-tu-c-t-sun-group-pr45965625",
-    "date": "10/7/2026",
-    "postedAt": 1783641600000
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/07/07/20260707220016-f702_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-dien-bien-phu-phuong-chinh-gian-ttc-plaza-da-nang/so-huu-ngay-trung-tam-a-aeon-mall-tich-hop-trong-toa-nha-chi-tu-2-5-ty-can-pr46015067",
+    "date": "11/7/2026",
+    "postedAt": 1783728000000
   }
 ]
