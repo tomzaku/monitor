@@ -18,24 +18,6 @@
     "lng": 108.23342
   },
   {
-    "id": 175681861,
-    "title": "Cô Nhi Chính Chủ Bán Đất Nam Hòa Xuân Khu Đầm Sen B2.132 Giá 4 Tỷ",
-    "price": 4000000000,
-    "priceString": "4 tỷ",
-    "pricePerSqm": 40,
-    "size": 100,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/j5XYGf9vyAo5YZDyiHp8cTTyfqX1juU7Gtk9kgpHWE4/preset:listing/plain/507b8739625175be79e1a9301a92f94d-2981522533677831682.jpg",
-    "url": "https://www.nhatot.com/132044939.htm",
-    "date": "hôm qua",
-    "postedAt": 1784079286000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 177239381,
     "title": "Rẻ nhất đầm sen hướng đông nam",
     "price": 5070000000,
@@ -52,6 +34,24 @@
     "postedAt": 1783259713000,
     "lat": 15.982958,
     "lng": 108.23342
+  },
+  {
+    "id": 175681861,
+    "title": "Cô Nhi Chính Chủ Bán Đất Nam Hòa Xuân Khu Đầm Sen B2.132 Giá 4 Tỷ",
+    "price": 4000000000,
+    "priceString": "4 tỷ",
+    "pricePerSqm": 40,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/j5XYGf9vyAo5YZDyiHp8cTTyfqX1juU7Gtk9kgpHWE4/preset:listing/plain/507b8739625175be79e1a9301a92f94d-2981522533677831682.jpg",
+    "url": "https://www.nhatot.com/132044939.htm",
+    "date": "hôm qua",
+    "postedAt": 1784079286000,
+    "lat": 15.99914,
+    "lng": 108.250885
   },
   {
     "id": 174411460,
