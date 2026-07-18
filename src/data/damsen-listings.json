@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/2wAIupGLqcqwtRGZzYaU-l6GgNnIgCGFn0jqNUDD-xE/preset:listing/plain/9b2a213c01c42118cae40df1559c071e-2993651292769738762.jpg",
     "url": "https://www.nhatot.com/133617943.htm",
-    "date": "6 giờ trước",
+    "date": "8 giờ trước",
     "postedAt": 1784355969000,
     "lat": 15.99914,
     "lng": 108.250885
@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/5cemO5DUSi2uX5WD0ozbIJdwZGeowQPUn-BpyJbu-C0/preset:listing/plain/0e21a672813dfb281f39577bcd42f3b8-2993688226131797928.jpg",
     "url": "https://www.nhatot.com/133624987.htm",
-    "date": "2 phút trước",
+    "date": "2 giờ trước",
     "postedAt": 1784377587000,
     "lat": 16.01607,
     "lng": 108.22902
@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/vDRu6DNQf0e4DJlcuOikuvUgrZeUIQtOOI_xmy7KH-s/preset:listing/plain/2b70aa3dc4568c6ad15095ce7279a0b0-2987057396488169054.jpg",
     "url": "https://www.nhatot.com/132753572.htm",
-    "date": "8 giờ trước",
+    "date": "10 giờ trước",
     "postedAt": 1784348020000,
     "lat": 16.012083,
     "lng": 108.2431
@@ -90,6 +90,24 @@
     "lng": 108.23342
   },
   {
+    "id": 175681861,
+    "title": "Cô Nhi Chính Chủ Bán Đất Nam Hòa Xuân Khu Đầm Sen B2.132 Giá 4 Tỷ",
+    "price": 4000000000,
+    "priceString": "4 tỷ",
+    "pricePerSqm": 40,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/j5XYGf9vyAo5YZDyiHp8cTTyfqX1juU7Gtk9kgpHWE4/preset:listing/plain/507b8739625175be79e1a9301a92f94d-2981522533677831682.jpg",
+    "url": "https://www.nhatot.com/132044939.htm",
+    "date": "4 ngày trước",
+    "postedAt": 1784079286000,
+    "lat": 15.99914,
+    "lng": 108.250885
+  },
+  {
     "id": 177239381,
     "title": "Rẻ nhất đầm sen hướng đông nam",
     "price": 5070000000,
@@ -106,24 +124,6 @@
     "postedAt": 1783259713000,
     "lat": 15.982958,
     "lng": 108.23342
-  },
-  {
-    "id": 175681861,
-    "title": "Cô Nhi Chính Chủ Bán Đất Nam Hòa Xuân Khu Đầm Sen B2.132 Giá 4 Tỷ",
-    "price": 4000000000,
-    "priceString": "4 tỷ",
-    "pricePerSqm": 40,
-    "size": 100,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/j5XYGf9vyAo5YZDyiHp8cTTyfqX1juU7Gtk9kgpHWE4/preset:listing/plain/507b8739625175be79e1a9301a92f94d-2981522533677831682.jpg",
-    "url": "https://www.nhatot.com/132044939.htm",
-    "date": "3 ngày trước",
-    "postedAt": 1784079286000,
-    "lat": 15.99914,
-    "lng": 108.250885
   },
   {
     "id": 174411460,
@@ -514,6 +514,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 46026420,
+    "title": "Lô góc 2 mặt kiệt lớn, kiệt Bình Kỳ, gần chợ, gần sát trường TH Tô Hiến Thành, kinh doanh tốt",
+    "price": 2800000000,
+    "priceString": "2,8 tỷ",
+    "pricePerSqm": 46.7,
+    "size": 60,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-binh-ky-phuong-hoa-quy-48/lo-goc-2-mat-kiet-lon-kiet-gan-cho-gan-sat-truong-th-to-hien-thanh-kinh-doanh-tot-pr46026420",
+    "date": "18/7/2026",
+    "postedAt": 1784332800000
+  },
+  {
     "id": 45737621,
     "title": "Bán nhà riêng tại K54/38 Đường Ông Ích Khiêm, 5,4 tỷ, 64,3m², giá siêu hời",
     "price": 5400000000,
@@ -542,22 +558,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-nguyen-du-phuong-thach-thang-46/ban-toa-van-phong-7-tang-mt-98m2-ngang-9-10m-truc-lon-10m5-sat-song-han-pr46037410",
-    "date": "18/7/2026",
-    "postedAt": 1784332800000
-  },
-  {
-    "id": 46026420,
-    "title": "Lô góc 2 mặt kiệt lớn, kiệt Bình Kỳ, gần chợ, gần sát trường TH Tô Hiến Thành, kinh doanh tốt",
-    "price": 2800000000,
-    "priceString": "2,8 tỷ",
-    "pricePerSqm": 46.7,
-    "size": 60,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-binh-ky-phuong-hoa-quy-48/lo-goc-2-mat-kiet-lon-kiet-gan-cho-gan-sat-truong-th-to-hien-thanh-kinh-doanh-tot-pr46026420",
     "date": "18/7/2026",
     "postedAt": 1784332800000
   },
@@ -1172,6 +1172,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 46026420,
+    "title": "Lô góc 2 mặt kiệt lớn, kiệt Bình Kỳ, gần chợ, gần sát trường TH Tô Hiến Thành, kinh doanh tốt",
+    "price": 2800000000,
+    "priceString": "2,8 tỷ",
+    "pricePerSqm": 46.7,
+    "size": 60,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-binh-ky-phuong-hoa-quy-48/lo-goc-2-mat-kiet-lon-kiet-gan-cho-gan-sat-truong-th-to-hien-thanh-kinh-doanh-tot-pr46026420",
+    "date": "18/7/2026",
+    "postedAt": 1784332800000
+  },
+  {
     "id": 45737621,
     "title": "Bán nhà riêng tại K54/38 Đường Ông Ích Khiêm, 5,4 tỷ, 64,3m², giá siêu hời",
     "price": 5400000000,
@@ -1200,22 +1216,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-nguyen-du-phuong-thach-thang-46/ban-toa-van-phong-7-tang-mt-98m2-ngang-9-10m-truc-lon-10m5-sat-song-han-pr46037410",
-    "date": "18/7/2026",
-    "postedAt": 1784332800000
-  },
-  {
-    "id": 46026420,
-    "title": "Lô góc 2 mặt kiệt lớn, kiệt Bình Kỳ, gần chợ, gần sát trường TH Tô Hiến Thành, kinh doanh tốt",
-    "price": 2800000000,
-    "priceString": "2,8 tỷ",
-    "pricePerSqm": 46.7,
-    "size": 60,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-binh-ky-phuong-hoa-quy-48/lo-goc-2-mat-kiet-lon-kiet-gan-cho-gan-sat-truong-th-to-hien-thanh-kinh-doanh-tot-pr46026420",
     "date": "18/7/2026",
     "postedAt": 1784332800000
   },
@@ -1828,6 +1828,22 @@
     "postedAt": 1783296000000
   },
   {
+    "id": 46026420,
+    "title": "Lô góc 2 mặt kiệt lớn, kiệt Bình Kỳ, gần chợ, gần sát trường TH Tô Hiến Thành, kinh doanh tốt",
+    "price": 2800000000,
+    "priceString": "2,8 tỷ",
+    "pricePerSqm": 46.7,
+    "size": 60,
+    "district": "Q. Ngũ Hành Sơn",
+    "ward": "P. Ngũ Hành Sơn mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-binh-ky-phuong-hoa-quy-48/lo-goc-2-mat-kiet-lon-kiet-gan-cho-gan-sat-truong-th-to-hien-thanh-kinh-doanh-tot-pr46026420",
+    "date": "18/7/2026",
+    "postedAt": 1784332800000
+  },
+  {
     "id": 45737621,
     "title": "Bán nhà riêng tại K54/38 Đường Ông Ích Khiêm, 5,4 tỷ, 64,3m², giá siêu hời",
     "price": 5400000000,
@@ -1856,22 +1872,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-nguyen-du-phuong-thach-thang-46/ban-toa-van-phong-7-tang-mt-98m2-ngang-9-10m-truc-lon-10m5-sat-song-han-pr46037410",
-    "date": "18/7/2026",
-    "postedAt": 1784332800000
-  },
-  {
-    "id": 46026420,
-    "title": "Lô góc 2 mặt kiệt lớn, kiệt Bình Kỳ, gần chợ, gần sát trường TH Tô Hiến Thành, kinh doanh tốt",
-    "price": 2800000000,
-    "priceString": "2,8 tỷ",
-    "pricePerSqm": 46.7,
-    "size": 60,
-    "district": "Q. Ngũ Hành Sơn",
-    "ward": "P. Ngũ Hành Sơn mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-binh-ky-phuong-hoa-quy-48/lo-goc-2-mat-kiet-lon-kiet-gan-cho-gan-sat-truong-th-to-hien-thanh-kinh-doanh-tot-pr46026420",
     "date": "18/7/2026",
     "postedAt": 1784332800000
   },
