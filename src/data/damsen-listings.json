@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/vDRu6DNQf0e4DJlcuOikuvUgrZeUIQtOOI_xmy7KH-s/preset:listing/plain/2b70aa3dc4568c6ad15095ce7279a0b0-2987057396488169054.jpg",
     "url": "https://www.nhatot.com/132753572.htm",
-    "date": "18 giờ trước",
+    "date": "20 giờ trước",
     "postedAt": 1784387719465,
     "lat": 16.012083,
     "lng": 108.2431
@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/5cemO5DUSi2uX5WD0ozbIJdwZGeowQPUn-BpyJbu-C0/preset:listing/plain/0e21a672813dfb281f39577bcd42f3b8-2993688226131797928.jpg",
     "url": "https://www.nhatot.com/133624987.htm",
-    "date": "5 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1784437203648,
     "lat": 16.01607,
     "lng": 108.22902
@@ -90,24 +90,6 @@
     "lng": 108.23342
   },
   {
-    "id": 177239381,
-    "title": "Rẻ nhất đầm sen hướng đông nam",
-    "price": 5070000000,
-    "priceString": "5,07 tỷ",
-    "pricePerSqm": 50.7,
-    "size": 100,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Nguyễn Sỹ Huynh",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/BfV8u6Bvym2K71S3LODuC0gukBOT7R0XF2EKx2aECLU/preset:listing/plain/1988dcdb06a5c1b0910a7cae6047ec03-2991812967120027723.jpg",
-    "url": "https://www.nhatot.com/133378135.htm",
-    "date": "2 tuần trước",
-    "postedAt": 1783259713000,
-    "lat": 15.982958,
-    "lng": 108.23342
-  },
-  {
     "id": 175681861,
     "title": "Cô Nhi Chính Chủ Bán Đất Nam Hòa Xuân Khu Đầm Sen B2.132 Giá 4 Tỷ",
     "price": 4000000000,
@@ -124,6 +106,24 @@
     "postedAt": 1784079286000,
     "lat": 15.99914,
     "lng": 108.250885
+  },
+  {
+    "id": 177239381,
+    "title": "Rẻ nhất đầm sen hướng đông nam",
+    "price": 5070000000,
+    "priceString": "5,07 tỷ",
+    "pricePerSqm": 50.7,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Nguyễn Sỹ Huynh",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/BfV8u6Bvym2K71S3LODuC0gukBOT7R0XF2EKx2aECLU/preset:listing/plain/1988dcdb06a5c1b0910a7cae6047ec03-2991812967120027723.jpg",
+    "url": "https://www.nhatot.com/133378135.htm",
+    "date": "2 tuần trước",
+    "postedAt": 1783259713000,
+    "lat": 15.982958,
+    "lng": 108.23342
   },
   {
     "id": 177088050,
@@ -462,6 +462,22 @@
     "postedAt": 1784073600000
   },
   {
+    "id": 45737621,
+    "title": "Bán nhà riêng tại K54/38 Đường Ông Ích Khiêm, 5,4 tỷ, 64,3m², giá siêu hời",
+    "price": 5400000000,
+    "priceString": "5,4 tỷ",
+    "pricePerSqm": 84,
+    "size": 64.3,
+    "district": "Q. Hải Châu",
+    "ward": "P. Hải Châu mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
+    "date": "19/7/2026",
+    "postedAt": 1784419200000
+  },
+  {
     "id": 46064447,
     "title": "Biệt thự kiến trúc tân cổ điển Chơn Tâm 9",
     "price": 18500000000,
@@ -490,22 +506,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-ly-thai-tong-phuong-hoa-minh-47/ban-tien-uong-lien-chieu-a-nang-pr46063974",
-    "date": "19/7/2026",
-    "postedAt": 1784419200000
-  },
-  {
-    "id": 45737621,
-    "title": "Bán nhà riêng tại K54/38 Đường Ông Ích Khiêm, 5,4 tỷ, 64,3m², giá siêu hời",
-    "price": 5400000000,
-    "priceString": "5,4 tỷ",
-    "pricePerSqm": 84,
-    "size": 64.3,
-    "district": "Q. Hải Châu",
-    "ward": "P. Hải Châu mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
     "date": "19/7/2026",
     "postedAt": 1784419200000
   },
@@ -1120,6 +1120,22 @@
     "postedAt": 1784073600000
   },
   {
+    "id": 45737621,
+    "title": "Bán nhà riêng tại K54/38 Đường Ông Ích Khiêm, 5,4 tỷ, 64,3m², giá siêu hời",
+    "price": 5400000000,
+    "priceString": "5,4 tỷ",
+    "pricePerSqm": 84,
+    "size": 64.3,
+    "district": "Q. Hải Châu",
+    "ward": "P. Hải Châu mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
+    "date": "19/7/2026",
+    "postedAt": 1784419200000
+  },
+  {
     "id": 46064447,
     "title": "Biệt thự kiến trúc tân cổ điển Chơn Tâm 9",
     "price": 18500000000,
@@ -1148,22 +1164,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-ly-thai-tong-phuong-hoa-minh-47/ban-tien-uong-lien-chieu-a-nang-pr46063974",
-    "date": "19/7/2026",
-    "postedAt": 1784419200000
-  },
-  {
-    "id": 45737621,
-    "title": "Bán nhà riêng tại K54/38 Đường Ông Ích Khiêm, 5,4 tỷ, 64,3m², giá siêu hời",
-    "price": 5400000000,
-    "priceString": "5,4 tỷ",
-    "pricePerSqm": 84,
-    "size": 64.3,
-    "district": "Q. Hải Châu",
-    "ward": "P. Hải Châu mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
     "date": "19/7/2026",
     "postedAt": 1784419200000
   },
@@ -1777,6 +1777,22 @@
     "postedAt": 1784073600000
   },
   {
+    "id": 45737621,
+    "title": "Bán nhà riêng tại K54/38 Đường Ông Ích Khiêm, 5,4 tỷ, 64,3m², giá siêu hời",
+    "price": 5400000000,
+    "priceString": "5,4 tỷ",
+    "pricePerSqm": 84,
+    "size": 64.3,
+    "district": "Q. Hải Châu",
+    "ward": "P. Hải Châu mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
+    "date": "19/7/2026",
+    "postedAt": 1784419200000
+  },
+  {
     "id": 46064447,
     "title": "Biệt thự kiến trúc tân cổ điển Chơn Tâm 9",
     "price": 18500000000,
@@ -1805,22 +1821,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-ly-thai-tong-phuong-hoa-minh-47/ban-tien-uong-lien-chieu-a-nang-pr46063974",
-    "date": "19/7/2026",
-    "postedAt": 1784419200000
-  },
-  {
-    "id": 45737621,
-    "title": "Bán nhà riêng tại K54/38 Đường Ông Ích Khiêm, 5,4 tỷ, 64,3m², giá siêu hời",
-    "price": 5400000000,
-    "priceString": "5,4 tỷ",
-    "pricePerSqm": 84,
-    "size": 64.3,
-    "district": "Q. Hải Châu",
-    "ward": "P. Hải Châu mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-nha-rieng-duong-ong-ich-khiem-phuong-thanh-binh-46/ban-tai-k54-38-uong-4-95-ty-64-3-m2-gia-sieu-hoi-pr45737621",
     "date": "19/7/2026",
     "postedAt": 1784419200000
   },
