@@ -30,7 +30,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/2wAIupGLqcqwtRGZzYaU-l6GgNnIgCGFn0jqNUDD-xE/preset:listing/plain/9b2a213c01c42118cae40df1559c071e-2993651292769738762.jpg",
     "url": "https://www.nhatot.com/133617943.htm",
-    "date": "2 ngày trước",
+    "date": "3 ngày trước",
     "postedAt": 1784355969000,
     "lat": 15.99914,
     "lng": 108.250885
@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/5cemO5DUSi2uX5WD0ozbIJdwZGeowQPUn-BpyJbu-C0/preset:listing/plain/0e21a672813dfb281f39577bcd42f3b8-2993688226131797928.jpg",
     "url": "https://www.nhatot.com/133624987.htm",
-    "date": "4 giờ trước",
+    "date": "6 giờ trước",
     "postedAt": 1784552405035,
     "lat": 16.01607,
     "lng": 108.22902
@@ -66,7 +66,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/1iOIQkwKPs212o2Lbo2cSA_l1VLfJPpJrDT143-gkKg/preset:listing/plain/cf8ddbb6d3bc058cfc9cab3b7181edaf-2992486570646173197.jpg",
     "url": "https://www.nhatot.com/133466126.htm",
-    "date": "5 ngày trước",
+    "date": "6 ngày trước",
     "postedAt": 1784099103914,
     "lat": 15.982958,
     "lng": 108.23342
@@ -446,6 +446,22 @@
     "postedAt": 1784505600000
   },
   {
+    "id": 45620132,
+    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
+    "price": 12300000000,
+    "priceString": "12,3 tỷ",
+    "pricePerSqm": 136.7,
+    "size": 90,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
+    "date": "21/7/2026",
+    "postedAt": 1784592000000
+  },
+  {
     "id": 46057783,
     "title": "Đất TMDV An Thượng // Ngô Thì Sĩ - Gần Lê Quang Đạo - Xây 14 tầng, giá tốt hơn thị trường 40%",
     "price": 49400000000,
@@ -506,22 +522,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-ly-thai-tong-phuong-hoa-minh-47/ban-tien-uong-lien-chieu-a-nang-pr46063974",
-    "date": "20/7/2026",
-    "postedAt": 1784505600000
-  },
-  {
-    "id": 45620132,
-    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
-    "price": 12300000000,
-    "priceString": "12,3 tỷ",
-    "pricePerSqm": 136.7,
-    "size": 90,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
     "date": "20/7/2026",
     "postedAt": 1784505600000
   },
@@ -1104,6 +1104,22 @@
     "postedAt": 1784246400000
   },
   {
+    "id": 45620132,
+    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
+    "price": 12300000000,
+    "priceString": "12,3 tỷ",
+    "pricePerSqm": 136.7,
+    "size": 90,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
+    "date": "21/7/2026",
+    "postedAt": 1784592000000
+  },
+  {
     "id": 46057783,
     "title": "Đất TMDV An Thượng // Ngô Thì Sĩ - Gần Lê Quang Đạo - Xây 14 tầng, giá tốt hơn thị trường 40%",
     "price": 49400000000,
@@ -1164,22 +1180,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-ly-thai-tong-phuong-hoa-minh-47/ban-tien-uong-lien-chieu-a-nang-pr46063974",
-    "date": "20/7/2026",
-    "postedAt": 1784505600000
-  },
-  {
-    "id": 45620132,
-    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
-    "price": 12300000000,
-    "priceString": "12,3 tỷ",
-    "pricePerSqm": 136.7,
-    "size": 90,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
     "date": "20/7/2026",
     "postedAt": 1784505600000
   },
@@ -1762,6 +1762,22 @@
     "postedAt": 1783814400000
   },
   {
+    "id": 45620132,
+    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
+    "price": 12300000000,
+    "priceString": "12,3 tỷ",
+    "pricePerSqm": 136.7,
+    "size": 90,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
+    "date": "21/7/2026",
+    "postedAt": 1784592000000
+  },
+  {
     "id": 46057783,
     "title": "Đất TMDV An Thượng // Ngô Thì Sĩ - Gần Lê Quang Đạo - Xây 14 tầng, giá tốt hơn thị trường 40%",
     "price": 49400000000,
@@ -1822,22 +1838,6 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-nha-mat-pho-duong-ly-thai-tong-phuong-hoa-minh-47/ban-tien-uong-lien-chieu-a-nang-pr46063974",
-    "date": "20/7/2026",
-    "postedAt": 1784505600000
-  },
-  {
-    "id": 45620132,
-    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
-    "price": 12300000000,
-    "priceString": "12,3 tỷ",
-    "pricePerSqm": 136.7,
-    "size": 90,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
     "date": "20/7/2026",
     "postedAt": 1784505600000
   },
