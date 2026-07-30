@@ -66,7 +66,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/1HyP-kPyq0yyUY83A3huTCdR7-s2jWCycpl0bmC5zw4/preset:listing/plain/411cd23fb642a7e2865c58ea4a3c116b-2995124609522955126.jpg",
     "url": "https://www.nhatot.com/133810725.htm",
-    "date": "2 ngày trước",
+    "date": "3 ngày trước",
     "postedAt": 1785233433000,
     "lat": 16.012083,
     "lng": 108.2431
@@ -324,22 +324,6 @@
     "postedAt": 0
   },
   {
-    "id": 46069571,
-    "title": "Hàng hiếm căn 3PN trực diện sông Hàn chỉ 8 tỷ/căn sổ đỏ lâu dài - Tặng gói nội thất 100tr",
-    "price": 8000000000,
-    "priceString": "8 tỷ",
-    "pricePerSqm": 87,
-    "size": 92,
-    "district": "Q. Sơn Trà",
-    "ward": "",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-bac-capital-square/oc-quyen-3pn-truc-dien-song-han-chi-8-ty-so-o-lau-dai-tang-goi-noi-that-100tr-pr46069571",
-    "date": "",
-    "postedAt": 0
-  },
-  {
     "id": 45980088,
     "title": "Căn hộ TTC Plaza - Tổ ấm an cư ngay trung tâm thương mại Aeon Mall",
     "price": 2400000000,
@@ -352,6 +336,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-condotel-duong-dien-bien-phu-phuong-chinh-gian-ttc-plaza-da-nang/can-ho-to-am-an-cu-ngay-trung-tam-thuong-mai-aeon-mall-pr45980088",
+    "date": "",
+    "postedAt": 0
+  },
+  {
+    "id": 45342540,
+    "title": "Trực tiếp CĐT mặt biển Hải Vân Bay giá từ 9 tỷ, vốn từ 1,8 tỷ, rõ ràng thuê LN 21%/3 năm, HTLS 0%",
+    "price": 9000000000,
+    "priceString": "9 tỷ",
+    "pricePerSqm": 112.5,
+    "size": 80,
+    "district": "Q. Liên Chiểu",
+    "ward": "",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/bang-gia-ot-1-bien-chi-tu-9-38-ty-vin-lang-a-nang-so-huu-lau-dai-von-chi-tu-3-ty-hot-pr45342540",
     "date": "",
     "postedAt": 0
   },
@@ -420,6 +420,22 @@
     "postedAt": 1784937600000
   },
   {
+    "id": 45620132,
+    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
+    "price": 12300000000,
+    "priceString": "12,3 tỷ",
+    "pricePerSqm": 136.7,
+    "size": 90,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
+    "date": "31/7/2026",
+    "postedAt": 1785456000000
+  },
+  {
     "id": 43807613,
     "title": "Bán đất mặt tiền Mỹ Khê 5, Đà Nẵng, cách Nguyễn Văn Thoại 50m, chỉ 5 phút đi bộ đến biển Mỹ Khê",
     "price": 43000000000,
@@ -450,22 +466,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dinh-dat-phuong-phuoc-my-49/91m2-d-7m5-sat-bien-khe-son-tra-dep-re-pr42044228",
     "date": "31/7/2026",
     "postedAt": 1785456000000
-  },
-  {
-    "id": 45620132,
-    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
-    "price": 12300000000,
-    "priceString": "12,3 tỷ",
-    "pricePerSqm": 136.7,
-    "size": 90,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
-    "date": "30/7/2026",
-    "postedAt": 1785369600000
   },
   {
     "id": 46103327,
@@ -982,22 +982,6 @@
     "postedAt": 0
   },
   {
-    "id": 46069571,
-    "title": "Hàng hiếm căn 3PN trực diện sông Hàn chỉ 8 tỷ/căn sổ đỏ lâu dài - Tặng gói nội thất 100tr",
-    "price": 8000000000,
-    "priceString": "8 tỷ",
-    "pricePerSqm": 87,
-    "size": 92,
-    "district": "Q. Sơn Trà",
-    "ward": "",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-bac-capital-square/oc-quyen-3pn-truc-dien-song-han-chi-8-ty-so-o-lau-dai-tang-goi-noi-that-100tr-pr46069571",
-    "date": "",
-    "postedAt": 0
-  },
-  {
     "id": 45980088,
     "title": "Căn hộ TTC Plaza - Tổ ấm an cư ngay trung tâm thương mại Aeon Mall",
     "price": 2400000000,
@@ -1010,6 +994,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-condotel-duong-dien-bien-phu-phuong-chinh-gian-ttc-plaza-da-nang/can-ho-to-am-an-cu-ngay-trung-tam-thuong-mai-aeon-mall-pr45980088",
+    "date": "",
+    "postedAt": 0
+  },
+  {
+    "id": 45342540,
+    "title": "Trực tiếp CĐT mặt biển Hải Vân Bay giá từ 9 tỷ, vốn từ 1,8 tỷ, rõ ràng thuê LN 21%/3 năm, HTLS 0%",
+    "price": 9000000000,
+    "priceString": "9 tỷ",
+    "pricePerSqm": 112.5,
+    "size": 80,
+    "district": "Q. Liên Chiểu",
+    "ward": "",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/bang-gia-ot-1-bien-chi-tu-9-38-ty-vin-lang-a-nang-so-huu-lau-dai-von-chi-tu-3-ty-hot-pr45342540",
     "date": "",
     "postedAt": 0
   },
@@ -1079,6 +1079,22 @@
     "postedAt": 1784937600000
   },
   {
+    "id": 45620132,
+    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
+    "price": 12300000000,
+    "priceString": "12,3 tỷ",
+    "pricePerSqm": 136.7,
+    "size": 90,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
+    "date": "31/7/2026",
+    "postedAt": 1785456000000
+  },
+  {
     "id": 43807613,
     "title": "Bán đất mặt tiền Mỹ Khê 5, Đà Nẵng, cách Nguyễn Văn Thoại 50m, chỉ 5 phút đi bộ đến biển Mỹ Khê",
     "price": 43000000000,
@@ -1109,22 +1125,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dinh-dat-phuong-phuoc-my-49/91m2-d-7m5-sat-bien-khe-son-tra-dep-re-pr42044228",
     "date": "31/7/2026",
     "postedAt": 1785456000000
-  },
-  {
-    "id": 45620132,
-    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
-    "price": 12300000000,
-    "priceString": "12,3 tỷ",
-    "pricePerSqm": 136.7,
-    "size": 90,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
-    "date": "30/7/2026",
-    "postedAt": 1785369600000
   },
   {
     "id": 46103327,
@@ -1639,22 +1639,6 @@
     "postedAt": 0
   },
   {
-    "id": 46069571,
-    "title": "Hàng hiếm căn 3PN trực diện sông Hàn chỉ 8 tỷ/căn sổ đỏ lâu dài - Tặng gói nội thất 100tr",
-    "price": 8000000000,
-    "priceString": "8 tỷ",
-    "pricePerSqm": 87,
-    "size": 92,
-    "district": "Q. Sơn Trà",
-    "ward": "",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-bac-capital-square/oc-quyen-3pn-truc-dien-song-han-chi-8-ty-so-o-lau-dai-tang-goi-noi-that-100tr-pr46069571",
-    "date": "",
-    "postedAt": 0
-  },
-  {
     "id": 45980088,
     "title": "Căn hộ TTC Plaza - Tổ ấm an cư ngay trung tâm thương mại Aeon Mall",
     "price": 2400000000,
@@ -1667,6 +1651,22 @@
     "category": "Bất động sản",
     "image": "",
     "url": "https://batdongsan.com.vn/ban-condotel-duong-dien-bien-phu-phuong-chinh-gian-ttc-plaza-da-nang/can-ho-to-am-an-cu-ngay-trung-tam-thuong-mai-aeon-mall-pr45980088",
+    "date": "",
+    "postedAt": 0
+  },
+  {
+    "id": 45342540,
+    "title": "Trực tiếp CĐT mặt biển Hải Vân Bay giá từ 9 tỷ, vốn từ 1,8 tỷ, rõ ràng thuê LN 21%/3 năm, HTLS 0%",
+    "price": 9000000000,
+    "priceString": "9 tỷ",
+    "pricePerSqm": 112.5,
+    "size": 80,
+    "district": "Q. Liên Chiểu",
+    "ward": "",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-hoa-hiep-bac-vinhomes-hai-van-bay/bang-gia-ot-1-bien-chi-tu-9-38-ty-vin-lang-a-nang-so-huu-lau-dai-von-chi-tu-3-ty-hot-pr45342540",
     "date": "",
     "postedAt": 0
   },
@@ -1736,6 +1736,22 @@
     "postedAt": 1784937600000
   },
   {
+    "id": 45620132,
+    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
+    "price": 12300000000,
+    "priceString": "12,3 tỷ",
+    "pricePerSqm": 136.7,
+    "size": 90,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "image": "",
+    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
+    "date": "31/7/2026",
+    "postedAt": 1785456000000
+  },
+  {
     "id": 43807613,
     "title": "Bán đất mặt tiền Mỹ Khê 5, Đà Nẵng, cách Nguyễn Văn Thoại 50m, chỉ 5 phút đi bộ đến biển Mỹ Khê",
     "price": 43000000000,
@@ -1766,22 +1782,6 @@
     "url": "https://batdongsan.com.vn/ban-dat-duong-dinh-dat-phuong-phuoc-my-49/91m2-d-7m5-sat-bien-khe-son-tra-dep-re-pr42044228",
     "date": "31/7/2026",
     "postedAt": 1785456000000
-  },
-  {
-    "id": 45620132,
-    "title": "Chính chủ bán đất mặt tiền Phan Bá Phiến trục thông biển, cách biển chỉ 100m, đường 7.5m sẵn sổ",
-    "price": 12300000000,
-    "priceString": "12,3 tỷ",
-    "pricePerSqm": 136.7,
-    "size": 90,
-    "district": "Q. Sơn Trà",
-    "ward": "P. Sơn Trà mới",
-    "street": "",
-    "category": "Bất động sản",
-    "image": "",
-    "url": "https://batdongsan.com.vn/ban-dat-duong-phan-ba-phien-phuong-man-thai-49/ban-at-mat-tien-uong-7m5-sat-bien-chi-100m-truc-thong-bien-pr45620132",
-    "date": "30/7/2026",
-    "postedAt": 1785369600000
   },
   {
     "id": 46103327,
@@ -1861,23 +1861,6 @@
     "rooms": 2,
     "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/07/17/20260717100158-063c_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-minh-mang-phuong-hoa-quy-fours-tower/2-pn-san-vuon-da-a-nang-gia-bao-gom-vat-va-phi-bao-tri-3-9-ti-co-nh-tro-pr46058017",
-    "date": "24/7/2026",
-    "postedAt": 1784851200000
-  },
-  {
-    "id": 46069571,
-    "title": "Hàng hiếm căn 3PN trực diện sông Hàn chỉ 8 tỷ/căn sổ đỏ lâu dài - Tặng gói nội thất 100tr",
-    "price": 8000000000,
-    "priceString": "8 tỷ",
-    "pricePerSqm": 87,
-    "size": 92,
-    "district": "Q. Sơn Trà",
-    "ward": "P. An Hải mới",
-    "street": "",
-    "category": "Bất động sản",
-    "rooms": 3,
-    "image": "https://file4.batdongsan.com.vn/crop/562x284/2026/05/19/20260519140434-a753_wm.jpg",
-    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-tran-hung-dao-phuong-an-hai-bac-capital-square/oc-quyen-3pn-truc-dien-song-han-chi-8-ty-so-o-lau-dai-tang-goi-noi-that-100tr-pr46069571",
     "date": "24/7/2026",
     "postedAt": 1784851200000
   },
@@ -2130,6 +2113,23 @@
     "rooms": 1,
     "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/07/30/20260730153506-3e20_wm.jpg",
     "url": "https://batdongsan.com.vn/ban-condotel-duong-pham-van-dong-phuong-an-hai-bac-wyndham-soleil-da-nang/gia-tot-hon-chu-au-tu-500tr-nhan-can-ho-view-bien-the-a-khai-thac-cho-thue-40tr-th-pr46072995",
+    "date": "29/7/2026",
+    "postedAt": 1785283200000
+  },
+  {
+    "id": 46112027,
+    "title": "Sở hữu căn hộ sát biển The Camellia giá dưới 2 tỷ - chỉ cần thanh toán 50% để nhận nhà.",
+    "price": 1980000000,
+    "priceString": "1,98 tỷ",
+    "pricePerSqm": 66,
+    "size": 30,
+    "district": "Q. Sơn Trà",
+    "ward": "P. Sơn Trà mới",
+    "street": "",
+    "category": "Bất động sản",
+    "rooms": 1,
+    "image": "https://file4.batdongsan.com.vn/crop/348x174/2026/07/29/20260729151522-58a4_wm.jpg",
+    "url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-le-van-luong-phuong-tho-quang-the-camellia-son-tra/so-huu-sat-bien-camilla-gia-duoi-2-ty-chi-thanh-toan-50-e-nhan-nha-pr46112027",
     "date": "29/7/2026",
     "postedAt": 1785283200000
   }
