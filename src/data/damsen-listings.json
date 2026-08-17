@@ -1,5 +1,23 @@
 [
   {
+    "id": 177527705,
+    "title": "CHÍNH CHỦ BÁN ĐẤT B2.107 Đầm Sen (Đường Anh Đức)",
+    "price": 6600000000,
+    "priceString": "6,6 tỷ",
+    "pricePerSqm": 52.8,
+    "size": 125,
+    "district": "Quận Cẩm Lệ",
+    "ward": "Phường Hòa Xuân",
+    "street": "Hòa Xuân",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/5cemO5DUSi2uX5WD0ozbIJdwZGeowQPUn-BpyJbu-C0/preset:listing/plain/0e21a672813dfb281f39577bcd42f3b8-2993688226131797928.jpg",
+    "url": "https://www.nhatot.com/133624987.htm",
+    "date": "23 phút trước",
+    "postedAt": 1786969587747,
+    "lat": 16.01607,
+    "lng": 108.22902
+  },
+  {
     "id": 178173806,
     "title": "BÁN LÔ ĐẦM SEN B2.135 BỜ QUAN 24 | GẦN SÔNG GẦN HỒ SEN 100m2 ĐÔNG NAM",
     "price": 4950000000,
@@ -88,23 +106,5 @@
     "postedAt": 1785988370000,
     "lat": 15.982958,
     "lng": 108.23342
-  },
-  {
-    "id": 177527705,
-    "title": "CHÍNH CHỦ BÁN ĐẤT B2.107 Đầm Sen (Đường Anh Đức)",
-    "price": 6600000000,
-    "priceString": "6,6 tỷ",
-    "pricePerSqm": 52.8,
-    "size": 125,
-    "district": "Quận Cẩm Lệ",
-    "ward": "Phường Hòa Xuân",
-    "street": "Hòa Xuân",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/5cemO5DUSi2uX5WD0ozbIJdwZGeowQPUn-BpyJbu-C0/preset:listing/plain/0e21a672813dfb281f39577bcd42f3b8-2993688226131797928.jpg",
-    "url": "https://www.nhatot.com/133624987.htm",
-    "date": "3 tuần trước",
-    "postedAt": 1785196801866,
-    "lat": 16.01607,
-    "lng": 108.22902
   }
 ]
