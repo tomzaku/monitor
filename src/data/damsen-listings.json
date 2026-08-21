@@ -12,10 +12,28 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/0vbaASM6HgoljDLD-8X-X0q-QESd97GCdqg9R3nG5Y0/preset:listing/plain/042598f2ddaae2d93295a7cab218c1c0-2991060070067573726.jpg",
     "url": "https://www.nhatot.com/133278518.htm",
-    "date": "38 phút trước",
+    "date": "1 giờ trước",
     "postedAt": 1787282099000,
     "lat": 16.014433,
     "lng": 108.23815
+  },
+  {
+    "id": 175055413,
+    "title": "HÀNG ĐẸP ĐẦM SEN – CẶP ĐẤT B2.135 HƯỚNG TÂY BẮC – ĐƯỜNG THÔNG CỰC THOÁ",
+    "price": 12900000000,
+    "priceString": "12,9 tỷ",
+    "pricePerSqm": 64.5,
+    "size": 200,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "B2.135",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/Wf3ye1he62X5_tVRzf4qRbARr-gGBACe-bZ8mswwjTA/preset:listing/plain/3d916b7d43db184a470e0ae1e593cba2-2977682693741525874.jpg",
+    "url": "https://www.nhatot.com/131510038.htm",
+    "date": "8 phút trước",
+    "postedAt": 1787286804000,
+    "lat": 15.982958,
+    "lng": 108.23342
   },
   {
     "id": 178278054,
@@ -30,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/nymonG7UwsaswqlmQ3QDAhTtNltWy-9gHL32Sr2Y4fI/preset:listing/plain/f1a130487f9dc2ec572db75d9bd4453f-2998551281763387218.jpg",
     "url": "https://www.nhatot.com/134266426.htm",
-    "date": "2 giờ trước",
+    "date": "3 giờ trước",
     "postedAt": 1787275884000,
     "lat": 15.982958,
     "lng": 108.23342
@@ -85,7 +103,7 @@
     "rooms": 2,
     "image": "https://cdn.chotot.com/DC54R6mhyDU1Z2lyQAjF6Lfmfsv-a-sU-QOBUV0JFvM/preset:listing/plain/8fbe87e79a7d1ae2e4e0458cac15cc86-2998447417784903574.jpg",
     "url": "https://www.nhatot.com/134255884.htm",
-    "date": "19 giờ trước",
+    "date": "20 giờ trước",
     "postedAt": 1787214394000,
     "lat": 16.010073,
     "lng": 108.241394
@@ -161,23 +179,5 @@
     "postedAt": 1786162915000,
     "lat": 15.99914,
     "lng": 108.250885
-  },
-  {
-    "id": 175055413,
-    "title": "HÀNG ĐẸP ĐẦM SEN – CẶP ĐẤT B2.135 HƯỚNG TÂY BẮC – ĐƯỜNG THÔNG CỰC THOÁ",
-    "price": 12900000000,
-    "priceString": "12,9 tỷ",
-    "pricePerSqm": 64.5,
-    "size": 200,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "B2.135",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/Wf3ye1he62X5_tVRzf4qRbARr-gGBACe-bZ8mswwjTA/preset:listing/plain/3d916b7d43db184a470e0ae1e593cba2-2977682693741525874.jpg",
-    "url": "https://www.nhatot.com/131510038.htm",
-    "date": "2 tuần trước",
-    "postedAt": 1785988370000,
-    "lat": 15.982958,
-    "lng": 108.23342
   }
 ]
