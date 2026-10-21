@@ -48,7 +48,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/3chu6a0-2rTAhF-MMqV_578QlLBVm3qZsT9oI-3ruJI/preset:listing/plain/ed96bf11fdc52f38e4698f6930c928b6-3007105991274568426.jpg",
     "url": "https://www.nhatot.com/135333874.htm",
-    "date": "5 giờ trước",
+    "date": "11 giờ trước",
     "postedAt": 1792545480606,
     "lat": 15.982958,
     "lng": 108.23342
@@ -90,24 +90,6 @@
     "lng": 108.23342
   },
   {
-    "id": 179309121,
-    "title": "⭐️ Đầm sen NHX⭐️ - B2.128 lô 7x. Đầm sen 6 - Dt: 100m2(5x20m) - Hướng",
-    "price": 5300000000,
-    "priceString": "5,3 tỷ",
-    "pricePerSqm": 53,
-    "size": 100,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "Đường Đầm Sen",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/mY-F2su1cABk0XU51N3_gPpjMoJSw_CbDK36eS72FbM/preset:listing/plain/f616255c4ce062f4301f2464b0141db1-3005650769699575650.jpg",
-    "url": "https://www.nhatot.com/135140327.htm",
-    "date": "2 tuần trước",
-    "postedAt": 1791507493000,
-    "lat": 15.99914,
-    "lng": 108.250885
-  },
-  {
     "id": 179508766,
     "title": "❇️*** LÔ ĐẦM SEN 19 NGANG 6,16M DT 154M2 GIÁ NHỈNH 39TR/M2 - Đườn",
     "price": 6000000000,
@@ -122,6 +104,24 @@
     "url": "https://www.nhatot.com/135310831.htm",
     "date": "4 ngày trước",
     "postedAt": 1792229791841,
+    "lat": 15.99914,
+    "lng": 108.250885
+  },
+  {
+    "id": 179309121,
+    "title": "⭐️ Đầm sen NHX⭐️ - B2.128 lô 7x. Đầm sen 6 - Dt: 100m2(5x20m) - Hướng",
+    "price": 5300000000,
+    "priceString": "5,3 tỷ",
+    "pricePerSqm": 53,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Đường Đầm Sen",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/mY-F2su1cABk0XU51N3_gPpjMoJSw_CbDK36eS72FbM/preset:listing/plain/f616255c4ce062f4301f2464b0141db1-3005650769699575650.jpg",
+    "url": "https://www.nhatot.com/135140327.htm",
+    "date": "2 tuần trước",
+    "postedAt": 1791507493000,
     "lat": 15.99914,
     "lng": 108.250885
   },
