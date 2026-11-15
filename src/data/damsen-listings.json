@@ -12,7 +12,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/Gzj37tV7dhPX7qAmGi7jC5tkQq7ErZBuR_KLR30scNw/preset:listing/plain/301da6af5b1a7e73fccbb89e9bff760f-3010627482287218144.jpg",
     "url": "https://www.nhatot.com/135800152.htm",
-    "date": "24 giờ trước",
+    "date": "hôm qua",
     "postedAt": 1794618123915,
     "lat": 16.001999,
     "lng": 108.219955
@@ -36,6 +36,24 @@
     "lng": 108.23342
   },
   {
+    "id": 180137782,
+    "title": "CHỦ THIỆN CHÍ CẦN BÁN GẤP LÔ ĐẤT ĐẦM SEN – NAM HÒA XUÂN | 4,25 TỶ",
+    "price": 4250000000,
+    "priceString": "4,25 tỷ",
+    "pricePerSqm": 42.5,
+    "size": 100,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "Nguyễn Sỹ Huynh",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/DS4RUZgViWfwXekmakCsl_CTFNFvKTMBaLK4VuVSUvQ/preset:listing/plain/5f34ae1913ef8f02bec903922b5b0ba9-3011039071574440550.jpg",
+    "url": "https://www.nhatot.com/135852268.htm",
+    "date": "3 giờ trước",
+    "postedAt": 1794719388913,
+    "lat": 15.982958,
+    "lng": 108.23342
+  },
+  {
     "id": 180095149,
     "title": "BÁN LÔ VIEW CÔNG VIÊN ĐẦM SEN NAM HOÀ XUÂN GIÁ 4,X TỶ",
     "price": 4650000000,
@@ -48,7 +66,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ohZbaMb2_XY4xgTpH7MTv0zPPJZ283kHDjaUu7EdNfM/preset:listing/plain/1d3bab1937bfc21c2bbb952c4e388731-3010748713716096931.jpg",
     "url": "https://www.nhatot.com/135815353.htm",
-    "date": "hôm qua",
+    "date": "2 ngày trước",
     "postedAt": 1794546334183,
     "lat": 15.99914,
     "lng": 108.250885
@@ -66,7 +84,7 @@
     "category": "Đất",
     "image": "https://cdn.chotot.com/ceT5VXlD5VjhlF2CDxFpaxFSPGUOpvR-9QO3FHKkF5E/preset:listing/plain/232d3a83f9be0bef9aadfae29def0ccd-3010747445473217251.jpg",
     "url": "https://www.nhatot.com/135815139.htm",
-    "date": "hôm qua",
+    "date": "2 ngày trước",
     "postedAt": 1794545787082,
     "lat": 16.00633,
     "lng": 108.245605
@@ -127,24 +145,6 @@
     "lng": 108.23342
   },
   {
-    "id": 178278054,
-    "title": "* Chào Bán Biệt Thự Đường Đầm Sen 1 Vị Trí Gần Hồ Sen , Gần Sông Thoán",
-    "price": 11600000000,
-    "priceString": "11,6 tỷ",
-    "pricePerSqm": 64.4,
-    "size": 180,
-    "district": "Quận Ngũ Hành Sơn",
-    "ward": "Phường Hoà Quý",
-    "street": "đâm sen 1",
-    "category": "Đất",
-    "image": "https://cdn.chotot.com/nymonG7UwsaswqlmQ3QDAhTtNltWy-9gHL32Sr2Y4fI/preset:listing/plain/f1a130487f9dc2ec572db75d9bd4453f-2998551281763387218.jpg",
-    "url": "https://www.nhatot.com/134266426.htm",
-    "date": "2 tuần trước",
-    "postedAt": 1793755881017,
-    "lat": 15.982958,
-    "lng": 108.23342
-  },
-  {
     "id": 179805469,
     "title": "4,2 TỶ SỞ HỮU NGAY LÔ ĐẤT 100M² KHU ĐẦM SEN – NGUYỄN SỸ HUYNH",
     "price": 4200000000,
@@ -159,6 +159,24 @@
     "url": "https://www.nhatot.com/135565397.htm",
     "date": "2 tuần trước",
     "postedAt": 1793594284077,
+    "lat": 15.982958,
+    "lng": 108.23342
+  },
+  {
+    "id": 178278054,
+    "title": "* Chào Bán Biệt Thự Đường Đầm Sen 1 Vị Trí Gần Hồ Sen , Gần Sông Thoán",
+    "price": 11600000000,
+    "priceString": "11,6 tỷ",
+    "pricePerSqm": 64.4,
+    "size": 180,
+    "district": "Quận Ngũ Hành Sơn",
+    "ward": "Phường Hoà Quý",
+    "street": "đâm sen 1",
+    "category": "Đất",
+    "image": "https://cdn.chotot.com/nymonG7UwsaswqlmQ3QDAhTtNltWy-9gHL32Sr2Y4fI/preset:listing/plain/f1a130487f9dc2ec572db75d9bd4453f-2998551281763387218.jpg",
+    "url": "https://www.nhatot.com/134266426.htm",
+    "date": "2 tuần trước",
+    "postedAt": 1793755881017,
     "lat": 15.982958,
     "lng": 108.23342
   },
